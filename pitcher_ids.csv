@@ -571,7 +571,7 @@
 592,Rich Hill,"Boston,New York,Pittsburgh,San Diego,Tampa Bay",448179,hillri01
 593,Tim Hill,"Chicago,San Diego",657612,hillti01
 594,Sean Hjelle,San Francisco,663546,hjellse01
-595,Porter Hodge,Chicago,687863,
+595,Porter Hodge,Chicago,687863,hodgepo01
 596,Bryan Hoeing,Miami,663773,hoeinbr01
 597,Jeff Hoffman,"Cincinnati,Philadelphia",656546,hoffmje02
 599,Bryan Holaday,Arizona,592407,holadbr01
@@ -587,7 +587,7 @@
 609,Tanner Houck,Boston,656557,houckta01
 610,Adrian Houser,"Milwaukee,New York",605288,housead01
 611,Sam Howard,Pittsburgh,607572,howarsa01
-612,Spencer Howard,"Philadelphia,Texas",675921,howarsp01
+612,Spencer Howard,"Philadelphia,San Francisco,Texas",675921,howarsp01
 613,James Hoyt,Los Angeles,624586,hoytja01
 614,Bryan Hudson,"Los Angeles,Milwaukee",663542,hudsobr01
 615,Dakota Hudson,"Colorado,St. Louis",641712,hudsoda02
@@ -1419,7 +1419,7 @@
 1474,Bryan Woo,Seattle,693433,woobr01
 1475,Alex Wood,"Oakland,San Francisco",622072,woodal02
 1476,Hunter Wood,Texas,621056,woodhu01
-1477,Jake Woodford,St. Louis,663765,woodfja01
+1477,Jake Woodford,"Chicago,St. Louis",663765,woodfja01
 1478,Brandon Woodruff,Milwaukee,605540,woodrbr01
 1479,Simeon Woods Richardson,Minnesota,680573,woodssi01
 1480,William Woods,Atlanta,682016,woodswi02
