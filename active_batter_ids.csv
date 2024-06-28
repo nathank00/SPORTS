@@ -35,10 +35,10 @@ key_mlbam,key_bbref
 672386,kirkal01
 608701,refsnro01
 656413,faircst01
-669467,pallaan01
 676059,westbjo01
 596295,gombeau01
 664954,sullibr01
+642136,thaisma01
 669302,gilbelo01
 657656,laurera01
 669194,nelsory01
@@ -46,13 +46,12 @@ key_mlbam,key_bbref
 641432,calhowi01
 683627,molinan01
 607259,martini01
-543351,jacksja01
 668715,steersp01
 621035,tayloch03
 625643,lopezre01
 686676,leeko01
 656529,hentgsa01
-624647,gonzavi02
+606149,gallegi01
 657088,wallfo01
 673513,matsuyu01
 650911,sanchcr01
@@ -63,6 +62,7 @@ key_mlbam,key_bbref
 649557,diazal02
 571745,hanigmi01
 666185,carlsdy01
+666703,rosareg01
 666969,garciad02
 665833,cruzon01
 681911,vesiaal01
@@ -71,6 +71,7 @@ key_mlbam,key_bbref
 656288,cannigr01
 663538,hoernni01
 663993,lowena01
+620443,torrelu01
 694388,loperjo01
 624585,solerjo01
 605288,housead01
@@ -106,6 +107,7 @@ key_mlbam,key_bbref
 686217,frelisa01
 680718,bargead01
 641511,delayja01
+670871,zuniggu01
 605177,chafian01
 680700,palacri01
 666160,moniami01
@@ -113,9 +115,9 @@ key_mlbam,key_bbref
 666152,hamilda03
 670869,sotoli01
 691016,soderty01
-650556,abreubr01
 630105,croneja01
 579328,kikucyu01
+572971,keuchda01
 641360,bickfph01
 624522,thompke02
 660896,alcaljo01
@@ -124,7 +126,6 @@ key_mlbam,key_bbref
 623465,phillev01
 623993,santaan02
 642350,sirijo01
-676775,winnke01
 670764,wallsta01
 664285,valdefr01
 656775,mullice01
@@ -150,6 +151,7 @@ key_mlbam,key_bbref
 502624,anderch01
 518692,freemfr01
 691026,winnma01
+678692,henriro01
 684007,imanash01
 665804,amayami01
 643217,beninan01
@@ -165,6 +167,7 @@ key_mlbam,key_bbref
 671345,foleyja01
 608718,suterbr01
 670167,schrejo01
+592325,gamelbe01
 656234,birdja01
 643511,rogerty01
 663989,vespini01
@@ -172,7 +175,6 @@ key_mlbam,key_bbref
 663474,mckentr01
 641355,bellico01
 519293,smithwi04
-672515,morenga01
 621043,correca01
 676254,walkery01
 669674,longsa01
@@ -188,7 +190,6 @@ key_mlbam,key_bbref
 650391,jimenel02
 669004,melenmj01
 657006,steelju01
-665487,tatisfe02
 669203,burneco01
 606303,payamjo01
 663568,kolekst01
@@ -204,7 +205,6 @@ key_mlbam,key_bbref
 663542,hudsobr01
 663624,mountry01
 544150,suareal01
-500779,quintjo01
 661388,contrwi02
 663527,nevinty01
 642546,hernajo02
@@ -233,7 +233,6 @@ key_mlbam,key_bbref
 680869,gelofza01
 656557,houckta01
 592518,machama01
-573262,yastrmi01
 650402,torregl01
 669369,johnsbr03
 669387,mlodzca01
@@ -252,8 +251,10 @@ key_mlbam,key_bbref
 678662,tovarez01
 665896,martejo01
 674072,henryto01
+675540,curryxz01
 671289,freemty01
 694297,pfaadbr01
+663897,willilu01
 666134,jonesno01
 676684,vestwi01
 663559,falteba01
@@ -300,12 +301,10 @@ key_mlbam,key_bbref
 641329,bakerbr01
 807799,yoshima02
 571771,hernaen02
-814005,blossja01
 673548,suzukse01
 608723,vothau01
 573124,rogerta01
 650644,civalaa01
-663978,paddach01
 666745,britojh01
 686668,doylebr02
 519008,mcfartj01
@@ -316,6 +315,7 @@ key_mlbam,key_bbref
 453286,scherma01
 664238,mooredy01
 682928,abramcj01
+693821,elderbr01
 667670,rookebr01
 679885,martiju01
 467793,santaca01
@@ -325,10 +325,8 @@ key_mlbam,key_bbref
 570632,urenajo01
 571946,millesh01
 592426,jackslu01
-687134,blalobr01
 657585,garrere01
 689172,wiselbr01
-689017,knackla01
 592696,rosared01
 570482,urshegi01
 670541,alvaryo01
@@ -349,9 +347,7 @@ key_mlbam,key_bbref
 667472,myersda01
 621311,dahlda01
 607192,glasnty01
-676760,marinro01
 676694,meyerja02
-682988,locklty01
 672761,perezwe01
 672580,garcima01
 622554,dominse01
@@ -411,6 +407,7 @@ key_mlbam,key_bbref
 682985,greenri03
 702352,bivensp01
 676701,trejoal01
+518886,kimbrcr01
 593934,sanomi01
 696285,youngja03
 600917,leclejo01
@@ -420,7 +417,6 @@ key_mlbam,key_bbref
 578428,iglesjo01
 666139,lowejo01
 700250,ricebe01
-642232,yarbrry01
 672356,ariasga01
 519151,pressry01
 681624,pagesan01
@@ -437,7 +433,6 @@ key_mlbam,key_bbref
 680573,woodssi01
 621466,stewadj01
 660707,monteel01
-663321,hernani01
 668832,mccanky01
 543510,mccanja02
 681857,olsonre01
@@ -462,9 +457,7 @@ key_mlbam,key_bbref
 669261,suwinja01
 641680,heimjo01
 682610,munozro01
-691182,amadoad01
 595345,okertst01
-607067,reaco01
 666142,raganco01
 656849,peterda01
 666176,adelljo01
@@ -483,7 +476,6 @@ key_mlbam,key_bbref
 658648,avilape01
 676440,bibeeta01
 663586,rileyau01
-592836,walketa01
 702358,lipsctr01
 605130,barlosc01
 686826,jarvibr01
@@ -497,6 +489,7 @@ key_mlbam,key_bbref
 571670,florody01
 676369,velazne01
 642701,santade01
+669721,danieda01
 677865,bruihju01
 691718,crowape01
 678226,hernada03
@@ -511,6 +504,7 @@ key_mlbam,key_bbref
 663728,raleica01
 641598,garvemi01
 621512,nidoto01
+664776,cousija01
 665489,guerrvl02
 543294,hendrky01
 657508,baumami01
@@ -520,6 +514,7 @@ key_mlbam,key_bbref
 670174,winckjo01
 669022,gorema01
 571945,mikolmi01
+688297,roycrch01
 518397,alexasc02
 676475,burleal01
 677161,kellyza01
@@ -534,7 +529,6 @@ key_mlbam,key_bbref
 641927,oberba01
 592791,taillja01
 665506,pachecr01
-663550,cabbatr01
 657514,bernabr01
 689672,thorpdr01
 686563,cannojo02
@@ -544,7 +538,6 @@ key_mlbam,key_bbref
 594580,mollsa01
 657746,ryanjo04
 687863,hodgepo01
-641712,hudsoda02
 657277,webblo01
 663947,holtoty01
 595909,caveja01
@@ -552,7 +545,6 @@ key_mlbam,key_bbref
 686823,brennwi02
 472610,garcilu03
 668881,greenhu01
-606160,montera01
 672782,gomezyo01
 623912,ramirha02
 681676,fernary01
@@ -567,7 +559,6 @@ key_mlbam,key_bbref
 622098,smithdr01
 600986,vieirth01
 543760,semiema01
-682619,martior01
 669713,wesneha01
 521692,perezsa02
 543243,grayso01
@@ -591,11 +582,9 @@ key_mlbam,key_bbref
 680570,rodrigr01
 683734,vaughan01
 664728,isbelky01
-665155,matonni01
 671286,rodrijo10
 681351,ohopplo01
 669711,weissgr01
-669450,hummeco01
 571657,farmeky01
 656794,newcose01
 666971,gurrilo01
@@ -620,7 +609,6 @@ key_mlbam,key_bbref
 663330,jonesja08
 656464,ginkeke01
 678495,rodrira02
-693049,colasos01
 668709,bledajj01
 656550,holmegr01
 601713,pivetni01
@@ -631,6 +619,7 @@ key_mlbam,key_bbref
 665625,pegueel01
 671218,ramoshe02
 571656,farmebu01
+622251,staumjo01
 614179,ruizjo01
 547180,harpebr03
 642715,adamewi01
@@ -665,6 +654,7 @@ key_mlbam,key_bbref
 456781,solando01
 674370,bidoos01
 595978,hedgeau01
+669461,liberma01
 518617,diekmja01
 656896,riverem01
 663697,indiajo01
@@ -677,10 +667,8 @@ key_mlbam,key_bbref
 605204,davisjd01
 666808,dovalca01
 668227,arozara01
-666915,dalbebo01
 623433,anderni01
 669224,wellsau01
-647351,toroab01
 605361,martini02
 675989,boltoco01
 621566,olsonma02
@@ -697,18 +685,15 @@ key_mlbam,key_bbref
 664983,mccarja02
 670156,mastrmi01
 665561,marchra01
-680572,kloffad01
 643289,dubonma01
 608331,friedma01
 671922,smithca06
 668964,myersto01
-664129,hartlge01
 641658,hampsga01
 677008,kjershe01
 663662,camerda01
 660825,bazared01
 661527,martise01
-663776,sandopa02
 669257,smithwi05
 672284,kelenja01
 628451,ibanean01
@@ -719,10 +704,9 @@ key_mlbam,key_bbref
 663967,salazce01
 665742,sotoju01
 605137,belljo02
-657697,nittovi01
 608344,irvinco01
-621529,hudsojo03
 608070,ramirjo01
+672456,monteke01
 624413,alonspe01
 656582,joeco01
 605135,bassich01
@@ -731,7 +715,6 @@ key_mlbam,key_bbref
 642133,tellero01
 621493,wardta01
 622663,severlu01
-669134,campulu01
 663554,mizeca01
 572020,paxtoja01
 684320,rodriya01
@@ -740,6 +723,7 @@ key_mlbam,key_bbref
 608324,bregmal01
 605156,brookaa01
 602104,uriasra01
+683083,nunezna01
 676714,hughebr01
 668885,martiau01
 666182,bichebo01
@@ -751,10 +735,10 @@ key_mlbam,key_bbref
 623167,flexech01
 608334,fulmeca01
 670059,holdeco01
+640455,manaese01
 663893,littlbr02
 606965,devench02
 692230,rodrica02
-687363,scottvi01
 670970,morejad01
 683232,mearsni01
 700249,povicca01
@@ -776,7 +760,6 @@ key_mlbam,key_bbref
 677649,duranez01
 641312,andersh01
 669211,akinke01
-666149,fitzgty01
 641584,fraleja01
 607043,nimmobr01
 686469,pasquvi01
@@ -789,6 +772,7 @@ key_mlbam,key_bbref
 663837,vierlma01
 645305,sanchal04
 543859,tonkimi01
+682622,marteno01
 683003,jonesja09
 682177,schneda04
 656555,hoskirh01
@@ -804,4 +788,5 @@ key_mlbam,key_bbref
 680977,donovbr01
 643377,jaxgr01
 656629,kopecmi01
+628708,marteyu01
 664747,diazal03
