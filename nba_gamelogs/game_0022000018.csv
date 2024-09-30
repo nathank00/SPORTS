@@ -1,0 +1,2 @@
+game_id,game_date,home_team_name,home_team_id,away_team_name,away_team_id,home_team_score,away_team_score,total_points,home_team_players,away_team_players,Over_Under_Total
+22000018,2020-12-23,Minnesota Timberwolves,1610612750,Detroit Pistons,1610612765,111,101,212,"[1629006, 1627774, 1626157, 1627736, 201937, 1630162, 1626156, 1629675, 1627823, 1629633, 202334, 1630183, 1629020]","[203924, 201933, 203486, 1626153, 1630165, 201565, 1628367, 1626143, 1629004, 1629635, 1630180, 201961, 1630240, 203585, 1630191]",224.5

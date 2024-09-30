@@ -1,0 +1,2 @@
+game_id,game_date,home_team_name,home_team_id,away_team_name,away_team_id,home_team_score,away_team_score,total_points,home_team_players,away_team_players,Over_Under_Total
+22000020,2020-12-23,Portland Trail Blazers,1610612757,Utah Jazz,1610612762,100,120,220,"[1627884, 203496, 203994, 203468, 203081, 1629018, 2546, 202683, 203918, 1628385, 1629833, 1629604]","[202711, 1626220, 203497, 1628378, 201144, 204060, 202324, 203903, 1627777, 1629671, 1627885, 1628962, 1629752, 1630190]",226.0

@@ -1,0 +1,2 @@
+game_id,game_date,home_team_name,home_team_id,away_team_name,away_team_id,home_team_score,away_team_score,total_points,home_team_players,away_team_players,Over_Under_Total
+22000001,2020-12-22,Brooklyn Nets,1610612751,Golden State Warriors,1610612744,125,99,224,"[203925, 201142, 201599, 203915, 202681, 1628386, 1629013, 1627747, 201145, 1627752, 1629617, 1628971, 1627789, 1629066, 204020]","[203952, 1629672, 1630164, 1626162, 201939, 1626172, 203145, 1627814, 1627737, 1629673, 202954, 1629308, 1628539]",235.0

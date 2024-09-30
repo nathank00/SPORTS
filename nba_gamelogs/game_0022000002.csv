@@ -1,0 +1,2 @@
+game_id,game_date,home_team_name,home_team_id,away_team_name,away_team_id,home_team_score,away_team_score,total_points,home_team_players,away_team_players,Over_Under_Total
+22000002,2020-12-22,Los Angeles Lakers,1610612747,LA Clippers,1610612746,109,116,225,"[2544, 203076, 201188, 203484, 203471, 1626149, 202083, 1628398, 202693, 1627936, 1629659, 1626188, 201162, 1628035]","[202695, 201587, 201586, 202331, 201976, 1627826, 202335, 101150, 1628379, 1629611, 202704, 1629662, 1629599, 1630187]",219.5

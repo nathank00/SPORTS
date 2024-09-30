@@ -1,0 +1,2 @@
+game_id,game_date,home_team_name,home_team_id,away_team_name,away_team_id,home_team_score,away_team_score,total_points,home_team_players,away_team_players,Over_Under_Total
+22000010,2020-12-23,Cleveland Cavaliers,1610612739,Charlotte Hornets,1610612766,121,114,235,"[1630171, 1626204, 203083, 1629012, 1629636, 1626224, 201580, 1629731, 1629685, 1628422, 1629716, 1627748, 1630205]","[202330, 1629023, 203469, 1626179, 1628984, 1630163, 1628970, 202687, 1628998, 1629667, 1630176, 1628997, 1628370, 1630208]",217.0
