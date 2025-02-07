@@ -7,7 +7,7 @@ export async function GET() {
         // Define the directory where CSV files are stored
         const picksDirectory = path.join(process.cwd(), "picks");
 
-        // Get the latest file (assuming one file per day)
+        // Get the list of CSV files in the directory
         const files = fs.readdirSync(picksDirectory).filter(file => file.endsWith(".csv"));
 
         if (files.length === 0) {
@@ -19,17 +19,30 @@ export async function GET() {
         const filePath = path.join(picksDirectory, latestFile);
 
         // Read the CSV file
-        const data = fs.readFileSync(filePath, "utf-8");
+        const data = fs.readFileSync(filePath, "utf-8").trim();
+
+        if (!data) {
+            return NextResponse.json({ message: "CSV file is empty" }, { status: 500 });
+        }
 
         // Convert CSV to JSON (basic parsing)
         const rows = data.split("\n").map(row => row.split(","));
-        const headers = rows.shift(); // First row is the header
+
+        // Ensure headers exist
+        if (rows.length < 2) {
+            return NextResponse.json({ message: "Invalid CSV format" }, { status: 500 });
+        }
+
+        const headers = rows.shift();
+        if (!headers || headers.length === 0) {
+            return NextResponse.json({ message: "Missing headers in CSV" }, { status: 500 });
+        }
 
         const jsonData = rows
             .filter(row => row.length === headers.length) // Ensure row matches headers
             .map(row => {
                 return headers.reduce((obj, header, index) => {
-                    obj[header.trim()] = row[index].trim();
+                    obj[header.trim()] = row[index]?.trim() ?? "";
                     return obj;
                 }, {} as Record<string, string>);
             });
