@@ -25,9 +25,9 @@ The function 'get_player_ids()' fetches all player identifiers using several API
 Output file (pitchers): ~/pitcher_ids.csv
 Output file (batters): ~/batter_ids.csv
 
-### 2-player_ids.py    (Frequency - within 1 hour of each game)    (Est time: 3 min.)
+### 3-gamelogs.py    (Frequency - within 1 hour of each game)    (Est time: 3 min.)
 
 The function 'process_games(num_games=100)' allows user to edit the number of recent games they want to generate new gamelogs for. This value defaults to 100 because this file is going to be run many times throughout the day in an attempt to provide quasi-real-time gamelog information so that the model can make real-time predictions for upcoming games. 
 * The pybaseball.playerid_reverse_lookup function is used to fetch player id data to add to the gamelog data.
 
-Ourput files: ~/gamelogs/game_{gamepk}.csv
+Output files: ~/gamelogs/game_{gamepk}.csv
