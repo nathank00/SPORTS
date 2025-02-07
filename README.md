@@ -1,11 +1,11 @@
 #### Environment Setup
-* Set up a python virtual environment by running 'python -m venv <environment name>'
-* Activate virtual environment by running 'source <environment name>/bin/activate'
+* Set up a python virtual environment by running 'python -m venv environment-name'
+* Activate virtual environment by running 'source environment-name/bin/activate'
 * (deactivate at any time by running 'deactivate')
 * Run 'pip install -r requirements.txt'  to install all necessary packages
 
 
-## Manual Order of Operations
+# Manual Order of Operations
 
 ### 1-game_pks.py   (Frequency - once daily)   
 

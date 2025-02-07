@@ -1,1441 +1,1461 @@
-,Name,Tm,mlbID,key_bbref
-1,Cory Abbott,Chicago,676265,abbotco01
-2,CJ Abrams,"San Diego,Washington",682928,abramcj01
-3,Jos\xc3\xa9 Abreu,"Chicago,Houston",547989,abreujo02
-4,Wilyer Abreu,Boston,677800,abreuwi02
-5,Ronald Acu\xc3\xb1a Jr.,Atlanta,660670,acunaro01
-6,Willy Adames,"Milwaukee,Tampa Bay",642715,adamewi01
-7,Jordyn Adams,Los Angeles,677941,adamsjo03
-8,Matt Adams,Colorado,571431,adamsma01
-9,Riley Adams,"Toronto,Washington",656180,adamsri03
-10,Jo Adell,Los Angeles,666176,adelljo01
-11,Joan Adon,Washington,672851,adonjo01
-12,Ehire Adrianza,"Atlanta,Los Angeles,Washington",501303,adriaeh01
-13,Jes\xc3\xbas Aguilar,"Baltimore,Miami,Oakland",542583,aguilje01
-14,Ryan Aguilar,Los Angeles,666922,aguilry01
-15,Nick Ahmed,"Arizona,Los Angeles,San Francisco",605113,ahmedni01
-16,Keegan Akin,Baltimore,669211,akinke01
-17,Shogo Akiyama,Cincinnati,673451,akiyash01
-18,R.J. Alaniz,Cincinnati,595798,alanirj01
-19,Hanser Alberto,"Chicago,Kansas City,Los Angeles",593643,alberha01
-20,Ozzie Albies,Atlanta,645277,albieoz01
-21,Sandy Alc\xc3\xa1ntara,Miami,645261,alcansa01
-22,Sergio Alc\xc3\xa1ntara,"Arizona,Chicago,San Diego",642727,alcanse01
-23,Blaze Alexander,Arizona,677942,alexabl01
-24,CJ Alexander,Kansas City,680769,alexacj01
-25,Tyler Alexander,Detroit,641302,alexaty01
-27,Jorge Alfaro,"Boston,Colorado,Miami,San Diego",595751,alfarjo01
-28,Anthony Alford,Pittsburgh,546990,alforan01
-29,Kolby Allard,Texas,663465,allarko01
-30,Austin Allen,Oakland,664119,allenau01
-31,Greg Allen,"New York,Pittsburgh",656185,allengr01
-32,Logan Allen,Cleveland,663531,allenlo01
-33,Nick Allen,Oakland,669397,allenni02
-34,Abraham Almonte,"Atlanta,Boston,New York",501659,almonab01
-35,Yency Almonte,Colorado,622075,almonye01
-36,Albert Almora,"Cincinnati,New York",546991,almoral01
-37,Pete Alonso,New York,624413,alonspe01
-38,Jose Altuve,Houston,514888,altuvjo01
-39,Jake Alu,Washington,666906,aluja01
-40,Jos\xc3\xa9 Alvarado,Philadelphia,621237,alvarjo03
-41,Armando Alvarez,Oakland,669137,alvarar01
-42,Eddy Alvarez,"Los Angeles,Miami",657193,alvared01
-43,Francisco Alvarez,New York,682626,alvarfr01
-44,Jos\xc3\xa9 \xc3\x81lvarez,San Francisco,501625,alvarjo02
-45,Nacho Alvarez Jr.,Atlanta,805373,alvarna01
-46,Yordan Alvarez,Houston,670541,alvaryo01
-47,Adbert Alzolay,Chicago,640470,alzolad01
-48,Adael Amador,Colorado,691182,amadoad01
-49,Jacob Amaya,"Houston,Miami",676070,amayaja01
-50,Miguel Amaya,Chicago,665804,amayami01
-51,Trey Amburgey,New York,664011,amburtr01
-53,Brett Anderson,Milwaukee,474463,anderbr04
-54,Brian Anderson,"Atlanta,Miami,Milwaukee",605119,anderbr06
-55,Chase Anderson,Philadelphia,502624,anderch01
-56,Ian Anderson,Atlanta,666120,anderia01
-57,Tanner Anderson,Pittsburgh,664196,anderta01
-58,Tim Anderson,"Chicago,Miami",641313,anderti01
-59,Tyler Anderson,"Los Angeles,Pittsburgh,Seattle",542881,anderty01
-60,John Andreoli,San Diego,607430,andrejo03
-61,Elvis Andrus,"Chicago,Oakland",462101,andruel01
-62,Miguel Andujar,"New York,Oakland,Pittsburgh",609280,andujmi01
-63,Tejay Antone,Cincinnati,622088,antonte01
-64,Aristides Aquino,Cincinnati,606157,aquinar01
-65,Jonathan Aranda,Tampa Bay,666018,arandjo01
-66,Jonathan Ara\xc3\xbaz,"Baltimore,Boston,New York",660620,arauzjo01
-67,Orlando Arcia,"Atlanta,Milwaukee",606115,arciaor01
-68,Nolan Arenado,St. Louis,571448,arenano01
-69,Gabriel Arias,Cleveland,672356,ariasga01
-70,Kohei Arihara,Texas,685503,arihako01
-71,Randy Arozarena,"Seattle,Tampa Bay",668227,arozara01
-72,Luis Arr\xc3\xa1ez,"Miami,Minnesota,San Diego",650333,arraelu01
-73,Jake Arrieta,"Chicago,San Diego",453562,arrieja01
-74,Christian Arroyo,Boston,624414,arroych01
-75,Humberto Arteaga,Washington,600858,arteahu01
-76,Aaron Ashby,Milwaukee,676879,ashbyaa01
-77,Willians Astudillo,"Miami,Minnesota",553902,astudwi01
-79,Alex Avila,Washington,488671,avilaal01
-80,Pedro Avila,San Diego,658648,avilape01
-81,Jos\xc3\xa9 Azocar,San Diego,640492,azocajo01
-82,Akil Baddoo,Detroit,668731,baddoak01
-83,Harrison Bader,"Cincinnati,New York,St. Louis",664056,baderha01
-84,Ji Hwan Bae,Pittsburgh,678225,baeji01
-85,Javier B\xc3\xa1ez,"Chicago,Detroit,New York",595879,baezja01
-86,Patrick Bailey,San Francisco,672275,bailepa01
-87,Luken Baker,St. Louis,663609,bakerlu01
-88,Brooks Baldwin,Chicago,681460,baldwbr01
-89,Anthony Banda,New York,607455,bandaan01
-90,Rylan Bannon,"Atlanta,Baltimore,Houston",676625,bannory01
-91,David Ba\xc3\xb1uelos,Baltimore,675915,banueda01
-92,Caleb Baragar,San Francisco,670056,baragca01
-93,Daniel Bard,Colorado,453268,bardda01
-94,Addison Barger,Toronto,680718,bargead01
-95,Austin Barnes,Los Angeles,605131,barneau01
-96,Charlie Barnes,Minnesota,656212,barnech01
-97,Tucker Barnhart,"Arizona,Chicago,Cincinnati,Detroit",571466,barnhtu01
-98,Luis Barrera,Oakland,642456,barrelu01
-99,Tres Barrera,"St. Louis,Washington",668663,barretr01
-100,Jose Barrero,Cincinnati,676480,garcijo02
-101,Jaime Barria,Los Angeles,642545,barrija01
-102,Jorge Barrosa,Arizona,678489,barrojo01
-103,Joey Bart,"Pittsburgh,San Francisco",663698,bartjo01
-105,Osleivis Basabe,Tampa Bay,678545,basabos01
-106,Anthony Bass,Miami,542914,bassan01
-107,Chris Bassitt,Oakland,605135,bassich01
-108,Matthew Batten,San Diego,676946,battema01
-109,Brett Baty,New York,683146,batybr01
-110,Trevor Bauer,Los Angeles,545333,bauertr01
-111,Jake Bauers,"Cleveland,Milwaukee,New York,Seattle",641343,bauerja01
-112,Matt Beaty,"Kansas City,Los Angeles,San Diego,San Francisco",607461,beatyma01
-113,Jordan Beck,Colorado,687597,beckjo01
-114,Tim Beckham,Minnesota,542921,beckhti01
-115,David Bednar,Pittsburgh,670280,bednada01
-116,Seth Beer,Arizona,666179,beerse01
-117,Josh Bell,"Arizona,Cleveland,Miami,San Diego,Washington",605137,belljo02
-118,Cody Bellinger,"Chicago,Los Angeles",641355,bellico01
-119,Brandon Belt,"San Francisco,Toronto",474832,beltbr01
-120,Anthony Bemboom,"Baltimore,Los Angeles",621532,bemboan01
-121,Anthony Bender,Miami,669622,bendean01
-122,Andrew Benintendi,"Chicago,Kansas City,New York",643217,beninan01
-123,Will Benson,"Cincinnati,Cleveland",666181,bensowi01
-124,Wynton Bernard,Colorado,592144,bernawy01
-125,Jos\xc3\xa9 Berr\xc3\xados,"Minnesota,Toronto",621244,berrijo01
-126,Steward Berroa,Toronto,672642,berrost01
-127,Jon Berti,"Miami,New York",542932,bertijo01
-128,Christian Bethancourt,"Chicago,Miami,Oakland,Tampa Bay",542194,bethach01
-129,Alec Bettinger,Milwaukee,676424,bettial01
-131,Mookie Betts,Los Angeles,605141,bettsmo01
-132,Bo Bichette,Toronto,666182,bichebo01
-133,Phil Bickford,Los Angeles,641360,bickfph01
-134,Shane Bieber,Cleveland,669456,biebesh01
-135,Cavan Biggio,"Los Angeles,Toronto",624415,biggica01
-136,Braden Bishop,Seattle,623323,bishobr01
-137,Tyler Black,Milwaukee,672012,blackty01
-138,Charlie Blackmon,Colorado,453568,blackch02
-139,Dairon Blanco,Kansas City,680118,blancda02
-140,Alex Blandino,Cincinnati,607468,blandal01
-141,Travis Blankenhorn,"Minnesota,New York,Washington",663905,blanktr01
-142,JJ Bleday,"Miami,Oakland",668709,bledajj01
-143,Richard Bleier,Miami,542947,bleieri01
-144,Ryan Bliss,Seattle,669208,blissry01
-145,Xander Bogaerts,"Boston,San Diego",593428,bogaexa01
-146,Alec Bohm,Philadelphia,664761,bohmal01
-147,Skye Bolt,"Oakland,San Francisco",621450,boltsk01
-148,Jorge Bonifacio,Philadelphia,593528,bonifjo01
-149,David Bote,Chicago,623520,boteda01
-150,Sean Bouchard,Colorado,656248,bouchse01
-151,Matthew Boyd,Detroit,571510,boydma01
-152,Archie Bradley,Philadelphia,605151,bradlar01
-153,Bobby Bradley,Cleveland,656252,bradlbo01
-154,Jackie Bradley Jr.,"Boston,Kansas City,Milwaukee,Toronto",598265,bradlja02
-155,Michael Brantley,Houston,488726,brantmi02
-157,Rob Brantly,New York,542963,brantro01
-158,Steven Brault,Pittsburgh,643230,braulst01
-159,John Brebbia,San Francisco,605154,brebbjo01
-160,Alex Bregman,Houston,608324,bregmal01
-161,Will Brennan,Cleveland,686823,brennwi02
-162,Jake Brentz,Kansas City,641394,brentja01
-163,Jonah Bride,"Miami,Oakland",681146,bridejo01
-164,Lewis Brinson,"Miami,San Francisco",621446,brinsle01
-165,Trenton Brooks,San Francisco,670092,brooktr01
-166,Mike Brosseau,"Milwaukee,Tampa Bay",670712,brossmi01
-167,Rex Brothers,Chicago,571521,brothre01
-168,Seth Brown,Oakland,664913,brownse01
-169,JT Brubaker,Pittsburgh,664141,brubajt01
-170,Jay Bruce,New York,457803,bruceja01
-171,Justin Bruihl,Los Angeles,677865,bruihju01
-172,Vidal Bruj\xc3\xa1n,"Miami,Tampa Bay",660644,brujavi01
-173,Kris Bryant,"Chicago,Colorado,San Francisco",592178,bryankr01
-174,Kris Bubic,Kansas City,663460,bubickr01
-175,Walker Buehler,Los Angeles,621111,buehlwa01
-176,Madison Bumgarner,Arizona,518516,bumgama01
-177,Dylan Bundy,Los Angeles,605164,bundydy01
-178,Peyton Burdick,Miami,680814,burdipe01
-179,Jake Burger,"Chicago,Miami",669394,burgeja01
-180,Alec Burleson,St. Louis,676475,burleal01
-181,Corbin Burnes,Milwaukee,669203,burneco01
-183,Andy Burns,Los Angeles,542992,burnsan01
-184,Michael Busch,"Chicago,Los Angeles",683737,buschmi02
-185,Drew Butera,Los Angeles,460077,buterdr01
-186,Lawrence Butler,Oakland,671732,butlela01
-187,Byron Buxton,Minnesota,621439,buxtoby01
-188,Jos\xc3\xa9 Caballero,"Seattle,Tampa Bay",676609,cabaljo01
-189,Trey Cabbage,"Houston,Los Angeles",663550,cabbatr01
-190,Asdr\xc3\xbabal Cabrera,"Arizona,Cincinnati",452678,cabreas01
-191,Edward Cabrera,Miami,665795,cabreed02
-192,Miguel Cabrera,Detroit,408234,cabremi01
-193,Oswaldo Cabrera,New York,665828,cabreos01
-194,Trevor Cahill,Pittsburgh,502239,cahiltr01
-195,Lorenzo Cain,Milwaukee,456715,cainlo01
-196,Kole Calhoun,"Arizona,Cleveland,Texas",594777,calhoko01
-197,Willie Calhoun,"Los Angeles,New York,San Francisco,Texas",641432,calhowi01
-198,Alex Call,"Cleveland,Washington",669743,callal02
-199,Daniel Camarena,San Diego,547176,camarda01
-200,Jair Camargo,Minnesota,665856,camarja01
-201,Johan Camargo,"Atlanta,Philadelphia,San Francisco",622666,camarjo01
-202,Daz Cameron,"Detroit,Oakland",663662,camerda01
-203,Junior Caminero,Tampa Bay,691406,caminju01
-204,Eric Campbell,Seattle,493472,campber01
-205,Paul Campbell,Miami,669294,campbpa02
-206,Luis Campusano,San Diego,669134,campulu01
-207,Alexander Canario,Chicago,672744,canaral01
-209,Jeimer Candelario,"Chicago,Cincinnati,Detroit,Washington",600869,candeje01
-210,Mark Canha,"Detroit,Milwaukee,New York,Oakland,San Francisco",592192,canhama01
-211,Griffin Canning,Los Angeles,656288,cannigr01
-212,Robinson Can\xc3\xb3,"Atlanta,New York,San Diego",429664,canoro01
-213,Dominic Canzone,"Arizona,Seattle",686527,canzodo01
-214,Conner Capel,"Cincinnati,Oakland,St. Louis",668843,capelco01
-215,Vinny Capra,"Milwaukee,Pittsburgh,Toronto",681962,capravi01
-216,Victor Caratini,"Houston,Milwaukee,San Diego",605170,caratvi01
-217,Dylan Carlson,"St. Louis,Tampa Bay",666185,carlsdy01
-218,Kerry Carpenter,Detroit,681481,carpeke01
-219,Matt Carpenter,"New York,San Diego,St. Louis",572761,carpema01
-220,Carlos Carrasco,New York,471911,carraca01
-221,Corbin Carroll,Arizona,682998,carroco02
-222,Evan Carter,Texas,694497,carteev01
-223,Curt Casali,"Cincinnati,San Francisco,Seattle",592200,casalcu01
-224,Triston Casas,Boston,671213,casastr01
-225,Daniel Castano,Miami,641447,castada01
-226,Ryan Castellani,Colorado,624418,castery01
-227,Humberto Castellanos,Arizona,528748,castehu01
-228,Nick Castellanos,"Cincinnati,Philadelphia",592206,casteni01
-229,Diego Castillo,"Arizona,Minnesota,Pittsburgh",660636,castidi02
-230,Erick Castillo,Chicago,602080,castier01
-231,Ivan Castillo,San Diego,622668,castiiv01
-232,Luis Castillo,"Cincinnati,Seattle",622491,castilu02
-233,Harold Castro,"Colorado,Detroit",605612,castrha01
-235,Jason Castro,Houston,488771,castrja01
-236,Rodolfo Castro,"Philadelphia,Pittsburgh",666801,castrro01
-237,Starlin Castro,Washington,516770,castrst01
-238,Willi Castro,"Detroit,Minnesota",650489,castrwi01
-239,Jake Cave,"Colorado,Minnesota,Philadelphia",595909,caveja01
-240,Dylan Cease,Chicago,656302,ceasedy01
-241,Gilberto Celestino,Minnesota,665482,celesgi01
-242,Jhoulys Chac\xc3\xadn,Colorado,468504,chacijh01
-243,Yu Chang,"Boston,Cleveland,Pittsburgh,Tampa Bay",644374,changyu01
-244,Andr\xc3\xa9s Chaparro,Washington,665953,chapaan01
-245,Matt Chapman,"Oakland,San Francisco,Toronto",656305,chapmma01
-246,Tyler Chatwood,San Francisco,543022,chatwty01
-247,Jesse Chavez,Atlanta,445926,chaveje01
-248,Michael Chavis,"Boston,Pittsburgh,Washington",656308,chavimi01
-249,Robinson Chirinos,"Baltimore,Chicago",455139,chiriro01
-250,Jazz Chisholm Jr.,"Miami,New York",665862,chishja01
-251,Jiman Choi,"Pittsburgh,San Diego,Tampa Bay",596847,choiji01
-252,Jackson Chourio,Milwaukee,694192,chourja01
-253,Adam Cimber,Miami,643256,cimbead01
-254,Nick Ciuffo,Baltimore,624419,ciuffni01
-255,Aaron Civale,Cleveland,650644,civalaa01
-256,Taylor Clarke,Arizona,664199,clarkta01
-257,Jonatan Clase,Seattle,682729,clasejo01
-258,Sam Clay,Washington,621348,claysa01
-259,Garrett Cleavinger,Los Angeles,664076,cleavga01
-261,Kody Clemens,"Detroit,Philadelphia",665019,clemeko01
-262,Ernie Clement,"Cleveland,Oakland,Toronto",676391,clemeer01
-263,Alex Cobb,Los Angeles,502171,cobbal01
-264,Oscar Col\xc3\xa1s,Chicago,693049,colasos01
-265,Zack Collins,"Chicago,Cleveland,Pittsburgh,Toronto",641470,colliza01
-266,Michael Conforto,"New York,San Francisco",624424,confomi01
-267,Mark Contreras,Minnesota,676628,contrma01
-268,William Contreras,"Atlanta,Milwaukee",661388,contrwi02
-269,Willson Contreras,"Chicago,St. Louis",575929,contrwi01
-270,Sam Coonrod,Philadelphia,656322,coonrsa01
-271,Garrett Cooper,"Boston,Chicago,Miami,San Diego",643265,coopega03
-272,Patrick Corbin,Washington,571578,corbipa01
-273,Franchy Cordero,"Boston,New York",614173,cordefr02
-274,Carlos Correa,"Houston,Minnesota",621043,correca01
-275,Nestor Cortes,New York,641482,cortene01
-276,Danny Coulombe,Minnesota,543056,couloda01
-277,Colton Cowser,Baltimore,681297,cowseco01
-278,Will Craig,Pittsburgh,643269,craigwi01
-279,Brandon Crawford,"San Francisco,St. Louis",543063,crawfbr01
-280,J.P. Crawford,Seattle,641487,crawfjp01
-281,Kutter Crawford,Boston,676710,crawfku01
-282,Nabil Crismatt,San Diego,622503,crismna01
-283,C.J. Cron,"Colorado,Los Angeles",543068,croncj01
-284,Jake Cronenworth,San Diego,630105,croneja01
-285,Narciso Crook,Chicago,643271,crookna01
-287,Tyler Cropley,Kansas City,680418,croplty01
-288,Hans Crouse,Philadelphia,668968,crousha01
-289,Pete Crow-Armstrong,Chicago,691718,crowape01
-290,Wil Crowe,Pittsburgh,640444,crowewi01
-291,Nelson Cruz,"Minnesota,San Diego,Tampa Bay,Washington",443558,cruzne02
-292,Oneil Cruz,Pittsburgh,665833,cruzon01
-293,Johnny Cueto,San Francisco,456501,cuetojo01
-294,Charlie Culberson,"Atlanta,Texas",518586,culbech01
-295,John Curtiss,Miami,595928,curtijo02
-296,Travis d\'Arnaud,Atlanta,518595,darnatr01
-297,David Dahl,"Philadelphia,San Diego,Texas",621311,dahlda01
-298,Bobby Dalbec,Boston,666915,dalbebo01
-299,Yu Darvish,San Diego,506433,darviyu01
-300,Matt Davidson,"Arizona,Oakland",571602,davidma02
-301,Tucker Davidson,Atlanta,656353,davidtu01
-302,Zach Davies,Chicago,605200,davieza02
-303,Austin Davis,Boston,656354,davisau01
-304,Brendon Davis,Detroit,663478,davisbr04
-305,Henry Davis,Pittsburgh,680779,davishe01
-306,J.D. Davis,"New York,Oakland,San Francisco",605204,davisjd01
-307,Jaylin Davis,"Boston,San Francisco",664041,davisja03
-308,Jonathan Davis,"Miami,Milwaukee,New York,Toronto",641505,davisjo05
-309,Khris Davis,"Oakland,Texas",501981,daviskh01
-310,Taylor Davis,Pittsburgh,543089,davista01
-311,Ronnie Dawson,"Cincinnati,Houston",669008,dawsoro01
-313,Yonathan Daza,Colorado,602074,dazayo01
-314,Alex De Goti,Houston,621008,degotal01
-315,Chase De Jong,Pittsburgh,608328,dejonch01
-316,Bryan De La Cruz,"Miami,Pittsburgh",650559,delacbr01
-317,Elly De La Cruz,Cincinnati,682829,delacel01
-318,Jos\xc3\xa9 De Le\xc3\xb3n,Cincinnati,592254,deleojo03
-319,Luis De Los Santos,Toronto,665782,deloslu03
-320,Austin Dean,"San Francisco,St. Louis",621573,deanau01
-321,Jacob deGrom,New York,594798,degroja01
-322,Greg Deichmann,Chicago,656364,deichgr01
-323,Paul DeJong,"Chicago,Kansas City,San Francisco,St. Louis,Toronto",657557,dejonpa01
-324,Adrian Del Castillo,Arizona,680728,delcaad01
-325,Jason Delay,Pittsburgh,641511,delayja01
-326,Zach DeLoach,Chicago,676113,deloaza01
-327,Jonny DeLuca,"Los Angeles,Tampa Bay",676356,delucjo01
-328,Ben DeLuzio,St. Louis,641512,deluzbe01
-329,Travis Demeritte,Atlanta,641513,demertr01
-330,Anthony DeSclafani,San Francisco,543101,desclan01
-331,Delino DeShields,Cincinnati,592261,deshide02
-332,Reid Detmers,Los Angeles,672282,detmere01
-333,Ross Detwiler,Miami,446321,detwiro01
-334,Jos\xc3\xa9 Devers,Miami,672701,deverjo01
-335,Rafael Devers,Boston,646240,deverra01
-336,Zach Dezenzo,Houston,701305,dezenza01
-337,Aledmys D\xc3\xadaz,"Houston,Oakland",649557,diazal02
-339,Elias D\xc3\xadaz,Colorado,553869,diazel01
-340,Isan D\xc3\xadaz,"Detroit,Miami,San Francisco",656371,diazis01
-341,Jordan Diaz,Oakland,672478,diazjo03
-342,Lewin D\xc3\xadaz,Miami,650331,diazle01
-343,Miguel D\xc3\xadaz,San Diego,622766,diazmi02
-344,Yainer Diaz,Houston,673237,diazya02
-345,Yandy D\xc3\xadaz,Tampa Bay,650490,diazya01
-346,Yennsy D\xc3\xadaz,New York,660546,diazye01
-347,Yusniel Diaz,Baltimore,666783,diazyu01
-348,Alex Dickerson,"Atlanta,San Francisco",543105,dickeal01
-349,Corey Dickerson,"Miami,St. Louis,Toronto,Washington",572816,dickeco01
-350,Jake Diekman,Oakland,518617,diekmja01
-351,Wilmer Difo,"Arizona,Pittsburgh",594694,difowi01
-352,Dillon Dingler,Detroit,693307,dingldi01
-353,Brandon Dixon,San Diego,641525,dixonbr01
-354,Jasson Dom\xc3\xadnguez,New York,691176,dominja01
-355,Josh Donaldson,"Milwaukee,Minnesota,New York",518626,donaljo02
-356,Brendan Donovan,St. Louis,680977,donovbr01
-357,Ryan Dorow,Texas,676900,dorowry01
-358,Jeter Downs,"Boston,Washington",669023,downsje01
-359,Brenton Doyle,Colorado,686668,doylebr02
-360,Hunter Dozier,Kansas City,641531,doziehu01
-361,Brandon Drury,"Cincinnati,Los Angeles,New York,San Diego",592273,drurybr01
-362,Mauricio Dub\xc3\xb3n,"Houston,San Francisco",643289,dubonma01
-363,Matt Duffy,"Chicago,Kansas City,Los Angeles",622110,duffyma01
-365,Steven Duggar,"Los Angeles,San Francisco,Texas",621453,duggast01
-366,Joe Dunand,Miami,656388,dunanjo01
-367,Blake Dunn,Cincinnati,694362,dunnbl01
-368,Justin Dunn,Seattle,643290,dunnju01
-369,Oliver Dunn,Milwaukee,686554,dunnol01
-370,Dane Dunning,Texas,641540,dunnida01
-371,Jon Duplantier,Arizona,641541,duplajo01
-372,Ezequiel Duran,Texas,677649,duranez01
-373,Jarren Duran,Boston,680776,duranja01
-374,Adam Duvall,"Atlanta,Boston,Miami",594807,duvalad01
-375,Jarrod Dyson,"Kansas City,Toronto",502481,dysonja01
-376,Adam Eaton,"Chicago,Los Angeles",594809,eatonad02
-377,Nate Eaton,Kansas City,681987,eatonna01
-378,Cam Eden,Toronto,686490,edenca01
-379,Tommy Edman,St. Louis,669242,edmanto01
-380,Xavier Edwards,Miami,669364,edwarxa01
-381,Scott Effross,Chicago,664123,effrosc01
-382,Zach Eflin,Philadelphia,621107,eflinza01
-383,Jerad Eickhoff,New York,595191,eickhje01
-384,Seth Elledge,St. Louis,676220,elledse01
-385,Chris Ellis,Baltimore,595939,ellisch01
-386,Drew Ellis,"Arizona,Philadelphia,Seattle",656403,ellisdr01
-387,Duke Ellis,Chicago,668752,ellisdu01
-388,Jerar Encarnacion,"Miami,San Francisco",666464,encarje01
-389,Christian Encarnacion-Strand,Cincinnati,687952,encarch01
-391,Adam Engel,"Chicago,San Diego",641553,engelad01
-392,Nathan Eovaldi,Boston,543135,eovalna01
-393,Alcides Escobar,Washington,444876,escobal02
-394,Eduardo Escobar,"Arizona,Los Angeles,Milwaukee,New York",500871,escobed01
-395,Thomas Eshelman,Baltimore,664045,eshelto01
-396,Santiago Espinal,"Cincinnati,Toronto",669289,espinsa01
-397,Paolo Espino,Washington,502179,espinpa01
-398,Thairo Estrada,San Francisco,642731,estrath01
-399,Phillip Evans,Pittsburgh,595943,evansph01
-400,Stuart Fairchild,"Arizona,Cincinnati,San Francisco,Seattle",656413,faircst01
-401,Bailey Falter,Philadelphia,663559,falteba01
-402,Johneshwy Fargas,"Chicago,New York",641561,fargajo01
-403,Jake Faria,Arizona,607188,fariaja01
-404,Kyle Farmer,"Cincinnati,Minnesota",571657,farmeky01
-405,Erick Fedde,Washington,607200,feddeer01
-406,Hunter Feduccia,Los Angeles,676439,feduchu01
-407,Mario Feliciano,Milwaukee,666128,felicma01
-408,Ryan Feltner,Colorado,663372,feltnry01
-409,Freddy Fermin,Kansas City,666023,fermifr01
-410,Jos\xc3\xa9 Ferm\xc3\xadn,St. Louis,665877,fermijo01
-411,Junior Fern\xc3\xa1ndez,St. Louis,658551,fernaju01
-412,Derek Fisher,Milwaukee,605233,fishede01
-413,Tyler Fitzgerald,San Francisco,666149,fitzgty01
-414,Jack Flaherty,St. Louis,656427,flaheja01
-415,Josh Fleming,Tampa Bay,676596,flemijo01
-417,David Fletcher,"Atlanta,Los Angeles",664058,fletcda02
-418,Dominic Fletcher,"Arizona,Chicago",666150,fletcdo01
-419,Chris Flexen,Seattle,623167,flexech01
-420,Wilmer Flores,San Francisco,527038,florewi01
-421,Estevan Florial,"Cleveland,New York",664314,flories01
-422,Mike Foltynewicz,Texas,592314,foltymi01
-423,Mike Ford,"Atlanta,Cincinnati,Los Angeles,New York,San Francisco,Seattle",645801,fordmi01
-424,Nick Fortes,Miami,663743,forteni01
-425,Justin Foscue,Texas,679822,foscuju01
-426,Dexter Fowler,Los Angeles,451594,fowlede01
-427,Dustin Fowler,Pittsburgh,641583,fowledu01
-428,Lucius Fox,Washington,665650,foxlu01
-429,Jake Fraley,"Cincinnati,Seattle",641584,fraleja01
-430,Ty France,"Cincinnati,Seattle",664034,francty01
-431,Maikel Franco,"Baltimore,Washington",596748,francma02
-432,Wander Franco,Tampa Bay,677551,francwa01
-433,Seth Frankoff,Arizona,571676,frankse01
-434,Adam Frazier,"Baltimore,Kansas City,Pittsburgh,San Diego,Seattle",624428,fraziad01
-435,Clint Frazier,"Chicago,New York",640449,frazicl01
-436,Todd Frazier,Pittsburgh,453943,frazito01
-437,Kyle Freeland,Colorado,607536,freelky01
-438,Freddie Freeman,"Atlanta,Los Angeles",518692,freemfr01
-439,Mike Freeman,Cincinnati,502273,freemmi01
-440,Tyler Freeman,Cleveland,671289,freemty01
-441,Sal Frelick,Milwaukee,686217,frelisa01
-443,Max Fried,Atlanta,608331,friedma01
-444,TJ Friedl,Cincinnati,670770,friedtj01
-445,David Fry,Cleveland,681807,fryda01
-446,Joshua Fuentes,Colorado,658069,fuentjo01
-447,Carson Fulmer,Cincinnati,608334,fulmeca01
-448,Michael Fulmer,Chicago,605242,fulmemi01
-449,Cam Gallagher,"Cleveland,Kansas City",595956,gallaca01
-450,Zac Gallen,Arizona,668678,galleza01
-451,Joey Gallo,"Los Angeles,Minnesota,New York,Texas,Washington",608336,gallojo01
-452,Freddy Galvis,"Baltimore,Philadelphia",520471,galvifr01
-453,Ben Gamel,"Cleveland,New York,Pittsburgh,San Diego",592325,gamelbe01
-454,John Gant,St. Louis,607231,gantjo01
-455,Adolis Garc\xc3\xada,Texas,666969,garciad02
-456,Aramis Garcia,"Cincinnati,Oakland",605244,garciar01
-457,Avisa\xc3\xadl Garc\xc3\xada,"Miami,Milwaukee",541645,garciav01
-458,D\xc3\xa9rmis Garc\xc3\xada,Oakland,660650,garcide02
-459,Jarl\xc3\xadn Garc\xc3\xada,San Francisco,606424,garcija04
-460,Leury Garc\xc3\xada,Chicago,544725,garcile02
-461,Luis Garc\xc3\xada Jr.,Washington,671277,garcilu04
-462,Luis Garcia,Houston,677651,garcilu05
-463,Maikel Garcia,Kansas City,672580,garcima01
-464,Robel Garc\xc3\xada,Houston,596825,garciro02
-465,Rony Garc\xc3\xada,Detroit,665621,garciro03
-466,Brett Gardner,New York,458731,gardnbr01
-467,Kyle Garlick,Minnesota,664247,garliky01
-469,Dustin Garneau,Detroit,572863,garnedu01
-470,Braxton Garrett,Miami,666129,garrebr01
-471,Stone Garrett,"Arizona,Washington",656448,garrest01
-472,Mitch Garver,"Minnesota,Seattle,Texas",641598,garvemi01
-473,Mickey Gasper,Boston,681508,gaspemi01
-474,Kevin Gausman,San Francisco,592332,gausmke01
-475,Zack Gelof,Oakland,680869,gelofza01
-476,Domingo Germ\xc3\xa1n,New York,593334,germado01
-477,Trent Giambrone,Chicago,623508,giambtr01
-478,Kyle Gibson,"Philadelphia,Texas",502043,gibsoky01
-479,Tyler Gilbert,Arizona,656457,gilbety01
-480,Andr\xc3\xa9s Gim\xc3\xa9nez,Cleveland,665926,gimenan01
-481,Lucas Giolito,Chicago,608337,giolilu01
-482,Chris Gittens,New York,656467,gittech01
-483,Mychal Givens,New York,571710,givenmy01
-484,Tyler Glasnow,Tampa Bay,607192,glasnty01
-485,Zack Godley,Milwaukee,643327,godleza01
-486,Jos\xc3\xa9 Godoy,"Minnesota,Pittsburgh,Seattle",608422,godoyjo01
-487,Paul Goldschmidt,St. Louis,502671,goldspa01
-488,Austin Gomber,Colorado,596295,gombeau01
-489,Yan Gomes,"Chicago,Oakland,Washington",543228,gomesya01
-490,Tony Gonsolin,Los Angeles,664062,gonsoto01
-491,Marco Gonzales,Seattle,594835,gonzama02
-492,Nick Gonzales,Pittsburgh,693304,gonzani01
-493,Chi Chi Gonz\xc3\xa1lez,Colorado,592346,gonzach01
-495,Erik Gonz\xc3\xa1lez,"Miami,Pittsburgh",570481,gonzaer01
-496,Luis Gonz\xc3\xa1lez,"Chicago,San Francisco",670768,gonzalu03
-497,Marwin Gonz\xc3\xa1lez,"Boston,Houston,New York",503556,gonzama01
-498,Oscar Gonz\xc3\xa1lez,Cleveland,660757,gonzaos01
-499,Romy Gonzalez,"Boston,Chicago",663853,gonzaro01
-500,Hunter Goodman,Colorado,696100,goodmhu01
-501,Niko Goodrum,"Detroit,Houston,Los Angeles,Tampa Bay",592348,goodrni01
-502,Brian Goodwin,Chicago,571718,goodwbr01
-503,Nick Gordon,"Miami,Minnesota",624503,gordoni01
-504,Terrance Gore,New York,605253,gorete01
-505,Nolan Gorman,St. Louis,669357,gormano01
-506,Phil Gosselin,"Atlanta,Los Angeles",594838,gosseph01
-507,Ashton Goudeau,Colorado,623485,goudeas01
-508,Yasmani Grandal,"Chicago,Pittsburgh",518735,grandya01
-509,Brusdar Graterol,Los Angeles,660813,gratebr01
-510,Kendall Graveman,Houston,608665,graveke01
-511,Jon Gray,Colorado,592351,grayjo02
-512,Josiah Gray,"Los Angeles,Washington",680686,grayjo03
-513,Sonny Gray,Cincinnati,543243,grayso01
-514,Tristan Gray,"Miami,Tampa Bay",656484,graytr01
-515,Riley Greene,Detroit,682985,greenri03
-516,Didi Gregorius,Philadelphia,544369,gregodi01
-517,Grayson Greiner,"Arizona,Detroit",606988,greingr01
-518,Zack Greinke,Houston,425844,greinza01
-519,Randal Grichuk,"Arizona,Colorado,Los Angeles,Toronto",545341,grichra01
-521,Trent Grisham,"New York,San Diego",663757,grishtr01
-522,Vaughn Grissom,"Atlanta,Boston",687093,grissva01
-523,Jordan Groshans,Miami,677954,groshjo01
-524,Robbie Grossman,"Atlanta,Chicago,Detroit,Texas",543257,grossro01
-525,Robert Gsellman,New York,607229,gsellro01
-526,Javy Guerra,Washington,457915,guerrja01
-527,Javy Guerra,San Diego,642770,guerrja02
-528,Junior Guerra,Los Angeles,448855,guerrju02
-529,Vladimir Guerrero Jr.,Toronto,665489,guerrvl02
-530,Luis Guillorme,"Atlanta,Los Angeles,New York",641645,guilllu01
-531,Lourdes Gurriel Jr.,"Arizona,Toronto",666971,gurrilo01
-532,Yuli Gurriel,"Houston,Miami",493329,gourryu01
-533,Taylor Gushue,Chicago,656494,gushuta01
-534,Jandel Gustave,Milwaukee,594311,gustaja01
-535,Dalton Guthrie,Philadelphia,656495,guthrda01
-536,Kelvin Guti\xc3\xa9rrez,"Baltimore,Kansas City",642721,gutieke01
-537,Vladimir Gutierrez,Cincinnati,661269,gutievl01
-538,Ronald Guzm\xc3\xa1n,"New York,Texas",608597,guzmaro01
-539,Eric Haase,"Cleveland,Detroit,Milwaukee",606992,haaseer01
-540,Jake Hager,"Arizona,New York",606993,hagerja01
-541,Sam Haggerty,Seattle,664059,haggesa01
-542,Darick Hall,Philadelphia,669742,hallda02
-543,Billy Hamilton,"Chicago,Miami,Minnesota",571740,hamilbi02
-544,Caleb Hamilton,"Boston,Minnesota",643348,hamilca01
-545,David Hamilton,Boston,666152,hamilda03
-547,J.D. Hammer,Philadelphia,670456,hammejd01
-548,Garrett Hampson,"Colorado,Kansas City,Miami",641658,hampsga01
-549,Mitch Haniger,"San Francisco,Seattle",571745,hanigmi01
-550,Ian Happ,Chicago,664023,happia01
-551,J.A. Happ,St. Louis,457918,happja01
-552,Bryce Harper,Philadelphia,547180,harpebr03
-553,Ryne Harper,Washington,607560,harpery01
-554,Brett Harris,Oakland,695391,harribr02
-555,Michael Harris II,Atlanta,671739,harrimi04
-556,Josh Harrison,"Chicago,Oakland,Philadelphia,Washington",543281,harrijo05
-557,Monte Harrison,"Los Angeles,Miami",656509,harrimo01
-558,Matt Harvey,Baltimore,518774,harvema01
-559,Adam Haseley,"Chicago,Philadelphia",656514,haselad01
-560,Ke\'Bryan Hayes,Pittsburgh,663647,hayeske01
-561,Austin Hays,"Baltimore,Philadelphia",669720,haysau01
-562,Andrew Heaney,"Los Angeles,New York",571760,heanean01
-563,Nick Heath,Arizona,670084,heathni01
-564,Austin Hedges,"Cleveland,Pittsburgh,Texas",595978,hedgeau01
-565,Jonah Heim,Texas,641680,heimjo01
-566,Scott Heineman,Cincinnati,595981,heinesc01
-567,Tyler Heineman,"Boston,Pittsburgh,Toronto",623168,heinety01
-568,Heath Hembree,Cincinnati,592390,hembrhe01
-569,Gunnar Henderson,Baltimore,683002,hendegu01
-570,Kyle Hendricks,Chicago,543294,hendrky01
-571,Liam Hendriks,Chicago,521230,hendrli01
-573,Ryan Hendrix,Cincinnati,641682,hendrry01
-574,Payton Henry,Miami,668721,henrypa01
-575,David Hensley,"Houston,Miami",682073,henslda01
-576,Sam Hentges,Cleveland,656529,hentgsa01
-577,Guillermo Heredia,Atlanta,628338,heredgu01
-578,Michael Hermosillo,Chicago,641684,hermomi01
-579,Darell Hernaiz,Oakland,687231,hernada04
-580,Carlos Hern\xc3\xa1ndez,Kansas City,672578,hernaca04
-581,C\xc3\xa9sar Hern\xc3\xa1ndez,"Chicago,Cleveland,Washington",514917,hernace02
-582,Elier Hernandez,Texas,609274,hernael02
-583,Elieser Hern\xc3\xa1ndez,Miami,622694,hernael01
-584,Enrique Hern\xc3\xa1ndez,"Boston,Los Angeles",571771,hernaen02
-585,Teoscar Hern\xc3\xa1ndez,"Los Angeles,Seattle,Toronto",606192,hernate01
-586,Yadiel Hern\xc3\xa1ndez,Washington,628450,hernaya01
-587,Yonny Hern\xc3\xa1ndez,"Arizona,Los Angeles,Texas",660634,hernayo02
-588,Iv\xc3\xa1n Herrera,St. Louis,671056,herreiv01
-589,Jos\xc3\xa9 Herrera,Arizona,645444,herrejo04
-590,Od\xc3\xbabel Herrera,Philadelphia,546318,herreod01
-591,David Hess,Miami,605276,hessda01
-592,Jason Heyward,"Chicago,Los Angeles",518792,heywaja01
-593,Brewer Hicklen,Kansas City,676551,hicklbr01
-594,Aaron Hicks,"Baltimore,Los Angeles,New York",543305,hicksaa01
-595,John Hicks,Texas,543308,hicksjo02
-596,Kyle Higashioka,"New York,San Diego",543309,higasky01
-597,P.J. Higgins,Chicago,664731,higgipj01
-599,Derek Hill,"Detroit,Miami,San Francisco,Texas,Washington",656537,hillde01
-600,Rich Hill,"New York,Tampa Bay",448179,hillri01
-601,Sam Hilliard,"Atlanta,Colorado",656541,hillisa01
-602,Rece Hinds,Cincinnati,677956,hindsre01
-603,Keston Hiura,"Los Angeles,Milwaukee",669374,hiurake01
-604,Nico Hoerner,Chicago,663538,hoernni01
-605,Jeff Hoffman,Cincinnati,656546,hoffmje02
-606,Bryan Holaday,Arizona,592407,holadbr01
-607,Jackson Holliday,Baltimore,702616,hollija01
-608,Jordan Holloway,Miami,656548,hollojo01
-609,Clay Holmes,Pittsburgh,605280,holmecl01
-610,Brock Holt,Texas,571788,holtbr01
-611,TJ Hopkins,Cincinnati,686759,hopkitj01
-612,Spencer Horwitz,Toronto,687462,horwisp01
-613,Rhys Hoskins,"Milwaukee,Philadelphia",656555,hoskirh01
-614,Eric Hosmer,"Boston,Chicago,San Diego",543333,hosmeer01
-615,Tanner Houck,Boston,656557,houckta01
-616,Adrian Houser,Milwaukee,605288,housead01
-617,Spencer Howard,Philadelphia,675921,howarsp01
-618,Jared Hoying,Toronto,592419,hoyinja01
-619,Dakota Hudson,St. Louis,641712,hudsoda02
-620,Joe Hudson,New York,621529,hudsojo03
-621,Sam Huff,Texas,669087,huffsa01
-622,Cooper Hummel,"Arizona,Houston,Seattle",669450,hummeco01
-623,Tommy Hunter,New York,488984,hunteto02
-625,Scott Hurst,St. Louis,656568,hurstsc01
-626,Jacob Hurtubise,Cincinnati,674441,hurtuja01
-627,Drew Hutchison,Detroit,571800,hutchdr01
-628,Andy Ib\xc3\xa1\xc3\xb1ez,"Detroit,Texas",628451,ibanean01
-629,Jose Iglesias,"Boston,Colorado,Los Angeles,New York",578428,iglesjo01
-630,Ender Inciarte,"Atlanta,New York",542255,inciaen01
-631,Jonathan India,Cincinnati,663697,indiajo01
-632,Cole Irvin,Oakland,608344,irvinco01
-633,Kyle Isbel,Kansas City,664728,isbelky01
-634,Alex Jackson,"Atlanta,Miami,Milwaukee,Tampa Bay",656577,jacksal02
-635,Andre Jackson,Los Angeles,656578,jacksan01
-636,Drew Jackson,Oakland,623515,jacksdr01
-637,Jay Jackson,San Francisco,543351,jacksja01
-638,Travis Jankowski,"New York,Philadelphia,Seattle,Texas",608671,jankotr01
-639,Danny Jansen,"Boston,Toronto",643376,janseda01
-640,Kenley Jansen,Los Angeles,445276,janseke01
-641,Griffin Jax,Minnesota,643377,jaxgr01
-642,Jon Jay,Los Angeles,445055,jayjo02
-643,Ryan Jeffers,Minnesota,680777,jeffery01
-644,Jake Jewell,Chicago,657228,jewelja01
-645,Eloy Jim\xc3\xa9nez,"Baltimore,Chicago",650391,jimenel02
-646,Leo Jimenez,Toronto,677870,jimenle01
-647,Connor Joe,"Colorado,Pittsburgh",656582,joeco01
-648,Bryce Johnson,"San Diego,San Francisco",669369,johnsbr03
-649,Daniel Johnson,Cleveland,669288,johnsda07
-651,Greg Jones,Colorado,675659,jonesgr02
-652,JaCoby Jones,Detroit,592444,jonesja07
-653,Jahmai Jones,"Baltimore,Milwaukee,New York",663330,jonesja08
-654,Nate Jones,Los Angeles,518858,jonesna01
-655,Nolan Jones,"Cleveland,Colorado",666134,jonesno01
-656,Taylor Jones,Houston,622100,jonesta01
-657,Levi Jordan,Cincinnati,682119,jordale01
-658,Matt Joyce,Philadelphia,459964,joycema01
-659,Aaron Judge,New York,592450,judgeaa01
-660,Edouard Julien,Minnesota,666397,julieed01
-661,Corey Julks,"Chicago,Houston",667452,julksco01
-662,Jace Jung,Detroit,690291,jungja01
-663,Josh Jung,Texas,673962,jungjo01
-664,Jakob Junis,Kansas City,596001,junisja01
-665,Connor Kaiser,Colorado,663731,kaiseco01
-666,James Kaprielian,Oakland,621076,kaprija01
-667,Gosuke Katoh,Toronto,641741,katohgo01
-668,Niko Kavadas,Los Angeles,694359,kavadni01
-669,Sean Kazmar Jr.,Atlanta,453527,kazmase01
-670,Scott Kazmir,San Francisco,431148,kazmisc01
-671,Colt Keith,Detroit,690993,keithco01
-672,Jarred Kelenic,"Atlanta,Seattle",672284,kelenja01
-673,Brad Keller,Kansas City,641745,kellebr01
-674,Mitch Keller,Pittsburgh,656605,kellemi03
-675,Carson Kelly,"Arizona,Detroit,Texas",608348,kellyca02
-677,Joe Kelly,Los Angeles,523260,kellyjo05
-678,Merrill Kelly,Arizona,518876,kellyme01
-679,Tony Kemp,"Baltimore,Oakland",643393,kempto01
-680,Buddy Kennedy,"Arizona,Detroit",671083,kennebu01
-681,Max Kepler,Minnesota,596146,keplema01
-682,Clayton Kershaw,Los Angeles,477132,kershcl01
-683,Grae Kessinger,Houston,666197,kessigr01
-684,Dallas Keuchel,Chicago,572971,keuchda01
-685,Carter Kieboom,Washington,666198,kieboca01
-686,Kevin Kiermaier,"Los Angeles,Tampa Bay,Toronto",595281,kiermke01
-687,Yusei Kikuchi,Seattle,579328,kikucyu01
-688,Ha-Seong Kim,San Diego,673490,kimha01
-689,Kwang Hyun Kim,St. Louis,547942,kimkw01
-690,Craig Kimbrel,Chicago,518886,kimbrcr01
-691,Isiah Kiner-Falefa,"New York,Pittsburgh,Texas,Toronto",643396,kineris01
-692,John King,Texas,667463,kingjo01
-693,Scott Kingery,Philadelphia,664068,kingesc01
-694,Alex Kirilloff,Minnesota,666135,kirilal01
-695,Alejandro Kirk,Toronto,672386,kirkal01
-696,Patrick Kivlehan,San Diego,623182,kivlepa01
-697,Heston Kjerstad,Baltimore,677008,kjershe01
-698,Corey Kluber,New York,446372,klubeco01
-699,Andrew Knapp,"Philadelphia,Pittsburgh,San Francisco,Seattle",595284,knappan01
-700,Corey Knebel,Los Angeles,608349,knebeco01
-701,Reiss Knehr,San Diego,663753,knehrre01
-703,Andrew Knizner,"St. Louis,Texas",668800,kniznan01
-704,Grant Koch,Pittsburgh,667428,kochgr01
-705,Taylor Kohlwey,San Diego,670128,kohlwta01
-706,Mark Kolozsvary,"Baltimore,Cincinnati",656627,kolozma01
-707,Michael Kopech,Chicago,656629,kopecmi01
-708,Pete Kozma,Oakland,518902,kozmape01
-709,Max Kranick,Pittsburgh,668820,kranima01
-710,Ryan Kreidler,Detroit,668952,kreidry01
-711,Jason Krizan,San Francisco,607249,krizaja01
-712,Jack Kruger,Los Angeles,667674,krugeja01
-713,Chad Kuhl,Pittsburgh,641771,kuhlch01
-714,Steven Kwan,Cleveland,680757,kwanst01
-715,Tommy La Stella,"San Francisco,Seattle",600303,lasteto01
-716,Tyler Ladendorf,Chicago,502285,ladenty01
-717,Juan Lagares,Los Angeles,501571,lagarju01
-718,Ryan LaMarre,New York,534606,lamarry01
-719,Jake Lamb,"Chicago,Los Angeles,Seattle,Toronto",571875,lambja01
-720,Peter Lambert,Colorado,663567,lambepe01
-721,Dinelson Lamet,San Diego,659275,lametdi01
-722,Shea Langeliers,Oakland,669127,langesh01
-723,Wyatt Langford,Texas,694671,langfwy01
-724,Trevor Larnach,Minnesota,663616,larnatr01
-725,Jack Larsen,Seattle,677223,larseja01
-726,Eric Lauer,Milwaukee,641778,lauerer01
-727,Ram\xc3\xb3n Laureano,"Atlanta,Cleveland,Oakland",657656,laurera01
-729,Ryan Lavarnway,Cleveland,543432,lavarry01
-730,Bryan Lavastida,Cleveland,681526,lavasbr01
-731,Jordan Lawlar,Arizona,691783,lawlajo01
-732,Charles Leblanc,"Los Angeles,Miami",641779,leblach01
-733,Wade LeBlanc,St. Louis,453281,leblawa01
-734,Brooks Lee,Minnesota,686797,leebr02
-735,Jung Hoo Lee,San Francisco,808982,leeju01
-736,Khalil Lee,New York,666137,leekh01
-737,Korey Lee,"Chicago,Houston",686676,leeko01
-738,DJ LeMahieu,New York,518934,lemahdj01
-739,Pedro Le\xc3\xb3n,Houston,694175,leonpe01
-740,Sandy Le\xc3\xb3n,"Cleveland,Miami,Minnesota,Texas",506702,leonsa01
-741,Jon Lester,"St. Louis,Washington",452657,lestejo01
-742,Josh Lester,"Baltimore,Detroit",623507,lestejo02
-743,Kyle Lewis,"Arizona,Seattle",641786,lewisky01
-744,Royce Lewis,Minnesota,668904,lewisro02
-745,Domingo Leyba,"Arizona,Baltimore",642736,leybado01
-746,Luis Liberato,San Diego,642451,liberlu01
-747,Tzu-Wei Lin,Minnesota,624407,lintz02
-748,Josh Lindblom,Milwaukee,458676,lindbjo01
-749,Francisco Lindor,New York,596019,lindofr01
-750,Andre Lipcius,Detroit,686531,lipcian01
-751,Trey Lipscomb,Washington,702358,lipsctr01
-752,Zack Littell,San Francisco,641793,litteza01
-753,Jos\xc3\xa9 Lobat\xc3\xb3n,Chicago,446653,lobatjo01
-755,Tim Locastro,"Arizona,New York",641796,locasti01
-756,Tyler Locklear,Seattle,682988,locklty01
-757,Nick Loftin,Kansas City,679845,loftini01
-758,Sam Long,San Francisco,669674,longsa01
-759,Shed Long Jr.,Seattle,643418,longsh01
-760,Evan Longoria,"Arizona,San Francisco",446334,longoev01
-761,Joey Loperfido,"Houston,Toronto",694388,loperjo01
-762,Christian Lopes,Oakland,547173,lopesch01
-763,Tim Lopes,Milwaukee,621005,lopesti01
-764,Alejo L\xc3\xb3pez,Cincinnati,664670,lopezal03
-765,Irving Lopez,St. Louis,676761,lopezir01
-766,Jack L\xc3\xb3pez,"Boston,Los Angeles",605346,lopezja03
-767,Jorge L\xc3\xb3pez,Baltimore,605347,lopezjo02
-768,Nicky Lopez,"Atlanta,Chicago,Kansas City",670032,lopezni01
-769,Otto Lopez,"Miami,Toronto",672640,lopezot01
-770,Pablo L\xc3\xb3pez,Miami,641154,lopezpa01
-771,Michael Lorenzen,Cincinnati,547179,lorenmi01
-772,Brandon Lowe,Tampa Bay,664040,lowebr01
-773,Josh Lowe,Tampa Bay,666139,lowejo01
-774,Nathaniel Lowe,Texas,663993,lowena01
-775,Jed Lowrie,Oakland,476704,lowrije01
-776,Joey Lucchesi,New York,664192,lucchjo01
-777,Marco Luciano,San Francisco,682617,luciama01
-778,Jonathan Lucroy,"Atlanta,Washington",518960,lucrojo01
-779,Seth Lugo,New York,607625,lugose01
-781,Nathan Lukes,Toronto,664770,lukesna01
-782,Jordan Luplow,"Arizona,Cleveland,Minnesota,Tampa Bay,Toronto",656669,luplojo01
-783,Gavin Lux,Los Angeles,666158,luxga01
-784,Jes\xc3\xbas Luzardo,"Miami,Oakland",666200,luzarje01
-785,Jordan Lyles,Texas,543475,lylesjo01
-786,Lance Lynn,Chicago,458681,lynnla01
-787,Dixon Machado,San Francisco,553988,machadi01
-788,Manny Machado,San Diego,592518,machama01
-789,Vimael Mach\xc3\xadn,Oakland,605353,machivi01
-790,David MacKinnon,"Los Angeles,Oakland",676950,mackida01
-791,Lu\xc3\xads Madero,Miami,650347,maderlu01
-792,Nick Madrigal,Chicago,663611,madrini01
-793,Bligh Madris,"Detroit,Houston,Pittsburgh",676632,madribl01
-794,Kenta Maeda,Minnesota,628317,maedake01
-795,Drew Maggi,Pittsburgh,543482,maggidr01
-796,Tyler Mahle,Cincinnati,641816,mahlety01
-797,Luke Maile,"Cincinnati,Cleveland,Milwaukee",571912,mailelu01
-798,Mart\xc3\xadn Maldonado,"Chicago,Houston",455117,maldoma01
-799,Justyn-Henry Malloy,Detroit,669234,malloju02
-800,Sean Manaea,Oakland,640455,manaese01
-801,Trey Mancini,"Baltimore,Chicago,Houston",641820,mancitr01
-802,Matt Manning,Detroit,666159,mannima02
-803,Alek Manoah,Toronto,666201,manoaal01
-804,Kyle Manzardo,Cleveland,700932,manzaky01
-805,Tucupita Marcano,"Pittsburgh,San Diego",672779,marcatu01
-807,Rafael March\xc3\xa1n,Philadelphia,665561,marchra01
-808,Manuel Margot,"Minnesota,Tampa Bay",622534,margoma01
-809,Jake Marisnick,"Chicago,Detroit,Los Angeles,Pittsburgh,San Diego",545350,marisja01
-810,Cade Marlowe,Seattle,687799,marloca01
-811,Jos\xc3\xa9 Marmolejos,Seattle,592530,marmojo01
-812,Germ\xc3\xa1n M\xc3\xa1rquez,Colorado,608566,marquge01
-813,Deven Marrero,"Miami,New York",571918,marrede01
-814,Brandon Marsh,"Los Angeles,Philadelphia",669016,marshbr02
-815,Ketel Marte,Arizona,606466,marteke01
-816,Luis Mart\xc3\xa9,Miami,606336,martelu02
-817,Noelvi Marte,Cincinnati,682622,marteno01
-818,Starling Marte,"Miami,New York,Oakland",516782,martest01
-819,Austin Martin,Minnesota,668885,martiau01
-820,Corbin Martin,Arizona,656686,martico02
-821,Jason Martin,Texas,641829,martija03
-822,Richie Martin,Baltimore,621006,martiri01
-823,Angel Mart\xc3\xadnez,Cleveland,682657,martian02
-824,Carlos Mart\xc3\xadnez,St. Louis,593372,martica04
-825,J.D. Martinez,"Boston,Los Angeles,New York",502110,martijd02
-826,J.P. Mart\xc3\xadnez,"Atlanta,Texas",679881,martijp01
-827,Orelvis Martinez,Toronto,682619,martior01
-828,Nick Martini,"Chicago,Cincinnati",605361,martini02
-829,Michael Massey,Kansas City,686681,massemi02
-830,Miles Mastrobuoni,"Chicago,Tampa Bay",670156,mastrmi01
-831,Jorge Mateo,"Baltimore,San Diego",622761,mateojo01
-833,Mark Mathias,"Milwaukee,Pittsburgh,San Francisco,Texas",664029,mathima01
-834,Jeff Mathis,Atlanta,425772,mathije01
-835,Wyatt Mathisen,Arizona,621500,mathiwy01
-836,J.J. Matijevic,Houston,656695,matijjj01
-837,Nick Maton,"Baltimore,Detroit,Philadelphia",665155,matonni01
-838,Phil Maton,Cleveland,664208,matonph01
-839,Luis Matos,San Francisco,682641,matoslu02
-840,Steven Matz,Toronto,571927,matzst01
-841,Ronny Mauricio,New York,677595,mauriro01
-842,Dustin May,Los Angeles,669160,maydu01
-843,Cameron Maybin,New York,457727,maybica01
-844,Jack Mayfield,"Los Angeles,Seattle",608686,mayfija01
-845,Coby Mayo,Baltimore,691723,mayoco01
-846,Nomar Mazara,"Detroit,San Diego",608577,mazarno01
-847,Patrick Mazeika,New York,664850,mazeipa01
-848,Ryan McBroom,Kansas City,643436,mcbrory01
-849,James McCann,"Baltimore,New York",543510,mccanja02
-850,Kyle McCann,Oakland,668832,mccanky01
-851,Jake McCarthy,Arizona,664983,mccarja02
-852,Darren McCaughan,Seattle,670766,mccauda01
-853,Chas McCormick,Houston,676801,mccorch01
-854,Mason McCoy,Toronto,669200,mccoyma01
-855,Grant McCray,San Francisco,687529,mccragr01
-856,Lance McCullers Jr.,Houston,621121,mcculla02
-857,Andrew McCutchen,"Milwaukee,Philadelphia,Pittsburgh",457705,mccutan01
-859,Mickey McDonald,Oakland,676782,mcdonmi01
-860,Scott McGough,Arizona,543518,mcgousc01
-861,Kyle McGowin,Washington,641851,mcgowky01
-862,Reese McGuire,"Boston,Chicago,Toronto",624512,mcguire01
-863,Ryan McKenna,"Baltimore,San Francisco",663630,mckenry01
-864,Triston McKenzie,Cleveland,663474,mckentr01
-865,Billy McKinney,"Los Angeles,Milwaukee,New York,Oakland",641856,mckinbi01
-866,Zach McKinstry,"Chicago,Detroit,Los Angeles",656716,mckinza01
-867,Matt McLain,Cincinnati,680574,mclaima01
-868,Ryan McMahon,Colorado,641857,mcmahry01
-869,Jeff McNeil,New York,643446,mcneije01
-870,Curtis Mead,Tampa Bay,678554,meadcu01
-871,Austin Meadows,"Detroit,Tampa Bay",640457,meadoau01
-872,Parker Meadows,Detroit,678009,meadopa01
-873,John Means,Baltimore,607644,meansjo01
-874,Nick Mears,Pittsburgh,683232,mearsni01
-875,Wade Meckler,San Francisco,685133,mecklwa01
-876,Adonis Medina,Philadelphia,658431,medinad01
-877,Tylor Megill,New York,656731,megilty01
-878,Francisco Mejia,Tampa Bay,642336,mejiafr01
-879,Humberto Mej\xc3\xada,Arizona,650668,mejiahu01
-880,J.C. Mej\xc3\xada,Cleveland,650496,mejiaje02
-881,Mark Melancon,San Diego,453343,melanma01
-882,MJ Melendez,Kansas City,669004,melenmj01
-883,Danny Mendick,"Chicago,New York",664901,mendida01
-885,Joey Meneses,Washington,608841,menesjo01
-886,\xc3\x93scar Mercado,"Cleveland,Philadelphia,St. Louis",640458,mercaos01
-887,Yerm\xc3\xadn Mercedes,"Chicago,San Francisco",606213,merceye01
-888,Jordy Mercer,Washington,474568,mercejo03
-889,Whit Merrifield,"Atlanta,Kansas City,Philadelphia,Toronto",593160,merriwh01
-890,Jackson Merrill,San Diego,701538,merrija01
-891,Matt Mervis,Chicago,670223,mervima01
-892,Jake Meyers,Houston,676694,meyerja02
-893,Miles Mikolas,St. Louis,571945,mikolmi01
-894,Wade Miley,Cincinnati,489119,mileywa01
-895,Drew Millas,Washington,686452,milladr01
-896,Brad Miller,"Philadelphia,Texas",543543,millebr02
-897,Brian Miller,Miami,675649,millebr03
-898,Owen Miller,"Cleveland,Milwaukee",680911,milleow01
-899,Shelby Miller,"Los Angeles,Pittsburgh",571946,millesh01
-900,Alec Mills,Chicago,621219,millsal02
-901,Hoby Milner,Milwaukee,571948,milneho01
-902,Mike Minor,Kansas City,501985,minormi01
-903,A.J. Minter,Atlanta,621345,minteaj01
-904,Jos\xc3\xa9 Miranda,Minnesota,669304,miranjo01
-905,Kameron Misner,Tampa Bay,670224,misneka01
-906,Calvin Mitchell,Pittsburgh,668751,mitchca01
-907,Garrett Mitchell,Milwaukee,669003,mitchga01
-908,Casey Mize,Detroit,663554,mizeca01
-909,Yadier Molina,St. Louis,425877,molinya01
-911,Andruw Monasterio,Milwaukee,655316,monasan01
-912,Yo\xc3\xa1n Moncada,Chicago,660162,moncayo01
-913,Adalberto Mondes\xc3\xad,Kansas City,609275,mondera02
-914,Nate Mondou,Oakland,670148,mondona01
-915,Mickey Moniak,"Los Angeles,Philadelphia",666160,moniami01
-916,Frankie Montas,Oakland,593423,montafr02
-917,Elehuris Montero,Colorado,660707,monteel01
-918,Coco Montes,Colorado,663796,monteco01
-919,Jordan Montgomery,New York,656756,montgjo01
-920,Dylan Moore,Seattle,664238,mooredy01
-921,Matt Moore,Philadelphia,519043,moorema02
-922,Colin Moran,"Cincinnati,Pittsburgh",592567,moranco01
-923,Adri\xc3\xa1n Morej\xc3\xb3n,San Diego,670970,morejad01
-924,Christopher Morel,"Chicago,Tampa Bay",666624,morelch01
-925,Mitch Moreland,Oakland,519048,morelmi01
-926,Gabriel Moreno,"Arizona,Toronto",672515,morenga01
-927,Eli Morgan,Cleveland,669212,morgael01
-928,Shawn Morimando,Miami,596049,morimsh01
-929,Max Moroff,St. Louis,621559,morofma01
-930,Charlie Morton,Atlanta,450203,mortoch02
-931,Taylor Motter,"Boston,Cincinnati,Colorado,St. Louis",600301,motteta01
-932,Ryan Mountcastle,Baltimore,663624,mountry01
-933,Mike Moustakas,"Cincinnati,Colorado,Los Angeles",519058,moustmi01
-934,Kyle Muller,Atlanta,666205,mulleky01
-935,Cedric Mullins,Baltimore,656775,mullice01
-937,Max Muncy,Los Angeles,571970,muncyma01
-938,Yairo Mu\xc3\xb1oz,"Boston,Philadelphia",622168,munozya01
-939,Patrick Murphy,Washington,641907,murphpa02
-940,Sean Murphy,"Atlanta,Oakland",669221,murphse01
-941,Tom Murphy,"San Francisco,Seattle",608596,murphto04
-942,Joe Musgrove,San Diego,605397,musgrjo01
-943,S\xc3\xadmon Muzziotti,Philadelphia,665922,muzzisi01
-944,Dane Myers,Miami,667472,myersda01
-945,Wil Myers,"Cincinnati,San Diego",571976,myerswi01
-946,Tommy Nance,Chicago,667297,nanceto01
-947,Tyler Naquin,"Chicago,Cincinnati,New York",571980,naquity01
-948,Carlos Narv\xc3\xa1ez,New York,665966,narvaca01
-949,Omar Narv\xc3\xa1ez,"Milwaukee,New York",553882,narvaom01
-950,Packy Naughton,Los Angeles,676050,naughpa01
-951,Bo Naylor,Cleveland,666310,naylobo01
-952,Josh Naylor,Cleveland,647304,naylojo01
-953,Nick Neidert,Miami,663734,neideni01
-954,Jimmy Nelson,Los Angeles,519076,nelsoji02
-955,H\xc3\xa9ctor Neris,Philadelphia,593576,nerishe01
-956,Zach Neto,Los Angeles,687263,netoza01
-957,Sheldon Neuse,"Los Angeles,Oakland",641914,neusesh01
-958,Tyler Nevin,"Baltimore,Detroit,Oakland",663527,nevinty01
-959,Sean Newcomb,Atlanta,656794,newcose01
-960,Kevin Newman,"Arizona,Cincinnati,Pittsburgh",621028,newmake01
-961,Tom\xc3\xa1s Nido,"Chicago,New York",621512,nidoto01
-963,Brandon Nimmo,New York,607043,nimmobr01
-964,Ryan Noda,Oakland,676116,nodary01
-965,Jhonkensy Noel,Cleveland,678877,noeljh01
-966,Stephen Nogosek,New York,668665,nogosst01
-967,John Nogowski,"Pittsburgh,St. Louis",596056,nogowjo01
-968,Aaron Nola,Philadelphia,605400,nolaaa01
-969,Austin Nola,San Diego,543592,nolaau01
-970,Sean Nolin,Washington,543594,nolinse01
-971,Lars Nootbaar,St. Louis,663457,nootbla01
-972,Connor Norby,Baltimore,681393,norbyco01
-973,Daniel Norris,Milwaukee,596057,norrida01
-974,Jacob Nottingham,"Milwaukee,Seattle",641924,nottija01
-975,Dom Nu\xc3\xb1ez,Colorado,624513,nunezdo01
-976,Nasim Nu\xc3\xb1ez,Washington,683083,nunezna01
-977,Renato N\xc3\xba\xc3\xb1ez,Detroit,600524,nunezre01
-978,Brian O\'Grady,San Diego,657434,ogradbr01
-979,Ryan O\'Hearn,"Baltimore,Kansas City",656811,ohearry01
-980,Logan O\'Hoppe,Los Angeles,681351,ohopplo01
-981,Brian O\'Keefe,Seattle,657247,okeefbr01
-982,Tyler O\'Neill,"Boston,St. Louis",641933,oneilty01
-983,Bailey Ober,Minnesota,641927,oberba01
-984,Joseph Odom,Tampa Bay,641929,odomjo01
-985,Rougned Odor,"Baltimore,New York,San Diego",596059,odorro01
-986,Jake Odorizzi,Houston,543606,odorija01
-987,Shohei Ohtani,Los Angeles,660271,ohtansh01
-989,Steven Okert,Miami,595345,okertst01
-990,Chris Okey,"Cincinnati,Los Angeles",608360,okeych01
-991,Jared Oliva,Pittsburgh,666931,olivaja01
-992,Edward Olivares,"Kansas City,Pittsburgh",658668,olivaed02
-993,Matt Olson,"Atlanta,Oakland",621566,olsonma02
-994,Jonathan Ornelas,Texas,680716,orneljo01
-995,Rafael Ortega,"Chicago,New York",542364,ortegra01
-996,Joey Ortiz,"Baltimore,Milwaukee",687401,ortizjo06
-997,Corey Oswalt,New York,621261,oswalco01
-998,James Outman,Los Angeles,681546,outmaja01
-999,Connor Overton,Pittsburgh,656818,overtco01
-1000,Johan Oviedo,St. Louis,670912,oviedjo01
-1001,Hunter Owen,Pittsburgh,670462,owenhu01
-1002,Chris Owings,"Baltimore,Colorado,Pittsburgh",572008,owingch01
-1003,Marcell Ozuna,Atlanta,542303,ozunama01
-1004,Cristian Pache,"Atlanta,Baltimore,Miami,Oakland,Philadelphia",665506,pachecr01
-1005,Chris Paddack,San Diego,663978,paddach01
-1006,Kevin Padlo,"Los Angeles,Pittsburgh,San Francisco,Seattle,Tampa Bay",656821,padloke01
-1007,Emilio Pag\xc3\xa1n,San Diego,641941,paganem01
-1008,Andy Pages,Los Angeles,681624,pagesan01
-1009,Pedro Pag\xc3\xa9s,St. Louis,686780,pagespe02
-1010,Jermaine Palacios,Minnesota,650339,palacje01
-1011,Joshua Palacios,"Pittsburgh,Toronto,Washington",641943,palacjo01
-1012,Richie Palacios,"Cleveland,St. Louis,Tampa Bay",680700,palacri01
-1013,Joe Panik,"Miami,Toronto",605412,panikjo01
-1015,Michael Papierski,"Cincinnati,San Francisco",657709,papiemi01
-1016,Isaac Paredes,"Chicago,Detroit,Tampa Bay",670623,paredis01
-1017,Kyren Paris,Los Angeles,677347,parisky01
-1018,Hoy Park,"New York,Pittsburgh",660829,parkho01
-1019,Gerardo Parra,Washington,467827,parrage01
-1020,Vinnie Pasquantino,Kansas City,686469,pasquvi01
-1021,Graham Pauley,San Diego,688363,paulegr01
-1022,Tyler Payne,Chicago,665066,paynety01
-1023,Mark Payton,"Chicago,Cincinnati",592622,paytoma01
-1024,Matt Peacock,Arizona,676840,peacoma01
-1025,Joc Pederson,"Arizona,Atlanta,Chicago,San Francisco",592626,pederjo01
-1026,Liover Peguero,Pittsburgh,678894,pegueli01
-1027,Jeremy Pe\xc3\xb1a,Houston,665161,penaje02
-1028,David Peralta,"Arizona,Los Angeles,San Diego,Tampa Bay",444482,peralda01
-1029,Freddy Peralta,Milwaukee,642547,peralfr01
-1030,Wily Peralta,Detroit,503449,peralwi01
-1031,Jos\xc3\xa9 Peraza,New York,606299,perazjo01
-1032,Oswald Peraza,New York,672724,perazos02
-1033,Geraldo Perdomo,Arizona,672695,perdoge01
-1034,Jhonny Pereda,Miami,640902,peredjh01
-1035,Everson Pereira,New York,677592,pereiev01
-1036,Carlos P\xc3\xa9rez,Oakland,542208,perezca02
-1037,Carlos P\xc3\xa9rez,Chicago,656024,perezca03
-1038,Cionel P\xc3\xa9rez,Cincinnati,672335,perezci01
-1039,Hern\xc3\xa1n P\xc3\xa9rez,Washington,541650,perezhe01
-1041,Joe Perez,Houston,669309,perezjo02
-1042,Mart\xc3\xadn P\xc3\xa9rez,Boston,527048,perezma02
-1043,Michael P\xc3\xa9rez,"New York,Pittsburgh",605421,perezmi03
-1044,Roberto P\xc3\xa9rez,"Cleveland,Pittsburgh,San Francisco",547379,perezro02
-1045,Salvador Perez,Kansas City,521692,perezsa02
-1046,Wenceel P\xc3\xa9rez,Detroit,672761,perezwe01
-1047,Blake Perkins,Milwaukee,663368,perkibl01
-1048,Dillon Peters,Pittsburgh,596071,peterdi01
-1049,DJ Peters,"Los Angeles,Texas",656847,peterdj01
-1050,David Peterson,New York,656849,peterda01
-1051,Jace Peterson,"Arizona,Milwaukee,Oakland",607054,peterja01
-1052,Tommy Pham,"Arizona,Boston,Chicago,Cincinnati,New York,San Diego,St. Louis",502054,phamth01
-1053,Brett Phillips,"Baltimore,Los Angeles,Tampa Bay",621433,phillbr02
-1054,Evan Phillips,Los Angeles,623465,phillev01
-1055,Kevin Pillar,"Atlanta,Chicago,Los Angeles,New York",607680,pillake01
-1056,Manny Pi\xc3\xb1a,"Atlanta,Milwaukee,Oakland",444489,pinama01
-1057,Chad Pinder,Oakland,640461,pindech01
-1058,Israel Pineda,Washington,672832,pinedis01
-1059,Michael Pineda,Minnesota,501381,pinedmi01
-1060,Ren\xc3\xa9 Pinto,Tampa Bay,650907,pintore02
-1061,Stephen Piscotty,Oakland,572039,piscost01
-1062,Nick Pivetta,Boston,601713,pivetni01
-1063,Kevin Plawecki,"Boston,Texas",608700,plaweke01
-1064,Nick Plummer,New York,663911,plummni01
-1065,Gregory Polanco,Pittsburgh,570256,polangr01
-1067,Jorge Polanco,"Minnesota,Seattle",593871,polanjo01
-1068,AJ Pollock,"Chicago,Los Angeles,San Francisco,Seattle",572041,polloaj01
-1069,Daniel Ponce de Leon,St. Louis,594965,ponceda01
-1070,Cody Ponce,Pittsburgh,664074,ponceco01
-1071,Zach Pop,Miami,647315,popza01
-1072,Sean Poppen,Pittsburgh,664092,poppese01
-1073,Logan Porter,Kansas City,682515,portelo01
-1074,Buster Posey,San Francisco,457763,poseybu01
-1075,Cody Poteet,Miami,547001,poteeco01
-1076,Yohel Pozo,Texas,650968,pozoyo01
-1077,Nick Pratto,Kansas City,668472,prattni01
-1078,David Price,Los Angeles,456034,priceda01
-1079,Ford Proctor,San Francisco,665154,proctfo01
-1080,Jurickson Profar,"Colorado,San Diego",595777,profaju01
-1081,Albert Pujols,"Los Angeles,St. Louis",405395,pujolal01
-1082,Cal Quantrill,Cleveland,615698,quantca01
-1083,Juniel Querecuto,St. Louis,578570,quereju01
-1084,Roman Quinn,"Philadelphia,Tampa Bay",596451,quinnro01
-1085,Jose Quintana,San Francisco,500779,quintjo01
-1086,Esteban Quiroz,Chicago,606019,quiroes01
-1087,Ceddanne Rafaela,Boston,678882,rafaece01
-1088,Cal Raleigh,Seattle,663728,raleica01
-1089,Luke Raley,"Los Angeles,Seattle,Tampa Bay",670042,raleylu01
-1090,Harold Ram\xc3\xadrez,"Cleveland,Tampa Bay,Washington",623912,ramirha02
-1091,Jos\xc3\xa9 Ram\xc3\xadrez,Cleveland,608070,ramirjo01
-1093,Nick Ramirez,San Diego,598286,ramirni01
-1094,Yefry Ram\xc3\xadrez,Los Angeles,606162,ramirye01
-1095,Bryan Ramos,Chicago,682868,ramosbr01
-1096,Heliot Ramos,San Francisco,671218,ramoshe02
-1097,Henry Ramos,"Arizona,Cincinnati",592656,ramoshe01
-1098,Wilson Ramos,"Cleveland,Detroit",467092,ramoswi01
-1099,Drew Rasmussen,"Milwaukee,Tampa Bay",656876,rasmudr01
-1100,Corey Ray,Milwaukee,641999,rayco01
-1101,Robbie Ray,Toronto,592662,rayro02
-1102,Colin Rea,Milwaukee,607067,reaco01
-1103,J.T. Realmuto,Philadelphia,592663,realmjt01
-1104,Josh Reddick,Arizona,502210,reddijo01
-1105,Jake Reed,New York,596082,reedja02
-1106,Jakson Reetz,"San Francisco,Washington",656883,reetzja01
-1107,Rob Refsnyder,"Boston,Minnesota",608701,refsnro01
-1108,Sean Reid-Foley,New York,656887,reidfse01
-1109,Zach Reks,"Los Angeles,Texas",676646,reksza01
-1110,Zach Remillard,Chicago,621545,remilza01
-1111,Anthony Rendon,Los Angeles,543685,rendoan01
-1112,Hunter Renfroe,"Boston,Cincinnati,Kansas City,Los Angeles,Milwaukee",592669,renfrhu01
-1113,Luis Rengifo,Los Angeles,650859,rengilu01
-1114,Alex Reyes,St. Louis,621052,reyesal02
-1115,Franmil Reyes,"Chicago,Cleveland,Kansas City",614177,reyesfr01
-1116,Pablo Reyes,"Boston,Milwaukee",622569,reyespa01
-1117,V\xc3\xadctor Reyes,Detroit,622682,reyesvi01
-1119,Bryan Reynolds,Pittsburgh,668804,reynobr01
-1120,Matt Reynolds,"Cincinnati,New York",608703,reynoma03
-1121,Ben Rice,New York,700250,ricebe01
-1122,Garrett Richards,Boston,572070,richaga01
-1123,Trevor Richards,Milwaukee,670950,richatr01
-1124,JT Riddle,"Cincinnati,Minnesota",595375,riddljt01
-1125,Austin Riley,Atlanta,663586,rileyau01
-1126,Edwin R\xc3\xados,"Chicago,Cincinnati,Los Angeles",621458,riosed01
-1127,Alfonso Rivas III,"Chicago,Pittsburgh,San Diego",663845,rivasal01
-1128,Leo Rivas,Seattle,660844,rivasle01
-1129,Webster Rivas,San Diego,593590,rivaswe01
-1130,Emmanuel Rivera,"Arizona,Kansas City,Miami",656896,riverem01
-1131,Ren\xc3\xa9 Rivera,"Cleveland,Washington",425784,riverre01
-1132,Sebasti\xc3\xa1n Rivero,Kansas City,665861,riverse01
-1133,Anthony Rizzo,"Chicago,New York",519203,rizzoan01
-1134,Luis Robert Jr.,Chicago,673357,roberlu01
-1135,Daniel Robertson,Milwaukee,621002,roberda10
-1136,David Robertson,Chicago,502085,roberda08
-1137,Kramer Robertson,St. Louis,670298,roberkr01
-1138,Chuckie Robinson,"Chicago,Cincinnati",642020,robinch04
-1139,V\xc3\xadctor Robles,"Seattle,Washington",645302,roblevi01
-1140,Jacob Robson,Detroit,615699,robsoja01
-1141,Brayan Rocchio,Cleveland,677587,rocchbr01
-1142,Brendan Rodgers,Colorado,663898,rodgebr02
-1143,Carlos Rod\xc3\xb3n,Chicago,607074,rodonca01
-1145,Eduardo Rodr\xc3\xadguez,Boston,593958,rodried05
-1146,Endy Rodr\xc3\xadguez,Pittsburgh,682848,rodrien01
-1147,Jefry Rodr\xc3\xadguez,Washington,622446,rodrije01
-1148,Johnathan Rodr\xc3\xadguez,Cleveland,671286,rodrijo10
-1149,Jos\xc3\xa9 Rodriguez,Chicago,679563,rodrijo09
-1150,Julio Rodr\xc3\xadguez,Seattle,677594,rodriju01
-1151,Manuel Rodr\xc3\xadguez,Chicago,655889,rodrima01
-1152,Jake Rogers,Detroit,668670,rogerja03
-1153,Josh Rogers,Washington,642028,rogerjo01
-1154,Trevor Rogers,Miami,669432,rogertr01
-1155,Johan Rojas,Philadelphia,679032,rojasjo03
-1156,Jose Rojas,Los Angeles,670351,rojasjo02
-1157,Josh Rojas,"Arizona,Seattle",668942,rojasjo01
-1158,Miguel Rojas,"Los Angeles,Miami",500743,rojasmi02
-1159,Chris Roller,Milwaukee,676896,rollech01
-1160,Sal Romano,Cincinnati,607219,romansa01
-1161,Andrew Romine,Chicago,461865,rominan01
-1162,Austin Romine,"Chicago,Cincinnati,Los Angeles,St. Louis",519222,rominau01
-1163,Drew Romo,Colorado,691011,
-1164,Jos\xc3\xa9 Rond\xc3\xb3n,St. Louis,602922,rondojo02
-1165,Brent Rooker,"Kansas City,Minnesota,Oakland,San Diego",667670,rookebr01
-1166,Ben Rortvedt,"Minnesota,New York,Tampa Bay",666163,rortvbe01
-1167,Amed Rosario,"Cleveland,Los Angeles,Tampa Bay",642708,rosaram01
-1168,Eddie Rosario,"Atlanta,Cleveland,Washington",592696,rosared01
-1169,Eguy Rosario,San Diego,666703,rosareg01
-1171,Joe Ross,Washington,605452,rossjo01
-1172,Ram\xc3\xb3n Rosso,Philadelphia,665759,rossora01
-1173,Michael Rucker,Chicago,621074,ruckemi01
-1174,Darin Ruf,"Milwaukee,New York,San Francisco",573131,rufda01
-1175,Esteury Ruiz,"Milwaukee,Oakland,San Diego",665923,ruizes01
-1176,Jos\xc3\xa9 Ruiz,Chicago,614179,ruizjo01
-1177,Keibert Ruiz,"Los Angeles,Washington",660688,ruizke01
-1178,Rio Ruiz,"Baltimore,Colorado",547004,ruizri01
-1179,Blake Rutherford,Washington,666164,ruthebl01
-1180,Adley Rutschman,Baltimore,668939,rutscad01
-1181,Joe Ryan,Minnesota,657746,ryanjo04
-1182,Kyle Ryan,Chicago,594986,ryanky01
-1183,Hyun Jin Ryu,Toronto,547943,ryuhy01
-1184,Blake Sabol,San Francisco,666165,sabolbl01
-1185,C\xc3\xa9sar Salazar,Houston,663967,salazce01
-1186,Chris Sale,Boston,519242,salech01
-1187,Adrian Sampson,Chicago,592716,sampsad01
-1188,Aaron Sanchez,San Francisco,592717,sanchaa01
-1189,Adri\xc3\xa1n S\xc3\xa1nchez,Washington,506703,sanchad01
-1190,Ali S\xc3\xa1nchez,"Miami,St. Louis",645305,sanchal04
-1191,Gary S\xc3\xa1nchez,"Milwaukee,Minnesota,New York,San Diego",596142,sanchga02
-1192,Jes\xc3\xbas S\xc3\xa1nchez,Miami,660821,sanchje02
-1193,Miguel S\xc3\xa1nchez,Milwaukee,667376,sanchmi01
-1194,Yolmer Sanchez,"Boston,New York",570560,sanchca01
-1195,Pablo Sandoval,Atlanta,467055,sandopa01
-1197,Patrick Sandoval,Los Angeles,663776,sandopa02
-1198,Donny Sands,Philadelphia,664848,sandsdo01
-1199,Reiver Sanmartin,Cincinnati,665665,sanmare01
-1200,Miguel San\xc3\xb3,"Los Angeles,Minnesota",593934,sanomi01
-1201,Carlos Santana,"Kansas City,Milwaukee,Minnesota,Pittsburgh,Seattle",467793,santaca01
-1202,Danny Santana,Boston,542454,santada01
-1203,Dennis Santana,Los Angeles,642701,santade01
-1204,Edgar Santana,Atlanta,650828,santaed01
-1205,Anthony Santander,Baltimore,623993,santaan02
-1206,Tony Santillan,Cincinnati,663574,santito01
-1207,Josh Sborz,Texas,622250,sborzjo01
-1208,Nolan Schanuel,Los Angeles,694384,schanno01
-1209,Scott Schebler,Los Angeles,594988,schebsc01
-1210,Max Scherzer,"Los Angeles,Washington",453286,scherma01
-1211,Clarke Schmidt,New York,657376,schmicl01
-1212,Casey Schmitt,San Francisco,669477,schmica01
-1213,Daniel Schneemann,Cleveland,682177,schneda04
-1214,Davis Schneider,Toronto,676914,schneda03
-1215,Jonathan Schoop,Detroit,570731,schoojo01
-1216,Max Schrock,Cincinnati,621011,schroma01
-1217,Max Schuemann,Oakland,680474,schuema01
-1218,Aaron Schunk,Colorado,668845,schunaa01
-1219,Kyle Schwarber,"Boston,Philadelphia,Washington",656941,schwaky01
-1220,Frank Schwindel,"Chicago,Oakland",643524,schwifr01
-1221,Victor Scott II,St. Louis,687363,scottvi01
-1223,Corey Seager,"Los Angeles,Texas",608369,seageco01
-1224,Kyle Seager,Seattle,572122,seageky01
-1225,Chandler Seagle,San Diego,676882,seaglch01
-1226,Jean Segura,"Miami,Philadelphia",516416,segurje01
-1227,Sam Selman,San Francisco,572125,selmasa01
-1228,Marcus Semien,"Texas,Toronto",543760,semiema01
-1229,Antonio Senzatela,Colorado,622608,senzaan01
-1230,Nick Senzel,"Chicago,Cincinnati,Washington",669222,senzeni01
-1231,Brian Serven,"Colorado,Toronto",661531,servebr01
-1232,Pedro Severino,"Baltimore,Milwaukee",600474,severpe01
-1233,Travis Shaw,"Boston,Milwaukee",543768,shawtr01
-1234,Gavin Sheets,Chicago,657757,sheetga01
-1235,Justus Sheffield,Seattle,656954,sheffju01
-1236,Austin Shenton,Tampa Bay,668853,shentau01
-1237,James Sherfy,Los Angeles,642073,sherfji01
-1238,Braden Shewmake,"Atlanta,Chicago",669699,shewmbr01
-1239,Zack Short,"Atlanta,Boston,Detroit,New York",670097,shortza01
-1240,Michael Siani,"Cincinnati,St. Louis",672279,sianimi01
-1241,Magneuris Sierra,"Los Angeles,Miami",642423,sierrma01
-1242,Andrelton Simmons,"Chicago,Minnesota",592743,simmoan01
-1243,Lucas Sims,Cincinnati,608371,simslu01
-1244,Jon Singleton,"Houston,Milwaukee",572138,singljo02
-1245,Jose Siri,"Houston,Tampa Bay",642350,sirijo01
-1246,Chance Sisco,"Baltimore,New York",642082,siscoch01
-1247,Tarik Skubal,Detroit,669373,skubata01
-1249,Austin Slater,"Baltimore,Cincinnati,San Francisco",596103,slateau01
-1250,Caleb Smith,Arizona,592761,smithca03
-1251,Dominic Smith,"Boston,New York,Washington",642086,smithdo02
-1252,Drew Smith,New York,622098,smithdr01
-1253,Josh Smith,Texas,669701,smithjo11
-1254,Kevan Smith,"Atlanta,Tampa Bay",607345,smithke04
-1255,Kevin Smith,"New York,Oakland,Toronto",675656,smithke05
-1256,Pavin Smith,Arizona,656976,smithpa04
-1257,Riley Smith,Arizona,642092,smithri01
-1258,Will Smith,Los Angeles,669257,smithwi05
-1259,Canaan Smith-Njigba,Pittsburgh,675986,smithca05
-1260,Drew Smyly,Atlanta,592767,smylydr01
-1261,Blake Snell,San Diego,605483,snellbl01
-1262,Tyler Soderstrom,Oakland,691016,soderty01
-1263,Eric Sogard,Chicago,519299,sogarer01
-1264,Nick Sogard,Boston,686765,sogarni01
-1265,Nick Solak,"Atlanta,Detroit,Texas",669256,solakni01
-1266,Donovan Solano,"Cincinnati,Minnesota,San Diego,San Francisco",456781,solando01
-1267,Jorge Soler,"Atlanta,Kansas City,Miami,San Francisco",624585,solerjo01
-1268,Edmundo Sosa,"Philadelphia,St. Louis",624641,sosaed01
-1269,Lenyn Sosa,Chicago,672820,sosale01
-1270,Juan Soto,"New York,San Diego,Washington",665742,sotoju01
-1271,Livan Soto,"Cincinnati,Los Angeles",670869,sotoli01
-1272,Steven Souza Jr.,"Los Angeles,Seattle",519306,souzast01
-1273,Cory Spangenberg,St. Louis,605486,spangco01
-1275,George Springer,Toronto,543807,springe01
-1276,Jacob Stallings,"Colorado,Miami,Pittsburgh",607732,stallja01
-1277,Craig Stammen,San Diego,489334,stammcr01
-1278,Giancarlo Stanton,New York,519317,stantmi03
-1279,Max Stassi,Los Angeles,545358,stassma01
-1280,Justin Steele,Chicago,657006,steelju01
-1281,Spencer Steer,Cincinnati,668715,steersp01
-1282,Michael Stefanic,Los Angeles,683021,stefami01
-1283,Tyler Stephenson,Cincinnati,663886,stephty01
-1284,Andrew Stevenson,"Minnesota,Washington",664057,stevean01
-1285,Cal Stevenson,"Oakland,Philadelphia,San Francisco",670276,steveca01
-1286,DJ Stewart,"Baltimore,New York",621466,stewadj01
-1287,Kohl Stewart,Chicago,640464,stewako01
-1288,Robert Stock,"Chicago,New York",476594,stockro01
-1289,Troy Stokes Jr.,Pittsburgh,657011,stoketr01
-1290,Trevor Story,"Boston,Colorado",596115,storytr01
-1291,Bryson Stott,Philadelphia,681082,stottbr01
-1292,Kyle Stowers,"Baltimore,Miami",669065,stoweky01
-1293,Dee Strange-Gordon,Washington,543829,gordode01
-1294,Stephen Strasburg,Washington,544931,strasst01
-1295,Chris Stratton,Pittsburgh,608717,stratch01
-1296,Myles Straw,"Cleveland,Houston",664702,strawmy01
-1297,Hunter Strickland,Milwaukee,519326,strichu01
-1298,Spencer Strider,Atlanta,675911,stridsp01
-1299,Ross Stripling,Toronto,548389,stripro01
-1301,Marcus Stroman,New York,573186,stromma01
-1302,Garrett Stubbs,"Houston,Philadelphia",596117,stubbga01
-1303,Eugenio Su\xc3\xa1rez,"Arizona,Cincinnati,Seattle",553993,suareeu01
-1304,Jos\xc3\xa9 Suarez,Los Angeles,660761,suarejo01
-1305,Ranger Su\xc3\xa1rez,Philadelphia,624133,suarera01
-1306,Wander Suero,Washington,593833,suerowa01
-1307,Brett Sullivan,San Diego,664954,sullibr01
-1308,Brent Suter,Milwaukee,608718,suterbr01
-1309,Jack Suwinski,Pittsburgh,669261,suwinja01
-1310,Kurt Suzuki,Los Angeles,435559,suzukku01
-1311,Seiya Suzuki,Chicago,673548,suzukse01
-1312,Travis Swaggerty,Pittsburgh,680552,swaggtr01
-1313,Dansby Swanson,"Atlanta,Chicago",621020,swansda01
-1314,Trey Sweeney,Detroit,700242,sweentr01
-1315,Thomas Szapucki,New York,663378,szaputh01
-1316,Jameson Taillon,New York,592791,taillja01
-1317,Raimel Tapia,"Boston,Colorado,Milwaukee,Tampa Bay,Toronto",606132,tapiara01
-1318,Fernando Tatis Jr.,San Diego,665487,tatisfe02
-1319,Mike Tauchman,"Chicago,New York,San Francisco",643565,tauchmi01
-1320,Leody Taveras,Texas,665750,taverle01
-1321,Chris Taylor,Los Angeles,621035,tayloch03
-1322,Michael A. Taylor,"Kansas City,Minnesota,Pittsburgh",572191,taylomi02
-1323,Samad Taylor,"Kansas City,Seattle",669392,taylosa04
-1324,Tyrone Taylor,"Milwaukee,New York",621438,tayloty01
-1325,Anderson Tejeda,Texas,660731,tejedan01
-1327,Rowdy Tellez,"Milwaukee,Pittsburgh,Toronto",642133,tellero01
-1328,Jos\xc3\xa9 Tena,"Cleveland,Washington",677588,tenajo01
-1329,Curtis Terry,Texas,663799,terrycu01
-1330,Matt Thaiss,Los Angeles,642136,thaisma01
-1331,Alek Thomas,Arizona,677950,thomaal01
-1332,Cody Thomas,Oakland,642137,thomaco01
-1333,Dillon Thomas,"Los Angeles,Seattle",605504,thomadi01
-1334,Lane Thomas,"Cleveland,St. Louis,Washington",657041,thomala02
-1335,Bubba Thompson,"Cincinnati,Texas",669352,thompbu01
-1336,Keegan Thompson,Chicago,624522,thompke02
-1337,Trayce Thompson,"Chicago,Los Angeles,San Diego",572204,thomptr01
-1338,Zach Thompson,Miami,605507,thompza01
-1339,Michael Toglia,Colorado,669911,toglimi01
-1340,Ka\'ai Tom,"Oakland,Pittsburgh,San Francisco",664789,tomka01
-1341,Josh Tomlin,Atlanta,458708,tomlijo01
-1342,Justin Topa,Milwaukee,623437,topaju01
-1343,Spencer Torkelson,Detroit,679529,torkesp01
-1344,Abraham Toro,"Houston,Milwaukee,Oakland,Seattle",647351,toroab01
-1345,Luis Torrens,"Chicago,New York,Seattle",620443,torrelu01
-1346,Gleyber Torres,New York,650402,torregl01
-1347,Ronald Torreyes,Philadelphia,591720,torrero01
-1348,Touki Toussaint,Atlanta,657053,toussto01
-1349,Ezequiel Tovar,Colorado,678662,tovarez01
-1350,Wilfredo Tovar,New York,541600,tovarwi01
-1351,Taylor Trammell,"Los Angeles,New York,Seattle",666211,trammta01
-1353,Alan Trejo,Colorado,676701,trejoal01
-1354,Jose Trevino,"New York,Texas",624431,trevijo01
-1355,Jared Triolo,Pittsburgh,669707,triolja01
-1356,Chadwick Tromp,"Atlanta,San Francisco",644433,trompch01
-1357,Nick Tropeano,New York,607374,tropeni01
-1358,Mike Trout,Los Angeles,545361,troutmi01
-1359,Yoshi Tsutsugo,"Los Angeles,Pittsburgh,Tampa Bay",660294,tsutsyo01
-1360,Cole Tucker,"Colorado,Los Angeles,Pittsburgh",657061,tuckeco01
-1361,Kyle Tucker,Houston,663656,tuckeky01
-1362,Brice Turang,Milwaukee,668930,turanbr02
-1363,Justin Turner,"Boston,Los Angeles,Seattle,Toronto",457759,turneju01
-1364,Trea Turner,"Los Angeles,Philadelphia,Washington",607208,turnetr01
-1365,Edwin Uceta,Los Angeles,670955,ucetaed01
-1366,Duane Underwood Jr.,Pittsburgh,621249,underdu01
-1367,Justin Upton,"Los Angeles,Seattle",457708,uptonju01
-1368,Jos\xc3\xa9 Ure\xc3\xb1a,Detroit,570632,urenajo01
-1369,Julio Ur\xc3\xadas,Los Angeles,628711,uriasju01
-1370,Luis Ur\xc3\xadas,"Boston,Milwaukee,Seattle",649966,uriaslu01
-1371,Ram\xc3\xb3n Ur\xc3\xadas,Baltimore,602104,uriasra01
-1372,Jos\xc3\xa9 Urquidy,Houston,664353,urquijo01
-1373,Gio Urshela,"Detroit,Los Angeles,Minnesota,New York",570482,urshegi01
-1374,Pat Valaika,Baltimore,642162,valaipa01
-1375,Enmanuel Valdez,Boston,665839,valdeen01
-1376,Framber Valdez,Houston,664285,valdefr01
-1377,Breyvic Valera,Toronto,591971,valerbr01
-1379,Josh VanMeter,"Arizona,Pittsburgh",642165,vanmejo01
-1380,Ildemaro Vargas,"Arizona,Chicago,Pittsburgh,Washington",545121,vargail01
-1381,Miguel Vargas,"Chicago,Los Angeles",678246,vargami01
-1382,Daulton Varsho,"Arizona,Toronto",662139,varshda01
-1383,Andrew Vaughn,Chicago,683734,vaughan01
-1384,Terrin Vavra,Baltimore,679631,vavrate01
-1385,Christian V\xc3\xa1zquez,"Boston,Houston,Minnesota",543877,vazquch01
-1386,Luis V\xc3\xa1zquez,Chicago,676679,vazqulu01
-1387,Vince Velasquez,"Philadelphia,San Diego",592826,velasvi01
-1388,Andrew Velazquez,"Los Angeles,New York",623205,velazan01
-1389,Nelson Vel\xc3\xa1zquez,"Chicago,Kansas City",676369,velazne01
-1390,Alex Verdugo,"Boston,New York",657077,verdual01
-1391,Alex Vesia,Los Angeles,681911,vesiaal01
-1392,Mark Vientos,New York,668901,vientma01
-1393,Matt Vierling,"Detroit,Philadelphia",663837,vierlma01
-1394,Ryan Vilade,"Colorado,Detroit",668723,viladry01
-1395,David Villar,San Francisco,681584,villada01
-1396,Jonathan Villar,"Chicago,Los Angeles,New York",542340,villajo01
-1397,Meibrys Viloria,"Cleveland,Texas",650619,vilorme01
-1398,Daniel Vogelbach,"Milwaukee,New York,Pittsburgh,Toronto",596129,vogelda01
-1399,Stephen Vogt,"Arizona,Atlanta,Oakland",519390,vogtst01
-1400,Luke Voit,"Milwaukee,New York,San Diego,Washington",572228,voitlu01
-1401,Anthony Volpe,New York,683011,volpean01
-1402,Jason Vosler,"Cincinnati,San Francisco,Seattle",613564,vosleja01
-1403,Austin Voth,Washington,608723,vothau01
-1405,Joey Votto,Cincinnati,458015,vottojo01
-1406,Michael Wacha,Tampa Bay,608379,wachami01
-1407,Brandon Waddell,St. Louis,663399,waddebr01
-1408,LaMonte Wade Jr.,San Francisco,664774,wadela01
-1409,Tyler Wade,"Los Angeles,New York,Oakland,San Diego",642180,wadety01
-1410,Will Wagner,Toronto,695238,wagnewi01
-1411,Adam Wainwright,St. Louis,425794,wainwad01
-1412,Christian Walker,Arizona,572233,walkech02
-1413,Jordan Walker,St. Louis,691023,walkejo02
-1414,Steele Walker,Texas,667727,walkest01
-1415,Taijuan Walker,New York,592836,walketa01
-1416,Forrest Wall,"Atlanta,Miami",657088,wallfo01
-1417,Chad Wallach,"Los Angeles,Miami",595453,wallach01
-1418,Matt Wallner,Minnesota,670242,wallnma01
-1419,Taylor Walls,Tampa Bay,670764,wallsta01
-1420,Jared Walsh,"Los Angeles,Texas",665120,walshja01
-1421,Donovan Walton,"San Francisco,Seattle",622268,waltodo01
-1422,Taylor Ward,Los Angeles,621493,wardta01
-1423,Drew Waters,Kansas City,671221,waterdr01
-1424,Tony Watson,Los Angeles,453265,watsoto01
-1425,Ryan Weathers,San Diego,677960,weathry01
-1426,Luke Weaver,Arizona,596133,weavelu01
-1427,Jacob Webb,Atlanta,657097,webbja01
-1428,Logan Webb,San Francisco,657277,webblo01
-1429,Tyler Webb,St. Louis,643778,webbty01
-1431,Colton Welker,Colorado,666213,welkeco01
-1432,Austin Wells,New York,669224,wellsau01
-1433,Joey Wendle,"Miami,New York,Tampa Bay",621563,wendljo01
-1434,Davis Wendzel,Texas,673995,wendzda01
-1435,Jamie Westbrook,Boston,642197,westbja02
-1436,Jordan Westburg,Baltimore,676059,westbjo01
-1437,Zack Wheeler,Philadelphia,554430,wheelza01
-1438,Shay Whitcomb,Houston,694376,
-1439,Eli White,"Atlanta,Texas",642201,whiteel04
-1440,Evan White,Seattle,657108,whiteev01
-1441,Mitch White,Los Angeles,669952,whitemi03
-1442,Aaron Whitefield,Los Angeles,664334,whiteaa01
-1443,Garrett Whitlock,Boston,676477,whitlga01
-1444,Taylor Widener,Arizona,642203,widenta01
-1445,Joey Wiemer,"Cincinnati,Milwaukee",686894,wiemejo01
-1446,Stevie Wilkerson,Baltimore,592859,wilkest01
-1447,Alika Williams,Pittsburgh,675961,willial04
-1448,Justin Williams,St. Louis,642211,williju02
-1449,Luke Williams,"Atlanta,Los Angeles,Miami,Philadelphia,San Francisco",663897,willilu01
-1450,Mason Williams,New York,592863,willima10
-1451,Nick Williams,Chicago,608384,willini01
-1452,Trevor Williams,"Chicago,New York",592866,willitr01
-1453,Bryse Wilson,"Atlanta,Pittsburgh",669060,wilsobr02
-1454,Cody Wilson,Washington,680963,wilsoco01
-1455,Jacob Wilson,"Houston,Oakland",607111,wilsoja04
-1457,Jacob Wilson,Oakland,805779,wilsoja05
-1458,Marcus Wilson,Seattle,657129,wilsoma02
-1459,Weston Wilson,Philadelphia,642215,wilsowe01
-1460,Jesse Winker,"Cincinnati,Milwaukee,New York,Seattle,Washington",608385,winkeje01
-1461,Dan Winkler,Chicago,595465,winklda01
-1462,Masyn Winn,St. Louis,691026,winnma01
-1463,Patrick Wisdom,Chicago,621550,wisdopa01
-1464,Brett Wisely,San Francisco,689172,wiselbr01
-1465,Matt Wisler,San Francisco,605538,wislema01
-1466,Bobby Witt Jr.,Kansas City,677951,wittbo02
-1467,Tony Wolters,"Chicago,Los Angeles",547172,wolteto01
-1468,Connor Wong,Boston,657136,wongco01
-1469,Kean Wong,Los Angeles,642221,wongke01
-1470,Kolten Wong,"Los Angeles,Milwaukee,Seattle",543939,wongko01
-1471,Alex Wood,San Francisco,622072,woodal02
-1472,James Wood,Washington,695578,woodja03
-1473,Jake Woodford,St. Louis,663765,woodfja01
-1474,Brandon Woodruff,Milwaukee,605540,woodrbr01
-1475,Kyle Wright,Atlanta,657140,wrighky01
-1476,Austin Wynns,"Baltimore,Cincinnati,Colorado,Los Angeles,San Francisco",642851,wynnsau01
-1477,Miguel Yajure,Pittsburgh,664337,yajurmi01
-1478,Jordan Yamamoto,New York,657141,yamamjo01
-1479,Eric Yang,Cincinnati,687066,yanger01
-1480,Ryan Yarbrough,Tampa Bay,642232,yarbrry01
-1481,Mike Yastrzemski,San Francisco,573262,yastrmi01
-1483,Christian Yelich,Milwaukee,592885,yelicch01
-1484,Juan Yepez,"St. Louis,Washington",660766,yepezju01
-1485,Huascar Ynoa,Atlanta,660623,ynoahu01
-1486,Masataka Yoshida,Boston,807799,yoshima02
-1487,Alex Young,Arizona,622065,youngal01
-1488,Andrew Young,Arizona,670370,youngan02
-1489,Jacob Young,Washington,696285,youngja03
-1490,Jared Young,Chicago,676724,youngja02
-1491,Seby Zavala,"Arizona,Chicago,Seattle",664874,zavalse01
-1492,Bradley Zimmer,"Cleveland,Philadelphia,Toronto",605548,zimmebr01
-1493,Ryan Zimmerman,Washington,475582,zimmery01
-1494,Bruce Zimmermann,Baltimore,669145,zimmebr02
-1495,Jordan Zimmermann,Milwaukee,519455,zimmejo02
-1496,Tyler Zuber,Kansas City,676604,zuberty01
-1497,Mike Zunino,"Cleveland,Tampa Bay",572287,zuninmi01
+Name,Tm,mlbID,key_bbref
+Cory Abbott,Chicago,676265,abbotco01
+CJ Abrams,"San Diego,Washington",682928,abramcj01
+Jos\xc3\xa9 Abreu,"Chicago,Houston",547989,abreujo02
+Wilyer Abreu,Boston,677800,abreuwi02
+Luisangel Acu\xc3\xb1a,New York,682668,acunajo01
+Ronald Acu\xc3\xb1a Jr.,Atlanta,660670,acunaro01
+Willy Adames,"Milwaukee,Tampa Bay",642715,adamewi01
+Jordyn Adams,Los Angeles,677941,adamsjo03
+Matt Adams,Colorado,571431,adamsma01
+Riley Adams,"Toronto,Washington",656180,adamsri03
+Jo Adell,Los Angeles,666176,adelljo01
+Joan Adon,Washington,672851,adonjo01
+Ehire Adrianza,"Atlanta,Los Angeles,Washington",501303,adriaeh01
+Jes\xc3\xbas Aguilar,"Baltimore,Miami,Oakland",542583,aguilje01
+Ryan Aguilar,Los Angeles,666922,aguilry01
+Nick Ahmed,"Arizona,Los Angeles,San Diego,San Francisco",605113,ahmedni01
+Keegan Akin,Baltimore,669211,akinke01
+Shogo Akiyama,Cincinnati,673451,akiyash01
+R.J. Alaniz,Cincinnati,595798,alanirj01
+Hanser Alberto,"Chicago,Kansas City,Los Angeles",593643,alberha01
+Ozzie Albies,Atlanta,645277,albieoz01
+Kevin Alc\xc3\xa1ntara,Chicago,682634,alcanke01
+Sandy Alc\xc3\xa1ntara,Miami,645261,alcansa01
+Sergio Alc\xc3\xa1ntara,"Arizona,Chicago,San Diego",642727,alcanse01
+Blaze Alexander,Arizona,677942,alexabl01
+CJ Alexander,Kansas City,680769,alexacj01
+Tyler Alexander,Detroit,641302,alexaty01
+Jorge Alfaro,"Boston,Colorado,Miami,San Diego",595751,alfarjo01
+Anthony Alford,Pittsburgh,546990,alforan01
+Kolby Allard,Texas,663465,allarko01
+Austin Allen,Oakland,664119,allenau01
+Greg Allen,"New York,Pittsburgh",656185,allengr01
+Logan Allen,Cleveland,663531,allenlo01
+Nick Allen,Oakland,669397,allenni02
+Abraham Almonte,"Atlanta,Boston,New York",501659,almonab01
+Yency Almonte,Colorado,622075,almonye01
+Albert Almora,"Cincinnati,New York",546991,almoral01
+Pete Alonso,New York,624413,alonspe01
+Jose Altuve,Houston,514888,altuvjo01
+Jake Alu,Washington,666906,aluja01
+Jos\xc3\xa9 Alvarado,Philadelphia,621237,alvarjo03
+Armando Alvarez,Oakland,669137,alvarar01
+Eddy Alvarez,"Los Angeles,Miami,New York",657193,alvared01
+Francisco Alvarez,New York,682626,alvarfr01
+Jos\xc3\xa9 \xc3\x81lvarez,San Francisco,501625,alvarjo02
+Nacho Alvarez Jr.,Atlanta,805373,alvarna01
+Yordan Alvarez,Houston,670541,alvaryo01
+Adbert Alzolay,Chicago,640470,alzolad01
+Adael Amador,Colorado,691182,amadoad01
+Jacob Amaya,"Chicago,Houston,Miami",676070,amayaja01
+Miguel Amaya,Chicago,665804,amayami01
+Trey Amburgey,New York,664011,amburtr01
+Brett Anderson,Milwaukee,474463,anderbr04
+Brian Anderson,"Atlanta,Miami,Milwaukee",605119,anderbr06
+Chase Anderson,Philadelphia,502624,anderch01
+Ian Anderson,Atlanta,666120,anderia01
+Tanner Anderson,Pittsburgh,664196,anderta01
+Tim Anderson,"Chicago,Miami",641313,anderti01
+Tyler Anderson,"Los Angeles,Pittsburgh,Seattle",542881,anderty01
+John Andreoli,San Diego,607430,andrejo03
+Elvis Andrus,"Chicago,Oakland",462101,andruel01
+Miguel Andujar,"New York,Oakland,Pittsburgh",609280,andujmi01
+Tejay Antone,Cincinnati,622088,antonte01
+Aristides Aquino,Cincinnati,606157,aquinar01
+Jonathan Aranda,Tampa Bay,666018,arandjo01
+Jonathan Ara\xc3\xbaz,"Baltimore,Boston,New York",660620,arauzjo01
+Orlando Arcia,"Atlanta,Milwaukee",606115,arciaor01
+Nolan Arenado,St. Louis,571448,arenano01
+Gabriel Arias,Cleveland,672356,ariasga01
+Kohei Arihara,Texas,685503,arihako01
+Randy Arozarena,"Seattle,Tampa Bay",668227,arozara01
+Luis Arr\xc3\xa1ez,"Miami,Minnesota,San Diego",650333,arraelu01
+Jake Arrieta,"Chicago,San Diego",453562,arrieja01
+Christian Arroyo,Boston,624414,arroych01
+Humberto Arteaga,Washington,600858,arteahu01
+Aaron Ashby,Milwaukee,676879,ashbyaa01
+Willians Astudillo,"Miami,Minnesota",553902,astudwi01
+Alex Avila,Washington,488671,avilaal01
+Pedro Avila,San Diego,658648,avilape01
+Jos\xc3\xa9 Azocar,San Diego,640492,azocajo01
+Akil Baddoo,Detroit,668731,baddoak01
+Harrison Bader,"Cincinnati,New York,St. Louis",664056,baderha01
+Ji Hwan Bae,Pittsburgh,678225,baeji01
+Javier B\xc3\xa1ez,"Chicago,Detroit,New York",595879,baezja01
+Patrick Bailey,San Francisco,672275,bailepa01
+Darren Baker,Washington,671117,bakerda02
+Luken Baker,St. Louis,663609,bakerlu01
+Brooks Baldwin,Chicago,681460,baldwbr01
+Anthony Banda,New York,607455,bandaan01
+Rylan Bannon,"Atlanta,Baltimore,Houston",676625,bannory01
+David Ba\xc3\xb1uelos,Baltimore,675915,banueda01
+Caleb Baragar,San Francisco,670056,baragca01
+Daniel Bard,Colorado,453268,bardda01
+Addison Barger,Toronto,680718,bargead01
+Austin Barnes,Los Angeles,605131,barneau01
+Charlie Barnes,Minnesota,656212,barnech01
+Tucker Barnhart,"Arizona,Chicago,Cincinnati,Detroit",571466,barnhtu01
+Luis Barrera,Oakland,642456,barrelu01
+Tres Barrera,"St. Louis,Washington",668663,barretr01
+Jose Barrero,Cincinnati,676480,garcijo02
+Jaime Barria,Los Angeles,642545,barrija01
+Jorge Barrosa,Arizona,678489,barrojo01
+Joey Bart,"Pittsburgh,San Francisco",663698,bartjo01
+Osleivis Basabe,Tampa Bay,678545,basabos01
+Anthony Bass,Miami,542914,bassan01
+Chris Bassitt,Oakland,605135,bassich01
+Matthew Batten,San Diego,676946,battema01
+Brett Baty,New York,683146,batybr01
+Trevor Bauer,Los Angeles,545333,bauertr01
+Jake Bauers,"Cleveland,Milwaukee,New York,Seattle",641343,bauerja01
+Matt Beaty,"Kansas City,Los Angeles,San Diego,San Francisco",607461,beatyma01
+Jordan Beck,Colorado,687597,beckjo01
+Tim Beckham,Minnesota,542921,beckhti01
+David Bednar,Pittsburgh,670280,bednada01
+Seth Beer,Arizona,666179,beerse01
+Josh Bell,"Arizona,Cleveland,Miami,San Diego,Washington",605137,belljo02
+Cody Bellinger,"Chicago,Los Angeles",641355,bellico01
+Brandon Belt,"San Francisco,Toronto",474832,beltbr01
+Anthony Bemboom,"Baltimore,Los Angeles",621532,bemboan01
+Anthony Bender,Miami,669622,bendean01
+Andrew Benintendi,"Chicago,Kansas City,New York",643217,beninan01
+Will Benson,"Cincinnati,Cleveland",666181,bensowi01
+Wynton Bernard,Colorado,592144,bernawy01
+Jos\xc3\xa9 Berr\xc3\xados,"Minnesota,Toronto",621244,berrijo01
+Steward Berroa,Toronto,672642,berrost01
+Jon Berti,"Miami,New York",542932,bertijo01
+Christian Bethancourt,"Chicago,Miami,Oakland,Tampa Bay",542194,bethach01
+Alec Bettinger,Milwaukee,676424,bettial01
+Mookie Betts,Los Angeles,605141,bettsmo01
+Bo Bichette,Toronto,666182,bichebo01
+Phil Bickford,Los Angeles,641360,bickfph01
+Shane Bieber,Cleveland,669456,biebesh01
+Cavan Biggio,"Atlanta,Los Angeles,Toronto",624415,biggica01
+Braden Bishop,Seattle,623323,bishobr01
+Tyler Black,Milwaukee,672012,blackty01
+Charlie Blackmon,Colorado,453568,blackch02
+Dairon Blanco,Kansas City,680118,blancda02
+Alex Blandino,Cincinnati,607468,blandal01
+Travis Blankenhorn,"Minnesota,New York,Washington",663905,blanktr01
+JJ Bleday,"Miami,Oakland",668709,bledajj01
+Richard Bleier,Miami,542947,bleieri01
+Ryan Bliss,Seattle,669208,blissry01
+Xander Bogaerts,"Boston,San Diego",593428,bogaexa01
+Alec Bohm,Philadelphia,664761,bohmal01
+Skye Bolt,"Oakland,San Francisco",621450,boltsk01
+Jorge Bonifacio,Philadelphia,593528,bonifjo01
+David Bote,Chicago,623520,boteda01
+Sean Bouchard,Colorado,656248,bouchse01
+Matthew Boyd,Detroit,571510,boydma01
+Archie Bradley,Philadelphia,605151,bradlar01
+Bobby Bradley,Cleveland,656252,bradlbo01
+Jackie Bradley Jr.,"Boston,Kansas City,Milwaukee,Toronto",598265,bradlja02
+Michael Brantley,Houston,488726,brantmi02
+Rob Brantly,"New York,Tampa Bay",542963,brantro01
+Steven Brault,Pittsburgh,643230,braulst01
+John Brebbia,San Francisco,605154,brebbjo01
+Alex Bregman,Houston,608324,bregmal01
+Will Brennan,Cleveland,686823,brennwi02
+Jake Brentz,Kansas City,641394,brentja01
+Jonah Bride,"Miami,Oakland",681146,bridejo01
+Lewis Brinson,"Miami,San Francisco",621446,brinsle01
+Trenton Brooks,San Francisco,670092,brooktr01
+Mike Brosseau,"Milwaukee,Tampa Bay",670712,brossmi01
+Rex Brothers,Chicago,571521,brothre01
+Seth Brown,Oakland,664913,brownse01
+JT Brubaker,Pittsburgh,664141,brubajt01
+Jay Bruce,New York,457803,bruceja01
+Justin Bruihl,Los Angeles,677865,bruihju01
+Vidal Bruj\xc3\xa1n,"Miami,Tampa Bay",660644,brujavi01
+Kris Bryant,"Chicago,Colorado,San Francisco",592178,bryankr01
+Kris Bubic,Kansas City,663460,bubickr01
+Walker Buehler,Los Angeles,621111,buehlwa01
+Madison Bumgarner,Arizona,518516,bumgama01
+Dylan Bundy,Los Angeles,605164,bundydy01
+Peyton Burdick,Miami,680814,burdipe01
+Jake Burger,"Chicago,Miami",669394,burgeja01
+Alec Burleson,St. Louis,676475,burleal01
+Corbin Burnes,Milwaukee,669203,burneco01
+Andy Burns,Los Angeles,542992,burnsan01
+Michael Busch,"Chicago,Los Angeles",683737,buschmi02
+Drew Butera,Los Angeles,460077,buterdr01
+Lawrence Butler,Oakland,671732,butlela01
+Byron Buxton,Minnesota,621439,buxtoby01
+Jos\xc3\xa9 Caballero,"Seattle,Tampa Bay",676609,cabaljo01
+Trey Cabbage,"Houston,Los Angeles",663550,cabbatr01
+Asdr\xc3\xbabal Cabrera,"Arizona,Cincinnati",452678,cabreas01
+Edward Cabrera,Miami,665795,cabreed02
+Miguel Cabrera,Detroit,408234,cabremi01
+Oswaldo Cabrera,New York,665828,cabreos01
+Trevor Cahill,Pittsburgh,502239,cahiltr01
+Lorenzo Cain,Milwaukee,456715,cainlo01
+Kole Calhoun,"Arizona,Cleveland,Texas",594777,calhoko01
+Willie Calhoun,"Los Angeles,New York,San Francisco,Texas",641432,calhowi01
+Alex Call,"Cleveland,Washington",669743,callal02
+Daniel Camarena,San Diego,547176,camarda01
+Jair Camargo,Minnesota,665856,camarja01
+Johan Camargo,"Atlanta,Philadelphia,San Francisco",622666,camarjo01
+Daz Cameron,"Detroit,Oakland",663662,camerda01
+Junior Caminero,Tampa Bay,691406,caminju01
+Eric Campbell,Seattle,493472,campber01
+Paul Campbell,Miami,669294,campbpa02
+Gustavo Campero,Los Angeles,672569,campegu01
+Luis Campusano,San Diego,669134,campulu01
+Alexander Canario,Chicago,672744,canaral01
+Jeimer Candelario,"Chicago,Cincinnati,Detroit,Washington",600869,candeje01
+Mark Canha,"Detroit,Milwaukee,New York,Oakland,San Francisco",592192,canhama01
+Griffin Canning,Los Angeles,656288,cannigr01
+Robinson Can\xc3\xb3,"Atlanta,New York,San Diego",429664,canoro01
+Dominic Canzone,"Arizona,Seattle",686527,canzodo01
+Conner Capel,"Cincinnati,Oakland,St. Louis",668843,capelco01
+Vinny Capra,"Milwaukee,Pittsburgh,Toronto",681962,capravi01
+Victor Caratini,"Houston,Milwaukee,San Diego",605170,caratvi01
+Dylan Carlson,"St. Louis,Tampa Bay",666185,carlsdy01
+Kerry Carpenter,Detroit,681481,carpeke01
+Matt Carpenter,"New York,San Diego,St. Louis",572761,carpema01
+Carlos Carrasco,New York,471911,carraca01
+Corbin Carroll,Arizona,682998,carroco02
+Evan Carter,Texas,694497,carteev01
+Curt Casali,"Cincinnati,San Francisco,Seattle",592200,casalcu01
+Triston Casas,Boston,671213,casastr01
+Daniel Castano,Miami,641447,castada01
+Ryan Castellani,Colorado,624418,castery01
+Humberto Castellanos,Arizona,528748,castehu01
+Nick Castellanos,"Cincinnati,Philadelphia",592206,casteni01
+Diego Castillo,"Arizona,Minnesota,Pittsburgh",660636,castidi02
+Erick Castillo,Chicago,602080,castier01
+Ivan Castillo,San Diego,622668,castiiv01
+Luis Castillo,"Cincinnati,Seattle",622491,castilu02
+Harold Castro,"Colorado,Detroit",605612,castrha01
+Jason Castro,Houston,488771,castrja01
+Rodolfo Castro,"Philadelphia,Pittsburgh",666801,castrro01
+Starlin Castro,Washington,516770,castrst01
+Willi Castro,"Detroit,Minnesota",650489,castrwi01
+Jake Cave,"Colorado,Minnesota,Philadelphia",595909,caveja01
+Dylan Cease,Chicago,656302,ceasedy01
+Gilberto Celestino,Minnesota,665482,celesgi01
+Jhoulys Chac\xc3\xadn,Colorado,468504,chacijh01
+Yu Chang,"Boston,Cleveland,Pittsburgh,Tampa Bay",644374,changyu01
+Andr\xc3\xa9s Chaparro,Washington,665953,chapaan01
+Matt Chapman,"Oakland,San Francisco,Toronto",656305,chapmma01
+Tyler Chatwood,San Francisco,543022,chatwty01
+Jesse Chavez,Atlanta,445926,chaveje01
+Michael Chavis,"Boston,Pittsburgh,Washington",656308,chavimi01
+Robinson Chirinos,"Baltimore,Chicago",455139,chiriro01
+Jazz Chisholm Jr.,"Miami,New York",665862,chishja01
+Jiman Choi,"Pittsburgh,San Diego,Tampa Bay",596847,choiji01
+Jackson Chourio,Milwaukee,694192,chourja01
+Adam Cimber,Miami,643256,cimbead01
+Nick Ciuffo,Baltimore,624419,ciuffni01
+Aaron Civale,Cleveland,650644,civalaa01
+Taylor Clarke,Arizona,664199,clarkta01
+Jonatan Clase,"Seattle,Toronto",682729,clasejo01
+Sam Clay,Washington,621348,claysa01
+Garrett Cleavinger,Los Angeles,664076,cleavga01
+Kody Clemens,"Detroit,Philadelphia",665019,clemeko01
+Ernie Clement,"Cleveland,Oakland,Toronto",676391,clemeer01
+Alex Cobb,Los Angeles,502171,cobbal01
+Oscar Col\xc3\xa1s,Chicago,693049,colasos01
+Isaac Collins,Milwaukee,686555,colliis01
+Zack Collins,"Chicago,Cleveland,Pittsburgh,Toronto",641470,colliza01
+Michael Conforto,"New York,San Francisco",624424,confomi01
+Griffin Conine,Miami,665052,coningr01
+Mark Contreras,Minnesota,676628,contrma01
+William Contreras,"Atlanta,Milwaukee",661388,contrwi02
+Willson Contreras,"Chicago,St. Louis",575929,contrwi01
+Billy Cook,Pittsburgh,695257,cookbi01
+Sam Coonrod,Philadelphia,656322,coonrsa01
+Garrett Cooper,"Boston,Chicago,Miami,San Diego",643265,coopega03
+Patrick Corbin,Washington,571578,corbipa01
+Franchy Cordero,"Boston,New York",614173,cordefr02
+Carlos Correa,"Houston,Minnesota",621043,correca01
+Nestor Cortes,New York,641482,cortene01
+Danny Coulombe,Minnesota,543056,couloda01
+Colton Cowser,Baltimore,681297,cowseco01
+Will Craig,Pittsburgh,643269,craigwi01
+Brandon Crawford,"San Francisco,St. Louis",543063,crawfbr01
+J.P. Crawford,Seattle,641487,crawfjp01
+Kutter Crawford,Boston,676710,crawfku01
+Dylan Crews,Washington,686611,crewsdy01
+Nabil Crismatt,San Diego,622503,crismna01
+C.J. Cron,"Colorado,Los Angeles",543068,croncj01
+Jake Cronenworth,San Diego,630105,croneja01
+Narciso Crook,Chicago,643271,crookna01
+Tyler Cropley,Kansas City,680418,croplty01
+Hans Crouse,Philadelphia,668968,crousha01
+Pete Crow-Armstrong,Chicago,691718,crowape01
+Wil Crowe,Pittsburgh,640444,crowewi01
+Nelson Cruz,"Minnesota,San Diego,Tampa Bay,Washington",443558,cruzne02
+Oneil Cruz,Pittsburgh,665833,cruzon01
+Johnny Cueto,San Francisco,456501,cuetojo01
+Charlie Culberson,"Atlanta,Texas",518586,culbech01
+John Curtiss,Miami,595928,curtijo02
+Travis d\'Arnaud,Atlanta,518595,darnatr01
+David Dahl,"Philadelphia,San Diego,Texas",621311,dahlda01
+Bobby Dalbec,Boston,666915,dalbebo01
+Yu Darvish,San Diego,506433,darviyu01
+Matt Davidson,"Arizona,Oakland",571602,davidma02
+Tucker Davidson,Atlanta,656353,davidtu01
+Zach Davies,Chicago,605200,davieza02
+Austin Davis,Boston,656354,davisau01
+Brendon Davis,Detroit,663478,davisbr04
+Henry Davis,Pittsburgh,680779,davishe01
+J.D. Davis,"New York,Oakland,San Francisco",605204,davisjd01
+Jaylin Davis,"Boston,San Francisco",664041,davisja03
+Jonathan Davis,"Miami,Milwaukee,New York,Toronto",641505,davisjo05
+Khris Davis,"Oakland,Texas",501981,daviskh01
+Taylor Davis,Pittsburgh,543089,davista01
+Ronnie Dawson,"Cincinnati,Houston",669008,dawsoro01
+Yonathan Daza,Colorado,602074,dazayo01
+Alex De Goti,Houston,621008,degotal01
+Chase De Jong,Pittsburgh,608328,dejonch01
+Bryan De La Cruz,"Miami,Pittsburgh",650559,delacbr01
+Elly De La Cruz,Cincinnati,682829,delacel01
+Jos\xc3\xa9 De Le\xc3\xb3n,Cincinnati,592254,deleojo03
+Luis De Los Santos,Toronto,665782,deloslu03
+Austin Dean,"San Francisco,St. Louis",621573,deanau01
+Jacob deGrom,New York,594798,degroja01
+Greg Deichmann,Chicago,656364,deichgr01
+Paul DeJong,"Chicago,Kansas City,San Francisco,St. Louis,Toronto",657557,dejonpa01
+Adrian Del Castillo,Arizona,680728,delcaad01
+Jason Delay,Pittsburgh,641511,delayja01
+Zach DeLoach,Chicago,676113,deloaza01
+Jonny DeLuca,"Los Angeles,Tampa Bay",676356,delucjo01
+Ben DeLuzio,St. Louis,641512,deluzbe01
+Travis Demeritte,Atlanta,641513,demertr01
+Anthony DeSclafani,San Francisco,543101,desclan01
+Delino DeShields,Cincinnati,592261,deshide02
+Reid Detmers,Los Angeles,672282,detmere01
+Ross Detwiler,Miami,446321,detwiro01
+Jos\xc3\xa9 Devers,Miami,672701,deverjo01
+Rafael Devers,Boston,646240,deverra01
+Zach Dezenzo,Houston,701305,dezenza01
+Aledmys D\xc3\xadaz,"Houston,Oakland",649557,diazal02
+Elias D\xc3\xadaz,"Colorado,San Diego",553869,diazel01
+Isan D\xc3\xadaz,"Detroit,Miami,San Francisco",656371,diazis01
+Jordan Diaz,Oakland,672478,diazjo03
+Lewin D\xc3\xadaz,Miami,650331,diazle01
+Miguel D\xc3\xadaz,San Diego,622766,diazmi02
+Yainer Diaz,Houston,673237,diazya02
+Yandy D\xc3\xadaz,Tampa Bay,650490,diazya01
+Yennsy D\xc3\xadaz,New York,660546,diazye01
+Yusniel Diaz,Baltimore,666783,diazyu01
+Alex Dickerson,"Atlanta,San Francisco",543105,dickeal01
+Corey Dickerson,"Miami,St. Louis,Toronto,Washington",572816,dickeco01
+Jake Diekman,Oakland,518617,diekmja01
+Wilmer Difo,"Arizona,Pittsburgh",594694,difowi01
+Dillon Dingler,Detroit,693307,dingldi01
+Brandon Dixon,San Diego,641525,dixonbr01
+Jasson Dom\xc3\xadnguez,New York,691176,dominja01
+Josh Donaldson,"Milwaukee,Minnesota,New York",518626,donaljo02
+Brendan Donovan,St. Louis,680977,donovbr01
+Ryan Dorow,Texas,676900,dorowry01
+Jeter Downs,"Boston,Washington",669023,downsje01
+Brenton Doyle,Colorado,686668,doylebr02
+Hunter Dozier,Kansas City,641531,doziehu01
+Logan Driscoll,Tampa Bay,686482,drisclo01
+Brandon Drury,"Cincinnati,Los Angeles,New York,San Diego",592273,drurybr01
+Mauricio Dub\xc3\xb3n,"Houston,San Francisco",643289,dubonma01
+Matt Duffy,"Chicago,Kansas City,Los Angeles,Texas",622110,duffyma01
+Steven Duggar,"Los Angeles,San Francisco,Texas",621453,duggast01
+Joe Dunand,Miami,656388,dunanjo01
+Blake Dunn,Cincinnati,694362,dunnbl01
+Justin Dunn,Seattle,643290,dunnju01
+Oliver Dunn,Milwaukee,686554,dunnol01
+Dane Dunning,Texas,641540,dunnida01
+Jon Duplantier,Arizona,641541,duplajo01
+Ezequiel Duran,Texas,677649,duranez01
+Jarren Duran,Boston,680776,duranja01
+Adam Duvall,"Atlanta,Boston,Miami",594807,duvalad01
+Jarrod Dyson,"Kansas City,Toronto",502481,dysonja01
+Adam Eaton,"Chicago,Los Angeles",594809,eatonad02
+Nate Eaton,Kansas City,681987,eatonna01
+Cam Eden,Toronto,686490,edenca01
+Tommy Edman,"Los Angeles,St. Louis",669242,edmanto01
+Xavier Edwards,Miami,669364,edwarxa01
+Scott Effross,Chicago,664123,effrosc01
+Zach Eflin,Philadelphia,621107,eflinza01
+Jerad Eickhoff,New York,595191,eickhje01
+Seth Elledge,St. Louis,676220,elledse01
+Chris Ellis,Baltimore,595939,ellisch01
+Drew Ellis,"Arizona,Philadelphia,Seattle",656403,ellisdr01
+Duke Ellis,"Chicago,New York",668752,ellisdu01
+Jerar Encarnacion,"Miami,San Francisco",666464,encarje01
+Christian Encarnacion-Strand,Cincinnati,687952,encarch01
+Adam Engel,"Chicago,San Diego",641553,engelad01
+Nathan Eovaldi,Boston,543135,eovalna01
+Alcides Escobar,Washington,444876,escobal02
+Eduardo Escobar,"Arizona,Los Angeles,Milwaukee,New York",500871,escobed01
+Thomas Eshelman,Baltimore,664045,eshelto01
+Santiago Espinal,"Cincinnati,Toronto",669289,espinsa01
+Paolo Espino,Washington,502179,espinpa01
+Thairo Estrada,San Francisco,642731,estrath01
+Phillip Evans,Pittsburgh,595943,evansph01
+Sandro Fabian,Texas,660758,fabiasa01
+Stuart Fairchild,"Arizona,Cincinnati,San Francisco,Seattle",656413,faircst01
+Bailey Falter,Philadelphia,663559,falteba01
+Johneshwy Fargas,"Chicago,New York",641561,fargajo01
+Jake Faria,Arizona,607188,fariaja01
+Kyle Farmer,"Cincinnati,Minnesota",571657,farmeky01
+Erick Fedde,Washington,607200,feddeer01
+Hunter Feduccia,Los Angeles,676439,feduchu01
+Mario Feliciano,Milwaukee,666128,felicma01
+Ryan Feltner,Colorado,663372,feltnry01
+Freddy Fermin,Kansas City,666023,fermifr01
+Jos\xc3\xa9 Ferm\xc3\xadn,St. Louis,665877,fermijo01
+Junior Fern\xc3\xa1ndez,St. Louis,658551,fernaju01
+Derek Fisher,Milwaukee,605233,fishede01
+Tyler Fitzgerald,San Francisco,666149,fitzgty01
+Jack Flaherty,St. Louis,656427,flaheja01
+Josh Fleming,Tampa Bay,676596,flemijo01
+David Fletcher,"Atlanta,Los Angeles",664058,fletcda02
+Dominic Fletcher,"Arizona,Chicago",666150,fletcdo01
+Chris Flexen,Seattle,623167,flexech01
+Wilmer Flores,San Francisco,527038,florewi01
+Estevan Florial,"Cleveland,New York",664314,flories01
+Mike Foltynewicz,Texas,592314,foltymi01
+Mike Ford,"Atlanta,Cincinnati,Los Angeles,New York,San Francisco,Seattle",645801,fordmi01
+Nick Fortes,Miami,663743,forteni01
+Justin Foscue,Texas,679822,foscuju01
+Dexter Fowler,Los Angeles,451594,fowlede01
+Dustin Fowler,Pittsburgh,641583,fowledu01
+Lucius Fox,Washington,665650,foxlu01
+Jake Fraley,"Cincinnati,Seattle",641584,fraleja01
+Ty France,"Cincinnati,Seattle",664034,francty01
+Maikel Franco,"Baltimore,Washington",596748,francma02
+Wander Franco,Tampa Bay,677551,francwa01
+Seth Frankoff,Arizona,571676,frankse01
+Adam Frazier,"Baltimore,Kansas City,Pittsburgh,San Diego,Seattle",624428,fraziad01
+Clint Frazier,"Chicago,New York",640449,frazicl01
+Todd Frazier,Pittsburgh,453943,frazito01
+Kyle Freeland,Colorado,607536,freelky01
+Freddie Freeman,"Atlanta,Los Angeles",518692,freemfr01
+Mike Freeman,Cincinnati,502273,freemmi01
+Tyler Freeman,Cleveland,671289,freemty01
+Sal Frelick,Milwaukee,686217,frelisa01
+Max Fried,Atlanta,608331,friedma01
+TJ Friedl,Cincinnati,670770,friedtj01
+David Fry,Cleveland,681807,fryda01
+Joshua Fuentes,Colorado,658069,fuentjo01
+Carson Fulmer,Cincinnati,608334,fulmeca01
+Michael Fulmer,Chicago,605242,fulmemi01
+Cam Gallagher,"Cleveland,Kansas City",595956,gallaca01
+Zac Gallen,Arizona,668678,galleza01
+Joey Gallo,"Los Angeles,Minnesota,New York,Texas,Washington",608336,gallojo01
+Freddy Galvis,"Baltimore,Philadelphia",520471,galvifr01
+Ben Gamel,"Cleveland,Houston,New York,Pittsburgh,San Diego",592325,gamelbe01
+John Gant,St. Louis,607231,gantjo01
+Adolis Garc\xc3\xada,Texas,666969,garciad02
+Aramis Garcia,"Cincinnati,Oakland,Philadelphia",605244,garciar01
+Avisa\xc3\xadl Garc\xc3\xada,"Miami,Milwaukee",541645,garciav01
+D\xc3\xa9rmis Garc\xc3\xada,Oakland,660650,garcide02
+Jarl\xc3\xadn Garc\xc3\xada,San Francisco,606424,garcija04
+Leury Garc\xc3\xada,Chicago,544725,garcile02
+Luis Garc\xc3\xada Jr.,Washington,671277,garcilu04
+Luis Garcia,Houston,677651,garcilu05
+Maikel Garcia,Kansas City,672580,garcima01
+Robel Garc\xc3\xada,Houston,596825,garciro02
+Rony Garc\xc3\xada,Detroit,665621,garciro03
+Brett Gardner,New York,458731,gardnbr01
+Kyle Garlick,Minnesota,664247,garliky01
+Dustin Garneau,Detroit,572863,garnedu01
+Braxton Garrett,Miami,666129,garrebr01
+Stone Garrett,"Arizona,Washington",656448,garrest01
+Mitch Garver,"Minnesota,Seattle,Texas",641598,garvemi01
+Mickey Gasper,Boston,681508,gaspemi01
+Kevin Gausman,San Francisco,592332,gausmke01
+Zack Gelof,Oakland,680869,gelofza01
+Tyler Gentry,Kansas City,694355,gentrty01
+Domingo Germ\xc3\xa1n,New York,593334,germado01
+Trent Giambrone,Chicago,623508,giambtr01
+Kyle Gibson,"Philadelphia,Texas",502043,gibsoky01
+Tyler Gilbert,Arizona,656457,gilbety01
+Andr\xc3\xa9s Gim\xc3\xa9nez,Cleveland,665926,gimenan01
+Lucas Giolito,Chicago,608337,giolilu01
+Chris Gittens,New York,656467,gittech01
+Mychal Givens,New York,571710,givenmy01
+Tyler Glasnow,Tampa Bay,607192,glasnty01
+Zack Godley,Milwaukee,643327,godleza01
+Jos\xc3\xa9 Godoy,"Minnesota,Pittsburgh,Seattle",608422,godoyjo01
+Paul Goldschmidt,St. Louis,502671,goldspa01
+Austin Gomber,Colorado,596295,gombeau01
+Yan Gomes,"Chicago,Oakland,Washington",543228,gomesya01
+Tony Gonsolin,Los Angeles,664062,gonsoto01
+Marco Gonzales,Seattle,594835,gonzama02
+Nick Gonzales,Pittsburgh,693304,gonzani01
+Chi Chi Gonz\xc3\xa1lez,Colorado,592346,gonzach01
+Erik Gonz\xc3\xa1lez,"Miami,Pittsburgh",570481,gonzaer01
+Luis Gonz\xc3\xa1lez,"Chicago,San Francisco",670768,gonzalu03
+Marwin Gonz\xc3\xa1lez,"Boston,Houston,New York",503556,gonzama01
+Oscar Gonz\xc3\xa1lez,Cleveland,660757,gonzaos01
+Romy Gonzalez,"Boston,Chicago",663853,gonzaro01
+Hunter Goodman,Colorado,696100,goodmhu01
+Niko Goodrum,"Detroit,Houston,Los Angeles,Tampa Bay",592348,goodrni01
+Brian Goodwin,Chicago,571718,goodwbr01
+Nick Gordon,"Miami,Minnesota",624503,gordoni01
+Terrance Gore,New York,605253,gorete01
+Nolan Gorman,St. Louis,669357,gormano01
+Phil Gosselin,"Atlanta,Los Angeles",594838,gosseph01
+Ashton Goudeau,Colorado,623485,goudeas01
+Yasmani Grandal,"Chicago,Pittsburgh",518735,grandya01
+Brusdar Graterol,Los Angeles,660813,gratebr01
+Kendall Graveman,Houston,608665,graveke01
+Jon Gray,Colorado,592351,grayjo02
+Josiah Gray,"Los Angeles,Washington",680686,grayjo03
+Sonny Gray,Cincinnati,543243,grayso01
+Tristan Gray,"Miami,Oakland,Tampa Bay",656484,graytr01
+Riley Greene,Detroit,682985,greenri03
+Didi Gregorius,Philadelphia,544369,gregodi01
+Grayson Greiner,"Arizona,Detroit",606988,greingr01
+Zack Greinke,Houston,425844,greinza01
+Randal Grichuk,"Arizona,Colorado,Los Angeles,Toronto",545341,grichra01
+Trent Grisham,"New York,San Diego",663757,grishtr01
+Vaughn Grissom,"Atlanta,Boston",687093,grissva01
+Jordan Groshans,Miami,677954,groshjo01
+Robbie Grossman,"Atlanta,Chicago,Detroit,Kansas City,Texas",543257,grossro01
+Robert Gsellman,New York,607229,gsellro01
+Javy Guerra,Washington,457915,guerrja01
+Javy Guerra,San Diego,642770,guerrja02
+Junior Guerra,Los Angeles,448855,guerrju02
+Vladimir Guerrero Jr.,Toronto,665489,guerrvl02
+Luis Guillorme,"Arizona,Atlanta,Los Angeles,New York",641645,guilllu01
+Lourdes Gurriel Jr.,"Arizona,Toronto",666971,gurrilo01
+Yuli Gurriel,"Houston,Kansas City,Miami",493329,gourryu01
+Taylor Gushue,Chicago,656494,gushuta01
+Jandel Gustave,Milwaukee,594311,gustaja01
+Dalton Guthrie,Philadelphia,656495,guthrda01
+Kelvin Guti\xc3\xa9rrez,"Baltimore,Kansas City",642721,gutieke01
+Vladimir Gutierrez,Cincinnati,661269,gutievl01
+Ronald Guzm\xc3\xa1n,"New York,Texas",608597,guzmaro01
+Eric Haase,"Cleveland,Detroit,Milwaukee",606992,haaseer01
+Jake Hager,"Arizona,New York",606993,hagerja01
+Sam Haggerty,Seattle,664059,haggesa01
+Darick Hall,Philadelphia,669742,hallda02
+Billy Hamilton,"Chicago,Miami,Minnesota",571740,hamilbi02
+Caleb Hamilton,"Boston,Minnesota",643348,hamilca01
+David Hamilton,Boston,666152,hamilda03
+J.D. Hammer,Philadelphia,670456,hammejd01
+Garrett Hampson,"Colorado,Kansas City,Miami",641658,hampsga01
+Mitch Haniger,"San Francisco,Seattle",571745,hanigmi01
+Ian Happ,Chicago,664023,happia01
+J.A. Happ,St. Louis,457918,happja01
+Bryce Harper,Philadelphia,547180,harpebr03
+Ryne Harper,Washington,607560,harpery01
+Brett Harris,Oakland,695391,harribr02
+Dustin Harris,Texas,687957,harridu01
+Michael Harris II,Atlanta,671739,harrimi04
+Josh Harrison,"Chicago,Oakland,Philadelphia,Washington",543281,harrijo05
+Monte Harrison,"Los Angeles,Miami",656509,harrimo01
+Matt Harvey,Baltimore,518774,harvema01
+Adam Haseley,"Chicago,Philadelphia",656514,haselad01
+Ke\'Bryan Hayes,Pittsburgh,663647,hayeske01
+Austin Hays,"Baltimore,Philadelphia",669720,haysau01
+Andrew Heaney,"Los Angeles,New York",571760,heanean01
+Nick Heath,Arizona,670084,heathni01
+Austin Hedges,"Cleveland,Pittsburgh,Texas",595978,hedgeau01
+Jonah Heim,Texas,641680,heimjo01
+Scott Heineman,Cincinnati,595981,heinesc01
+Tyler Heineman,"Boston,Pittsburgh,Toronto",623168,heinety01
+Michael Helman,Minnesota,680737,helmami01
+Heath Hembree,Cincinnati,592390,hembrhe01
+Gunnar Henderson,Baltimore,683002,hendegu01
+Kyle Hendricks,Chicago,543294,hendrky01
+Liam Hendriks,Chicago,521230,hendrli01
+Ryan Hendrix,Cincinnati,641682,hendrry01
+Payton Henry,Miami,668721,henrypa01
+David Hensley,"Houston,Miami",682073,henslda01
+Sam Hentges,Cleveland,656529,hentgsa01
+Guillermo Heredia,Atlanta,628338,heredgu01
+Michael Hermosillo,Chicago,641684,hermomi01
+Darell Hernaiz,Oakland,687231,hernada04
+Carlos Hern\xc3\xa1ndez,Kansas City,672578,hernaca04
+C\xc3\xa9sar Hern\xc3\xa1ndez,"Chicago,Cleveland,Washington",514917,hernace02
+Elier Hernandez,Texas,609274,hernael02
+Elieser Hern\xc3\xa1ndez,Miami,622694,hernael01
+Enrique Hern\xc3\xa1ndez,"Boston,Los Angeles",571771,hernaen02
+Teoscar Hern\xc3\xa1ndez,"Los Angeles,Seattle,Toronto",606192,hernate01
+Yadiel Hern\xc3\xa1ndez,Washington,628450,hernaya01
+Yonny Hern\xc3\xa1ndez,"Arizona,Los Angeles,Texas",660634,hernayo02
+Iv\xc3\xa1n Herrera,St. Louis,671056,herreiv01
+Jos\xc3\xa9 Herrera,Arizona,645444,herrejo04
+Od\xc3\xbabel Herrera,Philadelphia,546318,herreod01
+David Hess,Miami,605276,hessda01
+Jason Heyward,"Chicago,Houston,Los Angeles",518792,heywaja01
+Brewer Hicklen,"Kansas City,Milwaukee",676551,hicklbr01
+Aaron Hicks,"Baltimore,Los Angeles,New York",543305,hicksaa01
+John Hicks,Texas,543308,hicksjo02
+Kyle Higashioka,"New York,San Diego",543309,higasky01
+P.J. Higgins,Chicago,664731,higgipj01
+Derek Hill,"Detroit,Miami,San Francisco,Texas,Washington",656537,hillde01
+Rich Hill,"New York,Tampa Bay",448179,hillri01
+Sam Hilliard,"Atlanta,Colorado",656541,hillisa01
+Rece Hinds,Cincinnati,677956,hindsre01
+Keston Hiura,"Los Angeles,Milwaukee",669374,hiurake01
+Nico Hoerner,Chicago,663538,hoernni01
+Jeff Hoffman,Cincinnati,656546,hoffmje02
+Bryan Holaday,Arizona,592407,holadbr01
+Jackson Holliday,Baltimore,702616,hollija01
+Jordan Holloway,Miami,656548,hollojo01
+Clay Holmes,Pittsburgh,605280,holmecl01
+Brock Holt,Texas,571788,holtbr01
+TJ Hopkins,Cincinnati,686759,hopkitj01
+Spencer Horwitz,Toronto,687462,horwisp01
+Rhys Hoskins,"Milwaukee,Philadelphia",656555,hoskirh01
+Eric Hosmer,"Boston,Chicago,San Diego",543333,hosmeer01
+Tanner Houck,Boston,656557,houckta01
+Adrian Houser,Milwaukee,605288,housead01
+Spencer Howard,Philadelphia,675921,howarsp01
+Jared Hoying,Toronto,592419,hoyinja01
+Dakota Hudson,St. Louis,641712,hudsoda02
+Joe Hudson,New York,621529,hudsojo03
+Sam Huff,Texas,669087,huffsa01
+Cooper Hummel,"Arizona,Houston,Seattle",669450,hummeco01
+Tommy Hunter,New York,488984,hunteto02
+Scott Hurst,St. Louis,656568,hurstsc01
+Jacob Hurtubise,Cincinnati,674441,hurtuja01
+Drew Hutchison,Detroit,571800,hutchdr01
+Andy Ib\xc3\xa1\xc3\xb1ez,"Detroit,Texas",628451,ibanean01
+Jose Iglesias,"Boston,Colorado,Los Angeles,New York",578428,iglesjo01
+Ender Inciarte,"Atlanta,New York",542255,inciaen01
+Jonathan India,Cincinnati,663697,indiajo01
+Cole Irvin,Oakland,608344,irvinco01
+Kyle Isbel,Kansas City,664728,isbelky01
+Alex Jackson,"Atlanta,Miami,Milwaukee,Tampa Bay",656577,jacksal02
+Andre Jackson,Los Angeles,656578,jacksan01
+Drew Jackson,Oakland,623515,jacksdr01
+Jay Jackson,San Francisco,543351,jacksja01
+Travis Jankowski,"New York,Philadelphia,Seattle,Texas",608671,jankotr01
+Danny Jansen,"Boston,Toronto",643376,janseda01
+Kenley Jansen,Los Angeles,445276,janseke01
+Griffin Jax,Minnesota,643377,jaxgr01
+Jon Jay,Los Angeles,445055,jayjo02
+Ryan Jeffers,Minnesota,680777,jeffery01
+Jake Jewell,Chicago,657228,jewelja01
+Eloy Jim\xc3\xa9nez,"Baltimore,Chicago",650391,jimenel02
+Leo Jimenez,Toronto,677870,jimenle01
+Connor Joe,"Colorado,Pittsburgh",656582,joeco01
+Bryce Johnson,"San Diego,San Francisco",669369,johnsbr03
+Daniel Johnson,"Baltimore,Cleveland",669288,johnsda07
+Greg Jones,Colorado,675659,jonesgr02
+JaCoby Jones,Detroit,592444,jonesja07
+Jahmai Jones,"Baltimore,Milwaukee,New York",663330,jonesja08
+Nate Jones,Los Angeles,518858,jonesna01
+Nolan Jones,"Cleveland,Colorado",666134,jonesno01
+Taylor Jones,Houston,622100,jonesta01
+Levi Jordan,Cincinnati,682119,jordale01
+Matt Joyce,Philadelphia,459964,joycema01
+Aaron Judge,New York,592450,judgeaa01
+Edouard Julien,Minnesota,666397,julieed01
+Corey Julks,"Chicago,Houston",667452,julksco01
+Jace Jung,Detroit,690291,jungja01
+Josh Jung,Texas,673962,jungjo01
+Jakob Junis,Kansas City,596001,junisja01
+Connor Kaiser,Colorado,663731,kaiseco01
+James Kaprielian,Oakland,621076,kaprija01
+Gosuke Katoh,Toronto,641741,katohgo01
+Niko Kavadas,Los Angeles,694359,kavadni01
+Sean Kazmar Jr.,Atlanta,453527,kazmase01
+Scott Kazmir,San Francisco,431148,kazmisc01
+DaShawn Keirsey,Minnesota,680577,keirsda01
+Colt Keith,Detroit,690993,keithco01
+Jarred Kelenic,"Atlanta,Seattle",672284,kelenja01
+Brad Keller,Kansas City,641745,kellebr01
+Mitch Keller,Pittsburgh,656605,kellemi03
+Carson Kelly,"Arizona,Detroit,Texas",608348,kellyca02
+Joe Kelly,Los Angeles,523260,kellyjo05
+Merrill Kelly,Arizona,518876,kellyme01
+Tony Kemp,"Baltimore,Oakland",643393,kempto01
+Buddy Kennedy,"Arizona,Detroit,Philadelphia",671083,kennebu01
+Max Kepler,Minnesota,596146,keplema01
+Clayton Kershaw,Los Angeles,477132,kershcl01
+Grae Kessinger,Houston,666197,kessigr01
+Dallas Keuchel,Chicago,572971,keuchda01
+Carter Kieboom,Washington,666198,kieboca01
+Kevin Kiermaier,"Los Angeles,Tampa Bay,Toronto",595281,kiermke01
+Yusei Kikuchi,Seattle,579328,kikucyu01
+Ha-Seong Kim,San Diego,673490,kimha01
+Kwang Hyun Kim,St. Louis,547942,kimkw01
+Craig Kimbrel,Chicago,518886,kimbrcr01
+Isiah Kiner-Falefa,"New York,Pittsburgh,Texas,Toronto",643396,kineris01
+John King,Texas,667463,kingjo01
+Scott Kingery,Philadelphia,664068,kingesc01
+Alex Kirilloff,Minnesota,666135,kirilal01
+Alejandro Kirk,Toronto,672386,kirkal01
+Patrick Kivlehan,San Diego,623182,kivlepa01
+Heston Kjerstad,Baltimore,677008,kjershe01
+Corey Kluber,New York,446372,klubeco01
+Andrew Knapp,"Philadelphia,Pittsburgh,San Francisco,Seattle",595284,knappan01
+Corey Knebel,Los Angeles,608349,knebeco01
+Reiss Knehr,San Diego,663753,knehrre01
+Andrew Knizner,"St. Louis,Texas",668800,kniznan01
+Grant Koch,Pittsburgh,667428,kochgr01
+Taylor Kohlwey,San Diego,670128,kohlwta01
+Mark Kolozsvary,"Baltimore,Cincinnati",656627,kolozma01
+Michael Kopech,Chicago,656629,kopecmi01
+Pete Kozma,Oakland,518902,kozmape01
+Max Kranick,Pittsburgh,668820,kranima01
+Ryan Kreidler,Detroit,668952,kreidry01
+Jason Krizan,San Francisco,607249,krizaja01
+Jack Kruger,Los Angeles,667674,krugeja01
+Chad Kuhl,Pittsburgh,641771,kuhlch01
+Steven Kwan,Cleveland,680757,kwanst01
+Tommy La Stella,"San Francisco,Seattle",600303,lasteto01
+Tyler Ladendorf,Chicago,502285,ladenty01
+Juan Lagares,Los Angeles,501571,lagarju01
+Ryan LaMarre,New York,534606,lamarry01
+Jake Lamb,"Chicago,Los Angeles,Seattle,Toronto",571875,lambja01
+Peter Lambert,Colorado,663567,lambepe01
+Dinelson Lamet,San Diego,659275,lametdi01
+Shea Langeliers,Oakland,669127,langesh01
+Wyatt Langford,Texas,694671,langfwy01
+Trevor Larnach,Minnesota,663616,larnatr01
+Jack Larsen,Seattle,677223,larseja01
+Eric Lauer,Milwaukee,641778,lauerer01
+Ram\xc3\xb3n Laureano,"Atlanta,Cleveland,Oakland",657656,laurera01
+Ryan Lavarnway,Cleveland,543432,lavarry01
+Bryan Lavastida,Cleveland,681526,lavasbr01
+Jordan Lawlar,Arizona,691783,lawlajo01
+Charles Leblanc,"Los Angeles,Miami",641779,leblach01
+Wade LeBlanc,St. Louis,453281,leblawa01
+Brooks Lee,Minnesota,686797,leebr02
+Jung Hoo Lee,San Francisco,808982,leeju01
+Khalil Lee,New York,666137,leekh01
+Korey Lee,"Chicago,Houston",686676,leeko01
+DJ LeMahieu,New York,518934,lemahdj01
+Pedro Le\xc3\xb3n,Houston,694175,leonpe01
+Sandy Le\xc3\xb3n,"Cleveland,Miami,Minnesota,Texas",506702,leonsa01
+Jon Lester,"St. Louis,Washington",452657,lestejo01
+Josh Lester,"Baltimore,Detroit",623507,lestejo02
+Kyle Lewis,"Arizona,Seattle",641786,lewisky01
+Royce Lewis,Minnesota,668904,lewisro02
+Domingo Leyba,"Arizona,Baltimore",642736,leybado01
+Luis Liberato,San Diego,642451,liberlu01
+Tzu-Wei Lin,Minnesota,624407,lintz02
+Josh Lindblom,Milwaukee,458676,lindbjo01
+Francisco Lindor,New York,596019,lindofr01
+Andre Lipcius,Detroit,686531,lipcian01
+Trey Lipscomb,Washington,702358,lipsctr01
+Zack Littell,San Francisco,641793,litteza01
+Jos\xc3\xa9 Lobat\xc3\xb3n,Chicago,446653,lobatjo01
+Tim Locastro,"Arizona,New York",641796,locasti01
+Tyler Locklear,Seattle,682988,locklty01
+Brandon Lockridge,San Diego,663604,lockrbr01
+Nick Loftin,Kansas City,679845,loftini01
+Sam Long,San Francisco,669674,longsa01
+Shed Long Jr.,Seattle,643418,longsh01
+Evan Longoria,"Arizona,San Francisco",446334,longoev01
+Joey Loperfido,"Houston,Toronto",694388,loperjo01
+Christian Lopes,Oakland,547173,lopesch01
+Tim Lopes,Milwaukee,621005,lopesti01
+Alejo L\xc3\xb3pez,Cincinnati,664670,lopezal03
+Irving Lopez,St. Louis,676761,lopezir01
+Jack L\xc3\xb3pez,"Boston,Los Angeles",605346,lopezja03
+Jorge L\xc3\xb3pez,Baltimore,605347,lopezjo02
+Nicky Lopez,"Atlanta,Chicago,Kansas City",670032,lopezni01
+Otto Lopez,"Miami,Toronto",672640,lopezot01
+Pablo L\xc3\xb3pez,Miami,641154,lopezpa01
+Michael Lorenzen,Cincinnati,547179,lorenmi01
+Brandon Lowe,Tampa Bay,664040,lowebr01
+Josh Lowe,Tampa Bay,666139,lowejo01
+Nathaniel Lowe,Texas,663993,lowena01
+Jed Lowrie,Oakland,476704,lowrije01
+Joey Lucchesi,New York,664192,lucchjo01
+Marco Luciano,San Francisco,682617,luciama01
+Jonathan Lucroy,"Atlanta,Washington",518960,lucrojo01
+Seth Lugo,New York,607625,lugose01
+Nathan Lukes,Toronto,664770,lukesna01
+Jordan Luplow,"Arizona,Cleveland,Minnesota,Tampa Bay,Toronto",656669,luplojo01
+Gavin Lux,Los Angeles,666158,luxga01
+Jes\xc3\xbas Luzardo,"Miami,Oakland",666200,luzarje01
+Jordan Lyles,Texas,543475,lylesjo01
+Lance Lynn,Chicago,458681,lynnla01
+Dixon Machado,San Francisco,553988,machadi01
+Manny Machado,San Diego,592518,machama01
+Vimael Mach\xc3\xadn,Oakland,605353,machivi01
+David MacKinnon,"Los Angeles,Oakland",676950,mackida01
+Lu\xc3\xads Madero,Miami,650347,maderlu01
+Nick Madrigal,Chicago,663611,madrini01
+Bligh Madris,"Detroit,Houston,Pittsburgh",676632,madribl01
+Kenta Maeda,Minnesota,628317,maedake01
+Drew Maggi,Pittsburgh,543482,maggidr01
+Tyler Mahle,Cincinnati,641816,mahlety01
+Luke Maile,"Cincinnati,Cleveland,Milwaukee",571912,mailelu01
+Mart\xc3\xadn Maldonado,"Chicago,Houston",455117,maldoma01
+Justyn-Henry Malloy,Detroit,669234,malloju02
+Sean Manaea,Oakland,640455,manaese01
+Trey Mancini,"Baltimore,Chicago,Houston",641820,mancitr01
+Matt Manning,Detroit,666159,mannima02
+Alek Manoah,Toronto,666201,manoaal01
+Kyle Manzardo,Cleveland,700932,manzaky01
+Tucupita Marcano,"Pittsburgh,San Diego",672779,marcatu01
+Rafael March\xc3\xa1n,Philadelphia,665561,marchra01
+Manuel Margot,"Minnesota,Tampa Bay",622534,margoma01
+Jake Marisnick,"Chicago,Detroit,Los Angeles,Pittsburgh,San Diego",545350,marisja01
+Cade Marlowe,Seattle,687799,marloca01
+Jos\xc3\xa9 Marmolejos,Seattle,592530,marmojo01
+Germ\xc3\xa1n M\xc3\xa1rquez,Colorado,608566,marquge01
+Deven Marrero,"Miami,New York",571918,marrede01
+Brandon Marsh,"Los Angeles,Philadelphia",669016,marshbr02
+Ketel Marte,Arizona,606466,marteke01
+Luis Mart\xc3\xa9,Miami,606336,martelu02
+Noelvi Marte,Cincinnati,682622,marteno01
+Starling Marte,"Miami,New York,Oakland",516782,martest01
+Austin Martin,Minnesota,668885,martiau01
+Corbin Martin,Arizona,656686,martico02
+Jason Martin,Texas,641829,martija03
+Richie Martin,Baltimore,621006,martiri01
+Angel Mart\xc3\xadnez,Cleveland,682657,martian02
+Carlos Mart\xc3\xadnez,St. Louis,593372,martica04
+J.D. Martinez,"Boston,Los Angeles,New York",502110,martijd02
+J.P. Mart\xc3\xadnez,"Atlanta,Texas",679881,martijp01
+Orelvis Martinez,Toronto,682619,martior01
+Nick Martini,"Chicago,Cincinnati",605361,martini02
+Michael Massey,Kansas City,686681,massemi02
+Miles Mastrobuoni,"Chicago,Tampa Bay",670156,mastrmi01
+Jorge Mateo,"Baltimore,San Diego",622761,mateojo01
+Mark Mathias,"Milwaukee,Pittsburgh,San Francisco,Texas",664029,mathima01
+Jeff Mathis,Atlanta,425772,mathije01
+Wyatt Mathisen,Arizona,621500,mathiwy01
+J.J. Matijevic,Houston,656695,matijjj01
+Nick Maton,"Baltimore,Detroit,Philadelphia",665155,matonni01
+Phil Maton,Cleveland,664208,matonph01
+Luis Matos,San Francisco,682641,matoslu02
+Steven Matz,Toronto,571927,matzst01
+Ronny Mauricio,New York,677595,mauriro01
+Dustin May,Los Angeles,669160,maydu01
+Cameron Maybin,New York,457727,maybica01
+Jack Mayfield,"Los Angeles,Seattle",608686,mayfija01
+Coby Mayo,Baltimore,691723,mayoco01
+Nomar Mazara,"Detroit,San Diego",608577,mazarno01
+Patrick Mazeika,New York,664850,mazeipa01
+Ryan McBroom,Kansas City,643436,mcbrory01
+James McCann,"Baltimore,New York",543510,mccanja02
+Kyle McCann,Oakland,668832,mccanky01
+Jake McCarthy,Arizona,664983,mccarja02
+Darren McCaughan,Seattle,670766,mccauda01
+Chas McCormick,Houston,676801,mccorch01
+Mason McCoy,"San Diego,Toronto",669200,mccoyma01
+Grant McCray,San Francisco,687529,mccragr01
+Lance McCullers Jr.,Houston,621121,mcculla02
+Andrew McCutchen,"Milwaukee,Philadelphia,Pittsburgh",457705,mccutan01
+Mickey McDonald,Oakland,676782,mcdonmi01
+Scott McGough,Arizona,543518,mcgousc01
+Kyle McGowin,Washington,641851,mcgowky01
+Reese McGuire,"Boston,Chicago,Toronto",624512,mcguire01
+Ryan McKenna,"Baltimore,San Francisco",663630,mckenry01
+Triston McKenzie,Cleveland,663474,mckentr01
+Billy McKinney,"Los Angeles,Milwaukee,New York,Oakland,Pittsburgh",641856,mckinbi01
+Zach McKinstry,"Chicago,Detroit,Los Angeles",656716,mckinza01
+Matt McLain,Cincinnati,680574,mclaima01
+Ryan McMahon,Colorado,641857,mcmahry01
+Jeff McNeil,New York,643446,mcneije01
+Curtis Mead,Tampa Bay,678554,meadcu01
+Austin Meadows,"Detroit,Tampa Bay",640457,meadoau01
+Parker Meadows,Detroit,678009,meadopa01
+John Means,Baltimore,607644,meansjo01
+Nick Mears,Pittsburgh,683232,mearsni01
+Wade Meckler,San Francisco,685133,mecklwa01
+Adonis Medina,Philadelphia,658431,medinad01
+Tylor Megill,New York,656731,megilty01
+Francisco Mejia,Tampa Bay,642336,mejiafr01
+Humberto Mej\xc3\xada,Arizona,650668,mejiahu01
+J.C. Mej\xc3\xada,Cleveland,650496,mejiaje02
+Mark Melancon,San Diego,453343,melanma01
+MJ Melendez,Kansas City,669004,melenmj01
+Danny Mendick,"Chicago,New York",664901,mendida01
+Joey Meneses,Washington,608841,menesjo01
+\xc3\x93scar Mercado,"Cleveland,Philadelphia,St. Louis",640458,mercaos01
+Yerm\xc3\xadn Mercedes,"Chicago,San Francisco",606213,merceye01
+Jordy Mercer,Washington,474568,mercejo03
+Whit Merrifield,"Atlanta,Kansas City,Philadelphia,Toronto",593160,merriwh01
+Jackson Merrill,San Diego,701538,merrija01
+Matt Mervis,Chicago,670223,mervima01
+Jake Meyers,Houston,676694,meyerja02
+Miles Mikolas,St. Louis,571945,mikolmi01
+Wade Miley,Cincinnati,489119,mileywa01
+Drew Millas,Washington,686452,milladr01
+Brad Miller,"Philadelphia,Texas",543543,millebr02
+Brian Miller,Miami,675649,millebr03
+Owen Miller,"Cleveland,Milwaukee",680911,milleow01
+Shelby Miller,"Los Angeles,Pittsburgh",571946,millesh01
+Alec Mills,Chicago,621219,millsal02
+Hoby Milner,Milwaukee,571948,milneho01
+Mike Minor,Kansas City,501985,minormi01
+A.J. Minter,Atlanta,621345,minteaj01
+Jos\xc3\xa9 Miranda,Minnesota,669304,miranjo01
+Kameron Misner,Tampa Bay,670224,misneka01
+Calvin Mitchell,Pittsburgh,668751,mitchca01
+Garrett Mitchell,Milwaukee,669003,mitchga01
+Casey Mize,Detroit,663554,mizeca01
+Yadier Molina,St. Louis,425877,molinya01
+Andruw Monasterio,Milwaukee,655316,monasan01
+Yo\xc3\xa1n Moncada,Chicago,660162,moncayo01
+Adalberto Mondes\xc3\xad,Kansas City,609275,mondera02
+Nate Mondou,Oakland,670148,mondona01
+Mickey Moniak,"Los Angeles,Philadelphia",666160,moniami01
+Frankie Montas,Oakland,593423,montafr02
+Elehuris Montero,Colorado,660707,monteel01
+Coco Montes,Colorado,663796,monteco01
+Jordan Montgomery,New York,656756,montgjo01
+Dylan Moore,Seattle,664238,mooredy01
+Matt Moore,Philadelphia,519043,moorema02
+Colin Moran,"Cincinnati,Pittsburgh",592567,moranco01
+Adri\xc3\xa1n Morej\xc3\xb3n,San Diego,670970,morejad01
+Christopher Morel,"Chicago,Tampa Bay",666624,morelch01
+Mitch Moreland,Oakland,519048,morelmi01
+Gabriel Moreno,"Arizona,Toronto",672515,morenga01
+Eli Morgan,Cleveland,669212,morgael01
+Shawn Morimando,Miami,596049,morimsh01
+Max Moroff,St. Louis,621559,morofma01
+Charlie Morton,Atlanta,450203,mortoch02
+Taylor Motter,"Boston,Cincinnati,Colorado,St. Louis",600301,motteta01
+Ryan Mountcastle,Baltimore,663624,mountry01
+Mike Moustakas,"Cincinnati,Colorado,Los Angeles",519058,moustmi01
+Kyle Muller,Atlanta,666205,mulleky01
+Cedric Mullins,Baltimore,656775,mullice01
+Max Muncy,Los Angeles,571970,muncyma01
+Yairo Mu\xc3\xb1oz,"Boston,Philadelphia",622168,munozya01
+Patrick Murphy,Washington,641907,murphpa02
+Sean Murphy,"Atlanta,Oakland",669221,murphse01
+Tom Murphy,"San Francisco,Seattle",608596,murphto04
+Joe Musgrove,San Diego,605397,musgrjo01
+S\xc3\xadmon Muzziotti,Philadelphia,665922,muzzisi01
+Dane Myers,Miami,667472,myersda01
+Wil Myers,"Cincinnati,San Diego",571976,myerswi01
+Tommy Nance,Chicago,667297,nanceto01
+Tyler Naquin,"Chicago,Cincinnati,New York",571980,naquity01
+Carlos Narv\xc3\xa1ez,New York,665966,narvaca01
+Omar Narv\xc3\xa1ez,"Milwaukee,New York",553882,narvaom01
+Packy Naughton,Los Angeles,676050,naughpa01
+Bo Naylor,Cleveland,666310,naylobo01
+Josh Naylor,Cleveland,647304,naylojo01
+Nick Neidert,Miami,663734,neideni01
+Jimmy Nelson,Los Angeles,519076,nelsoji02
+H\xc3\xa9ctor Neris,Philadelphia,593576,nerishe01
+Zach Neto,Los Angeles,687263,netoza01
+Sheldon Neuse,"Los Angeles,Oakland",641914,neusesh01
+Tyler Nevin,"Baltimore,Detroit,Oakland",663527,nevinty01
+Sean Newcomb,Atlanta,656794,newcose01
+Kevin Newman,"Arizona,Cincinnati,Pittsburgh",621028,newmake01
+Tom\xc3\xa1s Nido,"Chicago,New York",621512,nidoto01
+Brandon Nimmo,New York,607043,nimmobr01
+Ryan Noda,Oakland,676116,nodary01
+Jhonkensy Noel,Cleveland,678877,noeljh01
+Stephen Nogosek,New York,668665,nogosst01
+John Nogowski,"Pittsburgh,St. Louis",596056,nogowjo01
+Aaron Nola,Philadelphia,605400,nolaaa01
+Austin Nola,San Diego,543592,nolaau01
+Sean Nolin,Washington,543594,nolinse01
+Lars Nootbaar,St. Louis,663457,nootbla01
+Connor Norby,"Baltimore,Miami",681393,norbyco01
+Daniel Norris,Milwaukee,596057,norrida01
+Jacob Nottingham,"Milwaukee,Seattle",641924,nottija01
+Dom Nu\xc3\xb1ez,Colorado,624513,nunezdo01
+Nasim Nu\xc3\xb1ez,Washington,683083,nunezna01
+Renato N\xc3\xba\xc3\xb1ez,Detroit,600524,nunezre01
+Brian O\'Grady,San Diego,657434,ogradbr01
+Ryan O\'Hearn,"Baltimore,Kansas City",656811,ohearry01
+Logan O\'Hoppe,Los Angeles,681351,ohopplo01
+Brian O\'Keefe,Seattle,657247,okeefbr01
+Tyler O\'Neill,"Boston,St. Louis",641933,oneilty01
+Bailey Ober,Minnesota,641927,oberba01
+Joseph Odom,Tampa Bay,641929,odomjo01
+Rougned Odor,"Baltimore,New York,San Diego",596059,odorro01
+Jake Odorizzi,Houston,543606,odorija01
+Shohei Ohtani,Los Angeles,660271,ohtansh01
+Steven Okert,Miami,595345,okertst01
+Chris Okey,"Cincinnati,Los Angeles",608360,okeych01
+Jared Oliva,Pittsburgh,666931,olivaja01
+Edward Olivares,"Kansas City,Pittsburgh",658668,olivaed02
+Matt Olson,"Atlanta,Oakland",621566,olsonma02
+Jonathan Ornelas,Texas,680716,orneljo01
+Rafael Ortega,"Chicago,New York",542364,ortegra01
+Joey Ortiz,"Baltimore,Milwaukee",687401,ortizjo06
+Corey Oswalt,New York,621261,oswalco01
+James Outman,Los Angeles,681546,outmaja01
+Connor Overton,Pittsburgh,656818,overtco01
+Johan Oviedo,St. Louis,670912,oviedjo01
+Hunter Owen,Pittsburgh,670462,owenhu01
+Chris Owings,"Baltimore,Colorado,Pittsburgh",572008,owingch01
+Marcell Ozuna,Atlanta,542303,ozunama01
+Cristian Pache,"Atlanta,Baltimore,Miami,Oakland,Philadelphia",665506,pachecr01
+Chris Paddack,San Diego,663978,paddach01
+Kevin Padlo,"Los Angeles,Pittsburgh,San Francisco,Seattle,Tampa Bay",656821,padloke01
+Emilio Pag\xc3\xa1n,San Diego,641941,paganem01
+Andy Pages,Los Angeles,681624,pagesan01
+Pedro Pag\xc3\xa9s,St. Louis,686780,pagespe02
+Jermaine Palacios,Minnesota,650339,palacje01
+Joshua Palacios,"Pittsburgh,Toronto,Washington",641943,palacjo01
+Richie Palacios,"Cleveland,St. Louis,Tampa Bay",680700,palacri01
+Joe Panik,"Miami,Toronto",605412,panikjo01
+Michael Papierski,"Cincinnati,San Francisco",657709,papiemi01
+Isaac Paredes,"Chicago,Detroit,Tampa Bay",670623,paredis01
+Kyren Paris,Los Angeles,677347,parisky01
+Hoy Park,"New York,Pittsburgh",660829,parkho01
+Gerardo Parra,Washington,467827,parrage01
+Vinnie Pasquantino,Kansas City,686469,pasquvi01
+Graham Pauley,San Diego,688363,paulegr01
+Tyler Payne,Chicago,665066,paynety01
+Mark Payton,"Chicago,Cincinnati",592622,paytoma01
+Matt Peacock,Arizona,676840,peacoma01
+Joc Pederson,"Arizona,Atlanta,Chicago,San Francisco",592626,pederjo01
+Liover Peguero,Pittsburgh,678894,pegueli01
+Jeremy Pe\xc3\xb1a,Houston,665161,penaje02
+David Peralta,"Arizona,Los Angeles,San Diego,Tampa Bay",444482,peralda01
+Freddy Peralta,Milwaukee,642547,peralfr01
+Wily Peralta,Detroit,503449,peralwi01
+Jos\xc3\xa9 Peraza,New York,606299,perazjo01
+Oswald Peraza,New York,672724,perazos02
+Geraldo Perdomo,Arizona,672695,perdoge01
+Jhonny Pereda,Miami,640902,peredjh01
+Everson Pereira,New York,677592,pereiev01
+Carlos P\xc3\xa9rez,Oakland,542208,perezca02
+Carlos P\xc3\xa9rez,Chicago,656024,perezca03
+Cionel P\xc3\xa9rez,Cincinnati,672335,perezci01
+Hern\xc3\xa1n P\xc3\xa9rez,Washington,541650,perezhe01
+Joe Perez,Houston,669309,perezjo02
+Mart\xc3\xadn P\xc3\xa9rez,Boston,527048,perezma02
+Michael P\xc3\xa9rez,"New York,Pittsburgh",605421,perezmi03
+Roberto P\xc3\xa9rez,"Cleveland,Pittsburgh,San Francisco",547379,perezro02
+Salvador Perez,Kansas City,521692,perezsa02
+Wenceel P\xc3\xa9rez,Detroit,672761,perezwe01
+Blake Perkins,Milwaukee,663368,perkibl01
+Dillon Peters,Pittsburgh,596071,peterdi01
+DJ Peters,"Los Angeles,Texas",656847,peterdj01
+David Peterson,New York,656849,peterda01
+Jace Peterson,"Arizona,Milwaukee,Oakland",607054,peterja01
+Tommy Pham,"Arizona,Boston,Chicago,Cincinnati,Kansas City,New York,San Diego,St. Louis",502054,phamth01
+Brett Phillips,"Baltimore,Los Angeles,Tampa Bay",621433,phillbr02
+Evan Phillips,Los Angeles,623465,phillev01
+Kevin Pillar,"Atlanta,Chicago,Los Angeles,New York",607680,pillake01
+Manny Pi\xc3\xb1a,"Atlanta,Milwaukee,Oakland",444489,pinama01
+Chad Pinder,Oakland,640461,pindech01
+Israel Pineda,Washington,672832,pinedis01
+Michael Pineda,Minnesota,501381,pinedmi01
+Ren\xc3\xa9 Pinto,Tampa Bay,650907,pintore02
+Stephen Piscotty,Oakland,572039,piscost01
+Nick Pivetta,Boston,601713,pivetni01
+Kevin Plawecki,"Boston,Texas",608700,plaweke01
+Nick Plummer,New York,663911,plummni01
+Gregory Polanco,Pittsburgh,570256,polangr01
+Jorge Polanco,"Minnesota,Seattle",593871,polanjo01
+AJ Pollock,"Chicago,Los Angeles,San Francisco,Seattle",572041,polloaj01
+Daniel Ponce de Leon,St. Louis,594965,ponceda01
+Cody Ponce,Pittsburgh,664074,ponceco01
+Zach Pop,Miami,647315,popza01
+Sean Poppen,Pittsburgh,664092,poppese01
+Logan Porter,Kansas City,682515,portelo01
+Buster Posey,San Francisco,457763,poseybu01
+Cody Poteet,Miami,547001,poteeco01
+Yohel Pozo,Texas,650968,pozoyo01
+Nick Pratto,Kansas City,668472,prattni01
+David Price,Los Angeles,456034,priceda01
+Ford Proctor,San Francisco,665154,proctfo01
+Jurickson Profar,"Colorado,San Diego",595777,profaju01
+Albert Pujols,"Los Angeles,St. Louis",405395,pujolal01
+Cal Quantrill,Cleveland,615698,quantca01
+Juniel Querecuto,St. Louis,578570,quereju01
+Roman Quinn,"Philadelphia,Tampa Bay",596451,quinnro01
+Jose Quintana,San Francisco,500779,quintjo01
+Esteban Quiroz,Chicago,606019,quiroes01
+Ceddanne Rafaela,Boston,678882,rafaece01
+Cal Raleigh,Seattle,663728,raleica01
+Luke Raley,"Los Angeles,Seattle,Tampa Bay",670042,raleylu01
+Harold Ram\xc3\xadrez,"Cleveland,Tampa Bay,Washington",623912,ramirha02
+Jos\xc3\xa9 Ram\xc3\xadrez,Cleveland,608070,ramirjo01
+Nick Ramirez,San Diego,598286,ramirni01
+Yefry Ram\xc3\xadrez,Los Angeles,606162,ramirye01
+Bryan Ramos,Chicago,682868,ramosbr01
+Heliot Ramos,San Francisco,671218,ramoshe02
+Henry Ramos,"Arizona,Cincinnati",592656,ramoshe01
+Wilson Ramos,"Cleveland,Detroit",467092,ramoswi01
+Drew Rasmussen,"Milwaukee,Tampa Bay",656876,rasmudr01
+Corey Ray,Milwaukee,641999,rayco01
+Robbie Ray,Toronto,592662,rayro02
+Colin Rea,Milwaukee,607067,reaco01
+J.T. Realmuto,Philadelphia,592663,realmjt01
+Josh Reddick,Arizona,502210,reddijo01
+Jake Reed,New York,596082,reedja02
+Jakson Reetz,"San Francisco,Washington",656883,reetzja01
+Rob Refsnyder,"Boston,Minnesota",608701,refsnro01
+Sean Reid-Foley,New York,656887,reidfse01
+Zach Reks,"Los Angeles,Texas",676646,reksza01
+Zach Remillard,Chicago,621545,remilza01
+Anthony Rendon,Los Angeles,543685,rendoan01
+Hunter Renfroe,"Boston,Cincinnati,Kansas City,Los Angeles,Milwaukee",592669,renfrhu01
+Luis Rengifo,Los Angeles,650859,rengilu01
+Alex Reyes,St. Louis,621052,reyesal02
+Franmil Reyes,"Chicago,Cleveland,Kansas City",614177,reyesfr01
+Pablo Reyes,"Boston,Milwaukee,New York",622569,reyespa01
+V\xc3\xadctor Reyes,Detroit,622682,reyesvi01
+Bryan Reynolds,Pittsburgh,668804,reynobr01
+Matt Reynolds,"Cincinnati,New York",608703,reynoma03
+Ben Rice,New York,700250,ricebe01
+Garrett Richards,Boston,572070,richaga01
+Trevor Richards,Milwaukee,670950,richatr01
+JT Riddle,"Cincinnati,Minnesota",595375,riddljt01
+Austin Riley,Atlanta,663586,rileyau01
+Edwin R\xc3\xados,"Chicago,Cincinnati,Los Angeles",621458,riosed01
+Alfonso Rivas III,"Chicago,Pittsburgh,San Diego",663845,rivasal01
+Leo Rivas,Seattle,660844,rivasle01
+Webster Rivas,San Diego,593590,rivaswe01
+Emmanuel Rivera,"Arizona,Baltimore,Kansas City,Miami",656896,riverem01
+Ren\xc3\xa9 Rivera,"Cleveland,Washington",425784,riverre01
+Sebasti\xc3\xa1n Rivero,Kansas City,665861,riverse01
+Anthony Rizzo,"Chicago,New York",519203,rizzoan01
+Luis Robert Jr.,Chicago,673357,roberlu01
+Daniel Robertson,Milwaukee,621002,roberda10
+David Robertson,Chicago,502085,roberda08
+Kramer Robertson,St. Louis,670298,roberkr01
+Chuckie Robinson,"Chicago,Cincinnati",642020,robinch04
+V\xc3\xadctor Robles,"Seattle,Washington",645302,roblevi01
+Jacob Robson,Detroit,615699,robsoja01
+Brayan Rocchio,Cleveland,677587,rocchbr01
+Brendan Rodgers,Colorado,663898,rodgebr02
+Carlos Rod\xc3\xb3n,Chicago,607074,rodonca01
+Eduardo Rodr\xc3\xadguez,Boston,593958,rodried05
+Endy Rodr\xc3\xadguez,Pittsburgh,682848,rodrien01
+Jefry Rodr\xc3\xadguez,Washington,622446,rodrije01
+Johnathan Rodr\xc3\xadguez,Cleveland,671286,rodrijo10
+Jos\xc3\xa9 Rodriguez,Chicago,679563,rodrijo09
+Julio Rodr\xc3\xadguez,Seattle,677594,rodriju01
+Manuel Rodr\xc3\xadguez,Chicago,655889,rodrima01
+Jake Rogers,Detroit,668670,rogerja03
+Josh Rogers,Washington,642028,rogerjo01
+Trevor Rogers,Miami,669432,rogertr01
+Johan Rojas,Philadelphia,679032,rojasjo03
+Jose Rojas,Los Angeles,670351,rojasjo02
+Josh Rojas,"Arizona,Seattle",668942,rojasjo01
+Miguel Rojas,"Los Angeles,Miami",500743,rojasmi02
+Chris Roller,Milwaukee,676896,rollech01
+Sal Romano,Cincinnati,607219,romansa01
+Andrew Romine,Chicago,461865,rominan01
+Austin Romine,"Chicago,Cincinnati,Los Angeles,St. Louis",519222,rominau01
+Drew Romo,Colorado,691011,romodr01
+Jos\xc3\xa9 Rond\xc3\xb3n,St. Louis,602922,rondojo02
+Brent Rooker,"Kansas City,Minnesota,Oakland,San Diego",667670,rookebr01
+Ben Rortvedt,"Minnesota,New York,Tampa Bay",666163,rortvbe01
+Amed Rosario,"Cincinnati,Cleveland,Los Angeles,Tampa Bay",642708,rosaram01
+Eddie Rosario,"Atlanta,Cleveland,Washington",592696,rosared01
+Eguy Rosario,San Diego,666703,rosareg01
+Joe Ross,Washington,605452,rossjo01
+Ram\xc3\xb3n Rosso,Philadelphia,665759,rossora01
+Michael Rucker,Chicago,621074,ruckemi01
+Darin Ruf,"Milwaukee,New York,San Francisco",573131,rufda01
+Esteury Ruiz,"Milwaukee,Oakland,San Diego",665923,ruizes01
+Jos\xc3\xa9 Ruiz,Chicago,614179,ruizjo01
+Keibert Ruiz,"Los Angeles,Washington",660688,ruizke01
+Rio Ruiz,"Baltimore,Colorado",547004,ruizri01
+Blake Rutherford,Washington,666164,ruthebl01
+Adley Rutschman,Baltimore,668939,rutscad01
+Joe Ryan,Minnesota,657746,ryanjo04
+Kyle Ryan,Chicago,594986,ryanky01
+Hyun Jin Ryu,Toronto,547943,ryuhy01
+Blake Sabol,San Francisco,666165,sabolbl01
+Thomas Saggese,St. Louis,695336,saggeth01
+C\xc3\xa9sar Salazar,Houston,663967,salazce01
+Chris Sale,Boston,519242,salech01
+Adrian Sampson,Chicago,592716,sampsad01
+Aaron Sanchez,San Francisco,592717,sanchaa01
+Adri\xc3\xa1n S\xc3\xa1nchez,Washington,506703,sanchad01
+Ali S\xc3\xa1nchez,"Miami,St. Louis",645305,sanchal04
+Gary S\xc3\xa1nchez,"Milwaukee,Minnesota,New York,San Diego",596142,sanchga02
+Jes\xc3\xbas S\xc3\xa1nchez,Miami,660821,sanchje02
+Miguel S\xc3\xa1nchez,Milwaukee,667376,sanchmi01
+Yolmer Sanchez,"Boston,New York",570560,sanchca01
+Pablo Sandoval,Atlanta,467055,sandopa01
+Patrick Sandoval,Los Angeles,663776,sandopa02
+Donny Sands,Philadelphia,664848,sandsdo01
+Reiver Sanmartin,Cincinnati,665665,sanmare01
+Miguel San\xc3\xb3,"Los Angeles,Minnesota",593934,sanomi01
+Javier Sanoja,Miami,691594,sanojja01
+Carlos Santana,"Kansas City,Milwaukee,Minnesota,Pittsburgh,Seattle",467793,santaca01
+Danny Santana,Boston,542454,santada01
+Dennis Santana,Los Angeles,642701,santade01
+Edgar Santana,Atlanta,650828,santaed01
+Anthony Santander,Baltimore,623993,santaan02
+Tony Santillan,Cincinnati,663574,santito01
+Josh Sborz,Texas,622250,sborzjo01
+Nolan Schanuel,Los Angeles,694384,schanno01
+Scott Schebler,Los Angeles,594988,schebsc01
+Max Scherzer,"Los Angeles,Washington",453286,scherma01
+Clarke Schmidt,New York,657376,schmicl01
+Casey Schmitt,San Francisco,669477,schmica01
+Daniel Schneemann,Cleveland,682177,schneda04
+Davis Schneider,Toronto,676914,schneda03
+Jonathan Schoop,Detroit,570731,schoojo01
+Max Schrock,Cincinnati,621011,schroma01
+Max Schuemann,Oakland,680474,schuema01
+Aaron Schunk,Colorado,668845,schunaa01
+Kyle Schwarber,"Boston,Philadelphia,Washington",656941,schwaky01
+Frank Schwindel,"Chicago,Oakland",643524,schwifr01
+Victor Scott II,St. Louis,687363,scottvi01
+Corey Seager,"Los Angeles,Texas",608369,seageco01
+Kyle Seager,Seattle,572122,seageky01
+Chandler Seagle,San Diego,676882,seaglch01
+Jean Segura,"Miami,Philadelphia",516416,segurje01
+Sam Selman,San Francisco,572125,selmasa01
+Marcus Semien,"Texas,Toronto",543760,semiema01
+Antonio Senzatela,Colorado,622608,senzaan01
+Nick Senzel,"Chicago,Cincinnati,Washington",669222,senzeni01
+Brian Serven,"Colorado,Toronto",661531,servebr01
+Pedro Severino,"Baltimore,Milwaukee",600474,severpe01
+Travis Shaw,"Boston,Milwaukee",543768,shawtr01
+Gavin Sheets,Chicago,657757,sheetga01
+Justus Sheffield,Seattle,656954,sheffju01
+Austin Shenton,Tampa Bay,668853,shentau01
+James Sherfy,Los Angeles,642073,sherfji01
+Braden Shewmake,"Atlanta,Chicago",669699,shewmbr01
+Zack Short,"Atlanta,Boston,Detroit,New York",670097,shortza01
+Michael Siani,"Cincinnati,St. Louis",672279,sianimi01
+Magneuris Sierra,"Los Angeles,Miami",642423,sierrma01
+Andrelton Simmons,"Chicago,Minnesota",592743,simmoan01
+Lucas Sims,Cincinnati,608371,simslu01
+Jon Singleton,"Houston,Milwaukee",572138,singljo02
+Jose Siri,"Houston,Tampa Bay",642350,sirijo01
+Chance Sisco,"Baltimore,New York",642082,siscoch01
+Tarik Skubal,Detroit,669373,skubata01
+Austin Slater,"Baltimore,Cincinnati,San Francisco",596103,slateau01
+Caleb Smith,Arizona,592761,smithca03
+Dominic Smith,"Boston,Cincinnati,New York,Washington",642086,smithdo02
+Drew Smith,New York,622098,smithdr01
+Josh Smith,Texas,669701,smithjo11
+Kevan Smith,"Atlanta,Tampa Bay",607345,smithke04
+Kevin Smith,"New York,Oakland,Toronto",675656,smithke05
+Pavin Smith,Arizona,656976,smithpa04
+Riley Smith,Arizona,642092,smithri01
+Will Smith,Los Angeles,669257,smithwi05
+Canaan Smith-Njigba,Pittsburgh,675986,smithca05
+Drew Smyly,Atlanta,592767,smylydr01
+Blake Snell,San Diego,605483,snellbl01
+Tyler Soderstrom,Oakland,691016,soderty01
+Eric Sogard,Chicago,519299,sogarer01
+Nick Sogard,Boston,686765,sogarni01
+Nick Solak,"Atlanta,Detroit,Texas",669256,solakni01
+Donovan Solano,"Cincinnati,Minnesota,San Diego,San Francisco",456781,solando01
+Jorge Soler,"Atlanta,Kansas City,Miami,San Francisco",624585,solerjo01
+Edmundo Sosa,"Philadelphia,St. Louis",624641,sosaed01
+Lenyn Sosa,Chicago,672820,sosale01
+Juan Soto,"New York,San Diego,Washington",665742,sotoju01
+Livan Soto,"Baltimore,Cincinnati,Los Angeles",670869,sotoli01
+Steven Souza Jr.,"Los Angeles,Seattle",519306,souzast01
+Cory Spangenberg,St. Louis,605486,spangco01
+George Springer,Toronto,543807,springe01
+Jacob Stallings,"Colorado,Miami,Pittsburgh",607732,stallja01
+Craig Stammen,San Diego,489334,stammcr01
+Giancarlo Stanton,New York,519317,stantmi03
+Max Stassi,Los Angeles,545358,stassma01
+Justin Steele,Chicago,657006,steelju01
+Spencer Steer,Cincinnati,668715,steersp01
+Michael Stefanic,Los Angeles,683021,stefami01
+Tyler Stephenson,Cincinnati,663886,stephty01
+Andrew Stevenson,"Minnesota,Washington",664057,stevean01
+Cal Stevenson,"Oakland,Philadelphia,San Francisco",670276,steveca01
+DJ Stewart,"Baltimore,New York",621466,stewadj01
+Kohl Stewart,Chicago,640464,stewako01
+Robert Stock,"Chicago,New York",476594,stockro01
+Troy Stokes Jr.,Pittsburgh,657011,stoketr01
+Trevor Story,"Boston,Colorado",596115,storytr01
+Bryson Stott,Philadelphia,681082,stottbr01
+Kyle Stowers,"Baltimore,Miami",669065,stoweky01
+Dee Strange-Gordon,Washington,543829,gordode01
+Stephen Strasburg,Washington,544931,strasst01
+Chris Stratton,Pittsburgh,608717,stratch01
+Myles Straw,"Cleveland,Houston",664702,strawmy01
+Hunter Strickland,Milwaukee,519326,strichu01
+Spencer Strider,Atlanta,675911,stridsp01
+Ross Stripling,Toronto,548389,stripro01
+Marcus Stroman,New York,573186,stromma01
+Garrett Stubbs,"Houston,Philadelphia",596117,stubbga01
+Eugenio Su\xc3\xa1rez,"Arizona,Cincinnati,Seattle",553993,suareeu01
+Jos\xc3\xa9 Suarez,Los Angeles,660761,suarejo01
+Ranger Su\xc3\xa1rez,Philadelphia,624133,suarera01
+Wander Suero,Washington,593833,suerowa01
+Brett Sullivan,San Diego,664954,sullibr01
+Brent Suter,Milwaukee,608718,suterbr01
+Jack Suwinski,Pittsburgh,669261,suwinja01
+Kurt Suzuki,Los Angeles,435559,suzukku01
+Seiya Suzuki,Chicago,673548,suzukse01
+Travis Swaggerty,Pittsburgh,680552,swaggtr01
+Dansby Swanson,"Atlanta,Chicago",621020,swansda01
+Trey Sweeney,Detroit,700242,sweentr01
+Thomas Szapucki,New York,663378,szaputh01
+Jameson Taillon,New York,592791,taillja01
+Raimel Tapia,"Boston,Colorado,Milwaukee,Tampa Bay,Toronto",606132,tapiara01
+Fernando Tatis Jr.,San Diego,665487,tatisfe02
+Mike Tauchman,"Chicago,New York,San Francisco",643565,tauchmi01
+Leody Taveras,Texas,665750,taverle01
+Chris Taylor,Los Angeles,621035,tayloch03
+Michael A. Taylor,"Kansas City,Minnesota,Pittsburgh",572191,taylomi02
+Samad Taylor,"Kansas City,Seattle",669392,taylosa04
+Tyrone Taylor,"Milwaukee,New York",621438,tayloty01
+Anderson Tejeda,Texas,660731,tejedan01
+Rowdy Tellez,"Milwaukee,Pittsburgh,Toronto",642133,tellero01
+Jos\xc3\xa9 Tena,"Cleveland,Washington",677588,tenajo01
+Bryce Teodosio,Los Angeles,669326,teodobr01
+Curtis Terry,Texas,663799,terrycu01
+Matt Thaiss,Los Angeles,642136,thaisma01
+Alek Thomas,Arizona,677950,thomaal01
+Cody Thomas,Oakland,642137,thomaco01
+Dillon Thomas,"Los Angeles,Seattle",605504,thomadi01
+Lane Thomas,"Cleveland,St. Louis,Washington",657041,thomala02
+Bubba Thompson,"Cincinnati,Texas",669352,thompbu01
+Keegan Thompson,Chicago,624522,thompke02
+Trayce Thompson,"Chicago,Los Angeles,San Diego",572204,thomptr01
+Zach Thompson,Miami,605507,thompza01
+Michael Toglia,Colorado,669911,toglimi01
+Ka\'ai Tom,"Oakland,Pittsburgh,San Francisco",664789,tomka01
+Josh Tomlin,Atlanta,458708,tomlijo01
+Justin Topa,Milwaukee,623437,topaju01
+Spencer Torkelson,Detroit,679529,torkesp01
+Abraham Toro,"Houston,Milwaukee,Oakland,Seattle",647351,toroab01
+Luis Torrens,"Chicago,New York,Seattle",620443,torrelu01
+Gleyber Torres,New York,650402,torregl01
+Ronald Torreyes,Philadelphia,591720,torrero01
+Touki Toussaint,Atlanta,657053,toussto01
+Ezequiel Tovar,Colorado,678662,tovarez01
+Wilfredo Tovar,New York,541600,tovarwi01
+Taylor Trammell,"Los Angeles,New York,Seattle",666211,trammta01
+Alan Trejo,Colorado,676701,trejoal01
+Jose Trevino,"New York,Texas",624431,trevijo01
+Jared Triolo,Pittsburgh,669707,triolja01
+Chadwick Tromp,"Atlanta,San Francisco",644433,trompch01
+Nick Tropeano,New York,607374,tropeni01
+Mike Trout,Los Angeles,545361,troutmi01
+Yoshi Tsutsugo,"Los Angeles,Pittsburgh,Tampa Bay",660294,tsutsyo01
+Cole Tucker,"Colorado,Los Angeles,Pittsburgh",657061,tuckeco01
+Kyle Tucker,Houston,663656,tuckeky01
+Brice Turang,Milwaukee,668930,turanbr02
+Justin Turner,"Boston,Los Angeles,Seattle,Toronto",457759,turneju01
+Trea Turner,"Los Angeles,Philadelphia,Washington",607208,turnetr01
+Edwin Uceta,Los Angeles,670955,ucetaed01
+Duane Underwood Jr.,Pittsburgh,621249,underdu01
+Justin Upton,"Los Angeles,Seattle",457708,uptonju01
+Jos\xc3\xa9 Ure\xc3\xb1a,Detroit,570632,urenajo01
+Julio Ur\xc3\xadas,Los Angeles,628711,uriasju01
+Luis Ur\xc3\xadas,"Boston,Milwaukee,Seattle",649966,uriaslu01
+Ram\xc3\xb3n Ur\xc3\xadas,Baltimore,602104,uriasra01
+Jos\xc3\xa9 Urquidy,Houston,664353,urquijo01
+Gio Urshela,"Atlanta,Detroit,Los Angeles,Minnesota,New York",570482,urshegi01
+Pat Valaika,Baltimore,642162,valaipa01
+Enmanuel Valdez,Boston,665839,valdeen01
+Framber Valdez,Houston,664285,valdefr01
+Breyvic Valera,Toronto,591971,valerbr01
+Josh VanMeter,"Arizona,Pittsburgh",642165,vanmejo01
+Ildemaro Vargas,"Arizona,Chicago,Pittsburgh,Washington",545121,vargail01
+Miguel Vargas,"Chicago,Los Angeles",678246,vargami01
+Daulton Varsho,"Arizona,Toronto",662139,varshda01
+Andrew Vaughn,Chicago,683734,vaughan01
+Terrin Vavra,Baltimore,679631,vavrate01
+Christian V\xc3\xa1zquez,"Boston,Houston,Minnesota",543877,vazquch01
+Luis V\xc3\xa1zquez,Chicago,676679,vazqulu01
+Vince Velasquez,"Philadelphia,San Diego",592826,velasvi01
+Andrew Velazquez,"Los Angeles,New York",623205,velazan01
+Nelson Vel\xc3\xa1zquez,"Chicago,Kansas City",676369,velazne01
+Alex Verdugo,"Boston,New York",657077,verdual01
+Alex Vesia,Los Angeles,681911,vesiaal01
+Mark Vientos,New York,668901,vientma01
+Matt Vierling,"Detroit,Philadelphia",663837,vierlma01
+Ryan Vilade,"Colorado,Detroit",668723,viladry01
+David Villar,San Francisco,681584,villada01
+Jonathan Villar,"Chicago,Los Angeles,New York",542340,villajo01
+Meibrys Viloria,"Cleveland,Texas",650619,vilorme01
+Daniel Vogelbach,"Milwaukee,New York,Pittsburgh,Toronto",596129,vogelda01
+Stephen Vogt,"Arizona,Atlanta,Oakland",519390,vogtst01
+Luke Voit,"Milwaukee,New York,San Diego,Washington",572228,voitlu01
+Anthony Volpe,New York,683011,volpean01
+Jason Vosler,"Cincinnati,San Francisco,Seattle",613564,vosleja01
+Austin Voth,Washington,608723,vothau01
+Joey Votto,Cincinnati,458015,vottojo01
+Michael Wacha,Tampa Bay,608379,wachami01
+Brandon Waddell,St. Louis,663399,waddebr01
+LaMonte Wade Jr.,San Francisco,664774,wadela01
+Tyler Wade,"Los Angeles,New York,Oakland,San Diego",642180,wadety01
+Eric Wagaman,Los Angeles,676572,wagamer01
+Will Wagner,Toronto,695238,wagnewi01
+Adam Wainwright,St. Louis,425794,wainwad01
+Christian Walker,Arizona,572233,walkech02
+Jordan Walker,St. Louis,691023,walkejo02
+Steele Walker,Texas,667727,walkest01
+Taijuan Walker,New York,592836,walketa01
+Forrest Wall,"Atlanta,Miami",657088,wallfo01
+Chad Wallach,"Los Angeles,Miami",595453,wallach01
+Matt Wallner,Minnesota,670242,wallnma01
+Taylor Walls,Tampa Bay,670764,wallsta01
+Jared Walsh,"Los Angeles,Texas",665120,walshja01
+Donovan Walton,"San Francisco,Seattle",622268,waltodo01
+Taylor Ward,Los Angeles,621493,wardta01
+Drew Waters,Kansas City,671221,waterdr01
+Tony Watson,Los Angeles,453265,watsoto01
+Ryan Weathers,San Diego,677960,weathry01
+Luke Weaver,Arizona,596133,weavelu01
+Jacob Webb,Atlanta,657097,webbja01
+Logan Webb,San Francisco,657277,webblo01
+Tyler Webb,St. Louis,643778,webbty01
+Colton Welker,Colorado,666213,welkeco01
+Austin Wells,New York,669224,wellsau01
+Joey Wendle,"Miami,New York,Tampa Bay",621563,wendljo01
+Davis Wendzel,Texas,673995,wendzda01
+Jamie Westbrook,Boston,642197,westbja02
+Jordan Westburg,Baltimore,676059,westbjo01
+Zack Wheeler,Philadelphia,554430,wheelza01
+Shay Whitcomb,Houston,694376,whitcsh01
+Eli White,"Atlanta,Texas",642201,whiteel04
+Evan White,Seattle,657108,whiteev01
+Mitch White,Los Angeles,669952,whitemi03
+Aaron Whitefield,Los Angeles,664334,whiteaa01
+Garrett Whitlock,Boston,676477,whitlga01
+Taylor Widener,Arizona,642203,widenta01
+Joey Wiemer,"Cincinnati,Milwaukee",686894,wiemejo01
+Stevie Wilkerson,Baltimore,592859,wilkest01
+Alika Williams,Pittsburgh,675961,willial04
+Justin Williams,St. Louis,642211,williju02
+Luke Williams,"Atlanta,Los Angeles,Miami,Philadelphia,San Francisco",663897,willilu01
+Mason Williams,New York,592863,willima10
+Nick Williams,Chicago,608384,willini01
+Trevor Williams,"Chicago,New York",592866,willitr01
+Bryse Wilson,"Atlanta,Pittsburgh",669060,wilsobr02
+Cody Wilson,Washington,680963,wilsoco01
+Jacob Wilson,"Houston,Oakland",607111,wilsoja04
+Jacob Wilson,Oakland,805779,wilsoja05
+Marcus Wilson,Seattle,657129,wilsoma02
+Weston Wilson,Philadelphia,642215,wilsowe01
+Jesse Winker,"Cincinnati,Milwaukee,New York,Seattle,Washington",608385,winkeje01
+Dan Winkler,Chicago,595465,winklda01
+Masyn Winn,St. Louis,691026,winnma01
+Patrick Wisdom,Chicago,621550,wisdopa01
+Brett Wisely,San Francisco,689172,wiselbr01
+Matt Wisler,San Francisco,605538,wislema01
+Bobby Witt Jr.,Kansas City,677951,wittbo02
+Tony Wolters,"Chicago,Los Angeles",547172,wolteto01
+Connor Wong,Boston,657136,wongco01
+Kean Wong,Los Angeles,642221,wongke01
+Kolten Wong,"Los Angeles,Milwaukee,Seattle",543939,wongko01
+Alex Wood,San Francisco,622072,woodal02
+James Wood,Washington,695578,woodja03
+Jake Woodford,St. Louis,663765,woodfja01
+Brandon Woodruff,Milwaukee,605540,woodrbr01
+Kyle Wright,Atlanta,657140,wrighky01
+Austin Wynns,"Baltimore,Cincinnati,Colorado,Los Angeles,San Francisco",642851,wynnsau01
+Miguel Yajure,Pittsburgh,664337,yajurmi01
+Jordan Yamamoto,New York,657141,yamamjo01
+Eric Yang,Cincinnati,687066,yanger01
+Ryan Yarbrough,Tampa Bay,642232,yarbrry01
+Mike Yastrzemski,San Francisco,573262,yastrmi01
+Christian Yelich,Milwaukee,592885,yelicch01
+Juan Yepez,"St. Louis,Washington",660766,yepezju01
+Huascar Ynoa,Atlanta,660623,ynoahu01
+Nick Yorke,Pittsburgh,694377,yorkeni01
+Masataka Yoshida,Boston,807799,yoshima02
+Alex Young,Arizona,622065,youngal01
+Andrew Young,Arizona,670370,youngan02
+Jacob Young,Washington,696285,youngja03
+Jared Young,Chicago,676724,youngja02
+Seby Zavala,"Arizona,Chicago,Seattle",664874,zavalse01
+Bradley Zimmer,"Cleveland,Philadelphia,Toronto",605548,zimmebr01
+Ryan Zimmerman,Washington,475582,zimmery01
+Bruce Zimmermann,Baltimore,669145,zimmebr02
+Jordan Zimmermann,Milwaukee,519455,zimmejo02
+Tyler Zuber,Kansas City,676604,zuberty01
+Mike Zunino,"Cleveland,Tampa Bay",572287,zuninmi01
