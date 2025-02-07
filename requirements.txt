@@ -1,0 +1,18 @@
+# Database and ORM
+sqlite-utils
+sqlalchemy
+libsql-client
+psycopg
+
+# API Requests and Data Handling
+requests
+pandas
+pybaseball
+MLB-StatsAPI
+datetime
+
+# Environment Variables
+python-dotenv
+
+# Jupyter Notebook
+jupyter
