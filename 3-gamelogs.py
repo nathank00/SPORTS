@@ -160,4 +160,4 @@ def process_games(num_games=100):
     print("=================================================")
 
 # Call the function with the desired number of games
-process_games(100)
+process_games(12000)
