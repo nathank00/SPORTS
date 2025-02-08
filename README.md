@@ -25,9 +25,17 @@ The function 'get_player_ids()' fetches all player identifiers using several API
 Output file (pitchers): ~/pitcher_ids.csv
 Output file (batters): ~/batter_ids.csv
 
+
 ### 3-gamelogs.py    (Frequency - within 1 hour of each game)    (Est time: 3 min.)
 
 The function 'process_games(num_games=100)' allows user to edit the number of recent games they want to generate new gamelogs for. This value defaults to 100 because this file is going to be run many times throughout the day in an attempt to provide quasi-real-time gamelog information so that the model can make real-time predictions for upcoming games. 
 * The pybaseball.playerid_reverse_lookup function is used to fetch player id data to add to the gamelog data.
+
+Output files: ~/gamelogs/game_{gamepk}.csv
+
+
+### 4-odds.py    (Frequency - within 1 hour of each game)    (Est time: 5 min.)
+
+The function 'update_gamelogs_with_over_under(game_pks_file, gamelogs_folder, num_games=500) fetches the over/under runline for the number of specified recent games in the current game_pks.csv file. This function obtains odds data from oddshark and then appends the existing gamelogs file for that game with the runline as a new column.
 
 Output files: ~/gamelogs/game_{gamepk}.csv
