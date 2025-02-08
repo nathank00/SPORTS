@@ -1,6 +1,2 @@
 .env
-gamelogs/
-batters/
-pitchers/
-model/
-mlb/
+/mlb/
