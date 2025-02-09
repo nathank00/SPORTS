@@ -80,4 +80,4 @@ game_pks_file = 'game_pks.csv'
 gamelogs_folder = 'gamelogs'
 
 # Run with a custom number of games if needed, otherwise default to 50
-update_gamelogs_with_over_under(game_pks_file, gamelogs_folder, num_games=100)
+update_gamelogs_with_over_under(game_pks_file, gamelogs_folder, num_games=12000)
