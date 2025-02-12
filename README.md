@@ -4,6 +4,8 @@
 * (deactivate at any time by running 'deactivate')
 * Run 'pip install -r requirements.txt'  to install all necessary packages
 
+*** The use of a VPN (Virtual Private Network) located somewhere outside the Continental US is recommended, as the US appears to be a red-flagged zone for repeated API queries ***
+
 
 # Manual Order of Operations
 
@@ -39,3 +41,17 @@ Output files: ~/gamelogs/game_{gamepk}.csv
 The function 'update_gamelogs_with_over_under(game_pks_file, gamelogs_folder, num_games=500) fetches the over/under runline for the number of specified recent games in the current game_pks.csv file. This function obtains odds data from oddshark and then appends the existing gamelogs file for that game with the runline as a new column.
 
 Output files: ~/gamelogs/game_{gamepk}.csv
+
+
+### 5-ALLTIME-playerstats.py    (ONCE AND NEVER AGAIN)    (Est time: 8 hours)
+
+The functions 'fetch_p_game_log' and 'fetch_p_game_log' use the statsapi.schedule package from MLB to fetch the relevant game-by-game data for pitchers and batters, respectively. The script proceeds to *generate* (if no data exists), or *concatenate* (if current data exists) the gamelogs file for each pitcher/batter, in which their entire historical data for pitching/batting will be located. 
+- There is no need to run this file more than one time to obtain all players' historical datasets - to continually fetch new data on a day-by-day basis, use the file:
+* '5-playerstats.py'
+
+To edit the start/end dates of the data that this script will fetch for all players:
+- edit on line 167 (batting)
+- edit on line 293 (pitching)
+
+Output files: ~/pitchers/{playerid}_pitching.csv
+and ~/batters/{playerid}_batting.csv
