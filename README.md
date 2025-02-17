@@ -55,3 +55,16 @@ To edit the start/end dates of the data that this script will fetch for all play
 
 Output files: ~/pitchers/{playerid}_pitching.csv
 and ~/batters/{playerid}_batting.csv
+
+### 6-customstats.py  (Frequency - within 1 hour of each game) (Est. time: 5 min)
+
+the function 'process_recent_games({num_recent_games})' takes the input of "num_recent_games', which specifies the number of recent games to process. The function then sequentially, game by game, fetches the stats files for each of the players that exist in a game's "gamelogs/' file. The function then processes all of these files, which includes:
+* generating custom stats (batting average over last 10 games, 5 games, etc.)
+* pushing this new, custom dataset for each player to:
+    * '~/batters/{playerid}_stats_batting.csv'
+    * '~/pitchers/{playerid}_stats_pitching.csv'
+
+* creating a new gamelogs file for each game:
+    * '~/gamelogs/gamestats_{gamepk}.csv'
+
+These new gamelogs files with custom stats for all the players will be used to generate the master dataset used for model training/testing.
