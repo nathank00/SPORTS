@@ -385,5 +385,5 @@ def process_recent_games(num_recent_games):
         process_game(game_id)
 
 # Input the number of most recent games to process
-num_recent_games = 150000     ########################################################### CHANGE THIS #################################################################
+num_recent_games = 50     ########################################################### CHANGE THIS #################################################################
 process_recent_games(num_recent_games)

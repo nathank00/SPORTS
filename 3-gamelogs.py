@@ -219,7 +219,7 @@ def save_game_to_csv(gamepk):
 all_games = pd.read_csv('game_pks.csv').game_id
 
 
-gamepks = all_games.tail(15000) ######################################################## CHANGE THIS ##################################
+gamepks = all_games.tail(50) ######################################################## CHANGE THIS ##################################
 count = 0
 for gamepk in gamepks:
     save_game_to_csv(gamepk)
