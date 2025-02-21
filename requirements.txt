@@ -16,3 +16,8 @@ python-dotenv
 
 # Jupyter Notebook
 jupyter
+
+# Model
+scikit-learn
+xgboost
+joblib
