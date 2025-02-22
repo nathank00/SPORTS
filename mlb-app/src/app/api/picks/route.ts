@@ -2,21 +2,26 @@ import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
-export async function GET() {
+export async function GET(req: Request) {
     try {
+        const url = new URL(req.url);
+        const dateParam = url.searchParams.get("date"); // Get date from query params
+
+        // Default to today's date if no date is provided
+        const selectedDate = dateParam || new Date().toISOString().split("T")[0];
+
         const picksDir = path.join(process.cwd(), "src/app/api/picks");
-        const today = new Date().toISOString().split("T")[0] + ".csv";
-        const filePath = path.join(picksDir, today);
+        const filePath = path.join(picksDir, `${selectedDate}.csv`);
 
         if (!fs.existsSync(filePath)) {
-            return NextResponse.json({ error: "No picks available for today." }, { status: 404 });
+            return NextResponse.json({ error: `No picks available for ${selectedDate}.` }, { status: 404 });
         }
 
         const fileData = fs.readFileSync(filePath, "utf8");
         const lines = fileData.trim().split("\n");
 
         if (lines.length < 2) {
-            return NextResponse.json({ error: "Pick file exists but is empty." }, { status: 204 });
+            return NextResponse.json({ error: `Pick file for ${selectedDate} exists but is empty.` }, { status: 204 });
         }
 
         const headers = lines[0].split(",");

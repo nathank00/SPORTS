@@ -12,26 +12,44 @@ type GamePick = {
 export default function Home() {
     const [games, setGames] = useState<GamePick[]>([]);
     const [error, setError] = useState("");
+    const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split("T")[0]); // Default to today
 
-    useEffect(() => {
-        fetch("/api/picks")
+    const fetchPicks = (date: string) => {
+        fetch(`/api/picks?date=${date}`)
             .then((res) => res.json())
             .then((data) => {
                 if (data.error) {
                     setError(data.error);
+                    setGames([]);
                 } else {
+                    setError("");
                     setGames(data);
                 }
             })
             .catch((err) => {
                 console.error("Error fetching picks:", err);
                 setError("Failed to load picks.");
+                setGames([]);
             });
-    }, []);
+    };
+
+    // Fetch picks whenever the date changes
+    useEffect(() => {
+        fetchPicks(selectedDate);
+    }, [selectedDate]);
 
     return (
         <div>
             <h1>MLB Picks</h1>
+            
+            {/* Date Picker */}
+            <label>Select Date: </label>
+            <input
+                type="date"
+                value={selectedDate}
+                onChange={(e) => setSelectedDate(e.target.value)}
+            />
+
             {error ? (
                 <p>{error}</p>
             ) : games.length === 0 ? (
