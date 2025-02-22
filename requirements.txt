@@ -10,6 +10,9 @@ pandas
 pybaseball
 MLB-StatsAPI
 datetime
+selenium
+webdriver-manager
+html5lib
 
 # Environment Variables
 python-dotenv

@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-idlist = pd.read_csv('batter_ids.csv')
+idlist = pd.read_csv('active_batter_ids.csv')
 batter_ids = idlist.key_bbref
 
 game_pks = pd.read_csv('game_pks.csv')
@@ -21,7 +21,18 @@ for id in batter_ids:
 
     file_path = f'batters/{id}_batting.csv'
     
-    df = pd.read_csv(file_path)
+    if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
+        try:
+            df = pd.read_csv(file_path)
+        except pd.errors.EmptyDataError:
+            print(f"File for ID {id} is empty.")
+            continue
+        except pd.errors.ParserError:
+            print(f"File for ID {id} is improperly formatted.")
+            continue
+    else:
+        print(f"File for ID {id} does not exist or is empty.")
+        continue
 
     # Remove the irrelevant column 'Gtm'
     df = df.drop(columns=['Gtm'])
@@ -191,7 +202,7 @@ def calculate_rolling_stats(df, window, suffix):
     return rolling_df.round(3)
 
 # Load pitcher IDs
-idlist = pd.read_csv('pitcher_ids.csv')
+idlist = pd.read_csv('active_pitcher_ids.csv')
 pitcher_ids = idlist.key_bbref
 
 # Load game PKs (if needed)

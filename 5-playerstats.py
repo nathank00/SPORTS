@@ -265,4 +265,4 @@ def process_player_data(player_ids, player_type='batter'):
 process_player_data(active_batter_ids, player_type='batter')
 process_player_data(active_pitcher_ids, player_type='pitcher')
 
-print('\nnPlayer stats updated - SUCCESS\n')
+print('\nPlayer stats updated - SUCCESS\n')

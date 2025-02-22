@@ -201,7 +201,7 @@ sorted_df.drop(columns=columns_to_remove, inplace=True)
 
 
 # Remove rows where runline is 'unknown'
-filtered_df = sorted_df[sorted_df['over_under_runline'] != 'unknown']
+#filtered_df = sorted_df[sorted_df['over_under_runline'] != 'unknown']
 
 # Function to filter games based on date range
 def filter_games_by_date(df):
@@ -209,14 +209,18 @@ def filter_games_by_date(df):
     df['game_date'] = pd.to_datetime(df['game_date'])
     
     # Filter out games before April 5 and after October 5
-    filtered_df = df[(df['game_date'].dt.month >= 4) & (df['game_date'].dt.month <= 10) &
-                     ((df['game_date'].dt.month != 4) | (df['game_date'].dt.day >= 5)) &
-                     ((df['game_date'].dt.month != 10) | (df['game_date'].dt.day <= 5))]
+    #filtered_df = df[(df['game_date'].dt.month >= 4) & (df['game_date'].dt.month <= 10) &
+                     #((df['game_date'].dt.month != 4) | (df['game_date'].dt.day >= 5)) &
+                     #((df['game_date'].dt.month != 10) | (df['game_date'].dt.day <= 5))]
     
-    return filtered_df
+    return df
 
 # Filter the games by date
-filtered_df = filter_games_by_date(filtered_df)
+#filtered_df = filter_games_by_date(filtered_df)
+filtered_df = filter_games_by_date(sorted_df)
+
+# Convert "unknown" values to 0 before converting to numeric
+filtered_df['over_under_runline'] = filtered_df['over_under_runline'].replace("unknown", 0)
 
 # Convert over_under_runline to numeric
 filtered_df['over_under_runline'] = pd.to_numeric(filtered_df['over_under_runline'])
