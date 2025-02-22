@@ -110,7 +110,7 @@ export default function Home() {
                         </p>
                         <div style={styles.lineups}>
                             <div>
-                                <h3 style={styles.teamTitle}>{selectedGame.away_team} Lineup</h3>
+                                <h3 style={styles.teamTitle}>{selectedGame.away_team}</h3>
                                 {Array.from({ length: 9 }, (_, i) => (
                                     <p key={i} style={styles.modalText}>
                                         <strong>{i + 1}.</strong> {selectedGame[`Away_Batter${i + 1}_Name` as keyof GamePick]}
@@ -118,7 +118,7 @@ export default function Home() {
                                 ))}
                             </div>
                             <div>
-                                <h3 style={styles.teamTitle}>{selectedGame.home_team} Lineup</h3>
+                                <h3 style={styles.teamTitle}>{selectedGame.home_team}</h3>
                                 {Array.from({ length: 9 }, (_, i) => (
                                     <p key={i} style={styles.modalText}>
                                         <strong>{i + 1}.</strong> {selectedGame[`Home_Batter${i + 1}_Name` as keyof GamePick]}
