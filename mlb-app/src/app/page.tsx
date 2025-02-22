@@ -7,12 +7,33 @@ type GamePick = {
     away_team: string;
     runline: string;
     pick: string;
+    Away_SP_Name: string;
+    Home_SP_Name: string;
+    Away_Batter1_Name: string;
+    Away_Batter2_Name: string;
+    Away_Batter3_Name: string;
+    Away_Batter4_Name: string;
+    Away_Batter5_Name: string;
+    Away_Batter6_Name: string;
+    Away_Batter7_Name: string;
+    Away_Batter8_Name: string;
+    Away_Batter9_Name: string;
+    Home_Batter1_Name: string;
+    Home_Batter2_Name: string;
+    Home_Batter3_Name: string;
+    Home_Batter4_Name: string;
+    Home_Batter5_Name: string;
+    Home_Batter6_Name: string;
+    Home_Batter7_Name: string;
+    Home_Batter8_Name: string;
+    Home_Batter9_Name: string;
 };
 
 export default function Home() {
     const [games, setGames] = useState<GamePick[]>([]);
     const [error, setError] = useState("");
     const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split("T")[0]);
+    const [selectedGame, setSelectedGame] = useState<GamePick | null>(null);
 
     const fetchPicks = (date: string) => {
         fetch(`/api/picks?date=${date}`)
@@ -41,7 +62,6 @@ export default function Home() {
         <div style={styles.container}>
             <h1 style={styles.title}>MLB Picks</h1>
             
-            {/* Date Picker */}
             <input
                 type="date"
                 value={selectedDate}
@@ -56,35 +76,69 @@ export default function Home() {
             ) : (
                 <div style={styles.grid}>
                     {games.map((game, index) => (
-                        <div key={index} style={styles.card}>
+                        <div 
+                            key={index} 
+                            style={styles.card} 
+                            onClick={() => setSelectedGame(game)}
+                        >
                             <h3 style={styles.teams}>
                                 <span style={styles.teamName}>{game.home_team}</span> 
                                 <span style={styles.vs}> vs </span> 
                                 <span style={styles.teamName}>{game.away_team}</span>
                             </h3>
                             <p style={styles.text}>Runline: <span style={styles.highlight}>{game.runline}</span></p>
-                            <p style={styles.text}>
-                                Pick: 
-                                <span style={{ 
-                                    ...styles.pick, 
-                                    backgroundColor: game.pick === "Over" ? "#4CAF50" : "#FF5252" 
-                                }}>
-                                    {game.pick}
-                                </span>
-                            </p>
+                            <div style={{ 
+                                ...styles.pickBox, 
+                                backgroundColor: game.pick === "Over" ? "#4CAF50" : "#FF5252" 
+                            }}>
+                                {game.pick}
+                            </div>
                         </div>
                     ))}
+                </div>
+            )}
+
+            {/* Popup Modal for Game Details */}
+            {selectedGame && (
+                <div style={styles.modalOverlay} onClick={() => setSelectedGame(null)}>
+                    <div style={styles.modal} onClick={(e) => e.stopPropagation()}>
+                        <h2 style={styles.modalTitle}>{selectedGame.home_team} vs {selectedGame.away_team}</h2>
+                        <p style={styles.modalText}>
+                            <strong>Starting Pitchers:</strong> 
+                            <br /> {selectedGame.away_team}: {selectedGame.Away_SP_Name} 
+                            <br /> {selectedGame.home_team}: {selectedGame.Home_SP_Name}
+                        </p>
+                        <div style={styles.lineups}>
+                            <div>
+                                <h3 style={styles.teamTitle}>{selectedGame.away_team} Lineup</h3>
+                                {Array.from({ length: 9 }, (_, i) => (
+                                    <p key={i} style={styles.modalText}>
+                                        <strong>{i + 1}.</strong> {selectedGame[`Away_Batter${i + 1}_Name` as keyof GamePick]}
+                                    </p>
+                                ))}
+                            </div>
+                            <div>
+                                <h3 style={styles.teamTitle}>{selectedGame.home_team} Lineup</h3>
+                                {Array.from({ length: 9 }, (_, i) => (
+                                    <p key={i} style={styles.modalText}>
+                                        <strong>{i + 1}.</strong> {selectedGame[`Home_Batter${i + 1}_Name` as keyof GamePick]}
+                                    </p>
+                                ))}
+                            </div>
+                        </div>
+                        <button style={styles.closeButton} onClick={() => setSelectedGame(null)}>Close</button>
+                    </div>
                 </div>
             )}
         </div>
     );
 }
 
-// Styling
+// Styles
 const styles: { [key: string]: React.CSSProperties } = {
     container: {
-        backgroundColor: "#121212",  // Dark background
-        color: "#1E90FF",  // Blue accents
+        backgroundColor: "#121212",
+        color: "#1E90FF",
         minHeight: "100vh",
         display: "flex",
         flexDirection: "column",
@@ -96,8 +150,6 @@ const styles: { [key: string]: React.CSSProperties } = {
         fontSize: "2.5rem",
         fontWeight: "bold",
         marginBottom: "20px",
-        textTransform: "uppercase",
-        letterSpacing: "2px",
     },
     datePicker: {
         backgroundColor: "#1E1E1E",
@@ -108,15 +160,6 @@ const styles: { [key: string]: React.CSSProperties } = {
         color: "#1E90FF",
         outline: "none",
         marginBottom: "20px",
-    },
-    error: {
-        color: "#FF5252",
-        fontSize: "18px",
-        marginTop: "10px",
-    },
-    noPicks: {
-        fontSize: "18px",
-        opacity: "0.8",
     },
     grid: {
         display: "grid",
@@ -132,10 +175,11 @@ const styles: { [key: string]: React.CSSProperties } = {
         boxShadow: "0 4px 10px rgba(0, 0, 0, 0.3)",
         textAlign: "center",
         border: "2px solid #1E90FF",
-        transition: "0.3s",
+        cursor: "pointer",
+        position: "relative",
     },
     teams: {
-        fontSize: "1.5rem",
+        fontSize: "2rem",
         fontWeight: "bold",
     },
     teamName: {
@@ -144,22 +188,44 @@ const styles: { [key: string]: React.CSSProperties } = {
     },
     vs: {
         color: "#1E90FF",
-        fontSize: "1.3rem",
+        fontSize: "1.5rem",
     },
     text: {
         fontSize: "1.2rem",
         marginTop: "10px",
     },
-    highlight: {
-        color: "#1E90FF",
+    pickBox: {
+        fontSize: "2rem",
         fontWeight: "bold",
-    },
-    pick: {
-        fontSize: "1.3rem",
-        fontWeight: "bold",
-        color: "#121212",
-        padding: "5px 10px",
-        borderRadius: "5px",
+        color: "#FFFFFF", // White text
+        padding: "15px 25px", // Increased vertical padding for a taller look
+        borderRadius: "10px", // More rounded corners
         display: "inline-block",
+        marginTop: "15px",
+        textTransform: "uppercase",
     },
+    modalOverlay: {
+        position: "fixed",
+        top: 0,
+        left: 0,
+        width: "100vw",
+        height: "100vh",
+        backgroundColor: "rgba(0, 0, 0, 0.7)",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+    },
+    modal: {
+        backgroundColor: "#1E1E1E",
+        padding: "20px",
+        borderRadius: "10px",
+        border: "2px solid #1E90FF",
+        maxWidth: "600px",
+        textAlign: "center",
+    },
+    modalTitle: { fontSize: "1.8rem", marginBottom: "10px" },
+    modalText: { fontSize: "1.2rem", margin: "5px 0" },
+    teamTitle: { fontSize: "1.5rem", color: "#1E90FF" },
+    lineups: { display: "flex", justifyContent: "space-around", marginTop: "15px" },
+    closeButton: { marginTop: "20px", padding: "10px 20px", cursor: "pointer", border: "none", backgroundColor: "#1E90FF", color: "#121212" },
 };
