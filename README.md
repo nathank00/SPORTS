@@ -169,8 +169,13 @@ model.py - creates a new model using the masterdata.csv file
 # GAME-BY-GAME - Order of Operations
 
 3-gamelogs.py
+
 4-odds.py
+
 6-customstats.py
+
 7-currentdata.py
+
 8-scrape-odds.py
+
 9-predict.py
