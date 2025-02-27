@@ -122,17 +122,24 @@ Output file: ~/model/xgb_model.pkl
 # BUILD DATASET + MODEL FROM SCRATCH - Order of Operations
 
 1-game_pks.py  -  fetches all game pks through current date(today)
+
 2-player_ids.py  -  fetches all batter and pitcher ids that have played at any time from 2021-now
+
 3-gamelogs.py  -  builds basic gamelogs
 * REMOVE THE .tail(50) for initial build of the entire dataset
+
 4-odds.py - fetches and adds runline to each gamelog file
 * CHANGE num_games=50 to num_games=15000 for initial build of the entire dataset
+
 5-ALLTIME-playerstats.py - builds all individual player (pitcher+batter) historical stats datasets
+
 6-customstats.py - generates custom player stats and adds them to the gamelog files
 * line 5 - change 'active_batter_ids.csv' to 'batter_ids.csv'
 * line 205 - change 'active_pitcher_ids.csv' to 'pitcher_ids.csv'
 * line 399 - change num_recent_games = 50 to num_recent_games = 15000
+
 7-masterdata.py - generates master dataset with over 12,000 games since 2021
+
 model.py - creates a new model using the masterdata.csv file
 
 
@@ -140,13 +147,21 @@ model.py - creates a new model using the masterdata.csv file
 # DAILY - Order of Operations
 
 1-game_pks.py
+
 2-player_ids.py
+
 3-gamelogs.py
+
 4-odds.py
+
 5-playerstats.py
+
 6-customstats.py
+
 7-currentdata.py
+
 8-scrape-odds.py
+
 9-predict.py
 
 
