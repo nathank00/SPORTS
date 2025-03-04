@@ -88,7 +88,7 @@ export default function Home() {
                         rel="noopener noreferrer" 
                         style={styles.link}
                     >
-                        Today's Games at CBS Sports
+                        Today&apos;s Games at CBS Sports
                     </a>
                     <a 
                         href="https://github.com/nathank00/MLB-Analytics" 
