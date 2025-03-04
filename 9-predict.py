@@ -4,6 +4,7 @@ import joblib
 import xgboost as xgb
 import os
 import pytz
+import csv
 
 # Load the dataset
 df = pd.read_csv('model/currentdata.csv')
@@ -17,6 +18,7 @@ df.loc[df['over_under_runline'] == df['runs_total'], 'over_under_target'] = 1
 # Get today's date
 local_tz = pytz.timezone("America/Los_Angeles")
 today = datetime.now(local_tz).strftime('%Y-%m-%d')
+now = datetime.now(local_tz)
 
 # Separate the data for today's games
 todays_games = df[df['game_date'] == today]
@@ -69,3 +71,9 @@ else:
     output_df.to_csv(output_file, index=False)
 
     print(f"Predictions saved to {output_file}")
+
+    #create last_updated CSV File
+    with open('mlb-app/src/app/api/picks/last_updated.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(['last_updated'])
+        writer.writerow([now])
