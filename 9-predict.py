@@ -16,7 +16,7 @@ df.loc[df['over_under_runline'] == df['runs_total'], 'over_under_target'] = 1
 
 # Get today's date
 local_tz = pytz.timezone("America/Los_Angeles")
-today = datetime.now(local_tz).day
+today = datetime.now(local_tz).strftime('%Y-%m-%d')
 
 # Separate the data for today's games
 todays_games = df[df['game_date'] == today]

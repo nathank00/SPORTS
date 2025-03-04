@@ -18,7 +18,7 @@ def get_local_time():
 def log_message(message):
     """Logs messages to a file with timestamps."""
     with open(LOG_FILE, "a") as f:
-        f.write(f"[{get_local_time()}] {message}\n")
+        f.write(f"{message}\n")
 
 def should_stop():
     """Check if the stop file exists."""
