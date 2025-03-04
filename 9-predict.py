@@ -3,6 +3,7 @@ from datetime import datetime
 import joblib
 import xgboost as xgb
 import os
+import pytz
 
 # Load the dataset
 df = pd.read_csv('model/currentdata.csv')
@@ -14,7 +15,8 @@ df['game_date'] = pd.to_datetime(df['game_date'])
 df.loc[df['over_under_runline'] == df['runs_total'], 'over_under_target'] = 1
 
 # Get today's date
-today = datetime.today().strftime('%Y-%m-%d')
+local_tz = pytz.timezone("America/Los_Angeles")
+today = datetime.now(local_tz).day
 
 # Separate the data for today's games
 todays_games = df[df['game_date'] == today]
