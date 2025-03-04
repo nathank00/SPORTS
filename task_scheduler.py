@@ -35,7 +35,7 @@ def run_scripts(scripts):
 def git_commit_and_push():
     """Commits and pushed changes to GitHub to update web app."""
     print(f"[{get_local_time()}] Committing and pushing changes to Github...")
-    log_message(f" Committing and pushing changes to Github...")
+    log_message(f" [INFO] Committing and pushing changes to Github...")
     os.chdir(REPO_PATH)
     subprocess.run(["git", "add", "."], check=True)
     subprocess.run(["git", "commit", "-m", f"Auto-update {get_local_time()}"], check=True)
