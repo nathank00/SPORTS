@@ -73,7 +73,7 @@ else:
     print(f"Predictions saved to {output_file}")
 
     #create last_updated CSV File
-    with open('mlb-app/src/app/api/picks/last_updated.csv', 'w', newline='') as csvfile:
+    with open('mlb-app/public/last_updated.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['last_updated'])
         writer.writerow([now])

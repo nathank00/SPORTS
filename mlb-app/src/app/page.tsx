@@ -34,6 +34,7 @@ export default function Home() {
     const [error, setError] = useState("");
     const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split("T")[0]);
     const [selectedGame, setSelectedGame] = useState<GamePick | null>(null);
+    const [lastUpdated, setLastUpdated] = useState<string>("");
 
     const fetchPicks = (date: string) => {
         fetch(`/api/picks?date=${date}`)
@@ -54,12 +55,52 @@ export default function Home() {
             });
     };
 
+    // Fetch the last_updated value from the public folder
+    useEffect(() => {
+        fetch('/last_updated.csv')
+            .then((res) => res.text())
+            .then((data) => {
+                const lines = data.trim().split("\n");
+                if (lines.length >= 2) {
+                    setLastUpdated(lines[1].trim());
+                }
+            })
+            .catch((err) => {
+                console.error("Error fetching last updated:", err);
+            });
+    }, []);
+
     useEffect(() => {
         fetchPicks(selectedDate);
     }, [selectedDate]);
 
     return (
         <div style={styles.container}>
+            {/* Top right container for last updated info and links */}
+            <div style={styles.topRight}>
+                <div style={styles.lastUpdated}>
+                    Last updated: {lastUpdated}
+                </div>
+                <div style={styles.links}>
+                    <a 
+                        href="https://www.cbssports.com/mlb/scoreboard/" 
+                        target="_blank" 
+                        rel="noopener noreferrer" 
+                        style={styles.link}
+                    >
+                        Today's Games at CBS Sports
+                    </a>
+                    <a 
+                        href="https://github.com/nathank00/MLB-Analytics" 
+                        target="_blank" 
+                        rel="noopener noreferrer" 
+                        style={styles.link}
+                    >
+                        View Code on GitHub
+                    </a>
+                </div>
+            </div>
+            
             <h1 style={styles.title}>MLB Picks</h1>
             
             <input
@@ -86,11 +127,15 @@ export default function Home() {
                                 <span style={styles.vs}> vs </span> 
                                 <span style={styles.teamName}>{game.away_team}</span>
                             </h3>
-                            <p style={styles.text}>Runline: <span style={styles.highlight}>{game.runline}</span></p>
-                            <div style={{ 
-                                ...styles.pickBox, 
-                                backgroundColor: game.pick === "Over" ? "#4CAF50" : "#FF5252" 
-                            }}>
+                            <p style={styles.text}>
+                                Runline: <span style={styles.highlight}>{game.runline}</span>
+                            </p>
+                            <div 
+                                style={{ 
+                                    ...styles.pickBox, 
+                                    backgroundColor: game.pick === "Over" ? "#4CAF50" : "#FF5252" 
+                                }}
+                            >
                                 {game.pick}
                             </div>
                         </div>
@@ -102,7 +147,9 @@ export default function Home() {
             {selectedGame && (
                 <div style={styles.modalOverlay} onClick={() => setSelectedGame(null)}>
                     <div style={styles.modal} onClick={(e) => e.stopPropagation()}>
-                        <h2 style={styles.modalTitle}>{selectedGame.home_team} vs {selectedGame.away_team}</h2>
+                        <h2 style={styles.modalTitle}>
+                            {selectedGame.home_team} vs {selectedGame.away_team}
+                        </h2>
                         <p style={styles.modalText}>
                             <strong>Starting Pitchers:</strong> 
                             <br /> {selectedGame.away_team}: {selectedGame.Away_SP_Name} 
@@ -126,7 +173,9 @@ export default function Home() {
                                 ))}
                             </div>
                         </div>
-                        <button style={styles.closeButton} onClick={() => setSelectedGame(null)}>Close</button>
+                        <button style={styles.closeButton} onClick={() => setSelectedGame(null)}>
+                            Close
+                        </button>
                     </div>
                 </div>
             )}
@@ -145,6 +194,31 @@ const styles: { [key: string]: React.CSSProperties } = {
         alignItems: "center",
         justifyContent: "center",
         padding: "20px",
+    },
+    topRight: {
+        position: "fixed",
+        top: "10px",
+        right: "10px",
+        textAlign: "right",
+    },
+    lastUpdated: {
+        fontSize: "0.9rem",
+        color: "#FFFFFF",
+        backgroundColor: "#1E1E1E",
+        padding: "5px 10px",
+        borderRadius: "5px",
+        marginBottom: "5px",
+    },
+    links: {
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "flex-end",
+    },
+    link: {
+        color: "#1E90FF",
+        textDecoration: "none",
+        fontSize: "0.9rem",
+        marginTop: "5px",
     },
     title: {
         fontSize: "2.5rem",
@@ -197,9 +271,9 @@ const styles: { [key: string]: React.CSSProperties } = {
     pickBox: {
         fontSize: "2rem",
         fontWeight: "bold",
-        color: "#FFFFFF", // White text
-        padding: "15px 25px", // Increased vertical padding for a taller look
-        borderRadius: "10px", // More rounded corners
+        color: "#FFFFFF",
+        padding: "15px 25px",
+        borderRadius: "10px",
         display: "inline-block",
         marginTop: "15px",
         textTransform: "uppercase",
@@ -228,4 +302,11 @@ const styles: { [key: string]: React.CSSProperties } = {
     teamTitle: { fontSize: "1.5rem", color: "#1E90FF" },
     lineups: { display: "flex", justifyContent: "space-around", marginTop: "15px" },
     closeButton: { marginTop: "20px", padding: "10px 20px", cursor: "pointer", border: "none", backgroundColor: "#1E90FF", color: "#121212" },
+    error: {
+        color: "#FF5252",
+        marginTop: "20px",
+    },
+    noPicks: {
+        marginTop: "20px",
+    },
 };
