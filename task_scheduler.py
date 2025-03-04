@@ -18,7 +18,7 @@ def get_local_time():
 def log_message(message):
     """Logs messages to a file with timestamps."""
     with open(LOG_FILE, "a") as f:
-        f.write(f"{message}\n")
+        f.write(f"[{get_local_time()}] {message}\n")
 
 def should_stop():
     """Check if the stop file exists."""
@@ -28,14 +28,14 @@ def run_scripts(scripts):
     """Executes a sequential list of scripts."""
     for script in scripts:
         print(f"[{get_local_time()}] Running {script}...")
-        log_message(f"[{get_local_time()}] Running {script}...")
+        log_message(f" Running {script}...")
         subprocess.run(f"source {VENV_PATH} && python {script}", shell=True, executable="/bin/zsh", check=True)
 
 
 def git_commit_and_push():
     """Commits and pushed changes to GitHub to update web app."""
     print(f"[{get_local_time()}] Committing and pushing changes to Github...")
-    log_message(f"[{get_local_time()}] Committing and pushing changes to Github...")
+    log_message(f" Committing and pushing changes to Github...")
     os.chdir(REPO_PATH)
     subprocess.run(["git", "add", "."], check=True)
     subprocess.run(["git", "commit", "-m", f"Auto-update {get_local_time()}"], check=True)
@@ -68,7 +68,7 @@ def main():
         git_commit_and_push()
 
         print(f"[{get_local_time()}] Sleeping for 30 minutes")
-        log_message(f"[{get_local_time()}] Sleeping for 30 minutes")
+        log_message(f" Sleeping for 30 minutes")
         time.sleep(1800)  # 30 min sleep
 
 
