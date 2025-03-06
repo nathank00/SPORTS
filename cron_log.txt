@@ -1,0 +1,119 @@
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 624, in <module>
+  File "<frozen site>", line 607, in main
+  File "<frozen site>", line 525, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/natekessell/Desktop/development/MLB-Analytics/mlb/pyvenv.cfg'
+/usr/local/Cellar/python@3.12/3.12.2_1/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/natekessell/1-game_pks.py': [Errno 2] No such file or directory
+[INFO] Starting process at 2025-03-05 11:07:00.846443-08:00
+[2025-03-05 11:07:00.848680-08:00] Running 1-game_pks.py...
+Traceback (most recent call last):
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.py", line 76, in <module>
+    main()
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.py", line 56, in main
+    run_scripts(INITIAL_SCRIPTS)
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.py", line 32, in run_scripts
+    subprocess.run(f"source {VENV_PATH} && python {script}", shell=True, executable="/bin/zsh", check=True)
+  File "/usr/local/Cellar/python@3.12/3.12.2_1/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'source /Users/natekessell/Desktop/development/MLB-Analytics/mlb/bin/activate && python 1-game_pks.py' returned non-zero exit status 2.
+/usr/local/Cellar/python@3.12/3.12.2_1/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/natekessell/1-game_pks.py': [Errno 2] No such file or directory
+[INFO] Starting process at 2025-03-05 11:14:00.448792-08:00
+[2025-03-05 11:14:00.449154-08:00] Running 1-game_pks.py...
+Traceback (most recent call last):
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.py", line 77, in <module>
+    main()
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.py", line 57, in main
+    run_scripts(INITIAL_SCRIPTS)
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.py", line 33, in run_scripts
+    subprocess.run(f"source {VENV_PATH} && python {script}", shell=True, executable="/bin/zsh", check=True)
+  File "/usr/local/Cellar/python@3.12/3.12.2_1/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'source /Users/natekessell/Desktop/development/MLB-Analytics/mlb/bin/activate && python 1-game_pks.py' returned non-zero exit status 2.
+
+===============================
+Processing 2021
+===============================
+2021 Processed - 2968 games. 
+Total Games: 2968
+
+===============================
+Processing 2022
+===============================
+2022 Processed - 2804 games. 
+Total Games: 5772
+
+===============================
+Processing 2023
+===============================
+2023 Processed - 3009 games. 
+Total Games: 8781
+
+===============================
+Processing 2024
+===============================
+2024 Processed - 2998 games. 
+Total Games: 11779
+
+===============================
+Processing 2025
+===============================
+2025 Processed - 186 games. 
+Total Games: 11965
+
+
+-----------------------------------
+Total games processed: 11965
+Games outputted to 'game_pks.csv'
+SUCCESS
+-----------------------------------
+
+Gathering player lookup table. This may take a moment.
+
+=================================================
+All Player IDs Updated
+Batters (1460): 'batter_ids.csv'
+Pitchers (1569): 'pitcher_ids.csv'
+=================================================
+
+Gathering player lookup table. This may take a moment.
+Traceback (most recent call last):
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/3-gamelogs.py", line 225, in <module>
+    save_game_to_csv(gamepk)
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/3-gamelogs.py", line 214, in save_game_to_csv
+    game_df.to_csv(file_name, index=False)
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/mlb/lib/python3.12/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/mlb/lib/python3.12/site-packages/pandas/core/generic.py", line 3967, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/mlb/lib/python3.12/site-packages/pandas/io/formats/format.py", line 1014, in to_csv
+    csv_formatter.save()
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/mlb/lib/python3.12/site-packages/pandas/io/formats/csvs.py", line 251, in save
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/mlb/lib/python3.12/site-packages/pandas/io/common.py", line 749, in get_handle
+    check_parent_directory(str(handle))
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/mlb/lib/python3.12/site-packages/pandas/io/common.py", line 616, in check_parent_directory
+    raise OSError(rf"Cannot save file into a non-existent directory: '{parent}'")
+OSError: Cannot save file into a non-existent directory: 'gamelogs'
+[INFO] Starting process at 2025-03-05 11:19:00.972745-08:00
+[2025-03-05 11:19:00.973025-08:00] Running 1-game_pks.py...
+[2025-03-05 11:20:26.233315-08:00] Running 2-player_ids.py...
+[2025-03-05 11:21:22.056045-08:00] Running 3-gamelogs.py...
+Traceback (most recent call last):
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.py", line 77, in <module>
+    main()
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.py", line 57, in main
+    run_scripts(INITIAL_SCRIPTS)
+  File "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.py", line 33, in run_scripts
+    subprocess.run(f"source {VENV_PATH} && python {script_path}", shell=True, executable="/bin/zsh", check=True)
+  File "/usr/local/Cellar/python@3.12/3.12.2_1/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'source /Users/natekessell/Desktop/development/MLB-Analytics/mlb/bin/activate && python /Users/natekessell/Desktop/development/MLB-Analytics/3-gamelogs.py' returned non-zero exit status 1.
