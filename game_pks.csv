@@ -429,8 +429,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-01,634655,Chicago White Sox,145,Los Angeles Angels,108
 2021-04-01,634640,Houston Astros,117,Oakland Athletics,133
 2021-04-01,634625,San Francisco Giants,137,Seattle Mariners,136
-2021-04-01,634627,Baltimore Orioles,110,Boston Red Sox,111
-2021-04-01,634647,New York Mets,121,Washington Nationals,120
+2021-04-02,634627,Baltimore Orioles,110,Boston Red Sox,111
+2021-06-19,634647,New York Mets,121,Washington Nationals,120
 2021-04-02,634627,Baltimore Orioles,110,Boston Red Sox,111
 2021-04-02,634602,Tampa Bay Rays,139,Miami Marlins,146
 2021-04-02,634653,Los Angeles Dodgers,119,Colorado Rockies,115
@@ -452,7 +452,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-03,634623,Arizona Diamondbacks,109,San Diego Padres,135
 2021-04-03,634646,Chicago White Sox,145,Los Angeles Angels,108
 2021-04-03,634639,San Francisco Giants,137,Seattle Mariners,136
-2021-04-03,634620,New York Mets,121,Washington Nationals,120
+2021-06-28,634620,New York Mets,121,Washington Nationals,120
 2021-04-04,634617,Atlanta Braves,144,Philadelphia Phillies,143
 2021-04-04,634607,Toronto Blue Jays,141,New York Yankees,147
 2021-04-04,634610,Baltimore Orioles,110,Boston Red Sox,111
@@ -465,7 +465,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-04,634651,Houston Astros,117,Oakland Athletics,133
 2021-04-04,634572,Arizona Diamondbacks,109,San Diego Padres,135
 2021-04-04,634637,Chicago White Sox,145,Los Angeles Angels,108
-2021-04-04,634556,New York Mets,121,Washington Nationals,120
+2021-09-04,634556,New York Mets,121,Washington Nationals,120
 2021-04-05,634588,Minnesota Twins,142,Detroit Tigers,116
 2021-04-05,634612,Toronto Blue Jays,141,Texas Rangers,140
 2021-04-05,634616,Kansas City Royals,118,Cleveland Indians,114
@@ -479,7 +479,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-05,634600,Los Angeles Dodgers,119,Oakland Athletics,133
 2021-04-05,634591,San Francisco Giants,137,San Diego Padres,135
 2021-04-05,634551,Chicago White Sox,145,Seattle Mariners,136
-2021-04-05,634595,Atlanta Braves,144,Washington Nationals,120
+2021-04-07,634595,Atlanta Braves,144,Washington Nationals,120
 2021-04-06,634603,Minnesota Twins,142,Detroit Tigers,116
 2021-04-06,634624,Atlanta Braves,144,Washington Nationals,120
 2021-04-06,634586,Houston Astros,117,Los Angeles Angels,108
@@ -541,7 +541,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-10,634524,Philadelphia Phillies,143,Atlanta Braves,144
 2021-04-10,634484,Cincinnati Reds,113,Arizona Diamondbacks,109
 2021-04-10,632191,Washington Nationals,120,Los Angeles Dodgers,119
-2021-04-10,634656,Kansas City Royals,118,Chicago White Sox,145
+2021-05-14,634656,Kansas City Royals,118,Chicago White Sox,145
 2021-04-11,632200,Boston Red Sox,111,Baltimore Orioles,110
 2021-04-11,632225,Chicago Cubs,112,Pittsburgh Pirates,134
 2021-04-11,632228,Detroit Tigers,116,Cleveland Indians,114
@@ -555,7 +555,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-11,632209,Cincinnati Reds,113,Arizona Diamondbacks,109
 2021-04-11,632214,Washington Nationals,120,Los Angeles Dodgers,119
 2021-04-11,632207,Philadelphia Phillies,143,Atlanta Braves,144
-2021-04-11,632208,Los Angeles Angels,108,Toronto Blue Jays,141
+2021-08-10,632208,Los Angeles Angels,108,Toronto Blue Jays,141
 2021-04-12,632198,San Diego Padres,135,Pittsburgh Pirates,134
 2021-04-12,632203,New York Yankees,147,Toronto Blue Jays,141
 2021-04-12,632204,Texas Rangers,140,Tampa Bay Rays,139
@@ -567,9 +567,9 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-12,632216,Cleveland Indians,114,Chicago White Sox,145
 2021-04-12,632231,Oakland Athletics,133,Arizona Diamondbacks,109
 2021-04-12,634648,Cincinnati Reds,113,San Francisco Giants,137
-2021-04-12,632223,Boston Red Sox,111,Minnesota Twins,142
-2021-04-12,632224,Seattle Mariners,136,Baltimore Orioles,110
-2021-04-12,632226,Philadelphia Phillies,143,New York Mets,121
+2021-04-14,632223,Boston Red Sox,111,Minnesota Twins,142
+2021-04-13,632224,Seattle Mariners,136,Baltimore Orioles,110
+2021-04-13,632226,Philadelphia Phillies,143,New York Mets,121
 2021-04-13,632190,Boston Red Sox,111,Minnesota Twins,142
 2021-04-13,632206,Oakland Athletics,133,Arizona Diamondbacks,109
 2021-04-13,632213,Seattle Mariners,136,Baltimore Orioles,110
@@ -601,7 +601,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-14,634581,Miami Marlins,146,Atlanta Braves,144
 2021-04-14,634516,Cleveland Indians,114,Chicago White Sox,145
 2021-04-14,634614,Colorado Rockies,115,Los Angeles Dodgers,119
-2021-04-14,634472,Seattle Mariners,136,Baltimore Orioles,110
+2021-04-15,634472,Seattle Mariners,136,Baltimore Orioles,110
 2021-04-15,634579,Miami Marlins,146,Atlanta Braves,144
 2021-04-15,634621,San Diego Padres,135,Pittsburgh Pirates,134
 2021-04-15,634571,Seattle Mariners,136,Baltimore Orioles,110
@@ -613,7 +613,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-15,634475,Toronto Blue Jays,141,Kansas City Royals,118
 2021-04-15,634632,Detroit Tigers,116,Oakland Athletics,133
 2021-04-15,634547,Colorado Rockies,115,Los Angeles Dodgers,119
-2021-04-15,634515,Philadelphia Phillies,143,New York Mets,121
+2021-06-25,634515,Philadelphia Phillies,143,New York Mets,121
 2021-04-16,634548,Atlanta Braves,144,Chicago Cubs,112
 2021-04-16,634469,Arizona Diamondbacks,109,Washington Nationals,120
 2021-04-16,634474,St. Louis Cardinals,138,Philadelphia Phillies,143
@@ -626,9 +626,9 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-16,634525,Detroit Tigers,116,Oakland Athletics,133
 2021-04-16,634531,Los Angeles Dodgers,119,San Diego Padres,135
 2021-04-16,634517,Houston Astros,117,Seattle Mariners,136
-2021-04-16,634518,Chicago White Sox,145,Boston Red Sox,111
-2021-04-16,634520,Toronto Blue Jays,141,Kansas City Royals,118
-2021-04-16,634561,New York Mets,121,Colorado Rockies,115
+2021-04-18,634518,Chicago White Sox,145,Boston Red Sox,111
+2021-04-17,634520,Toronto Blue Jays,141,Kansas City Royals,118
+2021-04-17,634561,New York Mets,121,Colorado Rockies,115
 2021-04-17,634507,Arizona Diamondbacks,109,Washington Nationals,120
 2021-04-17,634500,Tampa Bay Rays,139,New York Yankees,147
 2021-04-17,634477,Toronto Blue Jays,141,Kansas City Royals,118
@@ -645,7 +645,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-17,634473,Pittsburgh Pirates,134,Milwaukee Brewers,158
 2021-04-17,634449,Los Angeles Dodgers,119,San Diego Padres,135
 2021-04-17,634447,Houston Astros,117,Seattle Mariners,136
-2021-04-17,634465,Minnesota Twins,142,Los Angeles Angels,108
+2021-05-20,634465,Minnesota Twins,142,Los Angeles Angels,108
 2021-04-18,634493,Arizona Diamondbacks,109,Washington Nationals,120
 2021-04-18,634498,St. Louis Cardinals,138,Philadelphia Phillies,143
 2021-04-18,634458,Tampa Bay Rays,139,New York Yankees,147
@@ -661,7 +661,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-18,634488,Los Angeles Dodgers,119,San Diego Padres,135
 2021-04-18,634538,Houston Astros,117,Seattle Mariners,136
 2021-04-18,634506,Atlanta Braves,144,Chicago Cubs,112
-2021-04-18,634441,Minnesota Twins,142,Los Angeles Angels,108
+2021-05-20,634441,Minnesota Twins,142,Los Angeles Angels,108
 2021-04-19,634445,Chicago White Sox,145,Boston Red Sox,111
 2021-04-19,634431,St. Louis Cardinals,138,Washington Nationals,120
 2021-04-19,634457,San Francisco Giants,137,Philadelphia Phillies,143
@@ -669,7 +669,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-19,634536,Texas Rangers,140,Los Angeles Angels,108
 2021-04-19,634421,Los Angeles Dodgers,119,Seattle Mariners,136
 2021-04-19,634399,Milwaukee Brewers,158,San Diego Padres,135
-2021-04-19,634466,Minnesota Twins,142,Oakland Athletics,133
+2021-04-20,634466,Minnesota Twins,142,Oakland Athletics,133
 2021-04-20,634417,Los Angeles Dodgers,119,Seattle Mariners,136
 2021-04-20,634397,Chicago White Sox,145,Cleveland Indians,114
 2021-04-20,634490,Minnesota Twins,142,Oakland Athletics,133
@@ -685,7 +685,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-20,634406,Houston Astros,117,Colorado Rockies,115
 2021-04-20,634398,Texas Rangers,140,Los Angeles Angels,108
 2021-04-20,634392,Milwaukee Brewers,158,San Diego Padres,135
-2021-04-20,634390,Pittsburgh Pirates,134,Detroit Tigers,116
+2021-04-21,634390,Pittsburgh Pirates,134,Detroit Tigers,116
 2021-04-21,634428,San Francisco Giants,137,Philadelphia Phillies,143
 2021-04-21,634497,Baltimore Orioles,110,Miami Marlins,146
 2021-04-21,634390,Pittsburgh Pirates,134,Detroit Tigers,116
@@ -695,13 +695,13 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-21,634405,St. Louis Cardinals,138,Washington Nationals,120
 2021-04-21,634430,Texas Rangers,140,Los Angeles Angels,108
 2021-04-21,634476,Milwaukee Brewers,158,San Diego Padres,135
-2021-04-21,634408,Arizona Diamondbacks,109,Cincinnati Reds,113
+2021-04-20,634408,Arizona Diamondbacks,109,Cincinnati Reds,113
 2021-04-21,634504,Atlanta Braves,144,New York Yankees,147
 2021-04-21,634444,Arizona Diamondbacks,109,Cincinnati Reds,113
 2021-04-21,634459,Toronto Blue Jays,141,Boston Red Sox,111
 2021-04-21,634453,New York Mets,121,Chicago Cubs,112
 2021-04-21,634446,Tampa Bay Rays,139,Kansas City Royals,118
-2021-04-21,634452,Chicago White Sox,145,Cleveland Indians,114
+2021-05-31,634452,Chicago White Sox,145,Cleveland Indians,114
 2021-04-22,634514,Arizona Diamondbacks,109,Cincinnati Reds,113
 2021-04-22,634492,Pittsburgh Pirates,134,Detroit Tigers,116
 2021-04-22,634436,New York Yankees,147,Cleveland Indians,114
@@ -739,7 +739,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-24,634418,Philadelphia Phillies,143,Colorado Rockies,115
 2021-04-24,634503,Miami Marlins,146,San Francisco Giants,137
 2021-04-24,634361,San Diego Padres,135,Los Angeles Dodgers,119
-2021-04-24,634380,Arizona Diamondbacks,109,Atlanta Braves,144
+2021-04-25,634380,Arizona Diamondbacks,109,Atlanta Braves,144
 2021-04-25,634454,Oakland Athletics,133,Baltimore Orioles,110
 2021-04-25,634448,Kansas City Royals,118,Detroit Tigers,116
 2021-04-25,634344,Washington Nationals,120,New York Mets,121
@@ -796,7 +796,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-04-28,634360,Seattle Mariners,136,Houston Astros,117
 2021-04-28,634322,San Diego Padres,135,Arizona Diamondbacks,109
 2021-04-28,634309,Colorado Rockies,115,San Francisco Giants,137
-2021-04-28,634357,Detroit Tigers,116,Chicago White Sox,145
+2021-04-29,634357,Detroit Tigers,116,Chicago White Sox,145
 2021-04-29,634300,New York Yankees,147,Baltimore Orioles,110
 2021-04-29,634296,Oakland Athletics,133,Tampa Bay Rays,139
 2021-04-29,634352,Philadelphia Phillies,143,St. Louis Cardinals,138
@@ -860,8 +860,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-05-03,634293,Toronto Blue Jays,141,Oakland Athletics,133
 2021-05-03,634243,Pittsburgh Pirates,134,San Diego Padres,135
 2021-05-03,634242,Baltimore Orioles,110,Seattle Mariners,136
-2021-05-03,634264,Los Angeles Dodgers,119,Chicago Cubs,112
-2021-05-03,634254,San Francisco Giants,137,Colorado Rockies,115
+2021-05-04,634264,Los Angeles Dodgers,119,Chicago Cubs,112
+2021-05-04,634254,San Francisco Giants,137,Colorado Rockies,115
 2021-05-04,634264,Los Angeles Dodgers,119,Chicago Cubs,112
 2021-05-04,634321,Los Angeles Dodgers,119,Chicago Cubs,112
 2021-05-04,634246,San Francisco Giants,137,Colorado Rockies,115
@@ -878,7 +878,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-05-04,634278,Toronto Blue Jays,141,Oakland Athletics,133
 2021-05-04,634313,Pittsburgh Pirates,134,San Diego Padres,135
 2021-05-04,634265,Baltimore Orioles,110,Seattle Mariners,136
-2021-05-04,634239,New York Mets,121,St. Louis Cardinals,138
+2021-05-05,634239,New York Mets,121,St. Louis Cardinals,138
 2021-05-05,634270,Chicago White Sox,145,Cincinnati Reds,113
 2021-05-05,634225,San Francisco Giants,137,Colorado Rockies,115
 2021-05-05,634220,Baltimore Orioles,110,Seattle Mariners,136
@@ -948,14 +948,14 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-05-09,634205,Los Angeles Dodgers,119,Los Angeles Angels,108
 2021-05-09,634211,Tampa Bay Rays,139,Oakland Athletics,133
 2021-05-09,634175,Philadelphia Phillies,143,Atlanta Braves,144
-2021-05-09,634173,Cincinnati Reds,113,Cleveland Indians,114
-2021-05-09,634222,Minnesota Twins,142,Detroit Tigers,116
+2021-08-09,634173,Cincinnati Reds,113,Cleveland Indians,114
+2021-07-17,634222,Minnesota Twins,142,Detroit Tigers,116
 2021-05-10,634152,Cincinnati Reds,113,Pittsburgh Pirates,134
 2021-05-10,634176,Boston Red Sox,111,Baltimore Orioles,110
 2021-05-10,634181,Los Angeles Angels,108,Houston Astros,117
 2021-05-10,634157,Miami Marlins,146,Arizona Diamondbacks,109
 2021-05-10,634153,Texas Rangers,140,San Francisco Giants,137
-2021-05-10,634155,San Diego Padres,135,Colorado Rockies,115
+2021-05-12,634155,San Diego Padres,135,Colorado Rockies,115
 2021-05-11,634164,Texas Rangers,140,San Francisco Giants,137
 2021-05-11,634189,Chicago Cubs,112,Cleveland Indians,114
 2021-05-11,634174,Cincinnati Reds,113,Pittsburgh Pirates,134
@@ -1175,15 +1175,15 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-05-26,634021,Los Angeles Dodgers,119,Houston Astros,117
 2021-05-26,633927,San Diego Padres,135,Milwaukee Brewers,158
 2021-05-26,633939,San Francisco Giants,137,Arizona Diamondbacks,109
-2021-05-26,633910,Toronto Blue Jays,141,New York Yankees,147
-2021-05-26,633912,Colorado Rockies,115,New York Mets,121
+2021-05-27,633910,Toronto Blue Jays,141,New York Yankees,147
+2021-05-27,633912,Colorado Rockies,115,New York Mets,121
 2021-05-27,633922,Colorado Rockies,115,New York Mets,121
 2021-05-27,633912,Colorado Rockies,115,New York Mets,121
 2021-05-27,633957,Philadelphia Phillies,143,Miami Marlins,146
 2021-05-27,633888,Chicago Cubs,112,Pittsburgh Pirates,134
 2021-05-27,633943,Cleveland Indians,114,Detroit Tigers,116
 2021-05-27,633937,San Diego Padres,135,Milwaukee Brewers,158
-2021-05-27,633890,Cincinnati Reds,113,Washington Nationals,120
+2021-05-26,633890,Cincinnati Reds,113,Washington Nationals,120
 2021-05-27,633915,Kansas City Royals,118,Tampa Bay Rays,139
 2021-05-27,633974,Toronto Blue Jays,141,New York Yankees,147
 2021-05-27,633910,Toronto Blue Jays,141,New York Yankees,147
@@ -1203,10 +1203,10 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-05-28,633987,St. Louis Cardinals,138,Arizona Diamondbacks,109
 2021-05-28,633921,San Francisco Giants,137,Los Angeles Dodgers,119
 2021-05-28,633997,Texas Rangers,140,Seattle Mariners,136
-2021-05-28,634005,Colorado Rockies,115,Pittsburgh Pirates,134
-2021-05-28,633916,Milwaukee Brewers,158,Washington Nationals,120
-2021-05-28,633899,Atlanta Braves,144,New York Mets,121
-2021-05-28,633887,Baltimore Orioles,110,Chicago White Sox,145
+2021-05-29,634005,Colorado Rockies,115,Pittsburgh Pirates,134
+2021-05-29,633916,Milwaukee Brewers,158,Washington Nationals,120
+2021-06-21,633899,Atlanta Braves,144,New York Mets,121
+2021-05-29,633887,Baltimore Orioles,110,Chicago White Sox,145
 2021-05-29,634005,Colorado Rockies,115,Pittsburgh Pirates,134
 2021-05-29,633936,Colorado Rockies,115,Pittsburgh Pirates,134
 2021-05-29,633894,Philadelphia Phillies,143,Tampa Bay Rays,139
@@ -1224,7 +1224,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-05-29,633959,Atlanta Braves,144,New York Mets,121
 2021-05-29,633913,St. Louis Cardinals,138,Arizona Diamondbacks,109
 2021-05-29,633947,Texas Rangers,140,Seattle Mariners,136
-2021-05-29,634042,Toronto Blue Jays,141,Cleveland Indians,114
+2021-05-30,634042,Toronto Blue Jays,141,Cleveland Indians,114
 2021-05-30,633978,Colorado Rockies,115,Pittsburgh Pirates,134
 2021-05-30,633933,Milwaukee Brewers,158,Washington Nationals,120
 2021-05-30,633935,Toronto Blue Jays,141,Cleveland Indians,114
@@ -1239,8 +1239,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-05-30,633923,San Francisco Giants,137,Los Angeles Dodgers,119
 2021-05-30,633946,St. Louis Cardinals,138,Arizona Diamondbacks,109
 2021-05-30,633968,Texas Rangers,140,Seattle Mariners,136
-2021-05-30,634072,Miami Marlins,146,Boston Red Sox,111
-2021-05-30,633925,Atlanta Braves,144,New York Mets,121
+2021-06-07,634072,Miami Marlins,146,Boston Red Sox,111
+2021-07-26,633925,Atlanta Braves,144,New York Mets,121
 2021-05-31,633919,Minnesota Twins,142,Baltimore Orioles,110
 2021-05-31,633898,Tampa Bay Rays,139,New York Yankees,147
 2021-05-31,633983,Philadelphia Phillies,143,Cincinnati Reds,113
@@ -1280,8 +1280,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-06-02,633848,Texas Rangers,140,Colorado Rockies,115
 2021-06-02,633988,St. Louis Cardinals,138,Los Angeles Dodgers,119
 2021-06-02,633954,Oakland Athletics,133,Seattle Mariners,136
-2021-06-02,633867,Philadelphia Phillies,143,Cincinnati Reds,113
-2021-06-02,633866,Chicago White Sox,145,Cleveland Indians,114
+2021-06-28,633867,Philadelphia Phillies,143,Cincinnati Reds,113
+2021-09-23,633866,Chicago White Sox,145,Cleveland Indians,114
 2021-06-03,633836,Washington Nationals,120,Atlanta Braves,144
 2021-06-03,633819,Tampa Bay Rays,139,New York Yankees,147
 2021-06-03,633831,Boston Red Sox,111,Houston Astros,117
@@ -1381,7 +1381,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-06-10,633733,Toronto Blue Jays,141,Chicago White Sox,145
 2021-06-10,633790,New York Yankees,147,Minnesota Twins,142
 2021-06-10,633770,Kansas City Royals,118,Oakland Athletics,133
-2021-06-10,633745,San Francisco Giants,137,Washington Nationals,120
+2021-06-12,633745,San Francisco Giants,137,Washington Nationals,120
 2021-06-11,633742,St. Louis Cardinals,138,Chicago Cubs,112
 2021-06-11,633746,San Francisco Giants,137,Washington Nationals,120
 2021-06-11,633741,Colorado Rockies,115,Cincinnati Reds,113
@@ -1510,7 +1510,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-06-19,633650,Detroit Tigers,116,Los Angeles Angels,108
 2021-06-19,633598,Los Angeles Dodgers,119,Arizona Diamondbacks,109
 2021-06-19,633661,Tampa Bay Rays,139,Seattle Mariners,136
-2021-06-19,633610,St. Louis Cardinals,138,Atlanta Braves,144
+2021-06-20,633610,St. Louis Cardinals,138,Atlanta Braves,144
 2021-06-20,633557,New York Mets,121,Washington Nationals,120
 2021-06-20,633550,Cleveland Indians,114,Pittsburgh Pirates,134
 2021-06-20,633636,Toronto Blue Jays,141,Baltimore Orioles,110
@@ -1588,7 +1588,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-06-25,633523,Oakland Athletics,133,San Francisco Giants,137
 2021-06-25,633608,Chicago Cubs,112,Los Angeles Dodgers,119
 2021-06-25,633492,Arizona Diamondbacks,109,San Diego Padres,135
-2021-06-25,633530,Houston Astros,117,Detroit Tigers,116
+2021-06-26,633530,Houston Astros,117,Detroit Tigers,116
 2021-06-26,633530,Houston Astros,117,Detroit Tigers,116
 2021-06-26,633509,Houston Astros,117,Detroit Tigers,116
 2021-06-26,633501,Seattle Mariners,136,Chicago White Sox,145
@@ -1604,7 +1604,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-06-26,633531,New York Yankees,147,Boston Red Sox,111
 2021-06-26,633500,Oakland Athletics,133,San Francisco Giants,137
 2021-06-26,633512,Arizona Diamondbacks,109,San Diego Padres,135
-2021-06-26,633581,Cleveland Indians,114,Minnesota Twins,142
+2021-09-14,633581,Cleveland Indians,114,Minnesota Twins,142
 2021-06-27,633515,Baltimore Orioles,110,Toronto Blue Jays,141
 2021-06-27,633494,Houston Astros,117,Detroit Tigers,116
 2021-06-27,633459,Los Angeles Angels,108,Tampa Bay Rays,139
@@ -1613,7 +1613,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-06-27,633489,Washington Nationals,120,Miami Marlins,146
 2021-06-27,633477,New York Yankees,147,Boston Red Sox,111
 2021-06-27,633473,Cleveland Indians,114,Minnesota Twins,142
-2021-06-27,633501,Seattle Mariners,136,Chicago White Sox,145
+2021-06-26,633501,Seattle Mariners,136,Chicago White Sox,145
 2021-06-27,633486,Colorado Rockies,115,Milwaukee Brewers,158
 2021-06-27,633482,Pittsburgh Pirates,134,St. Louis Cardinals,138
 2021-06-27,633516,Kansas City Royals,118,Texas Rangers,140
@@ -1631,7 +1631,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-06-28,633450,Chicago Cubs,112,Milwaukee Brewers,158
 2021-06-28,633490,Arizona Diamondbacks,109,St. Louis Cardinals,138
 2021-06-28,633458,San Francisco Giants,137,Los Angeles Dodgers,119
-2021-06-28,633476,Minnesota Twins,142,Chicago White Sox,145
+2021-07-19,633476,Minnesota Twins,142,Chicago White Sox,145
 2021-06-29,633443,Tampa Bay Rays,139,Washington Nationals,120
 2021-06-29,633495,Miami Marlins,146,Philadelphia Phillies,143
 2021-06-29,633444,Los Angeles Angels,108,New York Yankees,147
@@ -1646,7 +1646,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-06-29,633455,Pittsburgh Pirates,134,Colorado Rockies,115
 2021-06-29,633488,Texas Rangers,140,Oakland Athletics,133
 2021-06-29,633471,San Francisco Giants,137,Los Angeles Dodgers,119
-2021-06-29,633506,Detroit Tigers,116,Cleveland Indians,114
+2021-06-30,633506,Detroit Tigers,116,Cleveland Indians,114
 2021-06-30,633426,Arizona Diamondbacks,109,St. Louis Cardinals,138
 2021-06-30,633474,Chicago Cubs,112,Milwaukee Brewers,158
 2021-06-30,633491,Pittsburgh Pirates,134,Colorado Rockies,115
@@ -1673,8 +1673,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-01,633418,New York Mets,121,Atlanta Braves,144
 2021-07-01,633460,St. Louis Cardinals,138,Colorado Rockies,115
 2021-07-01,633438,San Francisco Giants,137,Arizona Diamondbacks,109
-2021-07-01,633421,Los Angeles Angels,108,New York Yankees,147
-2021-07-01,633447,Miami Marlins,146,Philadelphia Phillies,143
+2021-08-16,633421,Los Angeles Angels,108,New York Yankees,147
+2021-07-16,633447,Miami Marlins,146,Philadelphia Phillies,143
 2021-07-02,633448,San Diego Padres,135,Philadelphia Phillies,143
 2021-07-02,633404,Los Angeles Dodgers,119,Washington Nationals,120
 2021-07-02,633507,Milwaukee Brewers,158,Pittsburgh Pirates,134
@@ -1689,7 +1689,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-02,633452,Boston Red Sox,111,Oakland Athletics,133
 2021-07-02,633470,San Francisco Giants,137,Arizona Diamondbacks,109
 2021-07-02,633511,Texas Rangers,140,Seattle Mariners,136
-2021-07-02,633522,New York Mets,121,New York Yankees,147
+2021-07-04,633522,New York Mets,121,New York Yankees,147
 2021-07-03,633440,New York Mets,121,New York Yankees,147
 2021-07-03,633403,Tampa Bay Rays,139,Toronto Blue Jays,141
 2021-07-03,633390,San Diego Padres,135,Philadelphia Phillies,143
@@ -1745,8 +1745,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-06,633358,St. Louis Cardinals,138,San Francisco Giants,137
 2021-07-06,633396,Washington Nationals,120,San Diego Padres,135
 2021-07-06,633382,New York Yankees,147,Seattle Mariners,136
-2021-07-06,633360,Cleveland Indians,114,Tampa Bay Rays,139
-2021-07-06,633395,Milwaukee Brewers,158,New York Mets,121
+2021-07-07,633360,Cleveland Indians,114,Tampa Bay Rays,139
+2021-07-07,633395,Milwaukee Brewers,158,New York Mets,121
 2021-07-07,633339,Cleveland Indians,114,Tampa Bay Rays,139
 2021-07-07,633360,Cleveland Indians,114,Tampa Bay Rays,139
 2021-07-07,633330,Atlanta Braves,144,Pittsburgh Pirates,134
@@ -1773,8 +1773,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-08,633359,Detroit Tigers,116,Minnesota Twins,142
 2021-07-08,633351,Cincinnati Reds,113,Milwaukee Brewers,158
 2021-07-08,633343,Washington Nationals,120,San Diego Padres,135
-2021-07-08,633331,Toronto Blue Jays,141,Baltimore Orioles,110
-2021-07-08,633326,Pittsburgh Pirates,134,New York Mets,121
+2021-09-11,633331,Toronto Blue Jays,141,Baltimore Orioles,110
+2021-07-10,633326,Pittsburgh Pirates,134,New York Mets,121
 2021-07-09,633365,St. Louis Cardinals,138,Chicago Cubs,112
 2021-07-09,633377,Chicago White Sox,145,Baltimore Orioles,110
 2021-07-09,633373,Kansas City Royals,118,Cleveland Indians,114
@@ -1819,10 +1819,10 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-11,633302,Arizona Diamondbacks,109,Los Angeles Dodgers,119
 2021-07-11,633314,Colorado Rockies,115,San Diego Padres,135
 2021-07-11,633318,Los Angeles Angels,108,Seattle Mariners,136
-2021-07-11,633394,Kansas City Royals,118,Cleveland Indians,114
-2021-07-11,633337,St. Louis Cardinals,138,Chicago Cubs,112
+2021-09-20,633394,Kansas City Royals,118,Cleveland Indians,114
+2021-09-24,633337,St. Louis Cardinals,138,Chicago Cubs,112
 2021-07-13,634675,American League All-Stars,159,National League All-Stars,160
-2021-07-15,633291,Boston Red Sox,111,New York Yankees,147
+2021-08-17,633291,Boston Red Sox,111,New York Yankees,147
 2021-07-16,633283,Miami Marlins,146,Philadelphia Phillies,143
 2021-07-16,633447,Miami Marlins,146,Philadelphia Phillies,143
 2021-07-16,633346,New York Mets,121,Pittsburgh Pirates,134
@@ -1838,8 +1838,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-16,633323,Seattle Mariners,136,Los Angeles Angels,108
 2021-07-16,633296,Chicago Cubs,112,Arizona Diamondbacks,109
 2021-07-16,633264,Cleveland Indians,114,Oakland Athletics,133
-2021-07-16,634222,Minnesota Twins,142,Detroit Tigers,116
-2021-07-16,633372,Minnesota Twins,142,Detroit Tigers,116
+2021-07-17,634222,Minnesota Twins,142,Detroit Tigers,116
+2021-08-30,633372,Minnesota Twins,142,Detroit Tigers,116
 2021-07-17,634222,Minnesota Twins,142,Detroit Tigers,116
 2021-07-17,633275,Minnesota Twins,142,Detroit Tigers,116
 2021-07-17,633306,Cleveland Indians,114,Oakland Athletics,133
@@ -1855,10 +1855,10 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-17,633303,Tampa Bay Rays,139,Atlanta Braves,144
 2021-07-17,633261,Los Angeles Dodgers,119,Colorado Rockies,115
 2021-07-17,633286,Seattle Mariners,136,Los Angeles Angels,108
-2021-07-17,633292,Texas Rangers,140,Toronto Blue Jays,141
+2021-07-18,633292,Texas Rangers,140,Toronto Blue Jays,141
 2021-07-18,633235,New York Mets,121,Pittsburgh Pirates,134
-2021-07-18,633267,San Diego Padres,135,Washington Nationals,120
-2021-07-18,633299,Miami Marlins,146,Philadelphia Phillies,143
+2021-07-17,633267,San Diego Padres,135,Washington Nationals,120
+2021-07-17,633299,Miami Marlins,146,Philadelphia Phillies,143
 2021-07-18,633256,Texas Rangers,140,Toronto Blue Jays,141
 2021-07-18,633292,Texas Rangers,140,Toronto Blue Jays,141
 2021-07-18,633280,Minnesota Twins,142,Detroit Tigers,116
@@ -1886,7 +1886,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-19,633249,Los Angeles Angels,108,Oakland Athletics,133
 2021-07-19,633243,Pittsburgh Pirates,134,Arizona Diamondbacks,109
 2021-07-19,633259,San Francisco Giants,137,Los Angeles Dodgers,119
-2021-07-19,633224,San Diego Padres,135,Atlanta Braves,144
+2021-07-21,633224,San Diego Padres,135,Atlanta Braves,144
 2021-07-20,633207,Los Angeles Angels,108,Oakland Athletics,133
 2021-07-20,633223,Kansas City Royals,118,Milwaukee Brewers,158
 2021-07-20,633242,Miami Marlins,146,Washington Nationals,120
@@ -1901,7 +1901,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-20,633245,Seattle Mariners,136,Colorado Rockies,115
 2021-07-20,633254,Pittsburgh Pirates,134,Arizona Diamondbacks,109
 2021-07-20,633199,San Francisco Giants,137,Los Angeles Dodgers,119
-2021-07-20,633246,Boston Red Sox,111,Toronto Blue Jays,141
+2021-08-07,633246,Boston Red Sox,111,Toronto Blue Jays,141
 2021-07-21,633225,Baltimore Orioles,110,Tampa Bay Rays,139
 2021-07-21,633250,San Diego Padres,135,Atlanta Braves,144
 2021-07-21,633224,San Diego Padres,135,Atlanta Braves,144
@@ -1994,7 +1994,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-27,633149,Los Angeles Dodgers,119,San Francisco Giants,137
 2021-07-27,633155,Oakland Athletics,133,San Diego Padres,135
 2021-07-27,633158,Houston Astros,117,Seattle Mariners,136
-2021-07-27,633162,Toronto Blue Jays,141,Boston Red Sox,111
+2021-07-28,633162,Toronto Blue Jays,141,Boston Red Sox,111
 2021-07-28,633123,St. Louis Cardinals,138,Cleveland Indians,114
 2021-07-28,633138,Detroit Tigers,116,Minnesota Twins,142
 2021-07-28,633162,Toronto Blue Jays,141,Boston Red Sox,111
@@ -2010,7 +2010,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-07-28,633114,Chicago White Sox,145,Kansas City Royals,118
 2021-07-28,633130,Colorado Rockies,115,Los Angeles Angels,108
 2021-07-28,633125,Los Angeles Dodgers,119,San Francisco Giants,137
-2021-07-28,633134,Washington Nationals,120,Philadelphia Phillies,143
+2021-07-29,633134,Washington Nationals,120,Philadelphia Phillies,143
 2021-07-29,633081,Washington Nationals,120,Philadelphia Phillies,143
 2021-07-29,633134,Washington Nationals,120,Philadelphia Phillies,143
 2021-07-29,633083,Atlanta Braves,144,New York Mets,121
@@ -2168,7 +2168,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-08-09,632964,Chicago White Sox,145,Minnesota Twins,142
 2021-08-09,632979,New York Yankees,147,Kansas City Royals,118
 2021-08-09,632942,Miami Marlins,146,San Diego Padres,135
-2021-08-09,632997,Milwaukee Brewers,158,Chicago Cubs,112
+2021-08-10,632997,Milwaukee Brewers,158,Chicago Cubs,112
 2021-08-10,632997,Milwaukee Brewers,158,Chicago Cubs,112
 2021-08-10,633000,Milwaukee Brewers,158,Chicago Cubs,112
 2021-08-10,632208,Los Angeles Angels,108,Toronto Blue Jays,141
@@ -2189,7 +2189,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-08-11,632927,Chicago White Sox,145,Minnesota Twins,142
 2021-08-11,632904,Colorado Rockies,115,Houston Astros,117
 2021-08-11,632935,New York Yankees,147,Kansas City Royals,118
-2021-08-11,632966,Washington Nationals,120,New York Mets,121
+2021-08-10,632966,Washington Nationals,120,New York Mets,121
 2021-08-11,632959,Miami Marlins,146,San Diego Padres,135
 2021-08-11,632922,Detroit Tigers,116,Baltimore Orioles,110
 2021-08-11,632928,St. Louis Cardinals,138,Pittsburgh Pirates,134
@@ -2201,7 +2201,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-08-11,632965,Toronto Blue Jays,141,Los Angeles Angels,108
 2021-08-11,632951,Arizona Diamondbacks,109,San Francisco Giants,137
 2021-08-11,632952,Texas Rangers,140,Seattle Mariners,136
-2021-08-11,632912,Washington Nationals,120,New York Mets,121
+2021-08-12,632912,Washington Nationals,120,New York Mets,121
 2021-08-12,632949,Washington Nationals,120,New York Mets,121
 2021-08-12,632912,Washington Nationals,120,New York Mets,121
 2021-08-12,632944,St. Louis Cardinals,138,Pittsburgh Pirates,134
@@ -2229,7 +2229,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-08-13,632932,San Diego Padres,135,Arizona Diamondbacks,109
 2021-08-13,632906,Colorado Rockies,115,San Francisco Giants,137
 2021-08-13,632954,Toronto Blue Jays,141,Seattle Mariners,136
-2021-08-13,632820,Milwaukee Brewers,158,Pittsburgh Pirates,134
+2021-08-14,632820,Milwaukee Brewers,158,Pittsburgh Pirates,134
 2021-08-14,632820,Milwaukee Brewers,158,Pittsburgh Pirates,134
 2021-08-14,632897,Milwaukee Brewers,158,Pittsburgh Pirates,134
 2021-08-14,632916,Cincinnati Reds,113,Philadelphia Phillies,143
@@ -2355,8 +2355,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-08-22,632791,San Francisco Giants,137,Oakland Athletics,133
 2021-08-22,632796,New York Mets,121,Los Angeles Dodgers,119
 2021-08-22,632812,Los Angeles Angels,108,Cleveland Indians,114
-2021-08-22,632730,Minnesota Twins,142,New York Yankees,147
-2021-08-22,632773,Texas Rangers,140,Boston Red Sox,111
+2021-09-13,632730,Minnesota Twins,142,New York Yankees,147
+2021-08-23,632773,Texas Rangers,140,Boston Red Sox,111
 2021-08-23,632773,Texas Rangers,140,Boston Red Sox,111
 2021-08-23,632798,Arizona Diamondbacks,109,Pittsburgh Pirates,134
 2021-08-23,632787,Chicago White Sox,145,Toronto Blue Jays,141
@@ -2378,7 +2378,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-08-24,632776,Kansas City Royals,118,Houston Astros,117
 2021-08-24,632728,Cincinnati Reds,113,Milwaukee Brewers,158
 2021-08-24,632748,Los Angeles Dodgers,119,San Diego Padres,135
-2021-08-24,632822,Colorado Rockies,115,Chicago Cubs,112
+2021-08-25,632822,Colorado Rockies,115,Chicago Cubs,112
 2021-08-25,632751,Detroit Tigers,116,St. Louis Cardinals,138
 2021-08-25,632768,Kansas City Royals,118,Houston Astros,117
 2021-08-25,632738,Colorado Rockies,115,Chicago Cubs,112
@@ -2460,7 +2460,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-08-30,632687,Milwaukee Brewers,158,San Francisco Giants,137
 2021-08-30,632665,Houston Astros,117,Seattle Mariners,136
 2021-08-30,632674,Atlanta Braves,144,Los Angeles Dodgers,119
-2021-08-31,632192,Miami Marlins,146,New York Mets,121
+2021-04-11,632192,Miami Marlins,146,New York Mets,121
 2021-08-31,632677,Philadelphia Phillies,143,Washington Nationals,120
 2021-08-31,632715,Baltimore Orioles,110,Toronto Blue Jays,141
 2021-08-31,632688,Oakland Athletics,133,Detroit Tigers,116
@@ -2475,7 +2475,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-08-31,632682,Milwaukee Brewers,158,San Francisco Giants,137
 2021-08-31,632657,Houston Astros,117,Seattle Mariners,136
 2021-08-31,632663,Atlanta Braves,144,Los Angeles Dodgers,119
-2021-08-31,632699,St. Louis Cardinals,138,Cincinnati Reds,113
+2021-09-01,632699,St. Louis Cardinals,138,Cincinnati Reds,113
 2021-09-01,632699,St. Louis Cardinals,138,Cincinnati Reds,113
 2021-09-01,632731,St. Louis Cardinals,138,Cincinnati Reds,113
 2021-09-01,632641,Colorado Rockies,115,Texas Rangers,140
@@ -2490,8 +2490,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-09-01,632671,Pittsburgh Pirates,134,Chicago White Sox,145
 2021-09-01,632661,Milwaukee Brewers,158,San Francisco Giants,137
 2021-09-01,632656,Atlanta Braves,144,Los Angeles Dodgers,119
-2021-09-01,632670,Philadelphia Phillies,143,Washington Nationals,120
-2021-09-01,632666,Miami Marlins,146,New York Mets,121
+2021-09-02,632670,Philadelphia Phillies,143,Washington Nationals,120
+2021-09-28,632666,Miami Marlins,146,New York Mets,121
 2021-09-02,632670,Philadelphia Phillies,143,Washington Nationals,120
 2021-09-02,632686,Oakland Athletics,133,Detroit Tigers,116
 2021-09-02,632659,Milwaukee Brewers,158,San Francisco Giants,137
@@ -2774,9 +2774,9 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-09-22,632383,Seattle Mariners,136,Oakland Athletics,133
 2021-09-22,632392,Atlanta Braves,144,Arizona Diamondbacks,109
 2021-09-22,632384,San Francisco Giants,137,San Diego Padres,135
-2021-09-22,632388,Pittsburgh Pirates,134,Cincinnati Reds,113
-2021-09-22,632393,Chicago White Sox,145,Detroit Tigers,116
-2021-09-22,632409,Kansas City Royals,118,Cleveland Indians,114
+2021-09-27,632388,Pittsburgh Pirates,134,Cincinnati Reds,113
+2021-09-27,632393,Chicago White Sox,145,Detroit Tigers,116
+2021-09-27,632409,Kansas City Royals,118,Cleveland Indians,114
 2021-09-23,633866,Chicago White Sox,145,Cleveland Indians,114
 2021-09-23,632372,Chicago White Sox,145,Cleveland Indians,114
 2021-09-23,632367,St. Louis Cardinals,138,Milwaukee Brewers,158
@@ -2800,7 +2800,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-09-24,632373,New York Yankees,147,Boston Red Sox,111
 2021-09-24,632362,San Francisco Giants,137,Colorado Rockies,115
 2021-09-24,632357,Toronto Blue Jays,141,Minnesota Twins,142
-2021-09-24,633224,San Diego Padres,135,Atlanta Braves,144
+2021-07-21,633224,San Diego Padres,135,Atlanta Braves,144
 2021-09-24,632366,New York Mets,121,Milwaukee Brewers,158
 2021-09-24,632359,Seattle Mariners,136,Los Angeles Angels,108
 2021-09-24,632340,Los Angeles Dodgers,119,Arizona Diamondbacks,109
@@ -2944,7 +2944,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2021-10-11,660905,Milwaukee Brewers,158,Atlanta Braves,144
 2021-10-11,660927,Tampa Bay Rays,139,Boston Red Sox,111
 2021-10-11,660919,San Francisco Giants,137,Los Angeles Dodgers,119
-2021-10-11,660926,Houston Astros,117,Chicago White Sox,145
+2021-10-12,660926,Houston Astros,117,Chicago White Sox,145
 2021-10-12,660926,Houston Astros,117,Chicago White Sox,145
 2021-10-12,660914,Milwaukee Brewers,158,Atlanta Braves,144
 2021-10-12,660918,San Francisco Giants,137,Los Angeles Dodgers,119
@@ -3255,8 +3255,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-04-07,661577,Cincinnati Reds,113,Atlanta Braves,144
 2022-04-07,661042,Houston Astros,117,Los Angeles Angels,108
 2022-04-07,663418,San Diego Padres,135,Arizona Diamondbacks,109
-2022-04-07,661333,Boston Red Sox,111,New York Yankees,147
-2022-04-07,661750,Seattle Mariners,136,Minnesota Twins,142
+2022-04-08,661333,Boston Red Sox,111,New York Yankees,147
+2022-04-08,661750,Seattle Mariners,136,Minnesota Twins,142
 2022-04-08,661333,Boston Red Sox,111,New York Yankees,147
 2022-04-08,662888,Chicago White Sox,145,Detroit Tigers,116
 2022-04-08,661131,Oakland Athletics,133,Philadelphia Phillies,143
@@ -3269,7 +3269,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-04-08,661576,Cincinnati Reds,113,Atlanta Braves,144
 2022-04-08,661041,Houston Astros,117,Los Angeles Angels,108
 2022-04-08,663417,San Diego Padres,135,Arizona Diamondbacks,109
-2022-04-08,663147,Milwaukee Brewers,158,Chicago Cubs,112
+2022-05-30,663147,Milwaukee Brewers,158,Chicago Cubs,112
 2022-04-09,661917,Baltimore Orioles,110,Tampa Bay Rays,139
 2022-04-09,662864,Chicago White Sox,145,Detroit Tigers,116
 2022-04-09,661756,Seattle Mariners,136,Minnesota Twins,142
@@ -3311,7 +3311,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-04-11,661754,Seattle Mariners,136,Minnesota Twins,142
 2022-04-11,661036,Miami Marlins,146,Los Angeles Angels,108
 2022-04-11,662116,San Diego Padres,135,San Francisco Giants,137
-2022-04-11,662018,Pittsburgh Pirates,134,St. Louis Cardinals,138
+2022-06-14,662018,Pittsburgh Pirates,134,St. Louis Cardinals,138
 2022-04-12,662862,Boston Red Sox,111,Detroit Tigers,116
 2022-04-12,663088,Cleveland Guardians,114,Cincinnati Reds,113
 2022-04-12,661538,Seattle Mariners,136,Chicago White Sox,145
@@ -3339,7 +3339,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-04-13,661313,Toronto Blue Jays,141,New York Yankees,147
 2022-04-13,663433,Milwaukee Brewers,158,Baltimore Orioles,110
 2022-04-13,661530,Seattle Mariners,136,Chicago White Sox,145
-2022-04-13,662009,Kansas City Royals,118,St. Louis Cardinals,138
+2022-05-02,662009,Kansas City Royals,118,St. Louis Cardinals,138
 2022-04-14,661942,Oakland Athletics,133,Tampa Bay Rays,139
 2022-04-14,661529,Seattle Mariners,136,Chicago White Sox,145
 2022-04-14,661292,St. Louis Cardinals,138,Milwaukee Brewers,158
@@ -3395,7 +3395,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-04-17,662618,Cincinnati Reds,113,Los Angeles Dodgers,119
 2022-04-17,662174,Houston Astros,117,Seattle Mariners,136
 2022-04-17,662234,Atlanta Braves,144,San Diego Padres,135
-2022-04-17,662700,Detroit Tigers,116,Kansas City Royals,118
+2022-07-11,662700,Detroit Tigers,116,Kansas City Royals,118
 2022-04-18,663236,Minnesota Twins,142,Boston Red Sox,111
 2022-04-18,663197,Tampa Bay Rays,139,Chicago Cubs,112
 2022-04-18,661242,Pittsburgh Pirates,134,Milwaukee Brewers,158
@@ -3404,9 +3404,9 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-04-18,662407,Baltimore Orioles,110,Oakland Athletics,133
 2022-04-18,662233,Cincinnati Reds,113,San Diego Padres,135
 2022-04-18,662617,Atlanta Braves,144,Los Angeles Dodgers,119
-2022-04-18,663087,Chicago White Sox,145,Cleveland Guardians,114
-2022-04-18,662587,Arizona Diamondbacks,109,Washington Nationals,120
-2022-04-18,662616,San Francisco Giants,137,New York Mets,121
+2022-07-12,663087,Chicago White Sox,145,Cleveland Guardians,114
+2022-04-19,662587,Arizona Diamondbacks,109,Washington Nationals,120
+2022-04-19,662616,San Francisco Giants,137,New York Mets,121
 2022-04-19,662587,Arizona Diamondbacks,109,Washington Nationals,120
 2022-04-19,662583,Arizona Diamondbacks,109,Washington Nationals,120
 2022-04-19,662350,San Francisco Giants,137,New York Mets,121
@@ -3423,7 +3423,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-04-19,662232,Cincinnati Reds,113,San Diego Padres,135
 2022-04-19,662161,Texas Rangers,140,Seattle Mariners,136
 2022-04-19,662717,Atlanta Braves,144,Los Angeles Dodgers,119
-2022-04-19,663075,Chicago White Sox,145,Cleveland Guardians,114
+2022-04-20,663075,Chicago White Sox,145,Cleveland Guardians,114
 2022-04-20,661203,Pittsburgh Pirates,134,Milwaukee Brewers,158
 2022-04-20,663094,Chicago White Sox,145,Cleveland Guardians,114
 2022-04-20,663075,Chicago White Sox,145,Cleveland Guardians,114
@@ -3464,7 +3464,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-04-22,662230,Los Angeles Dodgers,119,San Diego Padres,135
 2022-04-22,662175,Kansas City Royals,118,Seattle Mariners,136
 2022-04-22,662390,Texas Rangers,140,Oakland Athletics,133
-2022-04-22,662849,Colorado Rockies,115,Detroit Tigers,116
+2022-04-23,662849,Colorado Rockies,115,Detroit Tigers,116
 2022-04-23,662549,San Francisco Giants,137,Washington Nationals,120
 2022-04-23,661310,Cleveland Guardians,114,New York Yankees,147
 2022-04-23,662848,Colorado Rockies,115,Detroit Tigers,116
@@ -3613,8 +3613,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-03,662994,Washington Nationals,120,Colorado Rockies,115
 2022-05-03,662386,Tampa Bay Rays,139,Oakland Athletics,133
 2022-05-03,662708,San Francisco Giants,137,Los Angeles Dodgers,119
-2022-05-03,663068,San Diego Padres,135,Cleveland Guardians,114
-2022-05-03,662839,Pittsburgh Pirates,134,Detroit Tigers,116
+2022-05-04,663068,San Diego Padres,135,Cleveland Guardians,114
+2022-05-04,662839,Pittsburgh Pirates,134,Detroit Tigers,116
 2022-05-04,661363,Arizona Diamondbacks,109,Miami Marlins,146
 2022-05-04,662838,Pittsburgh Pirates,134,Detroit Tigers,116
 2022-05-04,662839,Pittsburgh Pirates,134,Detroit Tigers,116
@@ -3651,12 +3651,12 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-06,662187,Tampa Bay Rays,139,Seattle Mariners,136
 2022-05-06,662272,Miami Marlins,146,San Diego Padres,135
 2022-05-06,662103,St. Louis Cardinals,138,San Francisco Giants,137
-2022-05-06,663142,Los Angeles Dodgers,119,Chicago Cubs,112
-2022-05-06,663071,Pittsburgh Pirates,134,Cincinnati Reds,113
-2022-05-06,661345,Kansas City Royals,118,Baltimore Orioles,110
-2022-05-06,661628,New York Mets,121,Philadelphia Phillies,143
-2022-05-06,661304,Texas Rangers,140,New York Yankees,147
-2022-05-06,663057,Toronto Blue Jays,141,Cleveland Guardians,114
+2022-05-07,663142,Los Angeles Dodgers,119,Chicago Cubs,112
+2022-07-07,663071,Pittsburgh Pirates,134,Cincinnati Reds,113
+2022-05-08,661345,Kansas City Royals,118,Baltimore Orioles,110
+2022-08-20,661628,New York Mets,121,Philadelphia Phillies,143
+2022-05-08,661304,Texas Rangers,140,New York Yankees,147
+2022-05-07,663057,Toronto Blue Jays,141,Cleveland Guardians,114
 2022-05-07,663089,Pittsburgh Pirates,134,Cincinnati Reds,113
 2022-05-07,663070,Pittsburgh Pirates,134,Cincinnati Reds,113
 2022-05-07,663162,Los Angeles Dodgers,119,Chicago Cubs,112
@@ -3672,9 +3672,9 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-07,662261,Miami Marlins,146,San Diego Padres,135
 2022-05-07,663430,Washington Nationals,120,Los Angeles Angels,108
 2022-05-07,662159,Tampa Bay Rays,139,Seattle Mariners,136
-2022-05-07,661303,Texas Rangers,140,New York Yankees,147
-2022-05-07,661627,New York Mets,121,Philadelphia Phillies,143
-2022-05-07,661349,Kansas City Royals,118,Baltimore Orioles,110
+2022-05-09,661303,Texas Rangers,140,New York Yankees,147
+2022-05-08,661627,New York Mets,121,Philadelphia Phillies,143
+2022-05-09,661349,Kansas City Royals,118,Baltimore Orioles,110
 2022-05-08,663278,Chicago White Sox,145,Boston Red Sox,111
 2022-05-08,661626,New York Mets,121,Philadelphia Phillies,143
 2022-05-08,661627,New York Mets,121,Philadelphia Phillies,143
@@ -3734,10 +3734,10 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-11,661702,Houston Astros,117,Minnesota Twins,142
 2022-05-11,662006,Baltimore Orioles,110,St. Louis Cardinals,138
 2022-05-11,661899,Kansas City Royals,118,Texas Rangers,140
-2022-05-11,661523,Cleveland Guardians,114,Chicago White Sox,145
+2022-07-23,661523,Cleveland Guardians,114,Chicago White Sox,145
 2022-05-12,662548,New York Mets,121,Washington Nationals,120
 2022-05-12,662872,Oakland Athletics,133,Detroit Tigers,116
-2022-05-12,661702,Houston Astros,117,Minnesota Twins,142
+2022-05-11,661702,Houston Astros,117,Minnesota Twins,142
 2022-05-12,662005,Baltimore Orioles,110,St. Louis Cardinals,138
 2022-05-12,661694,Houston Astros,117,Minnesota Twins,142
 2022-05-12,662372,Cincinnati Reds,113,Pittsburgh Pirates,134
@@ -3802,7 +3802,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-16,663005,San Francisco Giants,137,Colorado Rockies,115
 2022-05-16,662378,Minnesota Twins,142,Oakland Athletics,133
 2022-05-16,662695,Arizona Diamondbacks,109,Los Angeles Dodgers,119
-2022-05-16,662566,St. Louis Cardinals,138,New York Mets,121
+2022-05-17,662566,St. Louis Cardinals,138,New York Mets,121
 2022-05-17,662780,Chicago White Sox,145,Kansas City Royals,118
 2022-05-17,662727,Chicago White Sox,145,Kansas City Royals,118
 2022-05-17,662628,Arizona Diamondbacks,109,Los Angeles Dodgers,119
@@ -3835,7 +3835,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-18,663156,Pittsburgh Pirates,134,Chicago Cubs,112
 2022-05-18,661125,Los Angeles Angels,108,Texas Rangers,140
 2022-05-18,662726,Chicago White Sox,145,Kansas City Royals,118
-2022-05-18,663043,Cincinnati Reds,113,Cleveland Guardians,114
+2022-05-19,663043,Cincinnati Reds,113,Cleveland Guardians,114
 2022-05-19,661347,New York Yankees,147,Baltimore Orioles,110
 2022-05-19,661623,San Diego Padres,135,Philadelphia Phillies,143
 2022-05-19,663043,Cincinnati Reds,113,Cleveland Guardians,114
@@ -3857,8 +3857,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-20,661195,Washington Nationals,120,Milwaukee Brewers,158
 2022-05-20,663449,Oakland Athletics,133,Los Angeles Angels,108
 2022-05-20,662078,San Diego Padres,135,San Francisco Giants,137
-2022-05-20,661290,Chicago White Sox,145,New York Yankees,147
-2022-05-20,663002,New York Mets,121,Colorado Rockies,115
+2022-05-22,661290,Chicago White Sox,145,New York Yankees,147
+2022-05-21,663002,New York Mets,121,Colorado Rockies,115
 2022-05-21,661289,Chicago White Sox,145,New York Yankees,147
 2022-05-21,663194,Arizona Diamondbacks,109,Chicago Cubs,112
 2022-05-21,661793,Cincinnati Reds,113,Toronto Blue Jays,141
@@ -3874,7 +3874,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-21,662713,Minnesota Twins,142,Kansas City Royals,118
 2022-05-21,661280,Washington Nationals,120,Milwaukee Brewers,158
 2022-05-21,663448,Oakland Athletics,133,Los Angeles Angels,108
-2022-05-21,663123,Detroit Tigers,116,Cleveland Guardians,114
+2022-07-14,663123,Detroit Tigers,116,Cleveland Guardians,114
 2022-05-22,662479,St. Louis Cardinals,138,Pittsburgh Pirates,134
 2022-05-22,663277,Seattle Mariners,136,Boston Red Sox,111
 2022-05-22,661279,Tampa Bay Rays,139,Baltimore Orioles,110
@@ -3954,8 +3954,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-27,662281,Pittsburgh Pirates,134,San Diego Padres,135
 2022-05-27,662132,Houston Astros,117,Seattle Mariners,136
 2022-05-27,662369,Texas Rangers,140,Oakland Athletics,133
-2022-05-27,662514,Colorado Rockies,115,Washington Nationals,120
-2022-05-27,662841,Cleveland Guardians,114,Detroit Tigers,116
+2022-05-28,662514,Colorado Rockies,115,Washington Nationals,120
+2022-07-04,662841,Cleveland Guardians,114,Detroit Tigers,116
 2022-05-28,662514,Colorado Rockies,115,Washington Nationals,120
 2022-05-28,662513,Colorado Rockies,115,Washington Nationals,120
 2022-05-28,663257,Baltimore Orioles,110,Boston Red Sox,111
@@ -4016,7 +4016,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-05-31,662367,Houston Astros,117,Oakland Athletics,133
 2022-05-31,663329,Atlanta Braves,144,Arizona Diamondbacks,109
 2022-05-31,662735,Pittsburgh Pirates,134,Los Angeles Dodgers,119
-2022-05-31,662991,Miami Marlins,146,Colorado Rockies,115
+2022-06-01,662991,Miami Marlins,146,Colorado Rockies,115
 2022-06-01,663031,Kansas City Royals,118,Cleveland Guardians,114
 2022-06-01,662457,Washington Nationals,120,New York Mets,121
 2022-06-01,661982,San Diego Padres,135,St. Louis Cardinals,138
@@ -4032,7 +4032,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-06-01,661963,Tampa Bay Rays,139,Texas Rangers,140
 2022-06-01,663184,Milwaukee Brewers,158,Chicago Cubs,112
 2022-06-01,662721,Pittsburgh Pirates,134,Los Angeles Dodgers,119
-2022-06-01,661330,Los Angeles Angels,108,New York Yankees,147
+2022-06-02,661330,Los Angeles Angels,108,New York Yankees,147
 2022-06-02,661330,Los Angeles Angels,108,New York Yankees,147
 2022-06-02,661329,Los Angeles Angels,108,New York Yankees,147
 2022-06-02,662832,Minnesota Twins,142,Detroit Tigers,116
@@ -4096,7 +4096,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-06-06,662613,Toronto Blue Jays,141,Kansas City Royals,118
 2022-06-06,663399,Boston Red Sox,111,Los Angeles Angels,108
 2022-06-06,662278,New York Mets,121,San Diego Padres,135
-2022-06-06,663134,Texas Rangers,140,Cleveland Guardians,114
+2022-06-07,663134,Texas Rangers,140,Cleveland Guardians,114
 2022-06-07,663122,Texas Rangers,140,Cleveland Guardians,114
 2022-06-07,663134,Texas Rangers,140,Cleveland Guardians,114
 2022-06-07,663064,Arizona Diamondbacks,109,Cincinnati Reds,113
@@ -4127,7 +4127,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-06-08,663398,Boston Red Sox,111,Los Angeles Angels,108
 2022-06-08,662223,New York Mets,121,San Diego Padres,135
 2022-06-08,662094,Colorado Rockies,115,San Francisco Giants,137
-2022-06-08,661109,Chicago Cubs,112,Baltimore Orioles,110
+2022-08-18,661109,Chicago Cubs,112,Baltimore Orioles,110
 2022-06-09,663049,Arizona Diamondbacks,109,Cincinnati Reds,113
 2022-06-09,661891,St. Louis Cardinals,138,Tampa Bay Rays,139
 2022-06-09,661458,Los Angeles Dodgers,119,Chicago White Sox,145
@@ -4438,7 +4438,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-07-01,662609,San Diego Padres,135,Los Angeles Dodgers,119
 2022-07-01,662149,Oakland Athletics,133,Seattle Mariners,136
 2022-07-01,662079,Chicago White Sox,145,San Francisco Giants,137
-2022-07-01,662964,New York Yankees,147,Cleveland Guardians,114
+2022-07-02,662964,New York Yankees,147,Cleveland Guardians,114
 2022-07-02,661724,Tampa Bay Rays,139,Toronto Blue Jays,141
 2022-07-02,661836,Tampa Bay Rays,139,Toronto Blue Jays,141
 2022-07-02,662964,New York Yankees,147,Cleveland Guardians,114
@@ -4597,7 +4597,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-07-12,662984,San Diego Padres,135,Colorado Rockies,115
 2022-07-12,663402,Houston Astros,117,Los Angeles Angels,108
 2022-07-12,662108,Arizona Diamondbacks,109,San Francisco Giants,137
-2022-07-12,662531,Seattle Mariners,136,Washington Nationals,120
+2022-07-13,662531,Seattle Mariners,136,Washington Nationals,120
 2022-07-13,662517,Seattle Mariners,136,Washington Nationals,120
 2022-07-13,662531,Seattle Mariners,136,Washington Nationals,120
 2022-07-13,661505,New York Mets,121,Atlanta Braves,144
@@ -4641,7 +4641,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-07-15,663385,Los Angeles Dodgers,119,Los Angeles Angels,108
 2022-07-15,662197,Arizona Diamondbacks,109,San Diego Padres,135
 2022-07-15,662072,Milwaukee Brewers,158,San Francisco Giants,137
-2022-07-15,661115,New York Mets,121,Chicago Cubs,112
+2022-07-16,661115,New York Mets,121,Chicago Cubs,112
 2022-07-16,661673,Chicago White Sox,145,Minnesota Twins,142
 2022-07-16,661966,Cincinnati Reds,113,St. Louis Cardinals,138
 2022-07-16,661114,New York Mets,121,Chicago Cubs,112
@@ -4670,8 +4670,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-07-17,661080,Pittsburgh Pirates,134,Colorado Rockies,115
 2022-07-17,662059,Milwaukee Brewers,158,San Francisco Giants,137
 2022-07-17,662269,Arizona Diamondbacks,109,San Diego Padres,135
-2022-07-17,662948,Detroit Tigers,116,Cleveland Guardians,114
-2022-07-17,661965,Cincinnati Reds,113,St. Louis Cardinals,138
+2022-08-15,662948,Detroit Tigers,116,Cleveland Guardians,114
+2022-09-17,661965,Cincinnati Reds,113,St. Louis Cardinals,138
 2022-07-19,663466,American League All-Stars,159,National League All-Stars,160
 2022-07-21,661421,Texas Rangers,140,Miami Marlins,146
 2022-07-21,662776,New York Yankees,147,Houston Astros,117
@@ -4860,7 +4860,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-08-03,663375,Oakland Athletics,133,Los Angeles Angels,108
 2022-08-03,662244,Colorado Rockies,115,San Diego Padres,135
 2022-08-03,662055,Los Angeles Dodgers,119,San Francisco Giants,137
-2022-08-03,661945,Chicago Cubs,112,St. Louis Cardinals,138
+2022-08-04,661945,Chicago Cubs,112,St. Louis Cardinals,138
 2022-08-04,662303,Milwaukee Brewers,158,Pittsburgh Pirates,134
 2022-08-04,661945,Chicago Cubs,112,St. Louis Cardinals,138
 2022-08-04,661932,Chicago Cubs,112,St. Louis Cardinals,138
@@ -4957,7 +4957,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-08-10,662892,St. Louis Cardinals,138,Colorado Rockies,115
 2022-08-10,663302,Pittsburgh Pirates,134,Arizona Diamondbacks,109
 2022-08-10,662575,Minnesota Twins,142,Los Angeles Dodgers,119
-2022-08-10,661045,Toronto Blue Jays,141,Baltimore Orioles,110
+2022-09-05,661045,Toronto Blue Jays,141,Baltimore Orioles,110
 2022-08-11,661608,Miami Marlins,146,Philadelphia Phillies,143
 2022-08-11,662790,Cleveland Guardians,114,Detroit Tigers,116
 2022-08-11,662722,Texas Rangers,140,Houston Astros,117
@@ -5111,7 +5111,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-08-21,663301,St. Louis Cardinals,138,Arizona Diamondbacks,109
 2022-08-21,662600,Miami Marlins,146,Los Angeles Dodgers,119
 2022-08-21,661051,Boston Red Sox,111,Baltimore Orioles,110
-2022-08-21,662974,Chicago White Sox,145,Cleveland Guardians,114
+2022-09-15,662974,Chicago White Sox,145,Cleveland Guardians,114
 2022-08-22,662767,Chicago White Sox,145,Kansas City Royals,118
 2022-08-22,661601,Cincinnati Reds,113,Philadelphia Phillies,143
 2022-08-22,662394,Atlanta Braves,144,Pittsburgh Pirates,134
@@ -5280,7 +5280,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-09-03,663321,Milwaukee Brewers,158,Arizona Diamondbacks,109
 2022-09-03,663436,Houston Astros,117,Los Angeles Angels,108
 2022-09-03,662597,San Diego Padres,135,Los Angeles Dodgers,119
-2022-09-03,663108,Colorado Rockies,115,Cincinnati Reds,113
+2022-09-04,663108,Colorado Rockies,115,Cincinnati Reds,113
 2022-09-04,662299,Toronto Blue Jays,141,Pittsburgh Pirates,134
 2022-09-04,663107,Colorado Rockies,115,Cincinnati Reds,113
 2022-09-04,663108,Colorado Rockies,115,Cincinnati Reds,113
@@ -5309,7 +5309,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-09-05,662646,Cleveland Guardians,114,Kansas City Royals,118
 2022-09-05,663434,Detroit Tigers,116,Los Angeles Angels,108
 2022-09-05,662602,San Francisco Giants,137,Los Angeles Dodgers,119
-2022-09-05,662283,New York Mets,121,Pittsburgh Pirates,134
+2022-09-07,662283,New York Mets,121,Pittsburgh Pirates,134
 2022-09-06,662282,New York Mets,121,Pittsburgh Pirates,134
 2022-09-06,662043,Boston Red Sox,111,Tampa Bay Rays,139
 2022-09-06,661597,Miami Marlins,146,Philadelphia Phillies,143
@@ -5324,7 +5324,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-09-06,662313,Atlanta Braves,144,Oakland Athletics,133
 2022-09-06,662138,Chicago White Sox,145,Seattle Mariners,136
 2022-09-06,662601,San Francisco Giants,137,Los Angeles Dodgers,119
-2022-09-06,661235,Minnesota Twins,142,New York Yankees,147
+2022-09-07,661235,Minnesota Twins,142,New York Yankees,147
 2022-09-07,662283,New York Mets,121,Pittsburgh Pirates,134
 2022-09-07,662285,New York Mets,121,Pittsburgh Pirates,134
 2022-09-07,661251,Minnesota Twins,142,New York Yankees,147
@@ -5647,7 +5647,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-09-30,662208,Chicago White Sox,145,San Diego Padres,135
 2022-09-30,662596,Colorado Rockies,115,Los Angeles Dodgers,119
 2022-09-30,662049,Arizona Diamondbacks,109,San Francisco Giants,137
-2022-09-30,661098,Philadelphia Phillies,143,Washington Nationals,120
+2022-10-01,661098,Philadelphia Phillies,143,Washington Nationals,120
 2022-10-01,662572,Philadelphia Phillies,143,Washington Nationals,120
 2022-10-01,661098,Philadelphia Phillies,143,Washington Nationals,120
 2022-10-01,661217,Baltimore Orioles,110,New York Yankees,147
@@ -5693,7 +5693,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-10-03,662201,Detroit Tigers,116,Seattle Mariners,136
 2022-10-03,662239,San Francisco Giants,137,San Diego Padres,135
 2022-10-03,662629,Colorado Rockies,115,Los Angeles Dodgers,119
-2022-10-03,661095,Washington Nationals,120,New York Mets,121
+2022-10-04,661095,Washington Nationals,120,New York Mets,121
 2022-10-04,662062,New York Yankees,147,Texas Rangers,140
 2022-10-04,662010,New York Yankees,147,Texas Rangers,140
 2022-10-04,661094,Washington Nationals,120,New York Mets,121
@@ -5711,7 +5711,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-10-04,662429,Los Angeles Angels,108,Oakland Athletics,133
 2022-10-04,662252,San Francisco Giants,137,San Diego Padres,135
 2022-10-04,662624,Colorado Rockies,115,Los Angeles Dodgers,119
-2022-10-04,663272,Toronto Blue Jays,141,Baltimore Orioles,110
+2022-10-05,663272,Toronto Blue Jays,141,Baltimore Orioles,110
 2022-10-05,663451,Toronto Blue Jays,141,Baltimore Orioles,110
 2022-10-05,663272,Toronto Blue Jays,141,Baltimore Orioles,110
 2022-10-05,662421,Los Angeles Angels,108,Oakland Athletics,133
@@ -5744,7 +5744,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-10-12,715742,Philadelphia Phillies,143,Atlanta Braves,144
 2022-10-12,715747,San Diego Padres,135,Los Angeles Dodgers,119
 2022-10-13,715757,Seattle Mariners,136,Houston Astros,117
-2022-10-13,715752,Cleveland Guardians,114,New York Yankees,147
+2022-10-14,715752,Cleveland Guardians,114,New York Yankees,147
 2022-10-14,715752,Cleveland Guardians,114,New York Yankees,147
 2022-10-14,715741,Atlanta Braves,144,Philadelphia Phillies,143
 2022-10-14,715746,Los Angeles Dodgers,119,San Diego Padres,135
@@ -5753,7 +5753,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-10-15,715751,New York Yankees,147,Cleveland Guardians,114
 2022-10-15,715745,Los Angeles Dodgers,119,San Diego Padres,135
 2022-10-16,715750,New York Yankees,147,Cleveland Guardians,114
-2022-10-17,715749,Cleveland Guardians,114,New York Yankees,147
+2022-10-18,715749,Cleveland Guardians,114,New York Yankees,147
 2022-10-18,715749,Cleveland Guardians,114,New York Yankees,147
 2022-10-18,715731,Philadelphia Phillies,143,San Diego Padres,135
 2022-10-19,715730,Philadelphia Phillies,143,San Diego Padres,135
@@ -5766,7 +5766,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2022-10-23,715735,Houston Astros,117,New York Yankees,147
 2022-10-28,715724,Philadelphia Phillies,143,Houston Astros,117
 2022-10-29,715723,Philadelphia Phillies,143,Houston Astros,117
-2022-10-31,715722,Houston Astros,117,Philadelphia Phillies,143
+2022-11-01,715722,Houston Astros,117,Philadelphia Phillies,143
 2022-11-01,715722,Houston Astros,117,Philadelphia Phillies,143
 2022-11-02,715721,Houston Astros,117,Philadelphia Phillies,143
 2022-11-03,715720,Houston Astros,117,Philadelphia Phillies,143
@@ -6353,17 +6353,17 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-04-05,718689,Cleveland Guardians,114,Oakland Athletics,133
 2023-04-05,718691,Los Angeles Angels,108,Seattle Mariners,136
 2023-04-05,718692,Toronto Blue Jays,141,Kansas City Royals,118
-2023-04-05,718700,Chicago Cubs,112,Cincinnati Reds,113
+2023-09-01,718700,Chicago Cubs,112,Cincinnati Reds,113
 2023-04-06,718690,Boston Red Sox,111,Detroit Tigers,116
 2023-04-06,718686,Toronto Blue Jays,141,Kansas City Royals,118
 2023-04-06,718687,San Francisco Giants,137,Chicago White Sox,145
 2023-04-06,718682,Washington Nationals,120,Colorado Rockies,115
 2023-04-06,718681,San Diego Padres,135,Atlanta Braves,144
 2023-04-06,718683,Los Angeles Dodgers,119,Arizona Diamondbacks,109
-2023-04-06,718693,Miami Marlins,146,New York Mets,121
-2023-04-06,718685,Cincinnati Reds,113,Philadelphia Phillies,143
-2023-04-06,718688,New York Yankees,147,Baltimore Orioles,110
-2023-04-06,718684,Houston Astros,117,Minnesota Twins,142
+2023-04-07,718693,Miami Marlins,146,New York Mets,121
+2023-04-07,718685,Cincinnati Reds,113,Philadelphia Phillies,143
+2023-04-07,718688,New York Yankees,147,Baltimore Orioles,110
+2023-04-07,718684,Houston Astros,117,Minnesota Twins,142
 2023-04-07,718693,Miami Marlins,146,New York Mets,121
 2023-04-07,718675,Texas Rangers,140,Chicago Cubs,112
 2023-04-07,718685,Cincinnati Reds,113,Philadelphia Phillies,143
@@ -6503,7 +6503,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-04-16,718545,Colorado Rockies,115,Seattle Mariners,136
 2023-04-16,718549,Milwaukee Brewers,158,San Diego Padres,135
 2023-04-16,718552,Texas Rangers,140,Houston Astros,117
-2023-04-16,718558,San Francisco Giants,137,Detroit Tigers,116
+2023-07-24,718558,San Francisco Giants,137,Detroit Tigers,116
 2023-04-17,718540,Los Angeles Angels,108,Boston Red Sox,111
 2023-04-17,718542,Tampa Bay Rays,139,Cincinnati Reds,113
 2023-04-17,718544,San Francisco Giants,137,Miami Marlins,146
@@ -6515,8 +6515,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-04-17,718533,Atlanta Braves,144,San Diego Padres,135
 2023-04-17,718534,Milwaukee Brewers,158,Seattle Mariners,136
 2023-04-17,718532,New York Mets,121,Los Angeles Dodgers,119
-2023-04-17,718541,Cleveland Guardians,114,Detroit Tigers,116
-2023-04-17,718543,Philadelphia Phillies,143,Chicago White Sox,145
+2023-04-18,718541,Cleveland Guardians,114,Detroit Tigers,116
+2023-04-18,718543,Philadelphia Phillies,143,Chicago White Sox,145
 2023-04-18,718530,Cleveland Guardians,114,Detroit Tigers,116
 2023-04-18,718541,Cleveland Guardians,114,Detroit Tigers,116
 2023-04-18,718525,Philadelphia Phillies,143,Chicago White Sox,145
@@ -6570,7 +6570,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-04-21,718484,San Diego Padres,135,Arizona Diamondbacks,109
 2023-04-21,718481,St. Louis Cardinals,138,Seattle Mariners,136
 2023-04-21,718480,New York Mets,121,San Francisco Giants,137
-2023-04-21,718488,Miami Marlins,146,Cleveland Guardians,114
+2023-04-22,718488,Miami Marlins,146,Cleveland Guardians,114
 2023-04-22,718476,Toronto Blue Jays,141,New York Yankees,147
 2023-04-22,718468,Washington Nationals,120,Minnesota Twins,142
 2023-04-22,718479,Los Angeles Dodgers,119,Chicago Cubs,112
@@ -6666,8 +6666,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-04-28,718390,Arizona Diamondbacks,109,Colorado Rockies,115
 2023-04-28,718380,Cincinnati Reds,113,Oakland Athletics,133
 2023-04-28,718382,St. Louis Cardinals,138,Los Angeles Dodgers,119
-2023-04-28,718401,Baltimore Orioles,110,Detroit Tigers,116
-2023-04-28,718399,Pittsburgh Pirates,134,Washington Nationals,120
+2023-04-29,718401,Baltimore Orioles,110,Detroit Tigers,116
+2023-04-29,718399,Pittsburgh Pirates,134,Washington Nationals,120
 2023-04-29,718381,Baltimore Orioles,110,Detroit Tigers,116
 2023-04-29,718401,Baltimore Orioles,110,Detroit Tigers,116
 2023-04-29,718383,Pittsburgh Pirates,134,Washington Nationals,120
@@ -6684,7 +6684,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-04-29,718376,Los Angeles Angels,108,Milwaukee Brewers,158
 2023-04-29,718366,Arizona Diamondbacks,109,Colorado Rockies,115
 2023-04-29,718369,St. Louis Cardinals,138,Los Angeles Dodgers,119
-2023-04-29,718371,Atlanta Braves,144,New York Mets,121
+2023-08-12,718371,Atlanta Braves,144,New York Mets,121
 2023-04-30,718364,Chicago Cubs,112,Miami Marlins,146
 2023-04-30,718370,Cleveland Guardians,114,Boston Red Sox,111
 2023-04-30,718367,Pittsburgh Pirates,134,Washington Nationals,120
@@ -6699,7 +6699,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-04-30,718357,Cincinnati Reds,113,Oakland Athletics,133
 2023-04-30,718359,St. Louis Cardinals,138,Los Angeles Dodgers,119
 2023-04-30,718354,Philadelphia Phillies,143,Houston Astros,117
-2023-04-30,718361,Atlanta Braves,144,New York Mets,121
+2023-05-01,718361,Atlanta Braves,144,New York Mets,121
 2023-05-01,718352,Atlanta Braves,144,New York Mets,121
 2023-05-01,718361,Atlanta Braves,144,New York Mets,121
 2023-05-01,718349,Chicago Cubs,112,Washington Nationals,120
@@ -6722,7 +6722,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-05-02,718335,Cincinnati Reds,113,San Diego Padres,135
 2023-05-02,718332,Seattle Mariners,136,Oakland Athletics,133
 2023-05-02,718331,Philadelphia Phillies,143,Los Angeles Dodgers,119
-2023-05-02,718348,New York Mets,121,Detroit Tigers,116
+2023-05-03,718348,New York Mets,121,Detroit Tigers,116
 2023-05-03,718348,New York Mets,121,Detroit Tigers,116
 2023-05-03,718329,New York Mets,121,Detroit Tigers,116
 2023-05-03,718325,Arizona Diamondbacks,109,Texas Rangers,140
@@ -6872,7 +6872,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-05-13,718184,San Francisco Giants,137,Arizona Diamondbacks,109
 2023-05-13,718188,Philadelphia Phillies,143,Colorado Rockies,115
 2023-05-14,718182,Los Angeles Angels,108,Cleveland Guardians,114
-2023-05-14,718203,New York Mets,121,Washington Nationals,120
+2023-05-13,718203,New York Mets,121,Washington Nationals,120
 2023-05-14,718179,Pittsburgh Pirates,134,Baltimore Orioles,110
 2023-05-14,718180,Tampa Bay Rays,139,New York Yankees,147
 2023-05-14,718181,Atlanta Braves,144,Toronto Blue Jays,141
@@ -6964,7 +6964,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-05-20,718094,Seattle Mariners,136,Atlanta Braves,144
 2023-05-20,718096,Minnesota Twins,142,Los Angeles Angels,108
 2023-05-20,718092,Boston Red Sox,111,San Diego Padres,135
-2023-05-20,718099,Cleveland Guardians,114,New York Mets,121
+2023-05-21,718099,Cleveland Guardians,114,New York Mets,121
 2023-05-21,718085,New York Yankees,147,Cincinnati Reds,113
 2023-05-21,718089,Detroit Tigers,116,Washington Nationals,120
 2023-05-21,718091,Arizona Diamondbacks,109,Pittsburgh Pirates,134
@@ -7139,7 +7139,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-06-02,717919,Atlanta Braves,144,Arizona Diamondbacks,109
 2023-06-02,717917,New York Yankees,147,Los Angeles Dodgers,119
 2023-06-02,717920,Baltimore Orioles,110,San Francisco Giants,137
-2023-06-02,717928,Tampa Bay Rays,139,Boston Red Sox,111
+2023-06-05,717928,Tampa Bay Rays,139,Boston Red Sox,111
 2023-06-03,717918,Tampa Bay Rays,139,Boston Red Sox,111
 2023-06-03,717885,Tampa Bay Rays,139,Boston Red Sox,111
 2023-06-03,717915,Detroit Tigers,116,Chicago White Sox,145
@@ -7207,8 +7207,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-06-07,717854,St. Louis Cardinals,138,Texas Rangers,140
 2023-06-07,717852,San Francisco Giants,137,Colorado Rockies,115
 2023-06-07,717855,Chicago Cubs,112,Los Angeles Angels,108
-2023-06-07,717862,Detroit Tigers,116,Philadelphia Phillies,143
-2023-06-07,717857,Chicago White Sox,145,New York Yankees,147
+2023-06-08,717862,Detroit Tigers,116,Philadelphia Phillies,143
+2023-06-08,717857,Chicago White Sox,145,New York Yankees,147
 2023-06-08,717844,Los Angeles Dodgers,119,Cincinnati Reds,113
 2023-06-08,717845,Minnesota Twins,142,Tampa Bay Rays,139
 2023-06-08,717849,Baltimore Orioles,110,Milwaukee Brewers,158
@@ -7220,7 +7220,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-06-08,717842,Boston Red Sox,111,Cleveland Guardians,114
 2023-06-08,717840,New York Mets,121,Atlanta Braves,144
 2023-06-08,717838,Chicago Cubs,112,Los Angeles Angels,108
-2023-06-08,717847,Arizona Diamondbacks,109,Washington Nationals,120
+2023-06-22,717847,Arizona Diamondbacks,109,Washington Nationals,120
 2023-06-09,717834,Arizona Diamondbacks,109,Detroit Tigers,116
 2023-06-09,717827,Texas Rangers,140,Tampa Bay Rays,139
 2023-06-09,717839,Kansas City Royals,118,Baltimore Orioles,110
@@ -7288,7 +7288,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-06-13,717775,Philadelphia Phillies,143,Arizona Diamondbacks,109
 2023-06-13,717773,Miami Marlins,146,Seattle Mariners,136
 2023-06-13,717776,Chicago White Sox,145,Los Angeles Dodgers,119
-2023-06-13,717784,Atlanta Braves,144,Detroit Tigers,116
+2023-06-14,717784,Atlanta Braves,144,Detroit Tigers,116
 2023-06-14,717770,Atlanta Braves,144,Detroit Tigers,116
 2023-06-14,717784,Atlanta Braves,144,Detroit Tigers,116
 2023-06-14,717771,Milwaukee Brewers,158,Minnesota Twins,142
@@ -7344,7 +7344,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-06-17,717717,Tampa Bay Rays,139,San Diego Padres,135
 2023-06-17,717721,San Francisco Giants,137,Los Angeles Dodgers,119
 2023-06-17,717719,Cleveland Guardians,114,Arizona Diamondbacks,109
-2023-06-17,717730,New York Yankees,147,Boston Red Sox,111
+2023-06-18,717730,New York Yankees,147,Boston Red Sox,111
 2023-06-18,717708,Baltimore Orioles,110,Chicago Cubs,112
 2023-06-18,717716,Colorado Rockies,115,Atlanta Braves,144
 2023-06-18,717714,Miami Marlins,146,Washington Nationals,120
@@ -7400,7 +7400,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-06-21,717667,Texas Rangers,140,Chicago White Sox,145
 2023-06-21,717662,Los Angeles Dodgers,119,Los Angeles Angels,108
 2023-06-21,717674,San Diego Padres,135,San Francisco Giants,137
-2023-06-21,717664,Atlanta Braves,144,Philadelphia Phillies,143
+2023-09-11,717664,Atlanta Braves,144,Philadelphia Phillies,143
 2023-06-22,717847,Arizona Diamondbacks,109,Washington Nationals,120
 2023-06-22,717657,Atlanta Braves,144,Philadelphia Phillies,143
 2023-06-22,717660,Oakland Athletics,133,Cleveland Guardians,114
@@ -7515,7 +7515,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-06-30,717549,Arizona Diamondbacks,109,Los Angeles Angels,108
 2023-06-30,717551,Chicago White Sox,145,Oakland Athletics,133
 2023-06-30,717548,Tampa Bay Rays,139,Seattle Mariners,136
-2023-06-30,717550,New York Yankees,147,St. Louis Cardinals,138
+2023-07-01,717550,New York Yankees,147,St. Louis Cardinals,138
 2023-07-01,717539,San Diego Padres,135,Cincinnati Reds,113
 2023-07-01,717545,New York Yankees,147,St. Louis Cardinals,138
 2023-07-01,717550,New York Yankees,147,St. Louis Cardinals,138
@@ -7586,7 +7586,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-07-05,717490,Seattle Mariners,136,San Francisco Giants,137
 2023-07-05,717477,New York Mets,121,Arizona Diamondbacks,109
 2023-07-05,717479,Pittsburgh Pirates,134,Los Angeles Dodgers,119
-2023-07-05,717480,Toronto Blue Jays,141,Chicago White Sox,145
+2023-07-06,717480,Toronto Blue Jays,141,Chicago White Sox,145
 2023-07-06,717481,Cincinnati Reds,113,Washington Nationals,120
 2023-07-06,717476,Oakland Athletics,133,Detroit Tigers,116
 2023-07-06,717474,Chicago Cubs,112,Milwaukee Brewers,158
@@ -7659,12 +7659,12 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-07-14,717405,Houston Astros,117,Los Angeles Angels,108
 2023-07-14,717409,Minnesota Twins,142,Oakland Athletics,133
 2023-07-14,717406,Detroit Tigers,116,Seattle Mariners,136
-2023-07-14,717411,Tampa Bay Rays,139,Kansas City Royals,118
+2023-07-15,717411,Tampa Bay Rays,139,Kansas City Royals,118
 2023-07-15,717408,San Diego Padres,135,Philadelphia Phillies,143
 2023-07-15,717397,San Diego Padres,135,Philadelphia Phillies,143
 2023-07-15,717411,Tampa Bay Rays,139,Kansas City Royals,118
 2023-07-15,717393,Tampa Bay Rays,139,Kansas City Royals,118
-2023-07-15,717407,Washington Nationals,120,St. Louis Cardinals,138
+2023-07-14,717407,Washington Nationals,120,St. Louis Cardinals,138
 2023-07-15,717403,Boston Red Sox,111,Chicago Cubs,112
 2023-07-15,717404,Arizona Diamondbacks,109,Toronto Blue Jays,141
 2023-07-15,717402,Cleveland Guardians,114,Texas Rangers,140
@@ -7703,7 +7703,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-07-17,717369,New York Yankees,147,Los Angeles Angels,108
 2023-07-17,717366,Boston Red Sox,111,Oakland Athletics,133
 2023-07-17,717365,Minnesota Twins,142,Seattle Mariners,136
-2023-07-18,717375,San Francisco Giants,137,Cincinnati Reds,113
+2023-07-17,717375,San Francisco Giants,137,Cincinnati Reds,113
 2023-07-18,717363,Milwaukee Brewers,158,Philadelphia Phillies,143
 2023-07-18,717361,Los Angeles Dodgers,119,Baltimore Orioles,110
 2023-07-18,717364,Cleveland Guardians,114,Pittsburgh Pirates,134
@@ -7761,7 +7761,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-07-21,717311,Toronto Blue Jays,141,Seattle Mariners,136
 2023-07-22,717304,Kansas City Royals,118,New York Yankees,147
 2023-07-22,717306,Colorado Rockies,115,Miami Marlins,146
-2023-07-22,717324,New York Mets,121,Boston Red Sox,111
+2023-07-21,717324,New York Mets,121,Boston Red Sox,111
 2023-07-22,717308,St. Louis Cardinals,138,Chicago Cubs,112
 2023-07-22,717305,Los Angeles Dodgers,119,Texas Rangers,140
 2023-07-22,717303,Arizona Diamondbacks,109,Cincinnati Reds,113
@@ -7829,7 +7829,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-07-26,717239,Texas Rangers,140,Houston Astros,117
 2023-07-26,717240,Chicago Cubs,112,Chicago White Sox,145
 2023-07-26,717251,Oakland Athletics,133,San Francisco Giants,137
-2023-07-26,717247,Los Angeles Angels,108,Detroit Tigers,116
+2023-07-27,717247,Los Angeles Angels,108,Detroit Tigers,116
 2023-07-27,717243,Los Angeles Angels,108,Detroit Tigers,116
 2023-07-27,717247,Los Angeles Angels,108,Detroit Tigers,116
 2023-07-27,717241,Washington Nationals,120,New York Mets,121
@@ -7986,7 +7986,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-08-07,717086,Colorado Rockies,115,Milwaukee Brewers,158
 2023-08-07,717090,San Francisco Giants,137,Los Angeles Angels,108
 2023-08-07,717081,Texas Rangers,140,Oakland Athletics,133
-2023-08-07,717096,Washington Nationals,120,Philadelphia Phillies,143
+2023-08-08,717096,Washington Nationals,120,Philadelphia Phillies,143
 2023-08-08,717082,Washington Nationals,120,Philadelphia Phillies,143
 2023-08-08,717096,Washington Nationals,120,Philadelphia Phillies,143
 2023-08-08,717085,St. Louis Cardinals,138,Tampa Bay Rays,139
@@ -8056,7 +8056,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-08-12,717029,Texas Rangers,140,San Francisco Giants,137
 2023-08-12,717017,Colorado Rockies,115,Los Angeles Dodgers,119
 2023-08-12,717018,Baltimore Orioles,110,Seattle Mariners,136
-2023-08-12,717027,Cincinnati Reds,113,Pittsburgh Pirates,134
+2023-08-13,717027,Cincinnati Reds,113,Pittsburgh Pirates,134
 2023-08-13,717014,Detroit Tigers,116,Boston Red Sox,111
 2023-08-13,717016,Oakland Athletics,133,Washington Nationals,120
 2023-08-13,717015,Cincinnati Reds,113,Pittsburgh Pirates,134
@@ -8116,7 +8116,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-08-17,716958,New York Mets,121,St. Louis Cardinals,138
 2023-08-17,716957,Arizona Diamondbacks,109,San Diego Padres,135
 2023-08-17,716961,Milwaukee Brewers,158,Los Angeles Dodgers,119
-2023-08-17,716959,Detroit Tigers,116,Cleveland Guardians,114
+2023-08-18,716959,Detroit Tigers,116,Cleveland Guardians,114
 2023-08-18,716955,Kansas City Royals,118,Chicago Cubs,112
 2023-08-18,716956,Detroit Tigers,116,Cleveland Guardians,114
 2023-08-18,716959,Detroit Tigers,116,Cleveland Guardians,114
@@ -8172,7 +8172,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-08-21,716904,Kansas City Royals,118,Oakland Athletics,133
 2023-08-21,716906,Texas Rangers,140,Arizona Diamondbacks,109
 2023-08-21,716907,Miami Marlins,146,San Diego Padres,135
-2023-08-21,716903,Cincinnati Reds,113,Los Angeles Angels,108
+2023-08-23,716903,Cincinnati Reds,113,Los Angeles Angels,108
 2023-08-22,716896,Chicago Cubs,112,Detroit Tigers,116
 2023-08-22,716898,Colorado Rockies,115,Tampa Bay Rays,139
 2023-08-22,716899,San Francisco Giants,137,Philadelphia Phillies,143
@@ -8203,7 +8203,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-08-23,716875,Los Angeles Dodgers,119,Cleveland Guardians,114
 2023-08-23,716876,New York Mets,121,Atlanta Braves,144
 2023-08-23,716878,Boston Red Sox,111,Houston Astros,117
-2023-08-24,716875,Los Angeles Dodgers,119,Cleveland Guardians,114
+2023-08-23,716875,Los Angeles Dodgers,119,Cleveland Guardians,114
 2023-08-24,716872,Washington Nationals,120,New York Yankees,147
 2023-08-24,716869,Colorado Rockies,115,Tampa Bay Rays,139
 2023-08-24,716873,Boston Red Sox,111,Houston Astros,117
@@ -8457,8 +8457,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-09-11,716623,Los Angeles Angels,108,Seattle Mariners,136
 2023-09-11,716632,Cleveland Guardians,114,San Francisco Giants,137
 2023-09-11,716622,San Diego Padres,135,Los Angeles Dodgers,119
-2023-09-11,716628,New York Yankees,147,Boston Red Sox,111
-2023-09-11,716631,Kansas City Royals,118,Chicago White Sox,145
+2023-09-12,716628,New York Yankees,147,Boston Red Sox,111
+2023-09-12,716631,Kansas City Royals,118,Chicago White Sox,145
 2023-09-12,716628,New York Yankees,147,Boston Red Sox,111
 2023-09-12,716612,New York Yankees,147,Boston Red Sox,111
 2023-09-12,716611,Kansas City Royals,118,Chicago White Sox,145
@@ -8490,7 +8490,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-09-13,716598,Kansas City Royals,118,Chicago White Sox,145
 2023-09-13,716592,Miami Marlins,146,Milwaukee Brewers,158
 2023-09-13,716589,San Diego Padres,135,Los Angeles Dodgers,119
-2023-09-13,716597,New York Yankees,147,Boston Red Sox,111
+2023-09-14,716597,New York Yankees,147,Boston Red Sox,111
 2023-09-14,716591,Washington Nationals,120,Pittsburgh Pirates,134
 2023-09-14,716584,Cincinnati Reds,113,Detroit Tigers,116
 2023-09-14,716597,New York Yankees,147,Boston Red Sox,111
@@ -8500,7 +8500,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-09-14,716587,Texas Rangers,140,Toronto Blue Jays,141
 2023-09-14,716586,Tampa Bay Rays,139,Baltimore Orioles,110
 2023-09-14,716580,Minnesota Twins,142,Chicago White Sox,145
-2023-09-14,716581,San Francisco Giants,137,Colorado Rockies,115
+2023-09-16,716581,San Francisco Giants,137,Colorado Rockies,115
 2023-09-15,716579,New York Yankees,147,Pittsburgh Pirates,134
 2023-09-15,716582,Atlanta Braves,144,Miami Marlins,146
 2023-09-15,716583,Tampa Bay Rays,139,Baltimore Orioles,110
@@ -8625,8 +8625,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-09-23,716455,Kansas City Royals,118,Houston Astros,117
 2023-09-23,716457,St. Louis Cardinals,138,San Diego Padres,135
 2023-09-23,716456,San Francisco Giants,137,Los Angeles Dodgers,119
-2023-09-23,716467,Atlanta Braves,144,Washington Nationals,120
-2023-09-23,716471,Arizona Diamondbacks,109,New York Yankees,147
+2023-09-24,716467,Atlanta Braves,144,Washington Nationals,120
+2023-09-25,716471,Arizona Diamondbacks,109,New York Yankees,147
 2023-09-24,716452,Toronto Blue Jays,141,Tampa Bay Rays,139
 2023-09-24,716459,Atlanta Braves,144,Washington Nationals,120
 2023-09-24,716467,Atlanta Braves,144,Washington Nationals,120
@@ -8647,7 +8647,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-09-25,716440,Texas Rangers,140,Los Angeles Angels,108
 2023-09-25,716436,Houston Astros,117,Seattle Mariners,136
 2023-09-25,716441,San Diego Padres,135,San Francisco Giants,137
-2023-09-25,716443,Arizona Diamondbacks,109,Chicago White Sox,145
+2023-09-28,716443,Arizona Diamondbacks,109,Chicago White Sox,145
 2023-09-26,716438,Los Angeles Dodgers,119,Colorado Rockies,115
 2023-09-26,716424,Los Angeles Dodgers,119,Colorado Rockies,115
 2023-09-26,716435,Cincinnati Reds,113,Cleveland Guardians,114
@@ -8663,7 +8663,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-09-26,716422,Texas Rangers,140,Los Angeles Angels,108
 2023-09-26,716437,San Diego Padres,135,San Francisco Giants,137
 2023-09-26,716425,Houston Astros,117,Seattle Mariners,136
-2023-09-26,716430,Miami Marlins,146,New York Mets,121
+2023-09-27,716430,Miami Marlins,146,New York Mets,121
 2023-09-27,716417,Arizona Diamondbacks,109,Chicago White Sox,145
 2023-09-27,716411,Miami Marlins,146,New York Mets,121
 2023-09-27,716430,Miami Marlins,146,New York Mets,121
@@ -8680,7 +8680,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-09-27,716420,Texas Rangers,140,Los Angeles Angels,108
 2023-09-27,716407,Houston Astros,117,Seattle Mariners,136
 2023-09-27,716426,San Diego Padres,135,San Francisco Giants,137
-2023-09-28,716414,Kansas City Royals,118,Detroit Tigers,116
+2023-09-27,716414,Kansas City Royals,118,Detroit Tigers,116
 2023-09-28,716400,Oakland Athletics,133,Minnesota Twins,142
 2023-09-28,716443,Arizona Diamondbacks,109,Chicago White Sox,145
 2023-09-28,716401,Kansas City Royals,118,Detroit Tigers,116
@@ -8706,7 +8706,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-09-29,716384,Houston Astros,117,Arizona Diamondbacks,109
 2023-09-29,716379,Texas Rangers,140,Seattle Mariners,136
 2023-09-29,716382,Los Angeles Dodgers,119,San Francisco Giants,137
-2023-09-29,716393,Philadelphia Phillies,143,New York Mets,121
+2023-09-30,716393,Philadelphia Phillies,143,New York Mets,121
 2023-09-30,716380,Cleveland Guardians,114,Detroit Tigers,116
 2023-09-30,716383,Tampa Bay Rays,139,Toronto Blue Jays,141
 2023-09-30,716376,Philadelphia Phillies,143,New York Mets,121
@@ -8738,7 +8738,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2023-10-01,716352,New York Yankees,147,Kansas City Royals,118
 2023-10-01,716364,Chicago Cubs,112,Milwaukee Brewers,158
 2023-10-01,716353,Cincinnati Reds,113,St. Louis Cardinals,138
-2023-10-02,716404,Miami Marlins,146,New York Mets,121
+2023-09-28,716404,Miami Marlins,146,New York Mets,121
 2023-10-03,748581,Texas Rangers,140,Tampa Bay Rays,139
 2023-10-03,748585,Toronto Blue Jays,141,Minnesota Twins,142
 2023-10-03,748582,Arizona Diamondbacks,109,Milwaukee Brewers,158
@@ -9280,8 +9280,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-03-28,745687,Cleveland Guardians,114,Oakland Athletics,133
 2024-03-28,747224,Colorado Rockies,115,Arizona Diamondbacks,109
 2024-03-28,745283,Boston Red Sox,111,Seattle Mariners,136
-2024-03-28,745848,Milwaukee Brewers,158,New York Mets,121
-2024-03-28,745604,Atlanta Braves,144,Philadelphia Phillies,143
+2024-03-29,745848,Milwaukee Brewers,158,New York Mets,121
+2024-03-29,745604,Atlanta Braves,144,Philadelphia Phillies,143
 2024-03-29,745848,Milwaukee Brewers,158,New York Mets,121
 2024-03-29,745604,Atlanta Braves,144,Philadelphia Phillies,143
 2024-03-29,745117,Toronto Blue Jays,141,Tampa Bay Rays,139
@@ -9349,7 +9349,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-04-02,745439,St. Louis Cardinals,138,San Diego Padres,135
 2024-04-02,747220,New York Yankees,147,Arizona Diamondbacks,109
 2024-04-02,746169,San Francisco Giants,137,Los Angeles Dodgers,119
-2024-04-02,745844,Detroit Tigers,116,New York Mets,121
+2024-04-04,745844,Detroit Tigers,116,New York Mets,121
 2024-04-03,747059,Kansas City Royals,118,Baltimore Orioles,110
 2024-04-03,745114,Texas Rangers,140,Tampa Bay Rays,139
 2024-04-03,746083,Los Angeles Angels,108,Miami Marlins,146
@@ -9363,8 +9363,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-04-03,746900,Colorado Rockies,115,Chicago Cubs,112
 2024-04-03,746407,Toronto Blue Jays,141,Houston Astros,117
 2024-04-03,746163,San Francisco Giants,137,Los Angeles Dodgers,119
-2024-04-03,746816,Atlanta Braves,144,Chicago White Sox,145
-2024-04-03,745843,Detroit Tigers,116,New York Mets,121
+2024-06-27,746816,Atlanta Braves,144,Chicago White Sox,145
+2024-04-04,745843,Detroit Tigers,116,New York Mets,121
 2024-04-04,745844,Detroit Tigers,116,New York Mets,121
 2024-04-04,745843,Detroit Tigers,116,New York Mets,121
 2024-04-04,744870,Pittsburgh Pirates,134,Washington Nationals,120
@@ -9413,7 +9413,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-04-07,745362,San Diego Padres,135,San Francisco Giants,137
 2024-04-07,746251,Boston Red Sox,111,Los Angeles Angels,108
 2024-04-07,745032,Houston Astros,117,Texas Rangers,140
-2024-04-07,745927,Cleveland Guardians,114,Minnesota Twins,142
+2024-08-09,745927,Cleveland Guardians,114,Minnesota Twins,142
 2024-04-08,746654,Chicago White Sox,145,Cleveland Guardians,114
 2024-04-08,745761,Miami Marlins,146,New York Yankees,147
 2024-04-08,745520,Detroit Tigers,116,Pittsburgh Pirates,134
@@ -9455,14 +9455,14 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-04-10,746980,Baltimore Orioles,110,Boston Red Sox,111
 2024-04-10,746323,Houston Astros,117,Kansas City Royals,118
 2024-04-10,745024,Oakland Athletics,133,Texas Rangers,140
-2024-04-10,747139,New York Mets,121,Atlanta Braves,144
+2024-09-30,747139,New York Mets,121,Atlanta Braves,144
 2024-04-11,747137,New York Mets,121,Atlanta Braves,144
 2024-04-11,746322,Houston Astros,117,Kansas City Royals,118
 2024-04-11,745029,Oakland Athletics,133,Texas Rangers,140
 2024-04-11,745601,Pittsburgh Pirates,134,Philadelphia Phillies,143
 2024-04-11,746977,Baltimore Orioles,110,Boston Red Sox,111
-2024-04-11,746490,Minnesota Twins,142,Detroit Tigers,116
-2024-04-11,746730,Milwaukee Brewers,158,Cincinnati Reds,113
+2024-04-13,746490,Minnesota Twins,142,Detroit Tigers,116
+2024-08-30,746730,Milwaukee Brewers,158,Cincinnati Reds,113
 2024-04-12,746491,Minnesota Twins,142,Detroit Tigers,116
 2024-04-12,745596,Pittsburgh Pirates,134,Philadelphia Phillies,143
 2024-04-12,745112,San Francisco Giants,137,Tampa Bay Rays,139
@@ -9477,7 +9477,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-04-12,745274,Chicago Cubs,112,Seattle Mariners,136
 2024-04-12,747217,St. Louis Cardinals,138,Arizona Diamondbacks,109
 2024-04-12,746162,San Diego Padres,135,Los Angeles Dodgers,119
-2024-04-12,746656,New York Yankees,147,Cleveland Guardians,114
+2024-04-13,746656,New York Yankees,147,Cleveland Guardians,114
 2024-04-13,746656,New York Yankees,147,Cleveland Guardians,114
 2024-04-13,746658,New York Yankees,147,Cleveland Guardians,114
 2024-04-13,746489,Minnesota Twins,142,Detroit Tigers,116
@@ -9539,7 +9539,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-04-16,745270,Cincinnati Reds,113,Seattle Mariners,136
 2024-04-16,745674,St. Louis Cardinals,138,Oakland Athletics,133
 2024-04-16,746157,Washington Nationals,120,Los Angeles Dodgers,119
-2024-04-16,746809,Kansas City Royals,118,Chicago White Sox,145
+2024-04-17,746809,Kansas City Royals,118,Chicago White Sox,145
 2024-04-17,746076,San Francisco Giants,137,Miami Marlins,146
 2024-04-17,747049,Minnesota Twins,142,Baltimore Orioles,110
 2024-04-17,745836,Pittsburgh Pirates,134,New York Mets,121
@@ -9560,7 +9560,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-04-18,746485,Texas Rangers,140,Detroit Tigers,116
 2024-04-18,746970,Cleveland Guardians,114,Boston Red Sox,111
 2024-04-18,745356,Arizona Diamondbacks,109,San Francisco Giants,137
-2024-04-18,746891,Miami Marlins,146,Chicago Cubs,112
+2024-04-20,746891,Miami Marlins,146,Chicago Cubs,112
 2024-04-19,746892,Miami Marlins,146,Chicago Cubs,112
 2024-04-19,746729,Los Angeles Angels,108,Cincinnati Reds,113
 2024-04-19,745518,Boston Red Sox,111,Pittsburgh Pirates,134
@@ -9575,7 +9575,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-04-19,745430,Toronto Blue Jays,141,San Diego Padres,135
 2024-04-19,746160,New York Mets,121,Los Angeles Dodgers,119
 2024-04-19,745352,Arizona Diamondbacks,109,San Francisco Giants,137
-2024-04-19,746572,Seattle Mariners,136,Colorado Rockies,115
+2024-04-21,746572,Seattle Mariners,136,Colorado Rockies,115
 2024-04-20,745760,Tampa Bay Rays,139,New York Yankees,147
 2024-04-20,745921,Detroit Tigers,116,Minnesota Twins,142
 2024-04-20,745190,Milwaukee Brewers,158,St. Louis Cardinals,138
@@ -9714,7 +9714,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-04-29,745672,Pittsburgh Pirates,134,Oakland Athletics,133
 2024-04-29,745427,Cincinnati Reds,113,San Diego Padres,135
 2024-04-29,745263,Atlanta Braves,144,Seattle Mariners,136
-2024-04-29,746481,St. Louis Cardinals,138,Detroit Tigers,116
+2024-04-30,746481,St. Louis Cardinals,138,Detroit Tigers,116
 2024-04-30,746477,St. Louis Cardinals,138,Detroit Tigers,116
 2024-04-30,746481,St. Louis Cardinals,138,Detroit Tigers,116
 2024-04-30,747047,New York Yankees,147,Baltimore Orioles,110
@@ -9837,7 +9837,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-05-08,747127,Boston Red Sox,111,Atlanta Braves,144
 2024-05-08,745906,Seattle Mariners,136,Minnesota Twins,142
 2024-05-08,746562,San Francisco Giants,137,Colorado Rockies,115
-2024-05-08,745184,New York Mets,121,St. Louis Cardinals,138
+2024-08-05,745184,New York Mets,121,St. Louis Cardinals,138
 2024-05-09,746715,Arizona Diamondbacks,109,Cincinnati Reds,113
 2024-05-09,745910,Seattle Mariners,136,Minnesota Twins,142
 2024-05-09,746563,San Francisco Giants,137,Colorado Rockies,115
@@ -9903,7 +9903,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-05-13,745420,Colorado Rockies,115,San Diego Padres,135
 2024-05-13,745256,Kansas City Royals,118,Seattle Mariners,136
 2024-05-13,745343,Los Angeles Dodgers,119,San Francisco Giants,137
-2024-05-13,746799,Washington Nationals,120,Chicago White Sox,145
+2024-05-14,746799,Washington Nationals,120,Chicago White Sox,145
 2024-05-14,745821,Philadelphia Phillies,143,New York Mets,121
 2024-05-14,746796,Washington Nationals,120,Chicago White Sox,145
 2024-05-14,746799,Washington Nationals,120,Chicago White Sox,145
@@ -9919,7 +9919,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-05-14,745418,Colorado Rockies,115,San Diego Padres,135
 2024-05-14,745257,Kansas City Royals,118,Seattle Mariners,136
 2024-05-14,745342,Los Angeles Dodgers,119,San Francisco Giants,137
-2024-05-14,747039,Toronto Blue Jays,141,Baltimore Orioles,110
+2024-07-29,747039,Toronto Blue Jays,141,Baltimore Orioles,110
 2024-05-15,747038,Toronto Blue Jays,141,Baltimore Orioles,110
 2024-05-15,746472,Miami Marlins,146,Detroit Tigers,116
 2024-05-15,745992,Pittsburgh Pirates,134,Milwaukee Brewers,158
@@ -9970,7 +9970,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-05-18,745013,Los Angeles Angels,108,Texas Rangers,140
 2024-05-18,747202,Detroit Tigers,116,Arizona Diamondbacks,109
 2024-05-18,746142,Cincinnati Reds,113,Los Angeles Dodgers,119
-2024-05-18,747121,San Diego Padres,135,Atlanta Braves,144
+2024-05-20,747121,San Diego Padres,135,Atlanta Braves,144
 2024-05-19,745179,Boston Red Sox,111,St. Louis Cardinals,138
 2024-05-19,747035,Seattle Mariners,136,Baltimore Orioles,110
 2024-05-19,745577,Washington Nationals,120,Philadelphia Phillies,143
@@ -10013,7 +10013,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-05-21,746385,Los Angeles Angels,108,Houston Astros,117
 2024-05-21,745662,Colorado Rockies,115,Oakland Athletics,133
 2024-05-21,746145,Arizona Diamondbacks,109,Los Angeles Dodgers,119
-2024-05-22,745180,Baltimore Orioles,110,St. Louis Cardinals,138
+2024-05-21,745180,Baltimore Orioles,110,St. Louis Cardinals,138
 2024-05-22,744856,Minnesota Twins,142,Washington Nationals,120
 2024-05-22,746634,New York Mets,121,Cleveland Guardians,114
 2024-05-22,745173,Baltimore Orioles,110,St. Louis Cardinals,138
@@ -10051,7 +10051,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-05-24,745663,Houston Astros,117,Oakland Athletics,133
 2024-05-24,747200,Miami Marlins,146,Arizona Diamondbacks,109
 2024-05-24,745415,New York Yankees,147,San Diego Padres,135
-2024-05-24,745175,Chicago Cubs,112,St. Louis Cardinals,138
+2024-07-13,745175,Chicago Cubs,112,St. Louis Cardinals,138
 2024-05-25,746470,Toronto Blue Jays,141,Detroit Tigers,116
 2024-05-25,745823,San Francisco Giants,137,New York Mets,121
 2024-05-25,745901,Texas Rangers,140,Minnesota Twins,142
@@ -10092,7 +10092,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-05-27,745338,Philadelphia Phillies,143,San Francisco Giants,137
 2024-05-27,745416,Miami Marlins,146,San Diego Padres,135
 2024-05-27,745254,Houston Astros,117,Seattle Mariners,136
-2024-05-27,745816,Los Angeles Dodgers,119,New York Mets,121
+2024-05-28,745816,Los Angeles Dodgers,119,New York Mets,121
 2024-05-28,745818,Los Angeles Dodgers,119,New York Mets,121
 2024-05-28,745816,Los Angeles Dodgers,119,New York Mets,121
 2024-05-28,747033,Boston Red Sox,111,Baltimore Orioles,110
@@ -10108,7 +10108,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-05-28,745258,Houston Astros,117,Seattle Mariners,136
 2024-05-28,745412,Miami Marlins,146,San Diego Padres,135
 2024-05-28,745337,Philadelphia Phillies,143,San Francisco Giants,137
-2024-05-28,746468,Pittsburgh Pirates,134,Detroit Tigers,116
+2024-05-29,746468,Pittsburgh Pirates,134,Detroit Tigers,116
 2024-05-29,746467,Pittsburgh Pirates,134,Detroit Tigers,116
 2024-05-29,746468,Pittsburgh Pirates,134,Detroit Tigers,116
 2024-05-29,746706,St. Louis Cardinals,138,Cincinnati Reds,113
@@ -10215,7 +10215,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-06-05,746873,Chicago White Sox,145,Chicago Cubs,112
 2024-06-05,746221,San Diego Padres,135,Los Angeles Angels,108
 2024-06-05,745654,Seattle Mariners,136,Oakland Athletics,133
-2024-06-05,746628,Kansas City Royals,118,Cleveland Guardians,114
+2024-08-26,746628,Kansas City Royals,118,Cleveland Guardians,114
 2024-06-06,744923,Baltimore Orioles,110,Toronto Blue Jays,141
 2024-06-06,746631,Kansas City Royals,118,Cleveland Guardians,114
 2024-06-06,745657,Seattle Mariners,136,Oakland Athletics,133
@@ -10347,7 +10347,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-06-15,746135,Kansas City Royals,118,Los Angeles Dodgers,119
 2024-06-15,746547,Pittsburgh Pirates,134,Colorado Rockies,115
 2024-06-15,747187,Chicago White Sox,145,Arizona Diamondbacks,109
-2024-06-15,745891,Oakland Athletics,133,Minnesota Twins,142
+2024-06-16,745891,Oakland Athletics,133,Minnesota Twins,142
 2024-06-16,746866,St. Louis Cardinals,138,Chicago Cubs,112
 2024-06-16,747023,Philadelphia Phillies,143,Baltimore Orioles,110
 2024-06-16,747109,Tampa Bay Rays,139,Atlanta Braves,144
@@ -10481,7 +10481,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-06-25,745399,Washington Nationals,120,San Diego Padres,135
 2024-06-25,747188,Minnesota Twins,142,Arizona Diamondbacks,109
 2024-06-25,745322,Chicago Cubs,112,San Francisco Giants,137
-2024-06-25,745157,Atlanta Braves,144,St. Louis Cardinals,138
+2024-06-26,745157,Atlanta Braves,144,St. Louis Cardinals,138
 2024-06-26,745073,Seattle Mariners,136,Tampa Bay Rays,139
 2024-06-26,746695,Pittsburgh Pirates,134,Cincinnati Reds,113
 2024-06-26,746456,Philadelphia Phillies,143,Detroit Tigers,116
@@ -10665,8 +10665,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-07-09,745393,Seattle Mariners,136,San Diego Padres,135
 2024-07-09,747180,Atlanta Braves,144,Arizona Diamondbacks,109
 2024-07-09,745316,Toronto Blue Jays,141,San Francisco Giants,137
-2024-07-09,745155,Kansas City Royals,118,St. Louis Cardinals,138
-2024-07-09,746773,Minnesota Twins,142,Chicago White Sox,145
+2024-07-10,745155,Kansas City Royals,118,St. Louis Cardinals,138
+2024-07-10,746773,Minnesota Twins,142,Chicago White Sox,145
 2024-07-10,745155,Kansas City Royals,118,St. Louis Cardinals,138
 2024-07-10,745156,Kansas City Royals,118,St. Louis Cardinals,138
 2024-07-10,746772,Minnesota Twins,142,Chicago White Sox,145
@@ -10756,7 +10756,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-07-19,745640,Los Angeles Angels,108,Oakland Athletics,133
 2024-07-19,746123,Boston Red Sox,111,Los Angeles Dodgers,119
 2024-07-19,745228,Houston Astros,117,Seattle Mariners,136
-2024-07-19,747093,St. Louis Cardinals,138,Atlanta Braves,144
+2024-07-20,747093,St. Louis Cardinals,138,Atlanta Braves,144
 2024-07-20,745720,Tampa Bay Rays,139,New York Yankees,147
 2024-07-20,747093,St. Louis Cardinals,138,Atlanta Braves,144
 2024-07-20,747096,St. Louis Cardinals,138,Atlanta Braves,144
@@ -10815,7 +10815,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-07-23,745632,Houston Astros,117,Oakland Athletics,133
 2024-07-23,745227,Los Angeles Angels,108,Seattle Mariners,136
 2024-07-23,746118,San Francisco Giants,137,Los Angeles Dodgers,119
-2024-07-23,747090,Cincinnati Reds,113,Atlanta Braves,144
+2024-09-09,747090,Cincinnati Reds,113,Atlanta Braves,144
 2024-07-24,747091,Cincinnati Reds,113,Atlanta Braves,144
 2024-07-24,745472,St. Louis Cardinals,138,Pittsburgh Pirates,134
 2024-07-24,745877,Philadelphia Phillies,143,Minnesota Twins,142
@@ -10831,7 +10831,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-07-24,744989,Chicago White Sox,145,Texas Rangers,140
 2024-07-24,746279,Arizona Diamondbacks,109,Kansas City Royals,118
 2024-07-24,746119,San Francisco Giants,137,Los Angeles Dodgers,119
-2024-07-24,747090,Cincinnati Reds,113,Atlanta Braves,144
+2024-09-09,747090,Cincinnati Reds,113,Atlanta Braves,144
 2024-07-25,744827,San Diego Padres,135,Washington Nationals,120
 2024-07-25,746037,Baltimore Orioles,110,Miami Marlins,146
 2024-07-25,746609,Detroit Tigers,116,Cleveland Guardians,114
@@ -10999,8 +10999,8 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-08-06,745221,Detroit Tigers,116,Seattle Mariners,136
 2024-08-06,745629,Chicago White Sox,145,Oakland Athletics,133
 2024-08-06,746120,Philadelphia Phillies,143,Los Angeles Dodgers,119
-2024-08-06,746602,Arizona Diamondbacks,109,Cleveland Guardians,114
-2024-08-06,745713,Los Angeles Angels,108,New York Yankees,147
+2024-08-07,746602,Arizona Diamondbacks,109,Cleveland Guardians,114
+2024-08-07,745713,Los Angeles Angels,108,New York Yankees,147
 2024-08-07,746604,Arizona Diamondbacks,109,Cleveland Guardians,114
 2024-08-07,746602,Arizona Diamondbacks,109,Cleveland Guardians,114
 2024-08-07,746842,Minnesota Twins,142,Chicago Cubs,112
@@ -11043,7 +11043,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-08-09,746113,Pittsburgh Pirates,134,Los Angeles Dodgers,119
 2024-08-09,745220,New York Mets,121,Seattle Mariners,136
 2024-08-09,745308,Detroit Tigers,116,San Francisco Giants,137
-2024-08-09,745708,Texas Rangers,140,New York Yankees,147
+2024-08-10,745708,Texas Rangers,140,New York Yankees,147
 2024-08-10,745712,Texas Rangers,140,New York Yankees,147
 2024-08-10,745708,Texas Rangers,140,New York Yankees,147
 2024-08-10,744897,Oakland Athletics,133,Toronto Blue Jays,141
@@ -11262,7 +11262,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-08-25,746994,Houston Astros,117,Baltimore Orioles,110
 2024-08-26,746628,Kansas City Royals,118,Cleveland Guardians,114
 2024-08-26,746596,Kansas City Royals,118,Cleveland Guardians,114
-2024-08-26,746942,Toronto Blue Jays,141,Boston Red Sox,111
+2024-06-26,746942,Toronto Blue Jays,141,Boston Red Sox,111
 2024-08-26,745458,Chicago Cubs,112,Pittsburgh Pirates,134
 2024-08-26,745538,Houston Astros,117,Philadelphia Phillies,143
 2024-08-26,744813,New York Yankees,147,Washington Nationals,120
@@ -11291,7 +11291,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-08-28,746589,Kansas City Royals,118,Cleveland Guardians,114
 2024-08-28,745541,Houston Astros,117,Philadelphia Phillies,143
 2024-08-28,745211,Tampa Bay Rays,139,Seattle Mariners,136
-2024-08-28,746755,Texas Rangers,140,Chicago White Sox,145
+2024-08-27,746755,Texas Rangers,140,Chicago White Sox,145
 2024-08-28,746430,Los Angeles Angels,108,Detroit Tigers,116
 2024-08-28,746672,Oakland Athletics,133,Cincinnati Reds,113
 2024-08-28,744809,New York Yankees,147,Washington Nationals,120
@@ -11422,7 +11422,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-09-06,745611,Detroit Tigers,116,Oakland Athletics,133
 2024-09-06,745371,San Francisco Giants,137,San Diego Padres,135
 2024-09-06,746104,Cleveland Guardians,114,Los Angeles Dodgers,119
-2024-09-06,745455,Washington Nationals,120,Pittsburgh Pirates,134
+2024-09-07,745455,Washington Nationals,120,Pittsburgh Pirates,134
 2024-09-07,745455,Washington Nationals,120,Pittsburgh Pirates,134
 2024-09-07,745456,Washington Nationals,120,Pittsburgh Pirates,134
 2024-09-07,746829,New York Yankees,147,Chicago Cubs,112
@@ -11627,7 +11627,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-09-21,745360,Chicago White Sox,145,San Diego Padres,135
 2024-09-21,745610,New York Yankees,147,Oakland Athletics,133
 2024-09-21,746096,Colorado Rockies,115,Los Angeles Dodgers,119
-2024-09-21,746906,Minnesota Twins,142,Boston Red Sox,111
+2024-09-22,746906,Minnesota Twins,142,Boston Red Sox,111
 2024-09-22,746903,Minnesota Twins,142,Boston Red Sox,111
 2024-09-22,746906,Minnesota Twins,142,Boston Red Sox,111
 2024-09-22,746657,Pittsburgh Pirates,134,Cincinnati Reds,113
@@ -11677,7 +11677,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-09-25,747144,San Francisco Giants,137,Arizona Diamondbacks,109
 2024-09-25,745607,Texas Rangers,140,Oakland Athletics,133
 2024-09-25,746095,San Diego Padres,135,Los Angeles Dodgers,119
-2024-09-25,747064,New York Mets,121,Atlanta Braves,144
+2024-09-30,747064,New York Mets,121,Atlanta Braves,144
 2024-09-26,745443,Milwaukee Brewers,158,Pittsburgh Pirates,134
 2024-09-26,744796,Kansas City Royals,118,Washington Nationals,120
 2024-09-26,746415,Tampa Bay Rays,139,Detroit Tigers,116
@@ -11687,7 +11687,7 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2024-09-26,745691,Baltimore Orioles,110,New York Yankees,147
 2024-09-26,745853,Miami Marlins,146,Minnesota Twins,142
 2024-09-26,746088,San Diego Padres,135,Los Angeles Dodgers,119
-2024-09-26,747139,New York Mets,121,Atlanta Braves,144
+2024-09-30,747139,New York Mets,121,Atlanta Braves,144
 2024-09-27,746822,Cincinnati Reds,113,Chicago Cubs,112
 2024-09-27,746417,Chicago White Sox,145,Detroit Tigers,116
 2024-09-27,744797,Philadelphia Phillies,143,Washington Nationals,120
@@ -11979,3 +11979,201 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2025-03-06,779147,Milwaukee Brewers,158,Athletics,133
 2025-03-06,779015,Los Angeles Angels,108,Seattle Mariners,136
 2025-03-06,778797,Seattle Mariners,136,Arizona Diamondbacks,109
+2025-03-07,778971,Minnesota Twins,142,Tampa Bay Rays,139
+2025-03-07,779032,Philadelphia Phillies,143,Pittsburgh Pirates,134
+2025-03-07,778874,Atlanta Braves,144,Minnesota Twins,142
+2025-03-07,778773,Miami Marlins,146,Boston Red Sox,111
+2025-03-07,778929,Los Angeles Angels,108,Kansas City Royals,118
+2025-03-07,779141,Cleveland Guardians,114,Athletics,133
+2025-03-07,779109,Baltimore Orioles,110,Detroit Tigers,116
+2025-03-07,778734,New York Mets,121,Washington Nationals,120
+2025-03-07,779075,Houston Astros,117,St. Louis Cardinals,138
+2025-03-07,779045,Toronto Blue Jays,141,New York Yankees,147
+2025-03-07,779016,Los Angeles Dodgers,119,Seattle Mariners,136
+2025-03-07,778826,San Francisco Giants,137,Cincinnati Reds,113
+2025-03-07,778854,Chicago Cubs,112,Chicago White Sox,145
+2025-03-07,779154,Arizona Diamondbacks,109,Los Angeles Angels,108
+2025-03-07,779097,San Diego Padres,135,Milwaukee Brewers,158
+2025-03-07,778795,Texas Rangers,140,Colorado Rockies,115
+2025-03-08,778724,St. Louis Cardinals,138,Washington Nationals,120
+2025-03-08,779126,Tampa Bay Rays,139,Baltimore Orioles,110
+2025-03-08,778873,Boston Red Sox,111,Minnesota Twins,142
+2025-03-08,778908,Toronto Blue Jays,141,Philadelphia Phillies,143
+2025-03-08,778697,Pittsburgh Pirates,134,Atlanta Braves,144
+2025-03-08,778955,Detroit Tigers,116,Toronto Blue Jays,141
+2025-03-08,778827,Arizona Diamondbacks,109,Cincinnati Reds,113
+2025-03-08,778751,Seattle Mariners,136,Chicago Cubs,112
+2025-03-08,778989,Kansas City Royals,118,San Francisco Giants,137
+2025-03-08,778930,Kansas City Royals,118,Texas Rangers,140
+2025-03-08,778853,Los Angeles Dodgers,119,Chicago White Sox,145
+2025-03-08,778792,Athletics,133,Colorado Rockies,115
+2025-03-08,779008,Cleveland Guardians,114,San Diego Padres,135
+2025-03-08,779095,Los Angeles Angels,108,Milwaukee Brewers,158
+2025-03-08,789465,Arizona Diamondbacks,109,Athletics,133
+2025-03-08,778731,New York Yankees,147,Houston Astros,117
+2025-03-08,779071,New York Mets,121,Miami Marlins,146
+2025-03-09,779110,Pittsburgh Pirates,134,Detroit Tigers,116
+2025-03-09,778965,Toronto Blue Jays,141,Tampa Bay Rays,139
+2025-03-09,779125,Minnesota Twins,142,Baltimore Orioles,110
+2025-03-09,778907,Baltimore Orioles,110,Philadelphia Phillies,143
+2025-03-09,778762,Atlanta Braves,144,Boston Red Sox,111
+2025-03-09,778725,Miami Marlins,146,Houston Astros,117
+2025-03-09,779072,New York Yankees,147,St. Louis Cardinals,138
+2025-03-09,778891,Washington Nationals,120,New York Mets,121
+2025-03-09,789464,Arizona Diamondbacks,109,Athletics,133
+2025-03-09,778851,Athletics,133,Los Angeles Dodgers,119
+2025-03-09,778753,San Francisco Giants,137,Chicago Cubs,112
+2025-03-09,778988,San Diego Padres,135,San Francisco Giants,137
+2025-03-09,778822,Chicago White Sox,145,Cleveland Guardians,114
+2025-03-09,778928,Milwaukee Brewers,158,Kansas City Royals,118
+2025-03-09,779158,Cincinnati Reds,113,Los Angeles Angels,108
+2025-03-09,779010,Colorado Rockies,115,Seattle Mariners,136
+2025-03-09,778790,Texas Rangers,140,Arizona Diamondbacks,109
+2025-03-10,778877,Philadelphia Phillies,143,Minnesota Twins,142
+2025-03-10,778702,Tampa Bay Rays,139,Atlanta Braves,144
+2025-03-10,779049,Detroit Tigers,116,New York Yankees,147
+2025-03-10,778956,Houston Astros,117,Toronto Blue Jays,141
+2025-03-10,779067,Washington Nationals,120,Miami Marlins,146
+2025-03-10,778821,Chicago Cubs,112,Cleveland Guardians,114
+2025-03-10,778931,Cleveland Guardians,114,Kansas City Royals,118
+2025-03-10,778850,Arizona Diamondbacks,109,Los Angeles Dodgers,119
+2025-03-10,779137,Chicago White Sox,145,Athletics,133
+2025-03-10,779153,Colorado Rockies,115,Los Angeles Angels,108
+2025-03-10,779009,Cincinnati Reds,113,San Diego Padres,135
+2025-03-10,778791,San Francisco Giants,137,Colorado Rockies,115
+2025-03-10,779093,Seattle Mariners,136,Milwaukee Brewers,158
+2025-03-10,779031,Baltimore Orioles,110,Pittsburgh Pirates,134
+2025-03-10,778726,Miami Marlins,146,Washington Nationals,120
+2025-03-10,778892,St. Louis Cardinals,138,New York Mets,121
+2025-03-11,778727,New York Mets,121,Houston Astros,117
+2025-03-11,778767,Philadelphia Phillies,143,Boston Red Sox,111
+2025-03-11,778700,Detroit Tigers,116,Atlanta Braves,144
+2025-03-11,779070,Miami Marlins,146,St. Louis Cardinals,138
+2025-03-11,779048,Baltimore Orioles,110,New York Yankees,147
+2025-03-11,779030,New York Yankees,147,Pittsburgh Pirates,134
+2025-03-11,778954,Minnesota Twins,142,Toronto Blue Jays,141
+2025-03-11,778824,Colorado Rockies,115,Cincinnati Reds,113
+2025-03-11,778852,Cleveland Guardians,114,Los Angeles Dodgers,119
+2025-03-11,778926,Los Angeles Angels,108,Texas Rangers,140
+2025-03-11,778754,Milwaukee Brewers,158,Chicago Cubs,112
+2025-03-11,778794,Kansas City Royals,118,Arizona Diamondbacks,109
+2025-03-11,779007,Chicago White Sox,145,San Diego Padres,135
+2025-03-11,778983,Athletics,133,San Francisco Giants,137
+2025-03-12,778728,Houston Astros,117,Washington Nationals,120
+2025-03-12,779068,New York Mets,121,St. Louis Cardinals,138
+2025-03-12,779107,Tampa Bay Rays,139,Detroit Tigers,116
+2025-03-12,779123,Atlanta Braves,144,Baltimore Orioles,110
+2025-03-12,779138,Arizona Diamondbacks,109,Athletics,133
+2025-03-12,778823,San Francisco Giants,137,Cleveland Guardians,114
+2025-03-12,778927,Cincinnati Reds,113,Texas Rangers,140
+2025-03-12,778846,Los Angeles Angels,108,Chicago White Sox,145
+2025-03-12,778793,San Diego Padres,135,Colorado Rockies,115
+2025-03-12,779005,Kansas City Royals,118,Seattle Mariners,136
+2025-03-12,778764,Minnesota Twins,142,Boston Red Sox,111
+2025-03-13,778729,St. Louis Cardinals,138,Houston Astros,117
+2025-03-13,778967,Washington Nationals,120,Tampa Bay Rays,139
+2025-03-13,778875,Pittsburgh Pirates,134,Minnesota Twins,142
+2025-03-13,778904,Atlanta Braves,144,Philadelphia Phillies,143
+2025-03-13,779105,New York Yankees,147,Detroit Tigers,116
+2025-03-13,778951,Baltimore Orioles,110,Toronto Blue Jays,141
+2025-03-13,778889,Boston Red Sox,111,New York Mets,121
+2025-03-13,779069,Houston Astros,117,Miami Marlins,146
+2025-03-13,778820,Athletics,133,Cincinnati Reds,113
+2025-03-13,778985,Texas Rangers,140,San Francisco Giants,137
+2025-03-13,778789,Cleveland Guardians,114,Colorado Rockies,115
+2025-03-13,778925,San Diego Padres,135,Kansas City Royals,118
+2025-03-13,778848,Milwaukee Brewers,158,Chicago White Sox,145
+2025-03-13,779006,Arizona Diamondbacks,109,Seattle Mariners,136
+2025-03-14,778701,Washington Nationals,120,Atlanta Braves,144
+2025-03-14,779139,Los Angeles Angels,108,Athletics,133
+2025-03-14,778818,Seattle Mariners,136,Cleveland Guardians,114
+2025-03-14,778845,Cincinnati Reds,113,Chicago White Sox,145
+2025-03-14,778784,Cincinnati Reds,113,Arizona Diamondbacks,109
+2025-03-14,779152,Kansas City Royals,118,Los Angeles Angels,108
+2025-03-14,779066,Boston Red Sox,111,Miami Marlins,146
+2025-03-14,779090,San Francisco Giants,137,Milwaukee Brewers,158
+2025-03-14,779029,Detroit Tigers,116,Pittsburgh Pirates,134
+2025-03-14,778717,Toronto Blue Jays,141,Houston Astros,117
+2025-03-14,779124,Minnesota Twins,142,Baltimore Orioles,110
+2025-03-14,778876,Tampa Bay Rays,139,Minnesota Twins,142
+2025-03-14,778890,St. Louis Cardinals,138,New York Mets,121
+2025-03-14,779044,Philadelphia Phillies,143,New York Yankees,147
+2025-03-14,778924,Colorado Rockies,115,Texas Rangers,140
+2025-03-14,779004,Texas Rangers,140,San Diego Padres,135
+2025-03-15,790404,Chicago Cubs,112,Hanshin Tigers,341
+2025-03-15,790403,Los Angeles Dodgers,119,Tokyo Yomiuri Giants,241
+2025-03-15,778718,Miami Marlins,146,Houston Astros,117
+2025-03-15,779027,Baltimore Orioles,110,Pittsburgh Pirates,134
+2025-03-15,779061,Toronto Blue Jays,141,St. Louis Cardinals,138
+2025-03-15,778906,Detroit Tigers,116,Philadelphia Phillies,143
+2025-03-15,778766,Atlanta Braves,144,Boston Red Sox,111
+2025-03-15,778968,New York Yankees,147,Tampa Bay Rays,139
+2025-03-15,778819,Kansas City Royals,118,Cincinnati Reds,113
+2025-03-15,778920,Cleveland Guardians,114,Kansas City Royals,118
+2025-03-15,778982,Seattle Mariners,136,San Francisco Giants,137
+2025-03-15,779136,Texas Rangers,140,Athletics,133
+2025-03-15,778844,Colorado Rockies,115,Chicago White Sox,145
+2025-03-15,779000,San Diego Padres,135,Seattle Mariners,136
+2025-03-15,778787,Chicago White Sox,145,Arizona Diamondbacks,109
+2025-03-15,779151,Milwaukee Brewers,158,Los Angeles Angels,108
+2025-03-15,779091,Athletics,133,Milwaukee Brewers,158
+2025-03-15,778719,New York Mets,121,Washington Nationals,120
+2025-03-15,778698,Minnesota Twins,142,Atlanta Braves,144
+2025-03-16,790402,Los Angeles Dodgers,119,Hanshin Tigers,341
+2025-03-16,790401,Chicago Cubs,112,Tokyo Yomiuri Giants,241
+2025-03-16,779106,Baltimore Orioles,110,Detroit Tigers,116
+2025-03-16,778720,Tampa Bay Rays,139,Washington Nationals,120
+2025-03-16,778871,Boston Red Sox,111,Minnesota Twins,142
+2025-03-16,779121,Philadelphia Phillies,143,Baltimore Orioles,110
+2025-03-16,779047,Pittsburgh Pirates,134,New York Yankees,147
+2025-03-16,778966,New York Yankees,147,Tampa Bay Rays,139
+2025-03-16,778946,Atlanta Braves,144,Toronto Blue Jays,141
+2025-03-16,778888,Houston Astros,117,New York Mets,121
+2025-03-16,779065,St. Louis Cardinals,138,Miami Marlins,146
+2025-03-16,778816,Seattle Mariners,136,Cincinnati Reds,113
+2025-03-16,778981,Athletics,133,San Francisco Giants,137
+2025-03-16,778922,Chicago White Sox,145,Texas Rangers,140
+2025-03-16,778785,Kansas City Royals,118,Colorado Rockies,115
+2025-03-16,779149,San Diego Padres,135,Los Angeles Angels,108
+2025-03-16,779003,Arizona Diamondbacks,109,San Diego Padres,135
+2025-03-16,779092,Cleveland Guardians,114,Milwaukee Brewers,158
+2025-03-17,778765,Baltimore Orioles,110,Boston Red Sox,111
+2025-03-17,779108,Pittsburgh Pirates,134,Detroit Tigers,116
+2025-03-17,778722,St. Louis Cardinals,138,Washington Nationals,120
+2025-03-17,779024,Minnesota Twins,142,Pittsburgh Pirates,134
+2025-03-17,778903,Toronto Blue Jays,141,Philadelphia Phillies,143
+2025-03-17,778696,Boston Red Sox,111,Atlanta Braves,144
+2025-03-17,778948,New York Yankees,147,Toronto Blue Jays,141
+2025-03-17,778884,Tampa Bay Rays,139,New York Mets,121
+2025-03-17,779063,New York Mets,121,Miami Marlins,146
+2025-03-17,778923,Arizona Diamondbacks,109,Kansas City Royals,118
+2025-03-17,779140,Seattle Mariners,136,Athletics,133
+2025-03-17,778843,San Francisco Giants,137,Chicago White Sox,145
+2025-03-17,778788,Los Angeles Angels,108,Arizona Diamondbacks,109
+2025-03-17,778999,Milwaukee Brewers,158,San Diego Padres,135
+2025-03-17,778815,Cincinnati Reds,113,Cleveland Guardians,114
+2025-03-18,778563,Los Angeles Dodgers,119,Chicago Cubs,112
+2025-03-18,778870,Detroit Tigers,116,Minnesota Twins,142
+2025-03-18,779025,Philadelphia Phillies,143,Pittsburgh Pirates,134
+2025-03-18,779062,Miami Marlins,146,St. Louis Cardinals,138
+2025-03-18,779043,Boston Red Sox,111,New York Yankees,147
+2025-03-18,778812,Los Angeles Angels,108,Cincinnati Reds,113
+2025-03-18,779001,Milwaukee Brewers,158,Seattle Mariners,136
+2025-03-18,778716,Washington Nationals,120,Houston Astros,117
+2025-03-18,779119,Toronto Blue Jays,141,Baltimore Orioles,110
+2025-03-18,778979,San Diego Padres,135,San Francisco Giants,137
+2025-03-18,778921,Cleveland Guardians,114,Texas Rangers,140
+2025-03-18,778783,San Francisco Giants,137,Colorado Rockies,115
+2025-03-19,778564,Los Angeles Dodgers,119,Chicago Cubs,112
+2025-03-19,778768,Detroit Tigers,116,Boston Red Sox,111
+2025-03-19,779058,Washington Nationals,120,St. Louis Cardinals,138
+2025-03-19,778964,Pittsburgh Pirates,134,Tampa Bay Rays,139
+2025-03-19,778900,New York Yankees,147,Philadelphia Phillies,143
+2025-03-19,778813,Athletics,133,Cleveland Guardians,114
+2025-03-19,779150,Cleveland Guardians,114,Los Angeles Angels,108
+2025-03-19,778782,Colorado Rockies,115,Arizona Diamondbacks,109
+2025-03-19,779002,Texas Rangers,140,Seattle Mariners,136
+2025-03-19,779088,Chicago White Sox,145,Milwaukee Brewers,158
+2025-03-19,778715,New York Mets,121,Houston Astros,117
+2025-03-19,779042,Atlanta Braves,144,New York Yankees,147
+2025-03-19,778917,San Francisco Giants,137,Kansas City Royals,118

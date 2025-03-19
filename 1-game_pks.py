@@ -1,60 +1,43 @@
-import os
-import re
+import requests
 import pandas as pd
-from pybaseball import statcast_batter, statcast_pitcher, playerid_lookup, pitching_stats_range, batting_stats_range, schedule_and_record, team_game_logs, pybaseball
-from datetime import timedelta, datetime
-import statsapi
-import pprint
+from datetime import datetime
 
-today = datetime.now()
-end_date = today.strftime('%Y-%m-%d')
+# MLB API endpoint for fetching schedule
+MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
 
+# Get today's date
+today = datetime.today().strftime("%Y-%m-%d")
+current_year = datetime.today().year
 
-season = today.year
+# List to store game data
+games_data = []
 
-
-def get_game_pks():
+# Iterate over each season from 2021 to current year
+for year in range(2021, current_year + 1):
+    end_date = today if year == current_year else f"{year}-12-31"
     
-    desired_seasons = [2021, 2022, 2023, 2024, 2025] # Add Desired Seasons Here
+    response = requests.get(MLB_SCHEDULE_URL, params={"sportId": 1, "startDate": f"{year}-01-01", "endDate": end_date})
+    
+    if response.status_code == 200:
+        data = response.json()
+        for date in data.get("dates", []):
+            for game in date.get("games", []):
+                games_data.append([
+                    game["officialDate"],
+                    str(game["gamePk"])[-6:],  # Ensure 6-digit game_id
+                    game["teams"]["away"]["team"]["name"],
+                    str(game["teams"]["away"]["team"]["id"]).zfill(3),  # Ensure 3-digit team ID
+                    game["teams"]["home"]["team"]["name"],
+                    str(game["teams"]["home"]["team"]["id"]).zfill(3)   # Ensure 3-digit team ID
+                ])
+    else:
+        print(f"Failed to fetch data for {year}. Status Code: {response.status_code}")
 
-    data_fields = ['game_date', 'game_id', 'away_name', 'away_id', 'home_name', 'home_id']
+# Convert to DataFrame
+df = pd.DataFrame(games_data, columns=["game_date", "game_id", "away_name", "away_id", "home_name", "home_id"])
 
-    ids_data = []
+# Save to CSV (overwrite)
+file = 'game_pks.csv'
+df.to_csv(file, index=False)
 
-    today = datetime.now().strftime('%Y-%m-%d')
-
-    total_count = 0 
-
-    for year in desired_seasons:
-        year_count = 0 
-        if desired_seasons.index(year) < len(desired_seasons) - 1:
-            schedule = statsapi.schedule(start_date=f'{year}-01-01', end_date=f'{year}-12-31')
-        else:
-            schedule = statsapi.schedule(start_date=f'{year}-01-01', end_date=today)
-
-        print(f"\n===============================\nProcessing {year}\n===============================")
-        for game in schedule:
-            row = {field: game[field] for field in data_fields}
-            ids_data.append(row)
-            total_count += 1  
-            year_count += 1
-
-            #if total_count % 1000 == 0:  
-            #    print(f"{total_count}")
-
-        print(f"{year} Processed - {year_count} games. \nTotal Games: {total_count}")
-
-    # Convert collected data to DataFrame
-    ids = pd.DataFrame(ids_data, columns=data_fields)
-
-    # Save to CSV
-    file = 'game_pks.csv'
-    ids.to_csv(file, index=False)
-
-    print("\n\n-----------------------------------")
-    print(f"Total games processed: {total_count}")
-    print(f"Games outputted to '{file}'")
-    print("SUCCESS")
-    print("-----------------------------------\n")
-
-get_game_pks()
+print(f"\nSUCCESS - File 'game_pks.csv' successfully created on {today}.\n")
