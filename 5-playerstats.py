@@ -6,15 +6,21 @@ import re
 from dateutil import parser
 import time
 from datetime import date, datetime, timedelta
-from pybaseball import batting_stats_range, pitching_stats_range, playerid_reverse_lookup
+from pybaseball import playerid_reverse_lookup
 import statsapi
 import os
+import httpx
+import cloudscraper
 
 def fetch_b_game_log(player_id, year):
     # Construct the URL for the batter's game log for the given year
     url = f'https://www.baseball-reference.com/players/gl.fcgi?id={player_id}&t=b&year={year}'
-    response = requests.get(url)
     
+    scraper = cloudscraper.create_scraper()
+    response = scraper.get(url)
+
+    time.sleep(2)
+
     # Check if the request was successful
     if response.status_code != 200:
         print(f" BAD - Failed to fetch data for batter {player_id} in {year}")

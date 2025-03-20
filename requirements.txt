@@ -13,6 +13,7 @@ datetime
 selenium
 webdriver-manager
 html5lib
+cloudscraper
 
 # Environment Variables
 python-dotenv
