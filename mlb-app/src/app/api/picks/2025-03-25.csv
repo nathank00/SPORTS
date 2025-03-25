@@ -1,0 +1,11 @@
+game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+787943,Minnesota Twins,Colorado Rockies,8.5,Over,Brenton Doyle,Ezequiel Tovar,Ryan McMahon,Kris Bryant,Michael Toglia,Hunter Goodman,Nick Martini,Kyle Farmer,Tyler Freeman,Matt Wallner,Carlos Correa,Byron Buxton,Trevor Larnach,Jose Miranda,Willi Castro,Ty France,Christian Vázquez,Harrison Bader,Germán Márquez,Chris Paddack
+803680,Miami Marlins,New York Yankees,8.5,Over,Austin Wells,Aaron Judge,Cody Bellinger,Paul Goldschmidt,Jazz Chisholm Jr.,Anthony Volpe,Jasson Domínguez,Trent Grisham,Oswaldo Cabrera,Xavier Edwards,Derek Hill,Matt Mervis,Jonah Bride,Kyle Stowers,Otto Lopez,Griffin Conine,Nick Fortes,Graham Pauley,Will Warren,Max Meyer
+778709,Texas Rangers,Kansas City Royals,8.5,Under,Jonathan India,Bobby Witt Jr.,Michael Massey,Salvador Perez,Cavan Biggio,Hunter Renfroe,MJ Melendez,Maikel Garcia,Dairon Blanco,Marcus Semien,Wyatt Langford,Jake Burger,Adolis García,Josh Jung,Kevin Pillar,Josh Smith,Jonah Heim,Leody Taveras,Kris Bubic,Jacob deGrom
+787931,Arizona Diamondbacks,Cleveland Guardians,0.0,Over,,,,,,,,,,Ketel Marte,Corbin Carroll,Lourdes Gurriel Jr.,Josh Naylor,Eugenio Suárez,Jake McCarthy,Alek Thomas,Jose Herrera,Geraldo Perdomo,,Brandon Bielak
+778748,Chicago Cubs,Atlanta Braves,0.0,Over,Jurickson Profar,Austin Riley,Matt Olson,Marcell Ozuna,Michael Harris II,Ozzie Albies,Bryan De La Cruz,Chadwick Tromp,Nick Allen,Ian Happ,Kyle Tucker,Seiya Suzuki,Michael Busch,Dansby Swanson,Nico Hoerner,Pete Crow-Armstrong,Matt Shaw,Miguel Amaya,José Suarez,Ben Brown
+796341,Dayton Dragons,Cincinnati Reds,0.0,Over,,,,,,,,,,,,,,,,,,,,
+794289,Sultanes de Monterrey,Boston Red Sox,0.0,Over,,,,,,,,,,,,,,,,,,,,
+789323,San Francisco Giants,Detroit Tigers,0.0,Over,,,,,,,,,,,,,,,,,,,,
+787928,Houston Astros,Sugar Land Space Cowboys,0.0,Over,,,,,,,,,,,,,,,,,,,,
+787997,Los Angeles Angels,Los Angeles Dodgers,0.0,Over,,,,,,,,,,,,,,,,,,,,
