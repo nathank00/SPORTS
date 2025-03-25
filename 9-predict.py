@@ -6,6 +6,8 @@ import os
 import pytz
 import csv
 
+print("---------- Now running 9-predict.py ----------")
+
 # Load the dataset
 df = pd.read_csv('model/currentdata.csv')
 

@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import os
 
+print("---------- Now running 6-customstats.py ----------")
+
 idlist = pd.read_csv('active_batter_ids.csv')
 batter_ids = idlist.key_bbref
 

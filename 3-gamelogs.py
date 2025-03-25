@@ -3,6 +3,8 @@ import pandas as pd
 from datetime import datetime
 from pybaseball import playerid_reverse_lookup
 
+print("---------- Now running 3-gamelogs.py ----------")
+
 # Load game_pks.csv to get team names and IDs
 game_pks_df = pd.read_csv('game_pks.csv')
 

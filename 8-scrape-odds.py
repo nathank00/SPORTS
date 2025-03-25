@@ -9,6 +9,8 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
+print("---------- Now running 8-scrape-odds.py ----------")
+
 ### Setup Selenium WebDriver ###
 options = Options()
 options.add_argument("--headless")  # Run in headless mode

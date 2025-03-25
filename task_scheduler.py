@@ -3,6 +3,9 @@ import time
 import subprocess
 from datetime import datetime
 import pytz
+import sys
+print(sys.executable)
+
 
 # Define paths
 INITIAL_SCRIPTS = ["1-game_pks.py", "2-player_ids.py", "3-gamelogs.py", "4-odds.py", "5-playerstats.py", "6-customstats.py", "7-currentdata.py", "8-scrape-odds.py", "9-predict.py"]
@@ -32,10 +35,13 @@ def run_scripts(scripts):
         log_message(f" Running {script}...")
 
         # Corrected subprocess call
-        subprocess.run([
+        try:
+            subprocess.run([
             "/Users/natekessell/Desktop/development/MLB-Analytics/mlb/bin/python",
             script_path
-        ], check=True)
+            ], check=True)
+        except subprocess.CalledProcessError as e:
+            log_message(f" [ERROR] Script {script} failed: {e}")
 
 def git_commit_and_push():
     """Commits and pushes changes to GitHub."""
@@ -60,8 +66,10 @@ def main():
 
     while True:
         now = get_local_time()
+        midnight = now.replace(hour=0, minute=0, second=0, microsecond=0)
+        one_am = midnight.replace(hour=1)
 
-        if now.hour == 0 or should_stop():
+        if should_stop() or (midnight <= now < one_am):
             print(f"[INFO] Stopping execution at {get_local_time()}")
             log_message(f"[INFO] Stopping execution at {get_local_time()}")
             break

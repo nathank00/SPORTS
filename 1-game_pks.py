@@ -2,6 +2,8 @@ import requests
 import pandas as pd
 from datetime import datetime
 
+print("---------- Now running 1-game_pks.py ----------")
+
 # MLB API endpoint for fetching schedule
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
 

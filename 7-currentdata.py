@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 
+print("---------- Now running 7-currentdata.py ----------")
+
 game_pks_path = 'game_pks.csv'
 gamelogs_dir = 'gamelogs/'
 output_path = 'model/unsorted_currentdata.csv'
