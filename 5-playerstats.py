@@ -11,6 +11,7 @@ import statsapi
 import os
 import httpx
 import cloudscraper
+from curl_cffi import requests as curl_requests
 
 def fetch_b_game_log(player_id, year):
     # Construct the URL for the batter's game log for the given year

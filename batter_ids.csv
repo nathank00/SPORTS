@@ -260,7 +260,7 @@ mlbID,Name,Position,key_bbref
 686668,Brenton Doyle,CF,doylebr02
 641531,Hunter Dozier,3B,doziehu01
 686482,Logan Driscoll,C,drisclo01
-592273,Brandon Drury,2B,drurybr01
+592273,Brandon Drury,3B,drurybr01
 643289,Mauricio Dubón,LF,dubonma01
 622110,Matt Duffy,3B,duffyma01
 621453,Steven Duggar,CF,duggast01
@@ -584,7 +584,7 @@ mlbID,Name,Position,key_bbref
 641829,Jason Martin,OF,martija03
 502110,J.D. Martinez,DH,martijd02
 679881,J.P. Martínez,RF,martijp01
-605361,Nick Martini,1B,martini02
+605361,Nick Martini,RF,martini02
 682619,Orelvis Martinez,2B,martior01
 621006,Richie Martin,SS,martiri01
 686681,Michael Massey,2B,massemi02
@@ -1053,15 +1053,9 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-682877,Juan Brito,SS,
-686551,Christian Cairo,SS,
-702332,Caleb Durbin,2B,
+686948,Drake Baldwin,C,
 641555,J.C. Escarra,C,
 689414,Liam Hicks,C,
-675448,Blake Hunt,C,
 683090,Matthew Lugo,LF,
-672359,Tirso Ornelas,LF,
 807713,Matt Shaw,2B,
-691728,Zac Veen,RF,
-678391,Jorbit Vivas,2B,
 669398,Gage Workman,3B,
