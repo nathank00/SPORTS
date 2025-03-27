@@ -171,7 +171,7 @@ mlbID,Name,Position,key_bbref
 516770,Starlin Castro,SS,castrst01
 650489,Willi Castro,SS,castrwi01
 595909,Jake Cave,RF,caveja01
-665482,Gilberto Celestino,OF,celesgi01
+665482,Gilberto Celestino,CF,celesgi01
 644374,Yu Chang,2B,changyu01
 665953,Andrés Chaparro,1B,chapaan01
 656305,Matt Chapman,3B,chapmma01
@@ -370,7 +370,7 @@ mlbID,Name,Position,key_bbref
 545341,Randal Grichuk,RF,grichra01
 663757,Trent Grisham,CF,grishtr01
 687093,Vaughn Grissom,2B,grissva01
-677954,Jordan Groshans,3B,groshjo01
+677954,Jordan Groshans,SS,groshjo01
 543257,Robbie Grossman,LF,grossro01
 665489,Vladimir Guerrero Jr.,1B,guerrvl02
 641645,Luis Guillorme,2B,guilllu01
@@ -443,13 +443,13 @@ mlbID,Name,Position,key_bbref
 656568,Scott Hurst,OF,hurstsc01
 674441,Jacob Hurtubise,LF,hurtuja01
 628451,Andy Ibáñez,2B,ibanean01
-578428,Jose Iglesias,2B,iglesjo01
+578428,Jose Iglesias,SS,iglesjo01
 542255,Ender Inciarte,CF,inciaen01
 663697,Jonathan India,2B,indiajo01
 664728,Kyle Isbel,CF,isbelky01
 656577,Alex Jackson,C,jacksal02
 623515,Drew Jackson,2B,jacksdr01
-608671,Travis Jankowski,RF,jankotr01
+608671,Travis Jankowski,CF,jankotr01
 643376,Danny Jansen,C,janseda01
 445055,Jon Jay,CF,jayjo02
 680777,Ryan Jeffers,C,jeffery01
@@ -555,7 +555,7 @@ mlbID,Name,Position,key_bbref
 664770,Nathan Lukes,LF,lukesna01
 656669,Jordan Luplow,LF,luplojo01
 666158,Gavin Lux,2B,luxga01
-553988,Dixon Machado,SS,machadi01
+553988,Dixon Machado,2B,machadi01
 592518,Manny Machado,3B,machama01
 605353,Vimael Machín,SS,machivi01
 676950,David MacKinnon,1B,mackida01
@@ -866,6 +866,7 @@ mlbID,Name,Position,key_bbref
 669222,Nick Senzel,3B,senzeni01
 661531,Brian Serven,C,servebr01
 600474,Pedro Severino,C,severpe01
+807713,Matt Shaw,2B,shawma01
 543768,Travis Shaw,3B,shawtr01
 657757,Gavin Sheets,1B,sheetga01
 668853,Austin Shenton,1B,shentau01
@@ -976,7 +977,7 @@ mlbID,Name,Position,key_bbref
 683734,Andrew Vaughn,1B,vaughan01
 679631,Terrin Vavra,2B,vavrate01
 543877,Christian Vázquez,C,vazquch01
-676679,Luis Vazquez,SS,vazqulu01
+676679,Luis Vázquez,SS,vazqulu01
 623205,Andrew Velazquez,SS,velazan01
 676369,Nelson Velázquez,RF,velazne01
 657077,Alex Verdugo,LF,verdual01
@@ -1056,6 +1057,5 @@ mlbID,Name,Position,key_bbref
 686948,Drake Baldwin,C,
 641555,J.C. Escarra,C,
 689414,Liam Hicks,C,
-683090,Matthew Lugo,LF,
-807713,Matt Shaw,2B,
+683766,Christian Koss,SS,
 669398,Gage Workman,3B,
