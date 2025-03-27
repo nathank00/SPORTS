@@ -11,154 +11,149 @@ from bs4 import BeautifulSoup
 
 print("---------- Now running 8-scrape-odds.py ----------")
 
-### Setup Selenium WebDriver ###
 options = Options()
-options.add_argument("--headless")  # Run in headless mode
+options.add_argument("--headless")
 options.add_argument("--disable-gpu")
 options.add_argument("--no-sandbox")
-options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"  # Update path if needed
+options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 
-### Load the odds page ###
 url = "https://www.wagertalk.com/odds"
 driver.get(url)
+time.sleep(5)
 
-# Wait for JavaScript to load content
-time.sleep(5)  # Adjust if needed
-
-# Parse the page source using BeautifulSoup
 soup = BeautifulSoup(driver.page_source, "lxml")
-
-# Extract tables using pandas with "lxml" parser
 tables = pd.read_html(str(soup), flavor="lxml")
-
-# Close Selenium session
 driver.quit()
 
-# Ensure at least one table was found
 if not tables:
     raise ValueError("No tables found on the webpage.")
 
-# Select the correct table (only one found, so index 0)
 df = tables[0]
-
-# Reset index for easier processing
 df.reset_index(drop=True, inplace=True)
 
-### Find the start & end indexes for MLB games ###
-start_index = None
+section_titles = ["AMERICAN LEAGUE", "NATIONAL LEAGUE", "INTERLEAGUE"]
+section_starts = []
+
 for i, row in df.iterrows():
-    if "[-]" in str(row.values) and "MLB" in str(row.values):
-        start_index = i
-        break
+    row_str = str(row.values).upper()
+    if "[-]" in row_str:
+        for section in section_titles:
+            if section in row_str:
+                section_starts.append((i, section))
+                break
 
-end_index = None
-if start_index is not None:
-    for i in range(start_index + 1, len(df)):
-        if "[-]" in str(df.iloc[i].values):  # Next sport found
-            end_index = i
-            break
+section_ranges = []
+for idx, (start_idx, _) in enumerate(section_starts):
+    end_idx = section_starts[idx + 1][0] if idx + 1 < len(section_starts) else len(df)
+    section_ranges.append((start_idx, end_idx))
 
-# Slice the dataframe to only include MLB odds
-if start_index is not None and end_index is not None:
-    mlb_odds_df = df.iloc[start_index:end_index]
-elif start_index is not None:  # If MLB is the last sport, take all remaining rows
-    mlb_odds_df = df.iloc[start_index:]
-else:
-    raise ValueError("MLB section not found in the scraped data.")
+mlb_sections = [df.iloc[start:end] for start, end in section_ranges]
+mlb_odds_df = pd.concat(mlb_sections, ignore_index=True)
 
-# Reset index for clean output
+if mlb_odds_df.empty:
+    raise ValueError("No MLB sections (AL/NL/Interleague) found in the scraped data.")
+
 mlb_odds_df.reset_index(drop=True, inplace=True)
 
-### Extract and Format Date from "Time" Column ###
 def parse_date(time_str):
     if not isinstance(time_str, str) or len(time_str) < 5:
         return None
-    
-    date_part = time_str[:5]  # Extract MM/DD
-
+    date_part = time_str[:5]
     try:
-        formatted_date = datetime.strptime(date_part, "%m/%d").replace(year=2025)  # Assume year 2025
-        return formatted_date.strftime("%Y-%m-%d")
+        return datetime.strptime(date_part, "%m/%d").replace(year=2025).strftime("%Y-%m-%d")
     except ValueError:
         return None
 
 if "Time" in mlb_odds_df.columns:
     mlb_odds_df["Date"] = mlb_odds_df["Time"].apply(parse_date)
 
-### Extract Runline from "Consensus" Column ###
 def extract_runline(consensus_str):
     if not isinstance(consensus_str, str) or consensus_str.lower() == "unknown":
-        return 0  # Default to 0 if "unknown" or not a string
-    
-    # Regex: Find a 1 or 2-digit number (optionally with ½) that comes BEFORE any "o" or "u" (or nothing)
+        return 0
     match = re.findall(r'\b(\d{1,2}½?)\s*(?=[ou]|\s|$)', consensus_str)
-
     if match:
-        runline_str = match[0]  # Take the FIRST valid match (ignoring betting odds and anything after "o/u")
-        runline = float(runline_str.replace("½", ".5"))  # Convert ½ to .5
-        return runline
-    
-    return 0  # Default to 0 if no match is found
+        return float(match[0].replace("½", ".5"))
+    return 0
 
 if "Consensus" in mlb_odds_df.columns:
     mlb_odds_df["Runline"] = mlb_odds_df["Consensus"].apply(extract_runline)
 
-### Extract and Normalize Team Names ###
 team_name_mapping = {
-    "NY Yankees": "New York Yankees", "NY Mets": "New York Mets",
-    "LA Dodgers": "Los Angeles Dodgers", "LA Angels": "Los Angeles Angels",
-    "Chi. Cubs": "Chicago Cubs", "Chi. White Sox": "Chicago White Sox",
-    "Atlanta": "Atlanta Braves", "Arizona": "Arizona Diamondbacks",
-    "Baltimore": "Baltimore Orioles", "Boston": "Boston Red Sox",
-    "Cincinnati": "Cincinnati Reds", "Cleveland": "Cleveland Guardians",
-    "Colorado": "Colorado Rockies", "Detroit": "Detroit Tigers",
-    "Houston": "Houston Astros", "Kansas City": "Kansas City Royals",
-    "Milwaukee": "Milwaukee Brewers", "Minnesota": "Minnesota Twins",
-    "Oakland": "Oakland Athletics", "Philadelphia": "Philadelphia Phillies",
-    "Pittsburgh": "Pittsburgh Pirates", "San Diego": "San Diego Padres",
-    "San Francisco": "San Francisco Giants", "Seattle": "Seattle Mariners",
-    "St. Louis": "St. Louis Cardinals", "Tampa Bay": "Tampa Bay Rays",
-    "Texas": "Texas Rangers", "Toronto": "Toronto Blue Jays",
-    "Washington": "Washington Nationals", "Miami": "Miami Marlins"
+    "NYY": "New York Yankees", "NYM": "New York Mets",
+    "LAD": "Los Angeles Dodgers", "LAA": "Los Angeles Angels",
+    "CHC": "Chicago Cubs", "CHW": "Chicago White Sox",
+    "ATL": "Atlanta Braves", "ARI": "Arizona Diamondbacks",
+    "BAL": "Baltimore Orioles", "BOS": "Boston Red Sox",
+    "CIN": "Cincinnati Reds", "CLE": "Cleveland Guardians",
+    "COL": "Colorado Rockies", "DET": "Detroit Tigers",
+    "HOU": "Houston Astros", "KC": "Kansas City Royals",
+    "MIL": "Milwaukee Brewers", "MIN": "Minnesota Twins",
+    "OAK": "Athletics", "PHI": "Philadelphia Phillies",
+    "PIT": "Pittsburgh Pirates", "SD": "San Diego Padres",
+    "SF": "San Francisco Giants", "SEA": "Seattle Mariners",
+    "STL": "St. Louis Cardinals", "TB": "Tampa Bay Rays",
+    "TEX": "Texas Rangers", "TOR": "Toronto Blue Jays",
+    "WAS": "Washington Nationals", "MIA": "Miami Marlins"
 }
 
 def extract_teams(teams_str):
     if not isinstance(teams_str, str):
         return None, None
 
-    home_team = None
-    for key in team_name_mapping.keys():
-        if teams_str.endswith(key):
-            home_team = key
-            break
+    try:
+        # Locate the first and second periods
+        first_period = teams_str.index('.')
+        second_period = teams_str.index('.', first_period + 1)
 
-    if home_team:
-        away_team = teams_str.replace(home_team, "").strip()
-        away_team = team_name_mapping.get(away_team, away_team)
-        home_team = team_name_mapping[home_team]
-        return away_team, home_team
-    else:
+        # FIRST TEAM
+        pitcher1_initial_index = first_period - 1
+        team1_raw = teams_str[:pitcher1_initial_index]
+        team1 = team1_raw.strip()
+
+        # SECOND TEAM
+        pitcher2_initial_index = second_period - 1
+        pre_pitcher2 = teams_str[pitcher2_initial_index - 3:pitcher2_initial_index]
+
+        # Validate second team code from last 3 or last 2 characters
+        if pre_pitcher2 in team_name_mapping:
+            team2 = pre_pitcher2
+        else:
+            pre_pitcher2_alt = pre_pitcher2[-2:]
+            team2 = pre_pitcher2_alt if pre_pitcher2_alt in team_name_mapping else None
+
+        if team1 not in team_name_mapping or team2 not in team_name_mapping:
+            print(f"[BAD PARSE] Raw: {teams_str} | T1: {team1} | T2: {team2}")
+            return None, None
+
+        print(f"[PARSED] Raw: {teams_str} | T1: {team1} | T2: {team2}")
+
+        return team_name_mapping[team1], team_name_mapping[team2]
+
+    except Exception as e:
+        print(f"[ERROR] {teams_str} | {e}")
         return None, None
+
+
+
 
 if "Teams" in mlb_odds_df.columns:
     mlb_odds_df[["Away Team", "Home Team"]] = mlb_odds_df["Teams"].apply(
         lambda x: pd.Series(extract_teams(x))
     )
 
-### Load and Merge with currentdata.csv ###
-current_data_path = "model/currentdata.csv"
+input_path = "model/currentdata.csv"
+output_path = "model/currentdata.csv"
 
-if not os.path.exists(current_data_path):
-    raise FileNotFoundError(f"File not found: {current_data_path}")
+if not os.path.exists(input_path):
+    raise FileNotFoundError(f"File not found: {input_path}")
 
-current_df = pd.read_csv(current_data_path)
+current_df = pd.read_csv(input_path)
 
-# Convert date columns to datetime format for proper matching
-current_df["game_date"] = pd.to_datetime(current_df["game_date"])
-mlb_odds_df["Date"] = pd.to_datetime(mlb_odds_df["Date"])
+current_df["game_date"] = pd.to_datetime(current_df["game_date"]).dt.date
+mlb_odds_df["Date"] = pd.to_datetime(mlb_odds_df["Date"]).dt.date
 
 double_headers = {}
 
@@ -173,13 +168,18 @@ for index, row in mlb_odds_df.iterrows():
         if len(matches) == 1:
             current_df.at[matches.index[0], "over_under_runline"] = row["Runline"]
         else:
-            if (row["Date"], row["Home Team"], row["Away Team"]) not in double_headers:
-                double_headers[(row["Date"], row["Home Team"], row["Away Team"])] = list(matches.index)
-
-            if double_headers[(row["Date"], row["Home Team"], row["Away Team"])]:
-                match_index = double_headers[(row["Date"], row["Home Team"], row["Away Team"])].pop(0)
+            key = (row["Date"], row["Home Team"], row["Away Team"])
+            if key not in double_headers:
+                double_headers[key] = list(matches.index)
+            if double_headers[key]:
+                match_index = double_headers[key].pop(0)
                 current_df.at[match_index, "over_under_runline"] = row["Runline"]
+    else:
+        print(f"[NO MATCH] {row['Away Team']} @ {row['Home Team']} on {row['Date']}")
+        print(current_df[current_df["game_date"] == row["Date"]][["home_name", "away_name", "game_date"]].head())
 
-current_df.to_csv(current_data_path, index=False)
+print("Columns in mlb_odds_df:", mlb_odds_df.columns.tolist())
 
-print("Live runlines successfully merged into currentdata.csv!")
+
+current_df.to_csv(output_path, index=False)
+print("\nSUCCESS - Live runlines merged into currentdata.csv\n")

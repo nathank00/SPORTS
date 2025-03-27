@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-print("---------- Now running 7-currentdata.py ----------")
+print("\n---------- Now running 7-currentdata.py ----------\n")
 
 game_pks_path = 'game_pks.csv'
 gamelogs_dir = 'gamelogs/'

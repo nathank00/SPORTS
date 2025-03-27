@@ -13,7 +13,7 @@ import httpx
 import cloudscraper
 from curl_cffi import requests as curl_requests
 
-print("---------- Now Running 5-playerstats.py -----------")
+print("\n---------- Now Running 5-playerstats.py -----------\n")
 
 def fetch_b_game_log(player_id, year):
     # Construct the URL for the batter's game log for the given year

@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 
-print("---------- Now running 4-odds.py ----------")
+print("\n---------- Now running 4-odds.py ----------\n")
 
 def fetch_over_under_runline(oddshark_id, game_date):
     """Fetches the Over/Under runline for a given team on a specific date."""

@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from pybaseball import playerid_reverse_lookup
 
-print("---------- Now running 2-player_ids.py ----------")
+print("\n---------- Now running 2-player_ids.py ----------\n")
 
 # MLB API endpoint
 MLB_PLAYERS_URL = "https://statsapi.mlb.com/api/v1/sports/1/players"
