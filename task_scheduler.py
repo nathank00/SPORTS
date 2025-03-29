@@ -65,11 +65,12 @@ def main():
     run_scripts(INITIAL_SCRIPTS)
 
     while True:
+        #STOP RUNNING PERIODIC SCRIPTS ONCE IT HITS 9 PM
         now = get_local_time()
-        midnight = now.replace(hour=0, minute=0, second=0, microsecond=0)
-        one_am = midnight.replace(hour=1)
+        nine_pm = now.replace(hour=21, minute=0, second=0, microsecond=0)
+        ten_pm = nine_pm.replace(hour=1)
 
-        if should_stop() or (midnight <= now < one_am):
+        if should_stop() or (nine_pm <= now < ten_pm):
             print(f"[INFO] Stopping execution at {get_local_time()}")
             log_message(f"[INFO] Stopping execution at {get_local_time()}")
             break
@@ -79,7 +80,7 @@ def main():
 
         print(f"[{get_local_time()}] Sleeping for 30 minutes")
         log_message(f" Sleeping for 30 minutes")
-        time.sleep(1800)  # 30 min sleep
+        time.sleep(900)  # 30 min sleep
 
 if __name__ == "__main__":
     main()
