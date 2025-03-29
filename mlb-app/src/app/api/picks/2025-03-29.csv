@@ -1,12 +1,12 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 778538,New York Yankees,Milwaukee Brewers,8.5,Under,,,,,,,,,,Paul Goldschmidt,Cody Bellinger,Aaron Judge,Jazz Chisholm Jr.,Anthony Volpe,Austin Wells,Pablo Reyes,Jasson Domínguez,Trent Grisham,,Max Fried
 778534,Chicago White Sox,Los Angeles Angels,8.0,Over,,,,,,,,,,,,,,,,,,,,
-778528,St. Louis Cardinals,Minnesota Twins,7.5,Under,,,,,,,,,,Lars Nootbaar,Willson Contreras,Brendan Donovan,Nolan Arenado,Alec Burleson,Iván Herrera,Jordan Walker,Victor Scott II,Masyn Winn,,Erick Fedde
+778528,St. Louis Cardinals,Minnesota Twins,7.5,Under,Matt Wallner,Carlos Correa,Byron Buxton,Trevor Larnach,Ty France,Mickey Gasper,Willi Castro,Jose Miranda,Christian Vázquez,Lars Nootbaar,Willson Contreras,Brendan Donovan,Nolan Arenado,Alec Burleson,Iván Herrera,Jordan Walker,Victor Scott II,Masyn Winn,Joe Ryan,Erick Fedde
 778536,Toronto Blue Jays,Baltimore Orioles,8.5,Over,,,,,,,,,,,,,,,,,,,,
 778535,Washington Nationals,Philadelphia Phillies,9.0,Over,,,,,,,,,,,,,,,,,,,,
 778529,Kansas City Royals,Cleveland Guardians,8.5,Over,,,,,,,,,,,,,,,,,,,,
 778540,Cincinnati Reds,San Francisco Giants,8.5,Over,,,,,,,,,,,,,,,,,,,,
-778537,Tampa Bay Rays,Colorado Rockies,8.0,Over,,,,,,,,,,,,,,,,,,,,
+778537,Tampa Bay Rays,Colorado Rockies,8.0,Over,Brenton Doyle,Ezequiel Tovar,Ryan McMahon,Kris Bryant,Michael Toglia,Hunter Goodman,Nick Martini,Kyle Farmer,Jordan Beck,,,,,,,,,,Antonio Senzatela,
 778539,Miami Marlins,Pittsburgh Pirates,8.5,Over,,,,,,,,,,,,,,,,,,,,
 778531,Texas Rangers,Boston Red Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
 778530,Houston Astros,New York Mets,8.5,Over,,,,,,,,,,,,,,,,,,,,
