@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 import pandas as pd
 import pprint
 import re 
@@ -9,94 +9,76 @@ from datetime import date, datetime, timedelta
 from pybaseball import playerid_reverse_lookup
 import statsapi
 import os
-import httpx
-import cloudscraper
+
 from curl_cffi import requests as curl_requests
 
 print("\n---------- Now Running 5-playerstats.py -----------\n")
 
 def fetch_b_game_log(player_id, year):
-    # Construct the URL for the batter's game log for the given year
     url = f'https://www.baseball-reference.com/players/gl.fcgi?id={player_id}&t=b&year={year}'
-
     response = curl_requests.get(url, impersonate="chrome101")
-
     time.sleep(2)
 
-    # Check if the request was successful
     if response.status_code != 200:
         print(f" BAD REQUEST - Failed to fetch data for batter {player_id} in {year}")
         return None
 
-    # Parse the HTML content using BeautifulSoup
     soup = BeautifulSoup(response.content, 'html.parser')
-    # Find the table containing the game logs
-    table = soup.find('table', {'id': 'batting_gamelogs'})
+    from bs4 import Comment
+    comments = soup.find_all(string=lambda text: isinstance(text, Comment))
 
-    # Check if the table is found
+    table = None
+    for comment in comments:
+        if 'id="batting_gamelogs"' in comment:
+            soup2 = BeautifulSoup(comment, 'html.parser')
+            table = soup2.find('table', {'id': 'batting_gamelogs'})
+            break
+
     if table is None:
         print(f"No data found for batter {player_id} in {year} - OK")
         return None
 
-    # Read the table into a pandas DataFrame
     df = pd.read_html(str(table))[0]
-
-    # Remove rows where 'Rk' is not a number (header rows that repeat in the table)
     df = df[pd.to_numeric(df['Rk'], errors='coerce').notnull()]
-
-    # Add the year to the 'Date' column if the year is not already present
     df['Date'] = df['Date'].apply(lambda x: f"{x}, {year}" if '(' not in x else x)
-
-    # Extract the value from parentheses (if present) and assign it to a new column 'dbl'
     df['dbl'] = df['Date'].str.extract(r'\((\d+)\)').astype(float)
-
-    # Add the year to the 'Date' column for doubleheader dates
     df.loc[df['dbl'].notnull(), 'Date'] = df['Date'] + ', ' + str(year)
-
-    # Format 'Date' to 'game_date' in YYYY-MM-DD format
     df['game_date'] = pd.to_datetime(df['Date'], errors='coerce').dt.strftime('%Y-%m-%d')
-
     return df
 
+
 def fetch_p_game_log(player_id, year):
-    # Construct the URL for the pitcher's game log for the given year
     url = f'https://www.baseball-reference.com/players/gl.fcgi?id={player_id}&t=p&year={year}'
     response = curl_requests.get(url, impersonate="chrome101")
+    time.sleep(2)
 
-    # Check if the request was successful
     if response.status_code != 200:
         print(f" BAD REQUEST - Failed to fetch data for pitcher {player_id} in {year}")
         return None
 
-    # Parse the HTML content using BeautifulSoup
     soup = BeautifulSoup(response.content, 'html.parser')
-    # Find the table containing the game logs
-    table = soup.find('table', {'id': 'pitching_gamelogs'})
+    from bs4 import Comment
+    comments = soup.find_all(string=lambda text: isinstance(text, Comment))
 
-    # Check if the table is found
+    table = None
+    for comment in comments:
+        if 'id="pitching_gamelogs"' in comment:
+            soup2 = BeautifulSoup(comment, 'html.parser')
+            table = soup2.find('table', {'id': 'pitching_gamelogs'})
+            break
+
     if table is None:
         print(f"No data found for pitcher {player_id} in {year} - OK")
         return None
 
-    # Read the table into a pandas DataFrame
     df = pd.read_html(str(table))[0]
-
-    # Remove rows where 'Rk' is not a number (header rows that repeat in the table)
     df = df[pd.to_numeric(df['Rk'], errors='coerce').notnull()]
-
-    # Add the year to the 'Date' column if the year is not already present
     df['Date'] = df['Date'].apply(lambda x: f"{x}, {year}" if '(' not in x else x)
-
-    # Extract the value from parentheses (if present) and assign it to a new column 'dbl'
     df['dbl'] = df['Date'].str.extract(r'\((\d+)\)').astype(float)
-
-    # Add the year to the 'Date' column for doubleheader dates
     df.loc[df['dbl'].notnull(), 'Date'] = df['Date'] + ', ' + str(year)
-
-    # Format 'Date' to 'game_date' in YYYY-MM-DD format
     df['game_date'] = pd.to_datetime(df['Date'], errors='coerce').dt.strftime('%Y-%m-%d')
-
     return df
+
 
 
 # Function to clean and parse dates

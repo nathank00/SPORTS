@@ -9,6 +9,7 @@ requests
 pandas
 pybaseball
 MLB-StatsAPI
+python-mlb-statsapi
 datetime
 selenium
 webdriver-manager
