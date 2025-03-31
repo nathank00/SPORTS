@@ -126,3 +126,83 @@ for bbref_id in pitcher_ids:
     final = pd.concat([df, rolling, seasonal_df], axis=1).round(3)
     final.to_csv(f'pitchers/{bbref_id}_stats_pitching.csv', index=False)
     print(f"Pitcher {bbref_id} stats saved.")
+
+
+# --- [PART 2] Enrich game logs with latest player stats ---
+
+
+def get_player_stats(bbref_id, player_type, game_id):
+    stats_dir = 'batters' if player_type == 'batting' else 'pitchers'
+    stats_file = os.path.join(stats_dir, f'{bbref_id}_stats_{player_type}.csv')
+    if not os.path.exists(stats_file):
+        print(f"Stats file for {bbref_id} not found ({player_type}).")
+        return None
+    stats_df = pd.read_csv(stats_file)
+    if 'game_id' not in stats_df:
+        return None
+    stats_df['game_id'] = stats_df['game_id'].astype(int)
+    game_stats = stats_df[stats_df['game_id'] == game_id]
+    return game_stats.iloc[0] if not game_stats.empty else stats_df.iloc[-1]
+
+def process_game(game_id):
+    game_file = f'gamelogs/game_{game_id}.csv'
+    if not os.path.exists(game_file):
+        print(f"Gamelog file for game {game_id} not found.")
+        return
+    
+    game_df = pd.read_csv(game_file)
+    game_data = game_df.iloc[0].to_dict()
+
+    batter_cols = [f"{stat}_{window}" for window in [20, 10, 5, 3] for stat in ['AVG','OBP','SLG','OPS','SB','CS','XB','TB','SO']]
+    pitcher_cols = [f"{stat}_{window}" for window in [20, 10, 5, 3] for stat in ['IP_real','H','BF','HR','R','ER','BB','SO','XB_against','TB_against','ERA','WHIP']]
+
+    # Batter stats
+    for i in range(1, 10):
+        for team in ['Away', 'Home']:
+            bbref_id = game_data.get(f'{team}_Batter{i}_bbrefID')
+            if bbref_id:
+                stats = get_player_stats(bbref_id, 'batting', game_id)
+                if stats is not None:
+                    for col in batter_cols:
+                        game_data[f'{team}_Batter{i}_{col}'] = stats.get(col, '')
+
+    # Pitcher stats
+    for team in ['Away', 'Home']:
+        for i in range(1, 11):
+            role = 'SP' if i == 1 else f'P_{i}'
+            bbref_id = game_data.get(f'{team}_{role}_bbrefID')
+            if bbref_id:
+                stats = get_player_stats(bbref_id, 'pitching', game_id)
+                if stats is not None:
+                    for col in pitcher_cols:
+                        game_data[f'{team}_{role}_{col}'] = stats.get(col, '')
+
+    # Bullpen stats
+    for team in ['Away', 'Home']:
+        for i in range(1, 15):
+            role = f'bullpen_{i}'
+            bbref_id = game_data.get(f'{team}_{role}_bbrefID')
+            if bbref_id:
+                stats = get_player_stats(bbref_id, 'pitching', game_id)
+                if stats is not None:
+                    for col in pitcher_cols:
+                        game_data[f'{team}_{role}_{col}'] = stats.get(col, '')
+
+    # Save enriched game
+    output = pd.DataFrame([game_data])
+    output_file = f'gamelogs/gamestats_{game_id}.csv'
+    output.to_csv(output_file, index=False)
+    print(f"Processed and saved game stats for game {game_id} -> {output_file}")
+
+def process_recent_games(n=50):
+    game_pks_file = 'game_pks.csv'
+    if not os.path.exists(game_pks_file):
+        print(f"{game_pks_file} not found.")
+        return
+
+    game_ids = pd.read_csv(game_pks_file).tail(n)['game_id'].astype(int).tolist()
+    for gid in game_ids:
+        process_game(gid)
+
+# --- CHANGE THIS TO CONTROL HOW MANY GAMES TO PROCESS ---
+process_recent_games(50)
