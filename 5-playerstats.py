@@ -1,8 +1,10 @@
 import requests
 import pandas as pd
 from datetime import datetime
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
+import concurrent.futures
 import os
+from tqdm import tqdm
 
 # --- CONFIG ---
 season = datetime.now().year
@@ -21,7 +23,7 @@ def get_schedule(team_id):
 
     url = "https://statsapi.mlb.com/api/v1/schedule"
     params = {"teamId": team_id, "season": season, "sportId": 1}
-    res = requests.get(url, params=params).json()
+    res = requests.get(url, params=params, timeout=10).json()
     sched = {}
     for date in res['dates']:
         for g in date['games']:
@@ -68,7 +70,7 @@ pitcher_map = {
 def fetch_current_log(player_id, group, stat_map):
     url = f"https://statsapi.mlb.com/api/v1/people/{player_id}/stats"
     params = {"stats": "gameLog", "group": group, "season": season}
-    res = requests.get(url, params=params).json()
+    res = requests.get(url, params=params, timeout=10).json()
     if not res['stats'] or not res['stats'][0]['splits']:
         return None
 
@@ -116,7 +118,7 @@ def update_player(df_row, group, stat_map, folder, suffix):
 
         new_df = fetch_current_log(player_id, group, stat_map)
         if new_df is None:
-            return f"No CURRENT SEASON data for {bbref_id}"
+            return None
 
         new_df = new_df[~new_df['game_id'].isin(existing_ids)]
 
@@ -125,15 +127,12 @@ def update_player(df_row, group, stat_map, folder, suffix):
             combined['game_date'] = pd.to_datetime(combined['game_date'])
             combined = combined.sort_values(['game_date', 'game_id'])
 
-            # ensure all columns exist
             for col in set(existing.columns).union(new_df.columns):
                 if col not in combined.columns:
                     combined[col] = None
 
             combined.to_csv(path, index=False)
-            return f"Updated {path} with {len(new_df)} new rows"
-        else:
-            return f"No new rows for {bbref_id}"
+        return None
 
     except Exception as e:
         return f"Error processing {bbref_id}: {e}"
@@ -141,14 +140,24 @@ def update_player(df_row, group, stat_map, folder, suffix):
 # --- Thread Runners ---
 def run_updates(df, label, group, stat_map, folder, suffix):
     with ThreadPoolExecutor(max_workers=8) as executor:
-        futures = [
-            executor.submit(update_player, row, group, stat_map, folder, suffix)
-            for _, row in df.iterrows()
-        ]
-        for f in as_completed(futures):
-            print(f.result())
-    print(f"All {label} updated")
+        futures = {
+            executor.submit(update_player, row, group, stat_map, folder, suffix): i
+            for i, row in df.iterrows()
+        }
+        try:
+            for f in tqdm(concurrent.futures.as_completed(futures), total=len(futures), desc=f"Updating {label}", unit=label):
+                result = f.result()
+                if result:
+                    print(result)
+        except KeyboardInterrupt:
+            print(f"\nKeyboardInterrupt detected during {label}. Shutting down...")
+            executor.shutdown(wait=False, cancel_futures=True)
+            raise
 
 # --- GO ---
+print("\n---------- Now Running 5-playerstats.py -----------\n")
+
 run_updates(batter_df, "batters", "hitting", batter_col_map, "batters", "batting")
 run_updates(pitcher_df, "pitchers", "pitching", pitcher_map, "pitchers", "pitching")
+
+print('\n')

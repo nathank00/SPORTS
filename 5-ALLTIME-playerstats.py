@@ -3,7 +3,9 @@ import pandas as pd
 from datetime import datetime
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import concurrent.futures
 import os
+from tqdm import tqdm
 
 # --- CONFIG ---
 current_year = datetime.now().year
@@ -126,8 +128,7 @@ def process_batter(row):
                 if col not in df: df[col] = None
             df = df[ordered]
             df.to_csv(f"batters/{bbref}_batting.csv", index=False)
-            return f"Saved batters/{bbref}_batting.csv"
-        return f"No data for batter {bbref}"
+        return None
     except Exception as e:
         return f"Error batter {bbref}: {e}"
 
@@ -141,18 +142,24 @@ def process_pitcher(row):
                 if col not in df: df[col] = None
             df = df[ordered]
             df.to_csv(f"pitchers/{bbref}_pitching.csv", index=False)
-            return f"Saved pitchers/{bbref}_pitching.csv"
-        return f"No data for pitcher {bbref}"
+        return None
     except Exception as e:
         return f"Error pitcher {bbref}: {e}"
+
 
 # --- Fire Threads ---
 def run_threads(df, processor, label):
     with ThreadPoolExecutor(max_workers=8) as executor:
-        futures = [executor.submit(processor, row) for _, row in df.iterrows()]
-        for f in as_completed(futures):
-            print(f.result())
-    print(f"All {len(df)} {label} processed.")
+        futures = {executor.submit(processor, row): i for i, row in df.iterrows()}
+        try:
+            for f in tqdm(concurrent.futures.as_completed(futures), total=len(futures), desc=f"Processing {label}"):
+                result = f.result()
+                if result:
+                    print(result)
+        except KeyboardInterrupt:
+            print("\nKeyboardInterrupt detected. Shutting down threads...")
+            executor.shutdown(wait=False, cancel_futures=True)
+            raise
 
 # --- Execute both groups ---
 
@@ -160,3 +167,5 @@ print("\n---------- Now Running 5-ALLTIME-playerstats.py -----------\n")
 
 run_threads(batter_df, process_batter, "batters")
 run_threads(pitcher_df, process_pitcher, "pitchers")
+
+print('\n')
