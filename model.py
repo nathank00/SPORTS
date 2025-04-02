@@ -27,16 +27,16 @@ pipeline = Pipeline([
 
 # Param grid
 param_dist = {
-    'model__n_estimators': [50, 100],
-    'model__learning_rate': [0.01, 0.1],
-    'model__max_depth': [3, 5],
+    'model__n_estimators': [50, 100, 150],
+    'model__learning_rate': [0.01, 0.05, 0.1, 0.15],
+    'model__max_depth': [3, 5, 7],
 }
 
 # Hyperparameter tuning
 search = RandomizedSearchCV(
     pipeline,
     param_distributions=param_dist,
-    n_iter=4,
+    n_iter=50,
     scoring='accuracy',
     cv=3,
     verbose=1,

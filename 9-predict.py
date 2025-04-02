@@ -36,9 +36,21 @@ predictions = model.predict(X_cleaned)
 todays_games['prediction'] = predictions
 todays_games['pick'] = todays_games['prediction'].map({1: 'Over', 0: 'Under'})
 
+# Core output
 output_df = todays_games[['game_id', 'home_name', 'away_name', 'over_under_runline', 'pick']].copy()
 output_df.columns = ['game_id', 'home_team', 'away_team', 'runline', 'pick']
 
+# Add batter and pitcher name columns
+batter_cols = (
+    [f"Away_Batter{i}_Name" for i in range(1, 10)] +
+    [f"Home_Batter{i}_Name" for i in range(1, 10)] +
+    ['Away_SP_Name', 'Home_SP_Name']
+)
+
+for col in batter_cols:
+    output_df[col] = todays_games[col] if col in todays_games.columns else 'N/A'
+
+# Write to output file
 output_dir = 'mlb-app/src/app/api/picks'
 os.makedirs(output_dir, exist_ok=True)
 output_file = os.path.join(output_dir, f"{today}.csv")
