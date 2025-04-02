@@ -47,6 +47,15 @@ export default function Home() {
   // Fetch the last_updated.csv file
   const { data: lastUpdatedData, error: lastUpdatedError } = useFetchCsv("/last_updated.csv")
 
+useEffect(() => {
+  if (lastUpdatedError) {
+    console.error("Failed to fetch last updated data:", lastUpdatedError)
+    setLastUpdated("Unavailable")
+  } else if (lastUpdatedData && lastUpdatedData.length > 0 && lastUpdatedData[0].last_updated) {
+    setLastUpdated(lastUpdatedData[0].last_updated)
+  }
+}, [lastUpdatedData, lastUpdatedError])
+
   // Update last updated value when the data is loaded
   useEffect(() => {
     if (lastUpdatedData && lastUpdatedData.length > 0 && lastUpdatedData[0].last_updated) {
