@@ -57,9 +57,11 @@ output_file = os.path.join(output_dir, f"{today}.csv")
 output_df.to_csv(output_file, index=False)
 
 # Timestamp file
+formatted_time = now.strftime('%Y-%m-%d %H:%M PST')
 with open('mlb-app/public/last_updated.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['last_updated'])
-    writer.writerow([now])
+    writer.writerow([formatted_time])
+
 
 print(f"Predictions saved to {output_file}")
