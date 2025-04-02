@@ -139,7 +139,7 @@ useEffect(() => {
     <div className="min-h-screen bg-slate-950 text-white">
       <header className="sticky top-0 z-10 bg-slate-900 border-b border-slate-800 p-4">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
-          <h1 className="text-3xl font-bold text-blue-500 mb-4 md:mb-0">MLB Betting Dashboard</h1>
+          <h1 className="text-3xl font-bold text-blue-500 mb-4 md:mb-0">1 OF 1 Dashboard</h1>
 
           <div className="flex flex-col md:flex-row items-center gap-4">
             <div className="flex items-center gap-2 bg-slate-800 px-3 py-1 rounded-md">
@@ -192,7 +192,7 @@ useEffect(() => {
             </div>
             <div className="flex items-center gap-1">
               <Badge variant="outline" className="bg-amber-500/10 text-amber-500 border-amber-500/20">
-                <AlertCircle className="h-3 w-3 mr-1" /> Missing data
+                <AlertCircle className="h-3 w-3 mr-1" /> Awaiting data
               </Badge>
             </div>
           </div>
@@ -260,13 +260,13 @@ useEffect(() => {
                           <CardContent>
                             <div className="grid grid-cols-2 gap-4 mb-4">
                               <div className="bg-slate-800 rounded-lg p-3 text-center">
-                                <div className="text-sm text-slate-400 mb-1">Runline</div>
+                                <div className="text-sm text-slate-400 mb-1">Live Runline</div>
                                 <div className="text-xl font-bold">{game.runline}</div>
                               </div>
                               <div
                                 className={`rounded-lg p-3 text-center ${game.pick === "Over" ? "bg-green-500/20 text-green-400" : "bg-red-500/20 text-red-400"}`}
                               >
-                                <div className="text-sm mb-1">Prediction</div>
+                                <div className="text-sm mb-1">Monkey King says:</div>
                                 <div className="text-xl font-bold">{game.pick}</div>
                               </div>
                             </div>
