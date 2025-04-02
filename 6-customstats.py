@@ -206,4 +206,4 @@ def process_recent_games(n=50):
         for _ in tqdm(as_completed(futures), total=len(futures), desc="Enriching games", unit="games"):
             pass
 
-process_recent_games(15000)
+process_recent_games(100)
