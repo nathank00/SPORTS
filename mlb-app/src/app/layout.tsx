@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "MLB Betting Dashboard",
+  title: "1 of 1 Dashboard",
   description: "Track MLB games and betting predictions",
 }
 
