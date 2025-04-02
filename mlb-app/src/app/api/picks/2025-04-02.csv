@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+778480,Cincinnati Reds,Texas Rangers,8.5,Over,Marcus Semien,Wyatt Langford,Joc Pederson,Adolis García,Jake Burger,Josh Smith,Jonah Heim,Leody Taveras,Ezequiel Duran,TJ Friedl,Matt McLain,Elly De La Cruz,Gavin Lux,Jeimer Candelario,Christian Encarnacion-Strand,Spencer Steer,Jake Fraley,Jose Trevino,Jack Leiter,Hunter Greene
 778479,Tampa Bay Rays,Pittsburgh Pirates,7.0,Under,Adam Frazier,Bryan Reynolds,Oneil Cruz,Tommy Pham,Jack Suwinski,Ke'Bryan Hayes,Endy Rodríguez,Jared Triolo,Isiah Kiner-Falefa,Yandy Díaz,Brandon Lowe,Jake Mangum,Junior Caminero,Jonathan Aranda,José Caballero,Taylor Walls,Ben Rortvedt,Jonny DeLuca,Paul Skenes,Ryan Pepiot
 778477,Milwaukee Brewers,Kansas City Royals,7.5,Under,Jonathan India,Bobby Witt Jr.,Vinnie Pasquantino,Salvador Perez,Michael Massey,Hunter Renfroe,Cavan Biggio,Freddy Fermin,Kyle Isbel,Brice Turang,Jackson Chourio,Isaac Collins,William Contreras,Sal Frelick,Rhys Hoskins,Vinny Capra,Garrett Mitchell,Joey Ortiz,Cole Ragans,Freddy Peralta
-778473,St. Louis Cardinals,Los Angeles Angels,8.5,Over,Taylor Ward,Luis Rengifo,Mike Trout,Jorge Soler,Yoán Moncada,Nolan Schanuel,Logan O'Hoppe,Jo Adell,Nicky Lopez,Lars Nootbaar,Willson Contreras,Luken Baker,Nolan Arenado,Iván Herrera,Brendan Donovan,Jordan Walker,Victor Scott II,Masyn Winn,Yusei Kikuchi,Sonny Gray
-778480,Cincinnati Reds,Texas Rangers,8.5,Over,Marcus Semien,Wyatt Langford,Joc Pederson,Adolis García,Jake Burger,Josh Smith,Jonah Heim,Leody Taveras,Ezequiel Duran,TJ Friedl,Matt McLain,Elly De La Cruz,Gavin Lux,Jeimer Candelario,Christian Encarnacion-Strand,Spencer Steer,Jake Fraley,Jose Trevino,Jack Leiter,Hunter Greene
-778474,Chicago White Sox,Minnesota Twins,7.0,Over,Matt Wallner,Carlos Correa,Byron Buxton,Trevor Larnach,Ty France,Willi Castro,Edouard Julien,Harrison Bader,Christian Vázquez,Nick Maton,Luis Robert Jr.,Andrew Benintendi,Miguel Vargas,Matt Thaiss,Brooks Baldwin,Travis Jankowski,Michael A. Taylor,Jacob Amaya,Pablo López,Sean Burke
 778478,Toronto Blue Jays,Washington Nationals,8.5,Over,,,,,,,,,,Bo Bichette,Vladimir Guerrero Jr.,Anthony Santander,Andrés Giménez,George Springer,Ernie Clement,Davis Schneider,Tyler Heineman,Myles Straw,,Easton Lucas
+778473,St. Louis Cardinals,Los Angeles Angels,8.5,Over,Taylor Ward,Luis Rengifo,Mike Trout,Jorge Soler,Yoán Moncada,Nolan Schanuel,Logan O'Hoppe,Jo Adell,Nicky Lopez,Lars Nootbaar,Willson Contreras,Luken Baker,Nolan Arenado,Iván Herrera,Brendan Donovan,Jordan Walker,Victor Scott II,Masyn Winn,Yusei Kikuchi,Sonny Gray
 778471,Athletics,Chicago Cubs,8.5,Under,,,,,,,,,,,,,,,,,,,,
 778476,San Diego Padres,Cleveland Guardians,7.5,Under,,,,,,,,,,,,,,,,,,,,
-778481,Miami Marlins,New York Mets,8.5,Under,,,,,,,,,,,,,,,,,,,,
-778475,Houston Astros,San Francisco Giants,7.5,Under,,,,,,,,,,,,,,,,,,,,
+778474,Chicago White Sox,Minnesota Twins,7.0,Over,Matt Wallner,Carlos Correa,Byron Buxton,Trevor Larnach,Ty France,Willi Castro,Edouard Julien,Harrison Bader,Christian Vázquez,Nick Maton,Luis Robert Jr.,Andrew Benintendi,Miguel Vargas,Matt Thaiss,Brooks Baldwin,Travis Jankowski,Michael A. Taylor,Jacob Amaya,Pablo López,Sean Burke
 778469,Seattle Mariners,Detroit Tigers,6.5,Under,,,,,,,,,,,,,,,,,,,,
+778475,Houston Astros,San Francisco Giants,7.5,Under,,,,,,,,,,,,,,,,,,,,
 778483,Baltimore Orioles,Boston Red Sox,7.5,Under,,,,,,,,,,,,,,,,,,,,
-778482,Philadelphia Phillies,Colorado Rockies,7.0,Under,,,,,,,,,,,,,,,,,,,,
 778484,New York Yankees,Arizona Diamondbacks,7.5,Under,,,,,,,,,,,,,,,,,,,,
+778481,Miami Marlins,New York Mets,8.5,Under,,,,,,,,,,,,,,,,,,,,
 778472,Los Angeles Dodgers,Atlanta Braves,8.0,Under,,,,,,,,,,,,,,,,,,,,
+778482,Philadelphia Phillies,Colorado Rockies,7.0,Under,,,,,,,,,,,,,,,,,,,,
