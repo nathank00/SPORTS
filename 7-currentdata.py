@@ -2,57 +2,70 @@ import os
 import pandas as pd
 import numpy as np
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 import warnings
 
 warnings.filterwarnings("ignore", message=".*DataFrame is highly fragmented.*")
 
-# ------------------------------------------------------------- SETUP -------------------------------------------------------------
-
 gamelogs_dir = 'gamelogs/'
 output_path = 'model/currentdata.parquet'
-game_pks_df = pd.read_csv('game_pks.csv').tail(100)
-game_pks_list = game_pks_df['game_id'].tolist()
+game_pks_df = pd.read_csv('game_pks.csv')
+game_pks_list = game_pks_df['game_id'].tail(100).tolist()
 
 print("\n\nBUILDING CURRENTDATA \n")
 
-# ------------------------------------------------------------- SCHEMA BUILD -------------------------------------------------------------
-
+# --- SCHEMA COLLECTION ---
 print("Scanning column schema...\n")
 all_columns = set()
 bad_files = []
 
-for game_pk in tqdm(game_pks_list, desc="Schema scan", unit="file"):
+def read_schema(game_pk):
     path = os.path.join(gamelogs_dir, f'gamestats_{game_pk}.csv')
     if os.path.exists(path):
         try:
             df = pd.read_csv(path, nrows=1)
-            all_columns.update(df.columns)
+            return set(df.columns), None
         except Exception as e:
-            bad_files.append((path, str(e)))
+            return set(), (path, str(e))
+    return set(), None
+
+with ThreadPoolExecutor(max_workers=8) as executor:
+    futures = [executor.submit(read_schema, pk) for pk in game_pks_list]
+    for f in tqdm(as_completed(futures), total=len(futures), desc="Schema scan", unit="file"):
+        cols, err = f.result()
+        all_columns.update(cols)
+        if err:
+            bad_files.append(err)
 
 all_columns = sorted(all_columns)
 
-# ------------------------------------------------------------- INGEST DATA -------------------------------------------------------------
-
+# --- INGEST ROWS ---
 print("\nReading game logs...\n")
 row_dicts = []
 
-for game_pk in tqdm(game_pks_list, desc="Building rows", unit="file"):
+def read_game_file(game_pk):
     path = os.path.join(gamelogs_dir, f'gamestats_{game_pk}.csv')
     if not os.path.exists(path):
-        continue
+        return [], None
     try:
         df = pd.read_csv(path)
         df = df.reindex(columns=all_columns, fill_value=pd.NA)
-        row_dicts.extend(df.to_dict(orient='records'))
+        return df.to_dict(orient='records'), None
     except Exception as e:
-        bad_files.append((path, str(e)))
+        return [], (path, str(e))
+
+with ThreadPoolExecutor(max_workers=8) as executor:
+    futures = [executor.submit(read_game_file, pk) for pk in game_pks_list]
+    for f in tqdm(as_completed(futures), total=len(futures), desc="Building rows", unit="file"):
+        rows, err = f.result()
+        row_dicts.extend(rows)
+        if err:
+            bad_files.append(err)
 
 df = pd.DataFrame(row_dicts, columns=all_columns)
 
-# ------------------------------------------------------------- BULLPEN AVERAGING -------------------------------------------------------------
-
+# --- BULLPEN AVERAGING ---
 print("\nAveraging bullpen stats (first 8 pitchers only)...\n")
 
 bullpen_stats = [
@@ -60,7 +73,7 @@ bullpen_stats = [
     'TB_against_20', 'ERA_20', 'WHIP_20', 'IP_real_10', 'H_10', 'BF_10', 'HR_10', 'R_10', 'ER_10', 'BB_10',
     'SO_10', 'XB_against_10', 'TB_against_10', 'ERA_10', 'WHIP_10', 'IP_real_5', 'H_5', 'BF_5', 'HR_5', 'R_5',
     'ER_5', 'BB_5', 'SO_5', 'XB_against_5', 'TB_against_5', 'ERA_5', 'WHIP_5', 'IP_real_3', 'H_3', 'BF_3',
-    'HR_3', 'R_3', 'ER_3', 'BB_3', 'SO_3', 'XB_against_3', 'TB_against_3', 'ERA_3', 'WHIP_3', 'BB', 'BF', 'ER', 
+    'HR_3', 'R_3', 'ER_3', 'BB_3', 'SO_3', 'XB_against_3', 'TB_against_3', 'ERA_3', 'WHIP_3', 'BB', 'BF', 'ER',
     'H', 'HR', 'IP_real', 'R', 'SO', 'TB_against', 'WHIP', 'XB_against'
 ]
 
@@ -71,8 +84,7 @@ for team in ['Home', 'Away']:
             df[cols] = df[cols].apply(pd.to_numeric, errors='coerce').replace([np.inf, -np.inf], np.nan)
             df[f'{team}_bullpen_avg_{stat}'] = df[cols].mean(axis=1)
 
-# ------------------------------------------------------------- DROP INDIVIDUAL BULLPEN -------------------------------------------------------------
-
+# --- DROP INDIVIDUAL BULLPEN PITCHERS ---
 print("\nDropping individual bullpen pitcher columns...\n")
 
 for team in ['Home', 'Away']:
@@ -80,26 +92,19 @@ for team in ['Home', 'Away']:
         drop_cols = [f'{team}_bullpen_{i}_{stat}' for i in range(1, 16) if f'{team}_bullpen_{i}_{stat}' in df.columns]
         df.drop(columns=drop_cols, inplace=True)
 
-# ------------------------------------------------------------- SANITIZATION + FILTERING -------------------------------------------------------------
-
+# --- SANITIZE, FILTER, ADD TARGET ---
 print("\nSanitizing and filtering...\n")
 
 df.replace('-.--', pd.NA, inplace=True)
 df['game_date'] = pd.to_datetime(df['game_date'], errors='coerce')
-
 df = df[df['game_date'].notna()]
 
-# Date filter: March 25 – October 5
 df = df[
     ((df['game_date'].dt.month > 3) & (df['game_date'].dt.month < 10)) |
     ((df['game_date'].dt.month == 3) & (df['game_date'].dt.day >= 25)) |
     ((df['game_date'].dt.month == 10) & (df['game_date'].dt.day <= 5))
 ]
 
-df['over_under_runline'] = pd.to_numeric(df['over_under_runline'], errors='coerce')
-df['over_under_target'] = (df['runs_total'] >= df['over_under_runline']).astype(int)
-
-# Move target column next to runline
 cols = df.columns.tolist()
 if 'over_under_target' in cols and 'over_under_runline' in cols:
     tgt = cols.pop(cols.index('over_under_target'))
@@ -107,8 +112,7 @@ if 'over_under_target' in cols and 'over_under_runline' in cols:
     cols.insert(idx, tgt)
     df = df[cols]
 
-# ------------------------------------------------------------- TYPE NORMALIZATION -------------------------------------------------------------
-
+# --- TYPE NORMALIZATION ---
 for col in df.columns:
     if df[col].dtype == 'object':
         try:
@@ -116,12 +120,17 @@ for col in df.columns:
         except:
             df[col] = df[col].astype('string')
 
-# ------------------------------------------------------------- SAVE -------------------------------------------------------------
-
-print("\nGAME DATES IN CURRENTDATA:")
-print(df['game_date'].dropna().dt.date.value_counts().sort_index().tail(10))
-
-
+# --- SAVE TO PARQUET ---
 print("\nSaving to Parquet...\n")
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
 df.to_parquet(output_path, index=False, compression='snappy')
 print(f"CURRENTDATA BUILD COMPLETE — {df.shape[0]} rows, {df.shape[1]} columns — saved to {output_path}")
+
+
+# --- OUTPUT FEATURE LIST ---
+feature_list_path = 'model/currentdata_features.txt'
+with open(feature_list_path, 'w') as f:
+    for col in df.columns:
+        f.write(col + '\n')
+
+print(f"Feature list saved to {feature_list_path}")
