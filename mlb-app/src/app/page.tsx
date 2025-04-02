@@ -139,7 +139,7 @@ useEffect(() => {
     <div className="min-h-screen bg-slate-950 text-white">
       <header className="sticky top-0 z-10 bg-slate-900 border-b border-slate-800 p-4">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
-          <h1 className="text-3xl font-bold text-blue-500 mb-4 md:mb-0">1 OF 1 Dashboard</h1>
+          <h1 className="text-3xl font-bold text-blue-500 mb-4 md:mb-0">1 of 1 Dashboard</h1>
 
           <div className="flex flex-col md:flex-row items-center gap-4">
             <div className="flex items-center gap-2 bg-slate-800 px-3 py-1 rounded-md">
@@ -183,7 +183,7 @@ useEffect(() => {
 
       <main className="container mx-auto py-8 px-4">
         <div className="mb-6">
-          <h2 className="text-2xl font-semibold mb-2">Games for {formatDate(selectedDate)}</h2>
+          <h2 className="text-2xl font-semibold mb-2">{formatDate(selectedDate)}</h2>
           <div className="flex items-center gap-4 text-sm">
             <div className="flex items-center gap-1">
               <Badge variant="outline" className="bg-green-500/10 text-green-500 border-green-500/20">
