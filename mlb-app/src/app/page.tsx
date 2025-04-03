@@ -192,7 +192,7 @@ useEffect(() => {
             </div>
             <div className="flex items-center gap-1">
               <Badge variant="outline" className="bg-amber-500/10 text-amber-500 border-amber-500/20">
-                <AlertCircle className="h-3 w-3 mr-1" /> Awaiting data
+                <AlertCircle className="h-3 w-3 mr-1" /> Pending
               </Badge>
             </div>
           </div>
