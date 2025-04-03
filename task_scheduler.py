@@ -68,9 +68,9 @@ def main():
         #STOP RUNNING PERIODIC SCRIPTS ONCE IT HITS 9 PM
         now = get_local_time()
         nine_pm = now.replace(hour=21, minute=0, second=0, microsecond=0)
-        ten_pm = nine_pm.replace(hour=1)
+        ten_pm = nine_pm.replace(hour=22)
 
-        if should_stop() or (nine_pm <= now < ten_pm):
+        if should_stop() or now.hour >= 21:
             print(f"[INFO] Stopping execution at {get_local_time()}")
             log_message(f"[INFO] Stopping execution at {get_local_time()}")
             break
