@@ -187,7 +187,7 @@ useEffect(() => {
           <div className="flex items-center gap-4 text-sm">
             <div className="flex items-center gap-1">
               <Badge variant="outline" className="bg-green-500/10 text-green-500 border-green-500/20">
-                <Check className="h-3 w-3 mr-1" /> Ready to bet
+                <Check className="h-3 w-3 mr-1" /> Ready
               </Badge>
             </div>
             <div className="flex items-center gap-1">
@@ -215,10 +215,10 @@ useEffect(() => {
             <TabsList className="mb-6">
               <TabsTrigger value="all">All Games ({games.length})</TabsTrigger>
               <TabsTrigger value="ready">
-                Ready to Bet ({games.filter((game) => isGameBetReady(game)).length})
+                Ready ({games.filter((game) => isGameBetReady(game)).length})
               </TabsTrigger>
               <TabsTrigger value="not-ready">
-                Not Ready ({games.filter((game) => !isGameBetReady(game)).length})
+                Pending ({games.filter((game) => !isGameBetReady(game)).length})
               </TabsTrigger>
             </TabsList>
 
@@ -266,7 +266,7 @@ useEffect(() => {
                               <div
                                 className={`rounded-lg p-3 text-center ${game.pick === "Over" ? "bg-green-500/20 text-green-400" : "bg-red-500/20 text-red-400"}`}
                               >
-                                <div className="text-sm mb-1">Monkey King says:</div>
+                                <div className="text-sm mb-1">Prediction:</div>
                                 <div className="text-xl font-bold">{game.pick}</div>
                               </div>
                             </div>
