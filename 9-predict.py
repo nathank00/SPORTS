@@ -29,15 +29,16 @@ if todays_games.empty:
 X_cleaned, _ = clean_input_data(todays_games)
 X_cleaned = X_cleaned[expected_features]
 
+# Align games with cleaned features
+filtered_games = todays_games.loc[X_cleaned.index].copy()
+
 # Predict
 predictions = model.predict(X_cleaned)
-
-# Output results
-todays_games['prediction'] = predictions
-todays_games['pick'] = todays_games['prediction'].map({1: 'Over', 0: 'Under'})
+filtered_games['prediction'] = predictions
+filtered_games['pick'] = filtered_games['prediction'].map({1: 'Over', 0: 'Under'})
 
 # Core output
-output_df = todays_games[['game_id', 'home_name', 'away_name', 'over_under_runline', 'pick']].copy()
+output_df = filtered_games[['game_id', 'home_name', 'away_name', 'over_under_runline', 'pick']].copy()
 output_df.columns = ['game_id', 'home_team', 'away_team', 'runline', 'pick']
 
 # Add batter and pitcher name columns
@@ -48,7 +49,7 @@ batter_cols = (
 )
 
 for col in batter_cols:
-    output_df[col] = todays_games[col] if col in todays_games.columns else 'N/A'
+    output_df[col] = filtered_games[col] if col in filtered_games.columns else 'N/A'
 
 # Write to output file
 output_dir = 'mlb-app/src/app/api/picks'
@@ -62,6 +63,5 @@ with open('mlb-app/public/last_updated.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['last_updated'])
     writer.writerow([formatted_time])
-
 
 print(f"Predictions saved to {output_file}")
