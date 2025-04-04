@@ -65,6 +65,7 @@ mlbID,Name,Position,key_bbref
 671117,Darren Baker,2B,bakerda02
 663609,Luken Baker,1B,bakerlu01
 681460,Brooks Baldwin,2B,baldwbr01
+686948,Drake Baldwin,C,baldwdr01
 676625,Rylan Bannon,3B,bannory01
 675915,David Bañuelos,C,banueda01
 680718,Addison Barger,3B,bargead01
@@ -144,6 +145,7 @@ mlbID,Name,Position,key_bbref
 663662,Daz Cameron,LF,camerda01
 691406,Junior Caminero,3B,caminju01
 493472,Eric Campbell,3B,campber01
+692225,Kristian Campbell,2B,campbkr01
 672569,Gustavo Campero,RF,campegu01
 669134,Luis Campusano,C,campulu01
 672744,Alexander Canario,LF,canaral01
@@ -422,6 +424,7 @@ mlbID,Name,Position,key_bbref
 676551,Brewer Hicklen,RF,hicklbr01
 543305,Aaron Hicks,RF,hicksaa01
 543308,John Hicks,C,hicksjo02
+689414,Liam Hicks,C,hicksli01
 543309,Kyle Higashioka,C,higasky01
 664731,P.J. Higgins,C,higgipj01
 656537,Derek Hill,CF,hillde01
@@ -660,6 +663,7 @@ mlbID,Name,Position,key_bbref
 519058,Mike Moustakas,1B,moustmi01
 656775,Cedric Mullins,CF,mullice01
 571970,Max Muncy,3B,muncyma01
+691777,Max Muncy,2B,muncyma02
 622168,Yairo Muñoz,3B,munozya01
 669221,Sean Murphy,C,murphse01
 608596,Tom Murphy,C,murphto04
@@ -805,6 +809,7 @@ mlbID,Name,Position,key_bbref
 645302,Victor Robles,CF,roblevi01
 615699,Jacob Robson,OF,robsoja01
 677587,Brayan Rocchio,SS,rocchbr01
+702176,Alan Roden,RF,rodenal01
 663898,Brendan Rodgers,2B,rodgebr02
 682848,Endy Rodríguez,C,rodrien01
 679563,José Rodríguez,SS,rodrijo09
@@ -863,6 +868,7 @@ mlbID,Name,Position,key_bbref
 676882,Chandler Seagle,C,seaglch01
 516416,Jean Segura,2B,segurje01
 543760,Marcus Semien,2B,semiema01
+663584,Hayden Senger,C,sengeha01
 669222,Nick Senzel,3B,senzeni01
 661531,Brian Serven,C,servebr01
 600474,Pedro Severino,C,severpe01
@@ -880,6 +886,7 @@ mlbID,Name,Position,key_bbref
 642082,Chance Sisco,C,siscoch01
 596103,Austin Slater,RF,slateau01
 675986,Canaan Smith-Njigba,RF,smithca05
+701358,Cam Smith,3B,smithca07
 642086,Dominic Smith,1B,smithdo02
 669701,Josh Smith,3B,smithjo11
 607345,Kevan Smith,C,smithke04
@@ -1054,15 +1061,8 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-686948,Drake Baldwin,C,
-692225,Kristian Campbell,2B,
 641555,J.C. Escarra,C,
-689414,Liam Hicks,C,
 683766,Christian Koss,SS,
 663968,Jake Mangum,CF,
-691777,Max Muncy,2B,
-702176,Alan Roden,RF,
-663584,Hayden Senger,C,
-701358,Cam Smith,3B,
 686475,Tyler Tolbert,SS,
 669398,Gage Workman,3B,
