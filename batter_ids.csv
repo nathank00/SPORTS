@@ -9,7 +9,7 @@ mlbID,Name,Position,key_bbref
 571431,Matt Adams,1B,adamsma01
 656180,Riley Adams,C,adamsri03
 666176,Jo Adell,RF,adelljo01
-501303,Ehire Adrianza,3B,adriaeh01
+501303,Ehire Adrianza,SS,adriaeh01
 542583,Jesús Aguilar,1B,aguilje01
 666922,Ryan Aguilar,RF,aguilry01
 605113,Nick Ahmed,SS,ahmedni01
@@ -97,7 +97,7 @@ mlbID,Name,Position,key_bbref
 666182,Bo Bichette,SS,bichebo01
 624415,Cavan Biggio,2B,biggica01
 623323,Braden Bishop,CF,bishobr01
-453568,Charlie Blackmon,RF,blackch02
+453568,Charlie Blackmon,CF,blackch02
 672012,Tyler Black,3B,blackty01
 680118,Dairon Blanco,LF,blancda02
 663905,Travis Blankenhorn,RF,blanktr01
@@ -210,7 +210,7 @@ mlbID,Name,Position,key_bbref
 691718,Pete Crow-Armstrong,CF,crowape01
 443558,Nelson Cruz,DH,cruzne02
 665833,Oneil Cruz,OF,cruzon01
-518586,Charlie Culberson,1B,culbech01
+518586,Charlie Culberson,3B,culbech01
 621311,David Dahl,LF,dahlda01
 666915,Bobby Dalbec,1B,dalbebo01
 518595,Travis d'Arnaud,C,darnatr01
@@ -669,7 +669,7 @@ mlbID,Name,Position,key_bbref
 608596,Tom Murphy,C,murphto04
 665922,Símon Muzziotti,CF,muzzisi01
 667472,Dane Myers,RF,myersda01
-571976,Wil Myers,RF,myerswi01
+571976,Wil Myers,1B,myerswi01
 665966,Carlos Narváez,C,narvaca01
 553882,Omar Narváez,C,narvaom01
 666310,Bo Naylor,C,naylobo01
@@ -830,7 +830,7 @@ mlbID,Name,Position,key_bbref
 642708,Amed Rosario,2B,rosaram01
 592696,Eddie Rosario,OF,rosared01
 666703,Eguy Rosario,3B,rosareg01
-573131,Darin Ruf,DH,rufda01
+573131,Darin Ruf,1B,rufda01
 665923,Esteury Ruiz,LF,ruizes01
 660688,Keibert Ruiz,C,ruizke01
 547004,Rio Ruiz,2B,ruizri01
@@ -904,7 +904,7 @@ mlbID,Name,Position,key_bbref
 665742,Juan Soto,RF,sotoju01
 670869,Livan Soto,SS,sotoli01
 519306,Steven Souza Jr.,RF,souzast01
-605486,Cory Spangenberg,3B,spangco01
+605486,Cory Spangenberg,2B,spangco01
 543807,George Springer,RF,springe01
 607732,Jacob Stallings,C,stallja01
 519317,Giancarlo Stanton,DH,stantmi03
