@@ -91,7 +91,7 @@ team_name_mapping = {
     "CHC": "Chicago Cubs", "CHW": "Chicago White Sox", "ATL": "Atlanta Braves", "ARI": "Arizona Diamondbacks",
     "BAL": "Baltimore Orioles", "BOS": "Boston Red Sox", "CIN": "Cincinnati Reds", "CLE": "Cleveland Guardians",
     "COL": "Colorado Rockies", "DET": "Detroit Tigers", "HOU": "Houston Astros", "KC": "Kansas City Royals",
-    "MIL": "Milwaukee Brewers", "MIN": "Minnesota Twins", "OAK": "Athletics", "PHI": "Philadelphia Phillies",
+    "MIL": "Milwaukee Brewers", "MIN": "Minnesota Twins", "ATH": "Athletics", "PHI": "Philadelphia Phillies",
     "PIT": "Pittsburgh Pirates", "SD": "San Diego Padres", "SF": "San Francisco Giants", "SEA": "Seattle Mariners",
     "STL": "St. Louis Cardinals", "TB": "Tampa Bay Rays", "TEX": "Texas Rangers", "TOR": "Toronto Blue Jays",
     "WAS": "Washington Nationals", "MIA": "Miami Marlins"
