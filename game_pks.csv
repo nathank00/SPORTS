@@ -12382,7 +12382,6 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2025-04-05,778448,Los Angeles Dodgers,119,Philadelphia Phillies,143
 2025-04-05,778449,New York Yankees,147,Pittsburgh Pirates,134
 2025-04-05,778441,Baltimore Orioles,110,Kansas City Royals,118
-2025-04-05,778443,St. Louis Cardinals,138,Boston Red Sox,111
 2025-04-05,778438,Tampa Bay Rays,139,Texas Rangers,140
 2025-04-05,778446,Toronto Blue Jays,141,New York Mets,121
 2025-04-05,778439,Cincinnati Reds,113,Milwaukee Brewers,158
@@ -12390,3 +12389,20 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2025-04-05,778442,Athletics,133,Colorado Rockies,115
 2025-04-05,778436,Seattle Mariners,136,San Francisco Giants,137
 2025-04-05,778437,Cleveland Guardians,114,Los Angeles Angels,108
+2025-04-06,778443,St. Louis Cardinals,138,Boston Red Sox,111
+2025-04-06,778429,Arizona Diamondbacks,109,Washington Nationals,120
+2025-04-06,778443,St. Louis Cardinals,138,Boston Red Sox,111
+2025-04-06,778432,St. Louis Cardinals,138,Boston Red Sox,111
+2025-04-06,778434,Los Angeles Dodgers,119,Philadelphia Phillies,143
+2025-04-06,778431,Miami Marlins,146,Atlanta Braves,144
+2025-04-06,778428,New York Yankees,147,Pittsburgh Pirates,134
+2025-04-06,778435,Toronto Blue Jays,141,New York Mets,121
+2025-04-06,778433,Chicago White Sox,145,Detroit Tigers,116
+2025-04-06,778422,Baltimore Orioles,110,Kansas City Royals,118
+2025-04-06,778419,Houston Astros,117,Minnesota Twins,142
+2025-04-06,778421,Cincinnati Reds,113,Milwaukee Brewers,158
+2025-04-06,778430,San Diego Padres,135,Chicago Cubs,112
+2025-04-06,778420,Tampa Bay Rays,139,Texas Rangers,140
+2025-04-06,778423,Athletics,133,Colorado Rockies,115
+2025-04-06,778427,Seattle Mariners,136,San Francisco Giants,137
+2025-04-06,778425,Cleveland Guardians,114,Los Angeles Angels,108
