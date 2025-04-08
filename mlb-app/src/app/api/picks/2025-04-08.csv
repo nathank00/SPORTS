@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-778407,New York Mets,Miami Marlins,7.0,Under,,,,,,,,,,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Starling Marte,Tyrone Taylor,Brett Baty,Hayden Senger,,Clay Holmes
-778408,Pittsburgh Pirates,St. Louis Cardinals,6.5,Under,,,,,,,,,,,,,,,,,,,,
 778403,Detroit Tigers,New York Yankees,7.5,Under,Paul Goldschmidt,Ben Rice,Aaron Judge,Jazz Chisholm Jr.,Anthony Volpe,Austin Wells,Jasson Domínguez,Trent Grisham,Oswald Peraza,Justyn-Henry Malloy,Kerry Carpenter,Riley Greene,Spencer Torkelson,Colt Keith,Zach McKinstry,Dillon Dingler,Trey Sweeney,Javier Báez,Carlos Carrasco,Tarik Skubal
+778408,Pittsburgh Pirates,St. Louis Cardinals,6.5,Under,,,,,,,,,,,,,,,,,,,,
 778402,Cleveland Guardians,Chicago White Sox,7.5,Under,Mike Tauchman,Luis Robert Jr.,Nick Maton,Andrew Vaughn,Matt Thaiss,Lenyn Sosa,Miguel Vargas,Brooks Baldwin,Jacob Amaya,Steven Kwan,José Ramírez,Carlos Santana,Kyle Manzardo,Lane Thomas,Nolan Jones,Gabriel Arias,Bo Naylor,Brayan Rocchio,Shane Smith,Ben Lively
 778409,Washington Nationals,Los Angeles Dodgers,9.0,Under,,,,,,,,,,,,,,,,,,,,
-778417,Tampa Bay Rays,Los Angeles Angels,8.5,Under,,,,,,,,,,,,,,,,,,,,
+778407,New York Mets,Miami Marlins,7.0,Under,Xavier Edwards,Kyle Stowers,Matt Mervis,Griffin Conine,Otto Lopez,Liam Hicks,Derek Hill,Graham Pauley,Javier Sanoja,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Starling Marte,Tyrone Taylor,Brett Baty,Hayden Senger,Connor Gillispie,Clay Holmes
 778404,Boston Red Sox,Toronto Blue Jays,8.0,Under,,,,,,,,,,,,,,,,,,,,
+778417,Tampa Bay Rays,Los Angeles Angels,8.5,Under,,,,,,,,,,,,,,,,,,,,
 778401,Chicago Cubs,Texas Rangers,8.0,Under,,,,,,,,,,,,,,,,,,,,
-778406,Atlanta Braves,Philadelphia Phillies,7.0,Under,,,,,,,,,,,,,,,,,,,,
 778400,Kansas City Royals,Minnesota Twins,7.5,Under,,,,,,,,,,,,,,,,,,,,
-778394,Colorado Rockies,Milwaukee Brewers,9.5,Under,,,,,,,,,,,,,,,,,,,,
+778406,Atlanta Braves,Philadelphia Phillies,7.0,Under,,,,,,,,,,,,,,,,,,,,
 778398,Seattle Mariners,Houston Astros,7.0,Under,,,,,,,,,,,,,,,,,,,,
-778395,Athletics,San Diego Padres,8.5,Under,,,,,,,,,,,,,,,,,,,,
+778394,Colorado Rockies,Milwaukee Brewers,9.5,Under,,,,,,,,,,,,,,,,,,,,
 778396,Arizona Diamondbacks,Baltimore Orioles,9.5,Under,,,,,,,,,,,,,,,,,,,,
 778397,San Francisco Giants,Cincinnati Reds,7.5,Under,,,,,,,,,,,,,,,,,,,,
+778395,Athletics,San Diego Padres,8.5,Under,,,,,,,,,,,,,,,,,,,,
