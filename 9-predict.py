@@ -51,8 +51,14 @@ batter_cols = (
 for col in batter_cols:
     output_df[col] = filtered_games[col] if col in filtered_games.columns else 'N/A'
 
-# Write to output file
+# Write to 'picks' output file
 output_dir = 'mlb-app/src/app/api/picks'
+os.makedirs(output_dir, exist_ok=True)
+output_file = os.path.join(output_dir, f"{today}.csv")
+output_df.to_csv(output_file, index=False)
+
+# Write to 'public' output file
+output_dir = 'mlb-app/public'
 os.makedirs(output_dir, exist_ok=True)
 output_file = os.path.join(output_dir, f"{today}.csv")
 output_df.to_csv(output_file, index=False)

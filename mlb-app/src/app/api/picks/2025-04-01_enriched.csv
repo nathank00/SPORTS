@@ -1,0 +1,14 @@
+game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed
+778498,15:40,Cincinnati Reds,Texas Rangers,8.5,Under,1,0,0,1
+778497,15:40,Miami Marlins,New York Mets,7.5,Under,6,0,0,1
+778492,16:05,New York Yankees,Arizona Diamondbacks,8.5,Under,12,0,1,1
+778493,16:05,Tampa Bay Rays,Pittsburgh Pirates,9.0,Under,7,0,0,1
+778491,16:07,Toronto Blue Jays,Washington Nationals,8.5,Under,8,0,0,1
+778490,16:40,Chicago White Sox,Minnesota Twins,7.5,Under,11,0,1,1
+778488,16:40,Milwaukee Brewers,Kansas City Royals,8.5,Under,5,0,0,1
+778495,16:45,St. Louis Cardinals,Los Angeles Angels,8.0,Over,16,1,1,1
+778485,18:40,San Diego Padres,Cleveland Guardians,7.5,Under,7,0,0,1
+778489,17:10,Houston Astros,San Francisco Giants,8.0,Under,4,0,0,1
+778486,18:40,Seattle Mariners,Detroit Tigers,7.0,Under,5,0,0,1
+778494,19:05,Athletics,Chicago Cubs,8.0,Under,11,0,1,1
+778487,19:10,Los Angeles Dodgers,Atlanta Braves,7.5,Under,4,0,0,1

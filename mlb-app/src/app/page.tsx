@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { AlertCircle, Check, Info, Calendar, RefreshCw, ExternalLink, Github } from "lucide-react"
+import { AlertCircle, Check, Info, Calendar, RefreshCw, ExternalLink, Github, Download, Trophy, X } from "lucide-react"
 import { useFetchCsv } from "@/components/csv-fetcher"
 
 type GamePick = {
@@ -37,31 +37,103 @@ type GamePick = {
   [key: string]: string | number
 }
 
+type EnrichedGameData = {
+  game_id: string | number
+  prediction: string | number
+  outcome: string | number
+  completed: string | number
+  runs_total: string | number
+  runline: string | number
+  [key: string]: string | number
+}
+
+type PerformanceData = {
+  game_id: string | number
+  prediction: string | number
+  outcome: string | number
+  [key: string]: string | number
+}
+
 export default function Home() {
   const [games, setGames] = useState<GamePick[]>([])
   const [error, setError] = useState("")
   const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split("T")[0])
   const [lastUpdated, setLastUpdated] = useState<string>("Loading...")
   const [isLoading, setIsLoading] = useState(true)
+  const [accuracy, setAccuracy] = useState<string>("Calculating...")
+  const [enrichedGames, setEnrichedGames] = useState<Record<string | number, EnrichedGameData>>({})
 
-  // Fetch the last_updated.csv file
+  // Fetch the last_updated.csv file - CORRECTED PATH
   const { data: lastUpdatedData, error: lastUpdatedError } = useFetchCsv("/last_updated.csv")
 
-useEffect(() => {
-  if (lastUpdatedError) {
-    console.error("Failed to fetch last updated data:", lastUpdatedError)
-    setLastUpdated("Unavailable")
-  } else if (lastUpdatedData && lastUpdatedData.length > 0 && lastUpdatedData[0].last_updated) {
-    setLastUpdated(lastUpdatedData[0].last_updated)
-  }
-}, [lastUpdatedData, lastUpdatedError])
+  // Fetch the cumulative_performance.csv file - CORRECTED PATH
+  const { data: performanceData, error: performanceError } = useFetchCsv("/data/cumulative_performance.csv")
 
-  // Update last updated value when the data is loaded
+  // Fetch the enriched data for the selected date - CORRECTED PATH
+  const { data: enrichedData, error: enrichedError } = useFetchCsv(`/data/${selectedDate}_enriched.csv`)
+
   useEffect(() => {
-    if (lastUpdatedData && lastUpdatedData.length > 0 && lastUpdatedData[0].last_updated) {
+    if (lastUpdatedError) {
+      console.error("Failed to fetch last updated data:", lastUpdatedError)
+      setLastUpdated("Unavailable")
+    } else if (lastUpdatedData && lastUpdatedData.length > 0 && lastUpdatedData[0].last_updated) {
       setLastUpdated(lastUpdatedData[0].last_updated)
     }
-  }, [lastUpdatedData])
+  }, [lastUpdatedData, lastUpdatedError])
+
+  // Calculate accuracy from performance data
+  useEffect(() => {
+    if (performanceError) {
+      console.error("Failed to fetch performance data:", performanceError)
+      setAccuracy("Unavailable")
+    } else if (performanceData && performanceData.length > 0) {
+      let wins = 0
+      let total = 0
+
+      performanceData.forEach((game: any) => {
+        // Only count games where both prediction and outcome are available
+        if (
+          game.prediction !== undefined &&
+          game.outcome !== undefined &&
+          game.prediction !== "" &&
+          game.outcome !== ""
+        ) {
+          total++
+          // Count as a win if prediction matches outcome
+          if (game.prediction.toString() === game.outcome.toString()) {
+            wins++
+          }
+        }
+      })
+
+      if (total > 0) {
+        const accuracyValue = ((wins / total) * 100).toFixed(1)
+        setAccuracy(`${accuracyValue}% (${wins}/${total})`)
+      } else {
+        setAccuracy("No data")
+      }
+    }
+  }, [performanceData, performanceError])
+
+  // Process enriched data for the selected date
+  useEffect(() => {
+    if (enrichedError) {
+      console.error(`Failed to fetch enriched data for ${selectedDate}:`, enrichedError)
+    } else if (enrichedData && enrichedData.length > 0) {
+      const enrichedMap: Record<string | number, EnrichedGameData> = {}
+
+      // Add type assertion here
+      enrichedData.forEach((game: any) => {
+        if (game.game_id) {
+          enrichedMap[game.game_id] = game as EnrichedGameData
+        }
+      })
+
+      setEnrichedGames(enrichedMap)
+    } else {
+      setEnrichedGames({})
+    }
+  }, [enrichedData, enrichedError, selectedDate])
 
   const fetchPicks = (date: string) => {
     setIsLoading(true)
@@ -120,6 +192,34 @@ useEffect(() => {
     return true
   }
 
+  // Determine game prediction status (Winner, Loser, Pending)
+  const getGameStatus = (game: GamePick): { status: string; className: string } => {
+    const enrichedGame = enrichedGames[game.game_id]
+
+    if (!enrichedGame) {
+      return { status: "Pending", className: "bg-amber-500/20 text-amber-500" }
+    }
+
+    // Check if game is completed or if runs_total > runline
+    const completed = enrichedGame.completed === "1" || enrichedGame.completed === 1
+    const runsTotal = Number.parseFloat(enrichedGame.runs_total as string)
+    const runline = Number.parseFloat(enrichedGame.runline as string)
+    const prediction = enrichedGame.prediction
+    const outcome = enrichedGame.outcome
+
+    // If game is completed or runs_total > runline, we can determine winner/loser
+    if (completed || runsTotal > runline) {
+      // If prediction matches outcome, it's a winner
+      if (prediction !== undefined && outcome !== undefined && prediction.toString() === outcome.toString()) {
+        return { status: "Winner", className: "bg-green-500/20 text-green-500" }
+      } else if (prediction !== undefined && outcome !== undefined) {
+        return { status: "Loser", className: "bg-red-500/20 text-red-500" }
+      }
+    }
+
+    return { status: "Pending", className: "bg-amber-500/20 text-amber-500" }
+  }
+
   // Format date for display - Fixed to handle timezone issues
   const formatDate = (dateString: string): string => {
     // Create date with explicit year, month, day to avoid timezone issues
@@ -140,6 +240,15 @@ useEffect(() => {
       <header className="sticky top-0 z-10 bg-slate-900 border-b border-slate-800 p-4">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
           <h1 className="text-3xl font-bold text-blue-500 mb-4 md:mb-0">1 of 1 Dashboard</h1>
+
+          {/* Accuracy Display */}
+          <div className="flex items-center gap-2 bg-slate-800 px-4 py-2 rounded-md mb-4 md:mb-0">
+            <Trophy className="h-5 w-5 text-yellow-400" />
+            <div className="text-center">
+              <div className="text-sm text-slate-400">Overall Accuracy</div>
+              <div className="text-xl font-bold text-yellow-400">{accuracy}</div>
+            </div>
+          </div>
 
           <div className="flex flex-col md:flex-row items-center gap-4">
             <div className="flex items-center gap-2 bg-slate-800 px-3 py-1 rounded-md">
@@ -195,6 +304,17 @@ useEffect(() => {
                 <AlertCircle className="h-3 w-3 mr-1" /> Pending
               </Badge>
             </div>
+            {/* New status badges */}
+            <div className="flex items-center gap-1">
+              <Badge variant="outline" className="bg-green-500/10 text-green-500 border-green-500/20">
+                <Trophy className="h-3 w-3 mr-1" /> Winner
+              </Badge>
+            </div>
+            <div className="flex items-center gap-1">
+              <Badge variant="outline" className="bg-red-500/10 text-red-500 border-red-500/20">
+                <X className="h-3 w-3 mr-1" /> Loser
+              </Badge>
+            </div>
           </div>
         </div>
 
@@ -214,9 +334,7 @@ useEffect(() => {
           <Tabs defaultValue="all" className="w-full">
             <TabsList className="mb-6">
               <TabsTrigger value="all">All Games ({games.length})</TabsTrigger>
-              <TabsTrigger value="ready">
-                Ready ({games.filter((game) => isGameBetReady(game)).length})
-              </TabsTrigger>
+              <TabsTrigger value="ready">Ready ({games.filter((game) => isGameBetReady(game)).length})</TabsTrigger>
               <TabsTrigger value="not-ready">
                 Pending ({games.filter((game) => !isGameBetReady(game)).length})
               </TabsTrigger>
@@ -234,6 +352,7 @@ useEffect(() => {
                     })
                     .map((game, index) => {
                       const isBetReady = isGameBetReady(game)
+                      const gameStatus = getGameStatus(game)
                       return (
                         <Card
                           key={index}
@@ -269,6 +388,11 @@ useEffect(() => {
                                 <div className="text-sm mb-1">Prediction:</div>
                                 <div className="text-xl font-bold">{game.pick}</div>
                               </div>
+                            </div>
+
+                            {/* Game Status Indicator */}
+                            <div className={`rounded-lg p-2 text-center mb-4 ${gameStatus.className}`}>
+                              <div className="text-sm font-bold">Status: {gameStatus.status}</div>
                             </div>
 
                             <div className="grid grid-cols-2 gap-4 text-sm">
@@ -378,8 +502,43 @@ useEffect(() => {
             ))}
           </Tabs>
         )}
+
+        {/* CSV Download Section - CORRECTED PATHS */}
+        <div className="mt-12 bg-slate-900 border border-slate-800 rounded-lg p-6">
+          <h2 className="text-xl font-semibold mb-4">Download Data</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-slate-800 rounded-lg p-4">
+              <h3 className="text-lg font-semibold text-blue-400 mb-3">Daily Game Data</h3>
+              <p className="text-sm text-slate-400 mb-4">
+                Download the enriched game data for {formatDate(selectedDate)}.
+              </p>
+              <a
+                href={`/data/${selectedDate}_enriched.csv`}
+                download
+                className="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-md transition-colors"
+              >
+                <Download className="h-4 w-4" />
+                Download {selectedDate}_enriched.csv
+              </a>
+            </div>
+
+            <div className="bg-slate-800 rounded-lg p-4">
+              <h3 className="text-lg font-semibold text-blue-400 mb-3">Cumulative Performance</h3>
+              <p className="text-sm text-slate-400 mb-4">
+                Download the cumulative performance data for all predictions.
+              </p>
+              <a
+                href="/data/cumulative_performance.csv"
+                download
+                className="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-md transition-colors"
+              >
+                <Download className="h-4 w-4" />
+                Download cumulative_performance.csv
+              </a>
+            </div>
+          </div>
+        </div>
       </main>
     </div>
   )
 }
-
