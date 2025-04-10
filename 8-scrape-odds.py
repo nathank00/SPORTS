@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
-print("---------- Now running 8-scrape-odds.py ----------")
+print("\n---------- Now running 8-scrape-odds.py ----------\n")
 
 options = Options()
 options.add_argument("--headless")

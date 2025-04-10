@@ -12,55 +12,6 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-01,778486,Seattle Mariners,Detroit Tigers,7.0,5.0,0,0
 2025-04-01,778494,Athletics,Chicago Cubs,8.0,11.0,0,1
 2025-04-01,778487,Los Angeles Dodgers,Atlanta Braves,7.5,4.0,0,0
-2025-04-02,778477,Milwaukee Brewers,Kansas City Royals,7.5,5.0,0,0
-2025-04-02,778479,Tampa Bay Rays,Pittsburgh Pirates,7.0,6.0,0,0
-2025-04-02,778480,Cincinnati Reds,Texas Rangers,8.5,1.0,1,0
-2025-04-02,778473,St. Louis Cardinals,Los Angeles Angels,8.5,17.0,1,1
-2025-04-02,778474,Chicago White Sox,Minnesota Twins,7.0,7.0,1,
-2025-04-02,778478,Toronto Blue Jays,Washington Nationals,8.5,6.0,1,0
-2025-04-02,778476,San Diego Padres,Cleveland Guardians,7.5,7.0,1,0
-2025-04-02,778471,Athletics,Chicago Cubs,8.5,12.0,0,1
-2025-04-02,778469,Seattle Mariners,Detroit Tigers,6.5,5.0,0,0
-2025-04-02,778475,Houston Astros,San Francisco Giants,7.5,9.0,1,1
-2025-04-02,778481,Miami Marlins,New York Mets,8.5,11.0,0,1
-2025-04-02,778483,Baltimore Orioles,Boston Red Sox,7.5,3.0,1,0
-2025-04-02,778482,Philadelphia Phillies,Colorado Rockies,7.0,6.0,0,0
-2025-04-02,778484,New York Yankees,Arizona Diamondbacks,8.0,7.0,1,0
-2025-04-02,778472,Los Angeles Dodgers,Atlanta Braves,8.0,11.0,1,1
-2025-04-03,778467,Philadelphia Phillies,Colorado Rockies,10.0,4.0,1,0
-2025-04-03,778470,Baltimore Orioles,Boston Red Sox,9.5,12.0,0,1
-2025-04-03,778462,Minnesota Twins,Houston Astros,7.0,7.0,1,
-2025-04-03,778466,New York Yankees,Arizona Diamondbacks,9.5,16.0,0,1
-2025-04-03,778468,Milwaukee Brewers,Cincinnati Reds,8.0,1.0,0,0
-2025-04-04,778458,Detroit Tigers,Chicago White Sox,7.0,11.0,0,1
-2025-04-04,778463,Boston Red Sox,St. Louis Cardinals,9.5,22.0,1,1
-2025-04-04,778460,Chicago Cubs,San Diego Padres,7.0,4.0,1,0
-2025-04-04,778465,New York Mets,Toronto Blue Jays,7.5,5.0,0,0
-2025-04-04,778461,Pittsburgh Pirates,New York Yankees,7.5,13.0,0,1
-2025-04-04,778456,Colorado Rockies,Athletics,9.0,9.0,0,
-2025-04-04,778444,San Francisco Giants,Seattle Mariners,8.0,19.0,0,1
-2025-04-04,778459,Philadelphia Phillies,Los Angeles Dodgers,8.0,5.0,1,0
-2025-04-04,778457,Washington Nationals,Arizona Diamondbacks,8.5,10.0,0,1
-2025-04-04,778464,Atlanta Braves,Miami Marlins,7.5,10.0,0,1
-2025-04-04,778455,Kansas City Royals,Baltimore Orioles,7.5,10.0,0,1
-2025-04-04,778454,Texas Rangers,Tampa Bay Rays,8.5,7.0,0,0
-2025-04-04,778447,Los Angeles Angels,Cleveland Guardians,8.0,14.0,1,1
-2025-04-04,778453,Milwaukee Brewers,Cincinnati Reds,8.5,5.0,1,0
-2025-04-05,778445,Detroit Tigers,Chicago White Sox,7.5,9.0,1,1
-2025-04-05,778440,Minnesota Twins,Houston Astros,7.5,7.0,1,0
-2025-04-05,778448,Philadelphia Phillies,Los Angeles Dodgers,8.5,4.0,1,0
-2025-04-05,778450,Chicago Cubs,San Diego Padres,6.5,8.0,0,1
-2025-04-05,778452,Washington Nationals,Arizona Diamondbacks,9.0,7.0,1,0
-2025-04-05,778443,Boston Red Sox,St. Louis Cardinals,8.5,9.0,0,1
-2025-04-05,778441,Kansas City Royals,Baltimore Orioles,8.0,9.0,0,1
-2025-04-05,778449,Pittsburgh Pirates,New York Yankees,9.5,14.0,1,1
-2025-04-05,778438,Texas Rangers,Tampa Bay Rays,7.5,10.0,0,1
-2025-04-05,778439,Milwaukee Brewers,Cincinnati Reds,8.0,18.0,1,1
-2025-04-05,778437,Los Angeles Angels,Cleveland Guardians,8.5,14.0,1,1
-2025-04-05,778446,New York Mets,Toronto Blue Jays,7.5,5.0,1,0
-2025-04-05,778442,Colorado Rockies,Athletics,9.5,11.0,1,1
-2025-04-05,778451,Atlanta Braves,Miami Marlins,8.5,4.0,0,0
-2025-04-05,778436,San Francisco Giants,Seattle Mariners,7.5,5.0,1,0
 2025-04-06,778443,Boston Red Sox,St. Louis Cardinals,9.5,9.0,1,0
 2025-04-06,778429,Washington Nationals,Arizona Diamondbacks,7.5,9.0,0,1
 2025-04-06,778432,Boston Red Sox,St. Louis Cardinals,9.0,25.0,0,1
@@ -87,21 +38,57 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-07,778412,Kansas City Royals,Minnesota Twins,8.0,6.0,1,0
 2025-04-07,778414,Athletics,San Diego Padres,8.5,9.0,0,1
 2025-04-07,778410,San Francisco Giants,Cincinnati Reds,6.5,2.0,1,0
-2025-04-08,778403,Detroit Tigers,New York Yankees,7.5,5.0,0,0
-2025-04-08,778402,Cleveland Guardians,Chicago White Sox,7.5,1.0,0,0
-2025-04-08,778408,Pittsburgh Pirates,St. Louis Cardinals,6.0,8.0,0,1
-2025-04-08,778407,New York Mets,Miami Marlins,7.0,15.0,1,1
-2025-04-08,778409,Washington Nationals,Los Angeles Dodgers,8.5,10.0,0,1
-2025-04-08,778404,Boston Red Sox,Toronto Blue Jays,8.0,7.0,1,0
-2025-04-08,778417,Tampa Bay Rays,Los Angeles Angels,8.5,7.0,1,0
-2025-04-08,778406,Atlanta Braves,Philadelphia Phillies,7.0,12.0,1,1
-2025-04-08,778400,Kansas City Royals,Minnesota Twins,7.5,3.0,0,0
-2025-04-08,778398,Seattle Mariners,Houston Astros,7.0,3.0,1,0
-2025-04-08,778401,Chicago Cubs,Texas Rangers,8.0,16.0,0,1
-2025-04-08,778396,Arizona Diamondbacks,Baltimore Orioles,9.5,7.0,0,0
-2025-04-08,778394,Colorado Rockies,Milwaukee Brewers,9.5,8.0,0,0
-2025-04-08,778397,San Francisco Giants,Cincinnati Reds,7.5,1.0,1,0
-2025-04-08,778395,Athletics,San Diego Padres,8.0,14.0,0,1
+2025-04-02,778477,Milwaukee Brewers,Kansas City Royals,7.5,5.0,0,0
+2025-04-02,778479,Tampa Bay Rays,Pittsburgh Pirates,7.0,6.0,0,0
+2025-04-02,778480,Cincinnati Reds,Texas Rangers,8.5,1.0,1,0
+2025-04-02,778473,St. Louis Cardinals,Los Angeles Angels,8.5,17.0,1,1
+2025-04-02,778474,Chicago White Sox,Minnesota Twins,7.0,7.0,1,
+2025-04-02,778478,Toronto Blue Jays,Washington Nationals,8.5,6.0,1,0
+2025-04-02,778476,San Diego Padres,Cleveland Guardians,7.5,7.0,1,0
+2025-04-02,778471,Athletics,Chicago Cubs,8.5,12.0,0,1
+2025-04-02,778469,Seattle Mariners,Detroit Tigers,6.5,5.0,0,0
+2025-04-02,778475,Houston Astros,San Francisco Giants,7.5,9.0,1,1
+2025-04-02,778481,Miami Marlins,New York Mets,8.5,11.0,0,1
+2025-04-02,778483,Baltimore Orioles,Boston Red Sox,7.5,3.0,1,0
+2025-04-02,778482,Philadelphia Phillies,Colorado Rockies,7.0,6.0,0,0
+2025-04-02,778484,New York Yankees,Arizona Diamondbacks,8.0,7.0,1,0
+2025-04-02,778472,Los Angeles Dodgers,Atlanta Braves,8.0,11.0,1,1
+2025-04-05,778445,Detroit Tigers,Chicago White Sox,7.5,9.0,1,1
+2025-04-05,778440,Minnesota Twins,Houston Astros,7.5,7.0,1,0
+2025-04-05,778448,Philadelphia Phillies,Los Angeles Dodgers,8.5,4.0,1,0
+2025-04-05,778450,Chicago Cubs,San Diego Padres,6.5,8.0,0,1
+2025-04-05,778452,Washington Nationals,Arizona Diamondbacks,9.0,7.0,1,0
+2025-04-05,778443,Boston Red Sox,St. Louis Cardinals,8.5,9.0,0,1
+2025-04-05,778441,Kansas City Royals,Baltimore Orioles,8.0,9.0,0,1
+2025-04-05,778449,Pittsburgh Pirates,New York Yankees,9.5,14.0,1,1
+2025-04-05,778438,Texas Rangers,Tampa Bay Rays,7.5,10.0,0,1
+2025-04-05,778439,Milwaukee Brewers,Cincinnati Reds,8.0,18.0,1,1
+2025-04-05,778437,Los Angeles Angels,Cleveland Guardians,8.5,14.0,1,1
+2025-04-05,778446,New York Mets,Toronto Blue Jays,7.5,5.0,1,0
+2025-04-05,778442,Colorado Rockies,Athletics,9.5,11.0,1,1
+2025-04-05,778451,Atlanta Braves,Miami Marlins,8.5,4.0,0,0
+2025-04-05,778436,San Francisco Giants,Seattle Mariners,7.5,5.0,1,0
+2025-04-10,778382,Tampa Bay Rays,Los Angeles Angels,8.0,12.0,0,1
+2025-04-10,778378,Cleveland Guardians,Chicago White Sox,7.5,7.0,0,0
+2025-04-04,778458,Detroit Tigers,Chicago White Sox,7.0,11.0,0,1
+2025-04-04,778463,Boston Red Sox,St. Louis Cardinals,9.5,22.0,1,1
+2025-04-04,778460,Chicago Cubs,San Diego Padres,7.0,4.0,1,0
+2025-04-04,778465,New York Mets,Toronto Blue Jays,7.5,5.0,0,0
+2025-04-04,778461,Pittsburgh Pirates,New York Yankees,7.5,13.0,0,1
+2025-04-04,778456,Colorado Rockies,Athletics,9.0,9.0,0,
+2025-04-04,778444,San Francisco Giants,Seattle Mariners,8.0,19.0,0,1
+2025-04-04,778459,Philadelphia Phillies,Los Angeles Dodgers,8.0,5.0,1,0
+2025-04-04,778457,Washington Nationals,Arizona Diamondbacks,8.5,10.0,0,1
+2025-04-04,778464,Atlanta Braves,Miami Marlins,7.5,10.0,0,1
+2025-04-04,778455,Kansas City Royals,Baltimore Orioles,7.5,10.0,0,1
+2025-04-04,778454,Texas Rangers,Tampa Bay Rays,8.5,7.0,0,0
+2025-04-04,778447,Los Angeles Angels,Cleveland Guardians,8.0,14.0,1,1
+2025-04-04,778453,Milwaukee Brewers,Cincinnati Reds,8.5,5.0,1,0
+2025-04-03,778467,Philadelphia Phillies,Colorado Rockies,10.0,4.0,1,0
+2025-04-03,778470,Baltimore Orioles,Boston Red Sox,9.5,12.0,0,1
+2025-04-03,778462,Minnesota Twins,Houston Astros,7.0,7.0,1,
+2025-04-03,778466,New York Yankees,Arizona Diamondbacks,9.5,16.0,0,1
+2025-04-03,778468,Milwaukee Brewers,Cincinnati Reds,8.0,1.0,0,0
 2025-04-09,778389,Pittsburgh Pirates,St. Louis Cardinals,8.0,3.0,0,0
 2025-04-09,778390,New York Mets,Miami Marlins,7.0,5.0,0,0
 2025-04-09,778385,Chicago Cubs,Texas Rangers,7.5,8.0,0,1
@@ -117,5 +104,18 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-09,778393,Atlanta Braves,Philadelphia Phillies,9.0,7.0,1,0
 2025-04-09,778388,Kansas City Royals,Minnesota Twins,7.5,4.0,0,0
 2025-04-09,778379,Colorado Rockies,Milwaukee Brewers,10.5,19.0,1,1
-2025-04-10,778382,Tampa Bay Rays,Los Angeles Angels,8.0,12.0,0,1
-2025-04-10,778378,Cleveland Guardians,Chicago White Sox,7.5,7.0,0,0
+2025-04-08,778403,Detroit Tigers,New York Yankees,7.5,5.0,0,0
+2025-04-08,778402,Cleveland Guardians,Chicago White Sox,7.5,1.0,0,0
+2025-04-08,778408,Pittsburgh Pirates,St. Louis Cardinals,6.0,8.0,0,1
+2025-04-08,778407,New York Mets,Miami Marlins,7.0,15.0,1,1
+2025-04-08,778409,Washington Nationals,Los Angeles Dodgers,8.5,10.0,0,1
+2025-04-08,778404,Boston Red Sox,Toronto Blue Jays,8.0,7.0,1,0
+2025-04-08,778417,Tampa Bay Rays,Los Angeles Angels,8.5,7.0,1,0
+2025-04-08,778406,Atlanta Braves,Philadelphia Phillies,7.0,12.0,1,1
+2025-04-08,778400,Kansas City Royals,Minnesota Twins,7.5,3.0,0,0
+2025-04-08,778398,Seattle Mariners,Houston Astros,7.0,3.0,1,0
+2025-04-08,778401,Chicago Cubs,Texas Rangers,8.0,16.0,0,1
+2025-04-08,778396,Arizona Diamondbacks,Baltimore Orioles,9.5,7.0,0,0
+2025-04-08,778394,Colorado Rockies,Milwaukee Brewers,9.5,8.0,0,0
+2025-04-08,778397,San Francisco Giants,Cincinnati Reds,7.5,1.0,1,0
+2025-04-08,778395,Athletics,San Diego Padres,8.0,14.0,0,1
