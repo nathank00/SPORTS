@@ -47,12 +47,8 @@ type EnrichedGameData = {
   [key: string]: string | number
 }
 
-type PerformanceData = {
-  game_id: string | number
-  prediction: string | number
-  outcome: string | number
-  [key: string]: string | number
-}
+// Define a type for the CSV row data
+type CsvRow = Record<string, string | number>
 
 export default function Home() {
   const [games, setGames] = useState<GamePick[]>([])
@@ -90,7 +86,7 @@ export default function Home() {
       let wins = 0
       let total = 0
 
-      performanceData.forEach((game: any) => {
+      performanceData.forEach((game: CsvRow) => {
         // Only count games where both prediction and outcome are available
         if (
           game.prediction !== undefined &&
@@ -122,8 +118,8 @@ export default function Home() {
     } else if (enrichedData && enrichedData.length > 0) {
       const enrichedMap: Record<string | number, EnrichedGameData> = {}
 
-      // Add type assertion here
-      enrichedData.forEach((game: any) => {
+      // Use CsvRow type instead of any
+      enrichedData.forEach((game: CsvRow) => {
         if (game.game_id) {
           enrichedMap[game.game_id] = game as EnrichedGameData
         }
