@@ -505,7 +505,7 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-4">Source Data</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-slate-800 rounded-lg p-4">
-              <h3 className="text-lg font-semibold text-blue-400 mb-3">Today's Data</h3>
+              <h3 className="text-lg font-semibold text-blue-400 mb-3">Today&apos;s Games</h3>
               <p className="text-sm text-slate-400 mb-4">
                 Download the enriched game data for {formatDate(selectedDate)}.
               </p>
