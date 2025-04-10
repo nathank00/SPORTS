@@ -213,7 +213,8 @@ export default function Home() {
       }
     }
 
-    return { status: "Pending", className: "bg-amber-500/20 text-amber-500" }
+    return { status: "Game in progress", className: "bg-gray-800 text-gray-400" };
+
   }
 
   // Format date for display - Fixed to handle timezone issues
@@ -241,7 +242,7 @@ export default function Home() {
           <div className="flex items-center gap-2 bg-slate-800 px-4 py-2 rounded-md mb-4 md:mb-0">
             <Trophy className="h-5 w-5 text-yellow-400" />
             <div className="text-center">
-              <div className="text-sm text-slate-400">Overall Accuracy</div>
+              <div className="text-sm text-slate-400">2025 Accuracy</div>
               <div className="text-xl font-bold text-yellow-400">{accuracy}</div>
             </div>
           </div>
@@ -292,12 +293,12 @@ export default function Home() {
           <div className="flex items-center gap-4 text-sm">
             <div className="flex items-center gap-1">
               <Badge variant="outline" className="bg-green-500/10 text-green-500 border-green-500/20">
-                <Check className="h-3 w-3 mr-1" /> Ready
+                <Check className="h-3 w-3 mr-1" /> Lineups
               </Badge>
             </div>
             <div className="flex items-center gap-1">
               <Badge variant="outline" className="bg-amber-500/10 text-amber-500 border-amber-500/20">
-                <AlertCircle className="h-3 w-3 mr-1" /> Pending
+                <AlertCircle className="h-3 w-3 mr-1" /> Lineups
               </Badge>
             </div>
             {/* New status badges */}
@@ -362,11 +363,11 @@ export default function Home() {
                               <Badge variant={isBetReady ? "success" : "warning"} className="ml-2">
                                 {isBetReady ? (
                                   <span className="flex items-center">
-                                    <Check className="h-3 w-3 mr-1" /> Ready
+                                    <Check className="h-3 w-3 mr-1" /> Lineups
                                   </span>
                                 ) : (
                                   <span className="flex items-center">
-                                    <AlertCircle className="h-3 w-3 mr-1" /> Pending
+                                    <AlertCircle className="h-3 w-3 mr-1" /> Lineups
                                   </span>
                                 )}
                               </Badge>
@@ -375,7 +376,7 @@ export default function Home() {
                           <CardContent>
                             <div className="grid grid-cols-2 gap-4 mb-4">
                               <div className="bg-slate-800 rounded-lg p-3 text-center">
-                                <div className="text-sm text-slate-400 mb-1">Live Runline</div>
+                                <div className="text-sm text-slate-400 mb-1">Runline</div>
                                 <div className="text-xl font-bold">{game.runline}</div>
                               </div>
                               <div
@@ -388,7 +389,7 @@ export default function Home() {
 
                             {/* Game Status Indicator */}
                             <div className={`rounded-lg p-2 text-center mb-4 ${gameStatus.className}`}>
-                              <div className="text-sm font-bold">Status: {gameStatus.status}</div>
+                              <div className="text-sm font-bold">{gameStatus.status}</div>
                             </div>
 
                             <div className="grid grid-cols-2 gap-4 text-sm">
@@ -407,7 +408,7 @@ export default function Home() {
                               <DialogTrigger asChild>
                                 <Button variant="outline" className="w-full">
                                   <Info className="h-4 w-4 mr-2" />
-                                  View Lineups
+                                  Lineups
                                 </Button>
                               </DialogTrigger>
                               <DialogContent className="bg-slate-900 border-slate-700 text-white max-w-3xl">
@@ -481,7 +482,7 @@ export default function Home() {
                                       </div>
                                       <div>
                                         <Badge variant={isBetReady ? "success" : "warning"}>
-                                          {isBetReady ? "Ready to Bet" : "Missing Data"}
+                                          {isBetReady ? "Ready" : "Pending Lineups"}
                                         </Badge>
                                       </div>
                                     </div>
@@ -499,12 +500,12 @@ export default function Home() {
           </Tabs>
         )}
 
-        {/* CSV Download Section - CORRECTED PATHS */}
+        {/* CSV Download Section*/}
         <div className="mt-12 bg-slate-900 border border-slate-800 rounded-lg p-6">
-          <h2 className="text-xl font-semibold mb-4">Download Data</h2>
+          <h2 className="text-xl font-semibold mb-4">Source Data</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-slate-800 rounded-lg p-4">
-              <h3 className="text-lg font-semibold text-blue-400 mb-3">Daily Game Data</h3>
+              <h3 className="text-lg font-semibold text-blue-400 mb-3">Today's Data</h3>
               <p className="text-sm text-slate-400 mb-4">
                 Download the enriched game data for {formatDate(selectedDate)}.
               </p>
@@ -514,14 +515,14 @@ export default function Home() {
                 className="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-md transition-colors"
               >
                 <Download className="h-4 w-4" />
-                Download {selectedDate}_enriched.csv
+                {selectedDate}.csv
               </a>
             </div>
 
             <div className="bg-slate-800 rounded-lg p-4">
               <h3 className="text-lg font-semibold text-blue-400 mb-3">Cumulative Performance</h3>
               <p className="text-sm text-slate-400 mb-4">
-                Download the cumulative performance data for all predictions.
+                Download the cumulative performance data for the current season.
               </p>
               <a
                 href="/data/cumulative_performance.csv"
@@ -529,7 +530,7 @@ export default function Home() {
                 className="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-md transition-colors"
               >
                 <Download className="h-4 w-4" />
-                Download cumulative_performance.csv
+                cumulative_performance.csv
               </a>
             </div>
           </div>
