@@ -366,7 +366,7 @@ export default function Home() {
             className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3 flex items-center gap-2 text-teal-300/80 hover:text-teal-200 transition-colors font-medium"
           >
             <ExternalLink className="h-4 w-4" />
-            <span>MLB Today</span>
+            <span>View MLB Games</span>
           </a>
           <a
             href="https://github.com/nathank00/MLB-Analytics"
@@ -385,7 +385,7 @@ export default function Home() {
             className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3 flex items-center gap-2 text-teal-300/80 hover:text-teal-200 transition-colors font-medium"
           >
             <Download className="h-4 w-4" />
-            <span>Today&apos;s Data</span>
+            <span>Today&apos;s Performance Data</span>
           </a>
           <a
             href="/data/cumulative_performance.csv"
