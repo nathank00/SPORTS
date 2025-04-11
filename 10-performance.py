@@ -158,7 +158,7 @@ currentfile = f"mlb-app/src/app/api/picks/{today_str}.csv"
 enrich_game_data(currentfile)
 
 alternatefile = f"mlb-app/public/data/{today_str}.csv"
-enrich_game_data(currentfile)
+enrich_game_data(alternatefile)
 
 cumulative_performance("mlb-app/src/app/api/picks/")
 
