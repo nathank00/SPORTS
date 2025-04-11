@@ -329,25 +329,7 @@ export default function Home() {
 
   return (
     <div className="flex min-h-screen bg-[#021414] text-teal-50 font-light">
-  
-      {/* Sidebar Toggle */}
-      <div
-        className="fixed top-4 left-4 z-50 cursor-pointer text-white mt-8 text-2xl font-mono tracking-wide hover:text-teal-300 transition-colors flex items-baseline"
-        onClick={toggleSidebar}
-      >
-        <span className="transition-all duration-300">[</span>
-        <span
-          className={`transition-all duration-300 ease-in-out overflow-hidden ${
-            sidebarVisible ? "max-w-xs opacity-100 ml-0" : "max-w-0 opacity-0 ml-0"
-          }`}
-          style={{ display: "inline-block", verticalAlign: "middle" }}
-        >
-          ONE OF ONE INTELLIGENCE
-        </span>
-        <span className="transition-all duration-300 ml-0">]</span>
-      </div>
-
-
+      {/* Left Sidebar */}
       <aside
         className={`w-96 bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full transition-all duration-300 ease-in-out ${
           sidebarVisible ? "left-0" : "-left-96"
@@ -355,11 +337,21 @@ export default function Home() {
       >
 
         <div className="mb-8"></div>
-        
+        <div className="mb-8">
+          <h1 
+            className="text-2xl font-mono text-white mb-2 font-light tracking-wide cursor-pointer hover:text-teal-300 transition-colors"
+            onClick={() => setSidebarVisible(false)}
+          >
+              [ONE OF ONE INTELLIGENCE]
+          </h1>
+        </div>
 
+        <div className="mb-2 flex justify-center">
+          <img src="/team-logos/monkeyking4.png" alt="Monkey King" className="w-24 h-auto" />
+        </div>
 
         {/* Accuracy Display */}
-        <div className=" mt-16 mb-14">
+        <div className="mb-14">
           <div className="flex items-center gap-2 mb-2"></div>
           <div>
             <div className="flex items-center justify-center gap-3 mb-2">
@@ -422,10 +414,18 @@ export default function Home() {
 
         {/* Footer Text */}
         <div className="mt-auto text-center text-gray-200 text-sm font-light">© 1 OF 1 INTELLIGENCE LLC</div>
-
-
       </aside>
 
+      {/* Open button (plus sign) - only visible when sidebar is closed */}
+      {!sidebarVisible && (
+        <button
+          onClick={toggleSidebar}
+          className="fixed top-4 left-4 z-20 text-white hover:text-teal-300 transition-colors"
+          aria-label="Open sidebar"
+        >
+          <div className="mt-8 text-center text-white hover:text-teal-300 text-2xl font-light">[ ]</div>
+        </button>
+      )}
 
       {/* Main Content */}
       <main className={`flex-1 p-6 transition-all duration-300 ease-in-out ${sidebarVisible ? "ml-96" : "ml-0"}`}>
@@ -434,7 +434,7 @@ export default function Home() {
           <div className="mb-8 text-center relative">
             <div className="flex flex-col items-center">
               <div
-                className="inline-flex items-center gap-2 cursor-pointer bg-teal-900/30 px-4 py-2 rounded-lg border border-teal-800/50 hover:bg-teal-900/50 transition-colors"
+                className="inline-flex items-center mt-4 gap-2 cursor-pointer bg-teal-900/30 px-4 py-2 rounded-lg border border-teal-800/50 hover:bg-teal-900/50 transition-colors"
                 onClick={() => setShowDatePicker(!showDatePicker)}
               >
                 <Calendar className="h-5 w-5 text-teal-400" />
@@ -442,7 +442,7 @@ export default function Home() {
               </div>
 
               {/* Daily Record */}
-              <div className="mt-3 flex items-center gap-3">
+              <div className="mt-5 flex items-center gap-3">
                 <div className="flex items-center gap-1">
                   <span className="text-green-400 font-light">{dailyRecord.wins} W</span>
                   <span className="text-gray-500 mx-1">|</span>
@@ -478,7 +478,7 @@ export default function Home() {
               </Badge>
             </div>
             <div className="flex items-center gap-1">
-              <Badge variant="outline" className="bg-teal-900/40 text-teal-300 border-teal-700/50">
+              <Badge variant="outline" className="bg-teal-900/40 text-teal-200 border-teal-700/50">
                 <AlertCircle className="h-3 w-3 mr-1" /> Pending Lineups
               </Badge>
             </div>
@@ -555,8 +555,8 @@ export default function Home() {
                                 <Badge
                                   className={`ml-2 ${
                                     isBetReady
-                                      ? "bg-teal-800/60 text-teal-200 hover:bg-teal-800/80"
-                                      : "bg-teal-900/60 text-teal-300 hover:bg-teal-900/80"
+                                      ? "bg-teal-800/60 text-teal-300 hover:bg-teal-800/80"
+                                      : "bg-teal-900/60 text-teal-200 hover:bg-teal-900/80"
                                   }`}
                                 >
                                   {isBetReady ? (
@@ -605,7 +605,7 @@ export default function Home() {
 
                                 {/* Runs Total - Lower Left */}
                                 <div className="bg-teal-900/30 rounded-lg p-3 text-center border border-teal-900/30">
-                                  <div className="text-sm text-teal-400 mb-1 font-light">Runs Total</div>
+                                  <div className="text-sm text-teal-400 mb-1 font-light">Live Runs</div>
                                   <div className="text-xl font-light text-teal-200">{runsTotal}</div>
                                 </div>
 
