@@ -305,9 +305,13 @@ export default function Home() {
     if (!timeString) return "TBD"
 
     // If it's already in the right format, return it
-    if ((typeof timeString === "string" && timeString.includes("AM")) || timeString.includes("PM")) {
-      return timeString
+    if (
+      typeof timeString === "string" &&
+      (timeString.includes("AM") || timeString.includes("PM"))
+    ) {
+      return timeString;
     }
+    
 
     try {
       // Assuming timeString is in 24-hour format like "14:30"
