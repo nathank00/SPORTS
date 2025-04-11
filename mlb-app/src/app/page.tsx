@@ -18,7 +18,6 @@ import {
   BarChart3,
   ArrowUp,
   ArrowDown,
-  Plus,
 } from "lucide-react"
 import { useFetchCsv } from "@/components/csv-fetcher"
 import { TeamLogo } from "@/components/team-logo"
