@@ -50,7 +50,7 @@ def git_commit_and_push():
     os.chdir(REPO_PATH)
     subprocess.run(["git", "add", "."], check=True)
     subprocess.run(["git", "commit", "-m", f"Auto-update {get_local_time()}"], check=True)
-    subprocess.run(["git", "push"], check=True)
+    subprocess.run(["git", "push", "origin", "data-feed", "--force"], check=True)
 
 def main():
     """Main execution loop."""
