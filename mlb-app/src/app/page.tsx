@@ -79,6 +79,7 @@ export default function Home() {
   })
   const [enrichedGames, setEnrichedGames] = useState<Record<string | number, EnrichedGameData>>({})
   const [showDatePicker, setShowDatePicker] = useState(false)
+  const [sidebarVisible, setSidebarVisible] = useState(true)
   const datePickerRef = useRef<HTMLDivElement>(null)
 
   // Fetch the last_updated.csv file
@@ -305,13 +306,9 @@ export default function Home() {
     if (!timeString) return "TBD"
 
     // If it's already in the right format, return it
-    if (
-      typeof timeString === "string" &&
-      (timeString.includes("AM") || timeString.includes("PM"))
-    ) {
-      return timeString;
+    if (typeof timeString === "string" && (timeString.includes("AM") || timeString.includes("PM"))) {
+      return timeString
     }
-    
 
     try {
       // Assuming timeString is in 24-hour format like "14:30"
@@ -325,19 +322,33 @@ export default function Home() {
     }
   }
 
+  // Toggle sidebar visibility
+  const toggleSidebar = () => {
+    setSidebarVisible(!sidebarVisible)
+  }
+
   return (
     <div className="flex min-h-screen bg-[#021414] text-teal-50 font-light">
       {/* Left Sidebar */}
-      <aside className="w-96 bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full">
+      <aside
+        className={`w-96 bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full transition-all duration-300 ease-in-out ${
+          sidebarVisible ? "left-0" : "-left-96"
+        }`}
+      >
+
         <div className="mb-8"></div>
         <div className="mb-10">
-          <h1 className="text-2xl font-mono text-white mb-2 font-light tracking-wide">[ONE OF ONE INTELLIGENCE]</h1>
+          <h1 
+            className="text-2xl font-mono text-white mb-2 font-light tracking-wide cursor-pointer hover:text-teal-300 transition-colors"
+            onClick={() => setSidebarVisible(false)}
+          >
+              [ONE OF ONE INTELLIGENCE]
+          </h1>
         </div>
 
         {/* Accuracy Display */}
         <div className="mb-12">
-          <div className="flex items-center gap-2 mb-2">
-          </div> 
+          <div className="flex items-center gap-2 mb-2"></div>
           <div>
             <div className="flex items-center justify-center gap-3 mb-2">
               <span className="text-green-400 font-light">{accuracy.wins} W</span>
@@ -398,14 +409,22 @@ export default function Home() {
         </div>
 
         {/* Footer Text */}
-      <div className="mt-auto text-center text-gray-200 text-sm font-light">
-        © 1 OF 1 INTELLIGENCE LLC
-      </div>
-
+        <div className="mt-auto text-center text-gray-200 text-sm font-light">© 1 OF 1 INTELLIGENCE LLC</div>
       </aside>
 
+      {/* Open button (plus sign) - only visible when sidebar is closed */}
+      {!sidebarVisible && (
+        <button
+          onClick={toggleSidebar}
+          className="fixed top-4 left-4 z-20 text-white hover:text-teal-300 transition-colors"
+          aria-label="Open sidebar"
+        >
+          <div className="mt-auto text-center text-gray-200 text-3xl font-light">[ ]</div>
+        </button>
+      )}
+
       {/* Main Content */}
-      <main className="ml-72 flex-1 p-6">
+      <main className={`flex-1 p-6 transition-all duration-300 ease-in-out ${sidebarVisible ? "ml-96" : "ml-0"}`}>
         <div className="max-w-7xl mx-auto">
           {/* Date Header with Record */}
           <div className="mb-8 text-center relative">
@@ -492,13 +511,13 @@ export default function Home() {
                   value="not-ready"
                   className="data-[state=active]:bg-teal-800 data-[state=active]:text-teal-50 font-light"
                 >
-                  Pending  ({games.filter((game) => !isGameBetReady(game)).length})
+                  Pending ({games.filter((game) => !isGameBetReady(game)).length})
                 </TabsTrigger>
               </TabsList>
 
               {["all", "ready", "not-ready"].map((tab) => (
                 <TabsContent key={tab} value={tab} className="mt-0">
-                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                  <div className="grid gap-6 grid-cols-[repeat(auto-fit,minmax(320px,1fr))]">
                     {games
                       .filter((game) => {
                         if (tab === "all") return true
