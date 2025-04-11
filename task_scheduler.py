@@ -47,6 +47,7 @@ def git_commit_and_push():
     print(f"[{get_local_time()}] Committing and pushing changes to GitHub...")
     log_message(f" [INFO] Committing and pushing changes to GitHub...")
     os.chdir(REPO_PATH)
+    subprocess.run(["git", "pull", "origin", "main"], check=True) 
     subprocess.run(["git", "add", "."], check=True)
     subprocess.run(["git", "commit", "-m", f"Auto-update {get_local_time()}"], check=True)
     subprocess.run(["git", "push", "origin", "data-feed", "--force"], check=True)
@@ -61,7 +62,6 @@ def main():
         log_message("[INFO] Stop file detected. Exiting before execution.")
         return
     
-    subprocess.run(["git", "pull", "origin", "main"], check=True)
     run_scripts(INITIAL_SCRIPTS)
 
     while True:
@@ -74,8 +74,7 @@ def main():
             print(f"[INFO] Stopping execution at {get_local_time()}")
             log_message(f"[INFO] Stopping execution at {get_local_time()}")
             break
-
-        subprocess.run(["git", "pull", "origin", "main"], check=True)    
+   
         run_scripts(PERIODIC_SCRIPTS)
         git_commit_and_push()
 
