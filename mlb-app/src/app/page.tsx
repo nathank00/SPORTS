@@ -1,12 +1,33 @@
 "use client"
-import { useEffect, useState } from "react"
+import { useEffect, useState, useRef, useMemo } from "react"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { AlertCircle, Check, Info, Calendar, RefreshCw, ExternalLink, Github, Download, Trophy, X } from "lucide-react"
+import {
+  AlertCircle,
+  Check,
+  Info,
+  Calendar,
+  RefreshCw,
+  ExternalLink,
+  Github,
+  Download,
+  Trophy,
+  Clock,
+  BarChart3,
+  ArrowUp,
+  ArrowDown,
+  Goal,
+  Brain,
+  BrainIcon,
+  BrainCircuit,
+  BoomBox,
+} from "lucide-react"
 import { useFetchCsv } from "@/components/csv-fetcher"
+import { TeamLogo } from "@/components/team-logo"
+import { Onest } from "next/font/google"
 
 type GamePick = {
   game_id: string | number
@@ -44,6 +65,7 @@ type EnrichedGameData = {
   completed: string | number
   runs_total: string | number
   runline: string | number
+  start_time: string | number
   [key: string]: string | number
 }
 
@@ -56,16 +78,23 @@ export default function Home() {
   const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split("T")[0])
   const [lastUpdated, setLastUpdated] = useState<string>("Loading...")
   const [isLoading, setIsLoading] = useState(true)
-  const [accuracy, setAccuracy] = useState<string>("Calculating...")
+  const [accuracy, setAccuracy] = useState<{ wins: number; losses: number; percent: string; total: number }>({
+    wins: 0,
+    losses: 0,
+    percent: "0.0%",
+    total: 0,
+  })
   const [enrichedGames, setEnrichedGames] = useState<Record<string | number, EnrichedGameData>>({})
+  const [showDatePicker, setShowDatePicker] = useState(false)
+  const datePickerRef = useRef<HTMLDivElement>(null)
 
-  // Fetch the last_updated.csv file - CORRECTED PATH
+  // Fetch the last_updated.csv file
   const { data: lastUpdatedData, error: lastUpdatedError } = useFetchCsv("/last_updated.csv")
 
-  // Fetch the cumulative_performance.csv file - CORRECTED PATH
+  // Fetch the cumulative_performance.csv file
   const { data: performanceData, error: performanceError } = useFetchCsv("/data/cumulative_performance.csv")
 
-  // Fetch the enriched data for the selected date - CORRECTED PATH
+  // Fetch the enriched data for the selected date
   const { data: enrichedData, error: enrichedError } = useFetchCsv(`/data/${selectedDate}_enriched.csv`)
 
   useEffect(() => {
@@ -81,7 +110,12 @@ export default function Home() {
   useEffect(() => {
     if (performanceError) {
       console.error("Failed to fetch performance data:", performanceError)
-      setAccuracy("Unavailable")
+      setAccuracy({
+        wins: 0,
+        losses: 0,
+        percent: "Unavailable",
+        total: 0,
+      })
     } else if (performanceData && performanceData.length > 0) {
       let wins = 0
       let total = 0
@@ -102,11 +136,22 @@ export default function Home() {
         }
       })
 
+      const losses = total - wins
       if (total > 0) {
         const accuracyValue = ((wins / total) * 100).toFixed(1)
-        setAccuracy(`${accuracyValue}% (${wins}/${total})`)
+        setAccuracy({
+          wins,
+          losses,
+          percent: `${accuracyValue}%`,
+          total,
+        })
       } else {
-        setAccuracy("No data")
+        setAccuracy({
+          wins: 0,
+          losses: 0,
+          percent: "No data",
+          total: 0,
+        })
       }
     }
   }, [performanceData, performanceError])
@@ -130,6 +175,20 @@ export default function Home() {
       setEnrichedGames({})
     }
   }, [enrichedData, enrichedError, selectedDate])
+
+  // Close date picker when clicking outside
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (datePickerRef.current && !datePickerRef.current.contains(event.target as Node)) {
+        setShowDatePicker(false)
+      }
+    }
+
+    document.addEventListener("mousedown", handleClickOutside)
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside)
+    }
+  }, [])
 
   const fetchPicks = (date: string) => {
     setIsLoading(true)
@@ -189,11 +248,11 @@ export default function Home() {
   }
 
   // Determine game prediction status (Winner, Loser, Pending)
-  const getGameStatus = (game: GamePick): { status: string; className: string } => {
+  const getGameStatus = (game: GamePick): { status: string; className: string; shortStatus: string } => {
     const enrichedGame = enrichedGames[game.game_id]
 
     if (!enrichedGame) {
-      return { status: "Pending", className: "bg-amber-500/20 text-amber-500" }
+      return { status: "Pending", className: "bg-teal-900/40 text-teal-300", shortStatus: "TBD" }
     }
 
     // Check if game is completed or if runs_total > runline
@@ -207,15 +266,31 @@ export default function Home() {
     if (completed || runsTotal > runline) {
       // If prediction matches outcome, it's a winner
       if (prediction !== undefined && outcome !== undefined && prediction.toString() === outcome.toString()) {
-        return { status: "Winner", className: "bg-green-500/20 text-green-500" }
+        return { status: "Winner", className: "bg-green-900/40 text-green-400", shortStatus: "W" }
       } else if (prediction !== undefined && outcome !== undefined) {
-        return { status: "Loser", className: "bg-red-500/20 text-red-500" }
+        return { status: "Loser", className: "bg-red-900/40 text-red-400", shortStatus: "L" }
       }
     }
 
-    return { status: "Game in progress", className: "bg-gray-800 text-gray-400" };
-
+    return { status: "Game in progress", className: "bg-gray-800/30 text-gray-300", shortStatus: "TBD" }
   }
+
+  // Calculate daily record
+  const dailyRecord = useMemo(() => {
+    let wins = 0
+    let losses = 0
+
+    games.forEach((game) => {
+      const status = getGameStatus(game)
+      if (status.status === "Winner") {
+        wins++
+      } else if (status.status === "Loser") {
+        losses++
+      }
+    })
+
+    return { wins, losses }
+  }, [games, enrichedGames])
 
   // Format date for display - Fixed to handle timezone issues
   const formatDate = (dateString: string): string => {
@@ -232,308 +307,408 @@ export default function Home() {
     return date.toLocaleDateString(undefined, options)
   }
 
+  // Format time from 24-hour to 12-hour format
+  const formatTime = (timeString: string | number): string => {
+    if (!timeString) return "TBD"
+
+    // If it's already in the right format, return it
+    if ((typeof timeString === "string" && timeString.includes("AM")) || timeString.includes("PM")) {
+      return timeString
+    }
+
+    try {
+      // Assuming timeString is in 24-hour format like "14:30"
+      const [hours, minutes] = timeString.toString().split(":").map(Number)
+      const period = hours >= 12 ? "PM" : "AM"
+      const formattedHours = hours % 12 || 12 // Convert 0 to 12 for 12 AM
+      return `${formattedHours}:${minutes.toString().padStart(2, "0")} ${period}`
+    } catch (error) {
+      console.error("Error formatting time:", error)
+      return timeString.toString()
+    }
+  }
+
   return (
-    <div className="min-h-screen bg-slate-950 text-white">
-      <header className="sticky top-0 z-10 bg-slate-900 border-b border-slate-800 p-4">
-        <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
-          <h1 className="text-3xl font-bold text-blue-500 mb-4 md:mb-0">1 of 1 Dashboard</h1>
-
-          {/* Accuracy Display */}
-          <div className="flex items-center gap-2 bg-slate-800 px-4 py-2 rounded-md mb-4 md:mb-0">
-            <Trophy className="h-5 w-5 text-yellow-400" />
-            <div className="text-center">
-              <div className="text-sm text-slate-400">2025 Accuracy</div>
-              <div className="text-xl font-bold text-yellow-400">{accuracy}</div>
-            </div>
-          </div>
-
-          <div className="flex flex-col md:flex-row items-center gap-4">
-            <div className="flex items-center gap-2 bg-slate-800 px-3 py-1 rounded-md">
-              <Calendar className="h-4 w-4 text-blue-400" />
-              <input
-                type="date"
-                value={selectedDate}
-                onChange={(e) => setSelectedDate(e.target.value)}
-                className="bg-transparent border-none text-white focus:outline-none"
-              />
-            </div>
-
-            <div className="flex items-center gap-2 bg-slate-800 px-3 py-1 rounded-md">
-              <RefreshCw className="h-4 w-4 text-green-400" />
-              <span className="text-sm">Last updated: {lastUpdated}</span>
-            </div>
-
-            <div className="flex gap-2">
-              <a
-                href="https://www.cbssports.com/mlb/scoreboard/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-1 text-sm text-blue-400 hover:text-blue-300"
-              >
-                <ExternalLink className="h-4 w-4" />
-                <span>CBS Sports</span>
-              </a>
-              <a
-                href="https://github.com/nathank00/MLB-Analytics"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-1 text-sm text-blue-400 hover:text-blue-300"
-              >
-                <Github className="h-4 w-4" />
-                <span>GitHub</span>
-              </a>
-            </div>
-          </div>
+    <div className="flex min-h-screen bg-[#021414] text-teal-50 font-light">
+      {/* Left Sidebar */}
+      <aside className="w-96 bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full">
+        <div className="mb-8">
+          <h1 className="text-2xl font-mono text-white mb-2 font-light tracking-wide">[ONE OF ONE INTELLIGENCE]</h1>
         </div>
-      </header>
 
-      <main className="container mx-auto py-8 px-4">
+        {/* Accuracy Display */}
         <div className="mb-6">
-          <h2 className="text-2xl font-semibold mb-2">{formatDate(selectedDate)}</h2>
-          <div className="flex items-center gap-4 text-sm">
-            <div className="flex items-center gap-1">
-              <Badge variant="outline" className="bg-green-500/10 text-green-500 border-green-500/20">
-                <Check className="h-3 w-3 mr-1" /> Lineups
-              </Badge>
+          <div className="flex items-center gap-2 mb-2">
+          </div>
+          <div className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3">
+            <div className="flex items-center justify-center gap-3 mb-2">
+              <span className="text-green-400 font-light">{accuracy.wins} W</span>
+              <span className="text-gray-500 mx-1">|</span>
+              <span className="text-red-400 font-light">{accuracy.losses} L</span>
             </div>
-            <div className="flex items-center gap-1">
-              <Badge variant="outline" className="bg-amber-500/10 text-amber-500 border-amber-500/20">
-                <AlertCircle className="h-3 w-3 mr-1" /> Lineups
-              </Badge>
-            </div>
-            {/* New status badges */}
-            <div className="flex items-center gap-1">
-              <Badge variant="outline" className="bg-green-500/10 text-green-500 border-green-500/20">
-                <Trophy className="h-3 w-3 mr-1" /> Winner
-              </Badge>
-            </div>
-            <div className="flex items-center gap-1">
-              <Badge variant="outline" className="bg-red-500/10 text-red-500 border-red-500/20">
-                <X className="h-3 w-3 mr-1" /> Loser
-              </Badge>
+            <div className="text-center text-teal-300/80 font-light text-sm">
+              {accuracy.percent} ({accuracy.total} games)
             </div>
           </div>
         </div>
 
-        {isLoading ? (
-          <div className="flex justify-center items-center h-64">
-            <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
+        {/* Unified Sidebar Section with Individual Boxes */}
+        <div className="space-y-2">
+          {/* Last Updated */}
+          <div className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3 flex items-center gap-2 text-teal-300/80 font-medium">
+            <RefreshCw className="h-4 w-4" />
+            <span>{lastUpdated}</span>
           </div>
-        ) : error ? (
-          <div className="bg-red-500/10 border border-red-500/20 rounded-lg p-4 text-center">
-            <p className="text-red-400">{error}</p>
+
+          {/* External Links */}
+          <a
+            href="https://www.cbssports.com/mlb/scoreboard/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3 flex items-center gap-2 text-teal-300/80 hover:text-teal-200 transition-colors font-medium"
+          >
+            <ExternalLink className="h-4 w-4" />
+            <span>MLB Today</span>
+          </a>
+          <a
+            href="https://github.com/nathank00/MLB-Analytics"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3 flex items-center gap-2 text-teal-300/80 hover:text-teal-200 transition-colors font-medium"
+          >
+            <Github className="h-4 w-4" />
+            <span>nathank00/MLB-Analytics</span>
+          </a>
+
+          {/* Downloads */}
+          <a
+            href={`/data/${selectedDate}_enriched.csv`}
+            download
+            className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3 flex items-center gap-2 text-teal-300/80 hover:text-teal-200 transition-colors font-medium"
+          >
+            <Download className="h-4 w-4" />
+            <span>Today's Data</span>
+          </a>
+          <a
+            href="/data/cumulative_performance.csv"
+            download
+            className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3 flex items-center gap-2 text-teal-300/80 hover:text-teal-200 transition-colors font-medium"
+          >
+            <BarChart3 className="h-4 w-4" />
+            <span>2025 Performance Data</span>
+          </a>
+        </div>
+
+        {/* Footer Text */}
+      <div className="mt-auto text-center text-gray-200 text-sm font-light">
+        © 1 OF 1 INTELLIGENCE LLC
+      </div>
+
+      </aside>
+
+      {/* Main Content */}
+      <main className="ml-72 flex-1 p-6">
+        <div className="max-w-7xl mx-auto">
+          {/* Date Header with Record */}
+          <div className="mb-8 text-center relative">
+            <div className="flex flex-col items-center">
+              <div
+                className="inline-flex items-center gap-2 cursor-pointer bg-teal-900/30 px-4 py-2 rounded-lg border border-teal-800/50 hover:bg-teal-900/50 transition-colors"
+                onClick={() => setShowDatePicker(!showDatePicker)}
+              >
+                <Calendar className="h-5 w-5 text-teal-400" />
+                <h2 className="text-xl font-light text-teal-300">{formatDate(selectedDate)}</h2>
+              </div>
+
+              {/* Daily Record */}
+              <div className="mt-3 flex items-center gap-3">
+                <div className="flex items-center gap-1">
+                  <span className="text-green-400 font-light">{dailyRecord.wins} W</span>
+                  <span className="text-gray-500 mx-1">|</span>
+                  <span className="text-red-400 font-light">{dailyRecord.losses} L</span>
+                </div>
+              </div>
+            </div>
+
+            {/* Date Picker Popup */}
+            {showDatePicker && (
+              <div
+                ref={datePickerRef}
+                className="absolute top-full left-1/2 transform -translate-x-1/2 mt-2 bg-teal-950 border border-teal-800 rounded-lg p-4 shadow-lg z-10"
+              >
+                <input
+                  type="date"
+                  value={selectedDate}
+                  onChange={(e) => {
+                    setSelectedDate(e.target.value)
+                    setShowDatePicker(false)
+                  }}
+                  className="bg-teal-900/50 border border-teal-800 rounded px-3 py-2 text-teal-100 focus:outline-none focus:ring-2 focus:ring-teal-600"
+                />
+              </div>
+            )}
           </div>
-        ) : games.length === 0 ? (
-          <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-8 text-center">
-            <p className="text-slate-400">No games available for this date.</p>
+
+          {/* Legend */}
+          <div className="flex justify-center items-center gap-4 text-sm mb-6 font-light">
+            <div className="flex items-center gap-1">
+              <Badge variant="outline" className="bg-teal-900/40 text-teal-300 border-teal-700/50">
+                <Check className="h-3 w-3 mr-1" /> Complete Lineups
+              </Badge>
+            </div>
+            <div className="flex items-center gap-1">
+              <Badge variant="outline" className="bg-teal-900/40 text-teal-400 border-teal-700/50">
+                <AlertCircle className="h-3 w-3 mr-1" /> Pending Lineups
+              </Badge>
+            </div>
           </div>
-        ) : (
-          <Tabs defaultValue="all" className="w-full">
-            <TabsList className="mb-6">
-              <TabsTrigger value="all">All Games ({games.length})</TabsTrigger>
-              <TabsTrigger value="ready">Ready ({games.filter((game) => isGameBetReady(game)).length})</TabsTrigger>
-              <TabsTrigger value="not-ready">
-                Pending ({games.filter((game) => !isGameBetReady(game)).length})
-              </TabsTrigger>
-            </TabsList>
 
-            {["all", "ready", "not-ready"].map((tab) => (
-              <TabsContent key={tab} value={tab} className="mt-0">
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {games
-                    .filter((game) => {
-                      if (tab === "all") return true
-                      if (tab === "ready") return isGameBetReady(game)
-                      if (tab === "not-ready") return !isGameBetReady(game)
-                      return true
-                    })
-                    .map((game, index) => {
-                      const isBetReady = isGameBetReady(game)
-                      const gameStatus = getGameStatus(game)
-                      return (
-                        <Card
-                          key={index}
-                          className={`bg-slate-900 border-slate-700 overflow-hidden ${isBetReady ? "border-l-4 border-l-green-500" : "border-l-4 border-l-amber-500"}`}
-                        >
-                          <CardHeader className="pb-2">
-                            <div className="flex justify-between items-start">
-                              <CardTitle className="text-xl font-bold">
-                                {game.away_team} @ {game.home_team}
-                              </CardTitle>
-                              <Badge variant={isBetReady ? "success" : "warning"} className="ml-2">
-                                {isBetReady ? (
-                                  <span className="flex items-center">
-                                    <Check className="h-3 w-3 mr-1" /> Lineups
-                                  </span>
-                                ) : (
-                                  <span className="flex items-center">
-                                    <AlertCircle className="h-3 w-3 mr-1" /> Lineups
-                                  </span>
-                                )}
-                              </Badge>
-                            </div>
-                          </CardHeader>
-                          <CardContent>
-                            <div className="grid grid-cols-2 gap-4 mb-4">
-                              <div className="bg-slate-800 rounded-lg p-3 text-center">
-                                <div className="text-sm text-slate-400 mb-1">Runline</div>
-                                <div className="text-xl font-bold">{game.runline}</div>
-                              </div>
-                              <div
-                                className={`rounded-lg p-3 text-center ${game.pick === "Over" ? "bg-green-500/20 text-green-400" : "bg-red-500/20 text-red-400"}`}
-                              >
-                                <div className="text-sm mb-1">Prediction:</div>
-                                <div className="text-xl font-bold">{game.pick}</div>
-                              </div>
-                            </div>
+          {isLoading ? (
+            <div className="flex justify-center items-center h-64">
+              <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-teal-400"></div>
+            </div>
+          ) : error ? (
+            <div className="bg-red-900/20 border border-red-700/30 rounded-lg p-4 text-center">
+              <p className="text-red-400 font-light">{error}</p>
+            </div>
+          ) : games.length === 0 ? (
+            <div className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-8 text-center">
+              <p className="text-teal-400 font-light">No games available for this date.</p>
+            </div>
+          ) : (
+            <Tabs defaultValue="all" className="w-full">
+              <TabsList className="mb-6 bg-teal-900/40 border border-teal-800/50">
+                <TabsTrigger
+                  value="all"
+                  className="data-[state=active]:bg-teal-800 data-[state=active]:text-teal-50 font-light"
+                >
+                  All Games ({games.length})
+                </TabsTrigger>
+                <TabsTrigger
+                  value="ready"
+                  className="data-[state=active]:bg-teal-800 data-[state=active]:text-teal-50 font-light"
+                >
+                  Ready ({games.filter((game) => isGameBetReady(game)).length})
+                </TabsTrigger>
+                <TabsTrigger
+                  value="not-ready"
+                  className="data-[state=active]:bg-teal-800 data-[state=active]:text-teal-50 font-light"
+                >
+                  Pending ({games.filter((game) => !isGameBetReady(game)).length})
+                </TabsTrigger>
+              </TabsList>
 
-                            {/* Game Status Indicator */}
-                            <div className={`rounded-lg p-2 text-center mb-4 ${gameStatus.className}`}>
-                              <div className="text-sm font-bold">{gameStatus.status}</div>
-                            </div>
+              {["all", "ready", "not-ready"].map((tab) => (
+                <TabsContent key={tab} value={tab} className="mt-0">
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {games
+                      .filter((game) => {
+                        if (tab === "all") return true
+                        if (tab === "ready") return isGameBetReady(game)
+                        if (tab === "not-ready") return !isGameBetReady(game)
+                        return true
+                      })
+                      .map((game, index) => {
+                        const isBetReady = isGameBetReady(game)
+                        const gameStatus = getGameStatus(game)
+                        const enrichedGame = enrichedGames[game.game_id]
+                        const startTime = enrichedGame?.start_time ? formatTime(enrichedGame.start_time) : "TBD"
+                        const runsTotal = enrichedGame?.runs_total || "0"
 
-                            <div className="grid grid-cols-2 gap-4 text-sm">
-                              <div>
-                                <div className="text-slate-400 mb-1">Away SP</div>
-                                <div className="truncate">{game.Away_SP_Name || "TBD"}</div>
-                              </div>
-                              <div>
-                                <div className="text-slate-400 mb-1">Home SP</div>
-                                <div className="truncate">{game.Home_SP_Name || "TBD"}</div>
-                              </div>
-                            </div>
-                          </CardContent>
-                          <CardFooter className="pt-0">
-                            <Dialog>
-                              <DialogTrigger asChild>
-                                <Button variant="outline" className="w-full">
-                                  <Info className="h-4 w-4 mr-2" />
-                                  Lineups
-                                </Button>
-                              </DialogTrigger>
-                              <DialogContent className="bg-slate-900 border-slate-700 text-white max-w-3xl">
-                                <DialogHeader>
-                                  <DialogTitle className="text-xl font-bold text-center">
-                                    {game.away_team} @ {game.home_team}
-                                  </DialogTitle>
-                                </DialogHeader>
-                                <div className="mt-4">
-                                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                                    <div className="space-y-4">
-                                      <h3 className="text-lg font-semibold text-blue-400">{game.away_team} Lineup</h3>
-                                      <div className="bg-slate-800 rounded-lg p-4">
-                                        <div className="mb-2 font-semibold">Starting Pitcher</div>
-                                        <div className="mb-4 pl-2 border-l-2 border-blue-500">
-                                          {game.Away_SP_Name || "TBD"}
-                                        </div>
-                                        <div className="mb-2 font-semibold">Batting Order</div>
-                                        <div className="space-y-1">
-                                          {Array.from({ length: 9 }, (_, i) => {
-                                            const batterKey = `Away_Batter${i + 1}_Name` as keyof GamePick
-                                            return (
-                                              <div key={i} className="flex items-center">
-                                                <span className="w-6 h-6 flex items-center justify-center bg-slate-700 rounded-full text-xs mr-2">
-                                                  {i + 1}
-                                                </span>
-                                                <span>{game[batterKey] || "TBD"}</span>
-                                              </div>
-                                            )
-                                          })}
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div className="space-y-4">
-                                      <h3 className="text-lg font-semibold text-blue-400">{game.home_team} Lineup</h3>
-                                      <div className="bg-slate-800 rounded-lg p-4">
-                                        <div className="mb-2 font-semibold">Starting Pitcher</div>
-                                        <div className="mb-4 pl-2 border-l-2 border-blue-500">
-                                          {game.Home_SP_Name || "TBD"}
-                                        </div>
-                                        <div className="mb-2 font-semibold">Batting Order</div>
-                                        <div className="space-y-1">
-                                          {Array.from({ length: 9 }, (_, i) => {
-                                            const batterKey = `Home_Batter${i + 1}_Name` as keyof GamePick
-                                            return (
-                                              <div key={i} className="flex items-center">
-                                                <span className="w-6 h-6 flex items-center justify-center bg-slate-700 rounded-full text-xs mr-2">
-                                                  {i + 1}
-                                                </span>
-                                                <span>{game[batterKey] || "TBD"}</span>
-                                              </div>
-                                            )
-                                          })}
-                                        </div>
-                                      </div>
-                                    </div>
+                        return (
+                          <Card
+                            key={index}
+                            className={`bg-[#011010] border border-teal-900/50 overflow-hidden shadow-lg hover:shadow-teal-900/30 transition-shadow ${
+                              isBetReady ? "border-teal-700" : "border-teal-900"
+                            }`}
+                          >
+                            <CardHeader className="pb-2 bg-gradient-to-r from-teal-900/40 to-transparent">
+                              <div className="flex justify-between items-start">
+                                <CardTitle className="text-xl font-light text-teal-200 flex items-center gap-2">
+                                  <div className="flex items-center gap-1">
+                                    <TeamLogo teamName={game.away_team} className="h-12 w-12" />
+                                    <span className="mx-1">@</span>
+                                    <TeamLogo teamName={game.home_team} className="h-12 w-12" />
                                   </div>
-                                  <div className="mt-6 p-4 bg-slate-800 rounded-lg">
-                                    <div className="flex items-center justify-between">
-                                      <div>
-                                        <span className="text-slate-400">Runline:</span>
-                                        <span className="ml-2 font-semibold">{game.runline}</span>
-                                      </div>
-                                      <div>
-                                        <span className="text-slate-400">Prediction:</span>
-                                        <span
-                                          className={`ml-2 font-semibold ${game.pick === "Over" ? "text-green-400" : "text-red-400"}`}
-                                        >
-                                          {game.pick}
-                                        </span>
-                                      </div>
-                                      <div>
-                                        <Badge variant={isBetReady ? "success" : "warning"}>
-                                          {isBetReady ? "Ready" : "Pending Lineups"}
-                                        </Badge>
-                                      </div>
-                                    </div>
+                                </CardTitle>
+                                <Badge
+                                  className={`ml-2 ${
+                                    isBetReady
+                                      ? "bg-teal-800/60 text-teal-200 hover:bg-teal-800/80"
+                                      : "bg-teal-900/60 text-teal-300 hover:bg-teal-900/80"
+                                  }`}
+                                >
+                                  {isBetReady ? (
+                                    <span className="flex items-center">
+                                      <Check className="h-3 w-3 mr-1" /> Complete
+                                    </span>
+                                  ) : (
+                                    <span className="flex items-center">
+                                      <AlertCircle className="h-3 w-3 mr-1" /> Pending
+                                    </span>
+                                  )}
+                                </Badge>
+                              </div>
+                              {/* Game Time */}
+                              <div className="flex items-center gap-2 mt-2 text-teal-400 text-sm font-light">
+                                <Clock className="h-4 w-4" />
+                                <span>{startTime}</span>
+                              </div>
+                            </CardHeader>
+                            <CardContent className="pt-4">
+                              {/* 4-Tile Layout */}
+                              <div className="grid grid-cols-2 gap-3 mb-4">
+                                {/* Runline - Upper Left */}
+                                <div className="bg-teal-900/30 rounded-lg p-3 text-center border border-teal-900/30">
+                                  <div className="text-sm text-teal-400 mb-1 font-light">Runline</div>
+                                  <div className="text-xl font-light text-teal-200">{game.runline}</div>
+                                </div>
+
+                                {/* Prediction - Upper Right */}
+                                <div
+                                  className={`rounded-lg p-3 text-center border ${
+                                    game.pick === "Over"
+                                      ? "bg-teal-800/30 text-teal-300 border-teal-800/30"
+                                      : "bg-teal-900/30 text-teal-400 border-teal-900/30"
+                                  }`}
+                                >
+                                  <div className="text-sm mb-1 font-light">Prediction</div>
+                                  <div className="text-xl flex justify-center items-center">
+                                    {game.pick === "Over" ? (
+                                      <ArrowUp className="h-6 w-6 text-teal-300" />
+                                    ) : (
+                                      <ArrowDown className="h-6 w-6 text-teal-400" />
+                                    )}
                                   </div>
                                 </div>
-                              </DialogContent>
-                            </Dialog>
-                          </CardFooter>
-                        </Card>
-                      )
-                    })}
-                </div>
-              </TabsContent>
-            ))}
-          </Tabs>
-        )}
 
-        {/* CSV Download Section*/}
-        <div className="mt-12 bg-slate-900 border border-slate-800 rounded-lg p-6">
-          <h2 className="text-xl font-semibold mb-4">Source Data</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-slate-800 rounded-lg p-4">
-              <h3 className="text-lg font-semibold text-blue-400 mb-3">Today&apos;s Games</h3>
-              <p className="text-sm text-slate-400 mb-4">
-                Download the enriched game data for {formatDate(selectedDate)}.
-              </p>
-              <a
-                href={`/data/${selectedDate}_enriched.csv`}
-                download
-                className="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-md transition-colors"
-              >
-                <Download className="h-4 w-4" />
-                {selectedDate}.csv
-              </a>
-            </div>
+                                {/* Runs Total - Lower Left */}
+                                <div className="bg-teal-900/30 rounded-lg p-3 text-center border border-teal-900/30">
+                                  <div className="text-sm text-teal-400 mb-1 font-light">Runs Total</div>
+                                  <div className="text-xl font-light text-teal-200">{runsTotal}</div>
+                                </div>
 
-            <div className="bg-slate-800 rounded-lg p-4">
-              <h3 className="text-lg font-semibold text-blue-400 mb-3">Cumulative Performance</h3>
-              <p className="text-sm text-slate-400 mb-4">
-                Download the cumulative performance data for the current season.
-              </p>
-              <a
-                href="/data/cumulative_performance.csv"
-                download
-                className="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-md transition-colors"
-              >
-                <Download className="h-4 w-4" />
-                cumulative_performance.csv
-              </a>
-            </div>
-          </div>
+                                {/* Game Status - Lower Right */}
+                                <div
+                                  className={`rounded-lg p-3 text-center border ${gameStatus.className} border-opacity-30 flex items-center justify-center`}
+                                >
+                                  <div className="text-2xl font-light">{gameStatus.shortStatus}</div>
+                                </div>
+                              </div>
+                            </CardContent>
+                            <CardFooter className="pt-0">
+                              <Dialog>
+                                <DialogTrigger asChild>
+                                  <Button
+                                    variant="outline"
+                                    className="w-full bg-teal-900/40 text-teal-300 border-teal-900/50 hover:bg-teal-800/60 hover:text-teal-100 font-light"
+                                  >
+                                    <Info className="h-4 w-4 mr-2" />
+                                    View Lineups
+                                  </Button>
+                                </DialogTrigger>
+                                <DialogContent className="bg-[#011010] border-teal-900 text-teal-50 max-w-3xl">
+                                  <DialogHeader>
+                                    <DialogTitle className="text-xl font-light text-center text-teal-300 flex items-center justify-center gap-2">
+                                      <TeamLogo teamName={game.away_team} className="h-16 w-16" />
+                                      <span>@</span>
+                                      <TeamLogo teamName={game.home_team} className="h-16 w-16" />
+                                    </DialogTitle>
+                                  </DialogHeader>
+                                  <div className="mt-4">
+                                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                      <div className="space-y-4">
+                                        <h3 className="text-lg font-light text-teal-400">{game.away_team} Lineup</h3>
+                                        <div className="bg-teal-900/30 rounded-lg p-4 border border-teal-900/30">
+                                          <div className="mb-2 font-light text-teal-300">Starting Pitcher</div>
+                                          <div className="mb-4 pl-2 border-l-2 border-teal-700 text-teal-200 font-light">
+                                            {game.Away_SP_Name || "TBD"}
+                                          </div>
+                                          <div className="mb-2 font-light text-teal-300">Batting Order</div>
+                                          <div className="space-y-1">
+                                            {Array.from({ length: 9 }, (_, i) => {
+                                              const batterKey = `Away_Batter${i + 1}_Name` as keyof GamePick
+                                              return (
+                                                <div key={i} className="flex items-center">
+                                                  <span className="w-6 h-6 flex items-center justify-center bg-teal-800 rounded-full text-xs mr-2 text-teal-200">
+                                                    {i + 1}
+                                                  </span>
+                                                  <span className="text-teal-200 font-light">
+                                                    {game[batterKey] || "TBD"}
+                                                  </span>
+                                                </div>
+                                              )
+                                            })}
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div className="space-y-4">
+                                        <h3 className="text-lg font-light text-teal-400">{game.home_team} Lineup</h3>
+                                        <div className="bg-teal-900/30 rounded-lg p-4 border border-teal-900/30">
+                                          <div className="mb-2 font-light text-teal-300">Starting Pitcher</div>
+                                          <div className="mb-4 pl-2 border-l-2 border-teal-700 text-teal-200 font-light">
+                                            {game.Home_SP_Name || "TBD"}
+                                          </div>
+                                          <div className="mb-2 font-light text-teal-300">Batting Order</div>
+                                          <div className="space-y-1">
+                                            {Array.from({ length: 9 }, (_, i) => {
+                                              const batterKey = `Home_Batter${i + 1}_Name` as keyof GamePick
+                                              return (
+                                                <div key={i} className="flex items-center">
+                                                  <span className="w-6 h-6 flex items-center justify-center bg-teal-800 rounded-full text-xs mr-2 text-teal-200">
+                                                    {i + 1}
+                                                  </span>
+                                                  <span className="text-teal-200 font-light">
+                                                    {game[batterKey] || "TBD"}
+                                                  </span>
+                                                </div>
+                                              )
+                                            })}
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="mt-6 p-4 bg-teal-900/30 rounded-lg border border-teal-900/30">
+                                      <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+                                        <div>
+                                          <span className="text-teal-400">Runline:</span>
+                                          <span className="ml-2 font-light text-teal-200">{game.runline}</span>
+                                        </div>
+                                        <div>
+                                          <span className="text-teal-400">Prediction:</span>
+                                          <span
+                                            className={`ml-2 font-light ${
+                                              game.pick === "Over" ? "text-teal-300" : "text-teal-400"
+                                            }`}
+                                          >
+                                            {game.pick}
+                                          </span>
+                                        </div>
+                                        <div>
+                                          <Badge
+                                            className={
+                                              isBetReady
+                                                ? "bg-teal-800/60 text-teal-200"
+                                                : "bg-teal-900/60 text-teal-300"
+                                            }
+                                          >
+                                            {isBetReady ? "Ready to Bet" : "Pending Lineups"}
+                                          </Badge>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </DialogContent>
+                              </Dialog>
+                            </CardFooter>
+                          </Card>
+                        )
+                      })}
+                  </div>
+                </TabsContent>
+              ))}
+            </Tabs>
+          )}
         </div>
       </main>
     </div>
