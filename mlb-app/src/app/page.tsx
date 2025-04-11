@@ -329,7 +329,25 @@ export default function Home() {
 
   return (
     <div className="flex min-h-screen bg-[#021414] text-teal-50 font-light">
-      {/* Left Sidebar */}
+  
+      {/* Sidebar Toggle */}
+      <div
+        className="fixed top-4 left-4 z-50 cursor-pointer text-white mt-8 text-2xl font-mono tracking-wide hover:text-teal-300 transition-colors flex items-baseline"
+        onClick={toggleSidebar}
+      >
+        <span className="transition-all duration-300">[</span>
+        <span
+          className={`transition-all duration-300 ease-in-out overflow-hidden ${
+            sidebarVisible ? "max-w-xs opacity-100 ml-0" : "max-w-0 opacity-0 ml-0"
+          }`}
+          style={{ display: "inline-block", verticalAlign: "middle" }}
+        >
+          ONE OF ONE INTELLIGENCE
+        </span>
+        <span className="transition-all duration-300 ml-0">]</span>
+      </div>
+
+
       <aside
         className={`w-96 bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full transition-all duration-300 ease-in-out ${
           sidebarVisible ? "left-0" : "-left-96"
@@ -337,17 +355,11 @@ export default function Home() {
       >
 
         <div className="mb-8"></div>
-        <div className="mb-10">
-          <h1 
-            className="text-2xl font-mono text-white mb-2 font-light tracking-wide cursor-pointer hover:text-teal-300 transition-colors"
-            onClick={() => setSidebarVisible(false)}
-          >
-              [ONE OF ONE INTELLIGENCE]
-          </h1>
-        </div>
+        
+
 
         {/* Accuracy Display */}
-        <div className="mb-12">
+        <div className=" mt-16 mb-14">
           <div className="flex items-center gap-2 mb-2"></div>
           <div>
             <div className="flex items-center justify-center gap-3 mb-2">
@@ -410,18 +422,10 @@ export default function Home() {
 
         {/* Footer Text */}
         <div className="mt-auto text-center text-gray-200 text-sm font-light">© 1 OF 1 INTELLIGENCE LLC</div>
+
+
       </aside>
 
-      {/* Open button (plus sign) - only visible when sidebar is closed */}
-      {!sidebarVisible && (
-        <button
-          onClick={toggleSidebar}
-          className="fixed top-4 left-4 z-20 text-white hover:text-teal-300 transition-colors"
-          aria-label="Open sidebar"
-        >
-          <div className="mt-auto text-center text-gray-200 text-3xl font-light">[ ]</div>
-        </button>
-      )}
 
       {/* Main Content */}
       <main className={`flex-1 p-6 transition-all duration-300 ease-in-out ${sidebarVisible ? "ml-96" : "ml-0"}`}>
