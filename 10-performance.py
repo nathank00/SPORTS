@@ -158,6 +158,9 @@ currentfile = f"mlb-app/src/app/api/picks/{today_str}.csv"
 enrich_game_data(currentfile)
 
 alternatefile = f"mlb-app/public/data/{today_str}.csv"
+if not os.path.exists(alternatefile):
+    os.makedirs(os.path.dirname(alternatefile), exist_ok=True)
+    open(alternatefile, "w").close()  # Create an empty file so pd.read_csv() doesn't throw
 enrich_game_data(alternatefile)
 
 cumulative_performance("mlb-app/src/app/api/picks/")
