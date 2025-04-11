@@ -329,15 +329,16 @@ export default function Home() {
     <div className="flex min-h-screen bg-[#021414] text-teal-50 font-light">
       {/* Left Sidebar */}
       <aside className="w-96 bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full">
-        <div className="mb-8">
+        <div className="mb-8"></div>
+        <div className="mb-10">
           <h1 className="text-2xl font-mono text-white mb-2 font-light tracking-wide">[ONE OF ONE INTELLIGENCE]</h1>
         </div>
 
         {/* Accuracy Display */}
-        <div className="mb-6">
+        <div className="mb-12">
           <div className="flex items-center gap-2 mb-2">
-          </div>
-          <div className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3">
+          </div> 
+          <div>
             <div className="flex items-center justify-center gap-3 mb-2">
               <span className="text-green-400 font-light">{accuracy.wins} W</span>
               <span className="text-gray-500 mx-1">|</span>
@@ -450,11 +451,11 @@ export default function Home() {
           <div className="flex justify-center items-center gap-4 text-sm mb-6 font-light">
             <div className="flex items-center gap-1">
               <Badge variant="outline" className="bg-teal-900/40 text-teal-300 border-teal-700/50">
-                <Check className="h-3 w-3 mr-1" /> Complete Lineups
+                <Check className="h-3 w-3 mr-1" /> Lineups
               </Badge>
             </div>
             <div className="flex items-center gap-1">
-              <Badge variant="outline" className="bg-teal-900/40 text-teal-400 border-teal-700/50">
+              <Badge variant="outline" className="bg-teal-900/40 text-teal-300 border-teal-700/50">
                 <AlertCircle className="h-3 w-3 mr-1" /> Pending Lineups
               </Badge>
             </div>
@@ -485,13 +486,13 @@ export default function Home() {
                   value="ready"
                   className="data-[state=active]:bg-teal-800 data-[state=active]:text-teal-50 font-light"
                 >
-                  Ready ({games.filter((game) => isGameBetReady(game)).length})
+                  Valid ({games.filter((game) => isGameBetReady(game)).length})
                 </TabsTrigger>
                 <TabsTrigger
                   value="not-ready"
                   className="data-[state=active]:bg-teal-800 data-[state=active]:text-teal-50 font-light"
                 >
-                  Pending ({games.filter((game) => !isGameBetReady(game)).length})
+                  Pending  ({games.filter((game) => !isGameBetReady(game)).length})
                 </TabsTrigger>
               </TabsList>
 
@@ -537,11 +538,11 @@ export default function Home() {
                                 >
                                   {isBetReady ? (
                                     <span className="flex items-center">
-                                      <Check className="h-3 w-3 mr-1" /> Complete
+                                      <Check className="h-3 w-3 mr-1" /> Lineups
                                     </span>
                                   ) : (
                                     <span className="flex items-center">
-                                      <AlertCircle className="h-3 w-3 mr-1" /> Pending
+                                      <AlertCircle className="h-3 w-3 mr-1" /> Pending Lineups
                                     </span>
                                   )}
                                 </Badge>
@@ -689,7 +690,7 @@ export default function Home() {
                                                 : "bg-teal-900/60 text-teal-300"
                                             }
                                           >
-                                            {isBetReady ? "Ready to Bet" : "Pending Lineups"}
+                                            {isBetReady ? "Valid" : "Pending Lineups"}
                                           </Badge>
                                         </div>
                                       </div>
