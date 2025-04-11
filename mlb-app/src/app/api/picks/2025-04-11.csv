@@ -1,15 +1,15 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 778375,Cleveland Guardians,Kansas City Royals,7.0,Over,Jonathan India,Bobby Witt Jr.,Vinnie Pasquantino,Salvador Perez,Michael Massey,Hunter Renfroe,Drew Waters,Freddy Fermin,Kyle Isbel,Steven Kwan,José Ramírez,Carlos Santana,Kyle Manzardo,Jhonkensy Noel,Gabriel Arias,Angel Martínez,Austin Hedges,Brayan Rocchio,Kris Bubic,Tanner Bibee
-778367,Tampa Bay Rays,Atlanta Braves,9.0,Under,,,,,,,,,,Yandy Díaz,Brandon Lowe,Junior Caminero,Jonathan Aranda,Christopher Morel,Kameron Misner,Danny Jansen,Jake Mangum,Taylor Walls,,Taj Bradley
 778372,Baltimore Orioles,Toronto Blue Jays,8.0,Under,,,,,,,,,,,,,,,,,,,,
-778369,Miami Marlins,Washington Nationals,8.0,Under,,,,,,,,,,Xavier Edwards,Otto Lopez,Kyle Stowers,Eric Wagaman,Derek Hill,Jonah Bride,Liam Hicks,Javier Sanoja,Graham Pauley,,Edward Cabrera
 778374,Cincinnati Reds,Pittsburgh Pirates,8.0,Over,Enmanuel Valdez,Bryan Reynolds,Joey Bart,Endy Rodríguez,Ke'Bryan Hayes,Jack Suwinski,Tommy Pham,Adam Frazier,Isiah Kiner-Falefa,TJ Friedl,Blake Dunn,Elly De La Cruz,Spencer Steer,Jeimer Candelario,Christian Encarnacion-Strand,Gavin Lux,Santiago Espinal,Jose Trevino,Bailey Falter,Brady Singer
-778366,Chicago White Sox,Boston Red Sox,8.0,Under,,,,,,,,,,Miguel Vargas,Luis Robert Jr.,Austin Slater,Andrew Vaughn,Lenyn Sosa,Michael A. Taylor,Chase Meidroth,Omar Narváez,Jacob Amaya,,Davis Martin
+778367,Tampa Bay Rays,Atlanta Braves,9.0,Under,,,,,,,,,,Yandy Díaz,Brandon Lowe,Junior Caminero,Jonathan Aranda,Christopher Morel,Kameron Misner,Danny Jansen,Jake Mangum,Taylor Walls,,Taj Bradley
+778368,Houston Astros,Los Angeles Angels,9.0,Under,,,,,,,,,,,,,,,,,,,,
 778370,New York Yankees,San Francisco Giants,8.0,Under,Mike Yastrzemski,Willy Adames,Jung Hoo Lee,Matt Chapman,Heliot Ramos,LaMonte Wade Jr.,Wilmer Flores,Patrick Bailey,Tyler Fitzgerald,Paul Goldschmidt,Ben Rice,Aaron Judge,Cody Bellinger,Anthony Volpe,Jazz Chisholm Jr.,Austin Wells,Oswald Peraza,Trent Grisham,Robbie Ray,Marcus Stroman
+778369,Miami Marlins,Washington Nationals,8.0,Over,CJ Abrams,James Wood,Keibert Ruiz,Nathaniel Lowe,Josh Bell,Luis García Jr.,Paul DeJong,Dylan Crews,Jacob Young,Xavier Edwards,Otto Lopez,Kyle Stowers,Eric Wagaman,Derek Hill,Jonah Bride,Liam Hicks,Javier Sanoja,Graham Pauley,Mitchell Parker,Edward Cabrera
 778363,Minnesota Twins,Detroit Tigers,8.0,Under,,,,,,,,,,,,,,,,,,,,
-778368,Houston Astros,Los Angeles Angels,8.5,Under,,,,,,,,,,,,,,,,,,,,
-778361,San Diego Padres,Colorado Rockies,7.5,Under,,,,,,,,,,,,,,,,,,,,
+778366,Chicago White Sox,Boston Red Sox,8.0,Over,Jarren Duran,Rafael Devers,Alex Bregman,Triston Casas,Trevor Story,Wilyer Abreu,Kristian Campbell,Blake Sabol,Ceddanne Rafaela,Miguel Vargas,Luis Robert Jr.,Austin Slater,Andrew Vaughn,Lenyn Sosa,Michael A. Taylor,Chase Meidroth,Omar Narváez,Jacob Amaya,Sean Newcomb,Davis Martin
 778365,St. Louis Cardinals,Philadelphia Phillies,7.5,Over,,,,,,,,,,Lars Nootbaar,Jordan Walker,Brendan Donovan,Nolan Arenado,Alec Burleson,Pedro Pagés,Victor Scott II,Thomas Saggese,Masyn Winn,,Andre Pallante
-778356,Los Angeles Dodgers,Chicago Cubs,8.0,Under,,,,,,,,,,,,,,,,,,,,
-778358,Athletics,New York Mets,10.0,Under,,,,,,,,,,,,,,,,,,,,
+778361,San Diego Padres,Colorado Rockies,7.5,Under,,,,,,,,,,,,,,,,,,,,
 778360,Seattle Mariners,Texas Rangers,6.5,Under,,,,,,,,,,,,,,,,,,,,
+778358,Athletics,New York Mets,10.0,Under,,,,,,,,,,,,,,,,,,,,
+778356,Los Angeles Dodgers,Chicago Cubs,8.0,Under,,,,,,,,,,,,,,,,,,,,
