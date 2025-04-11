@@ -27,7 +27,8 @@ jobs:
 
       - name: Merge data-feed into main
         run: |
-          git merge --no-ff upstream/data-feed -m "Auto-merge data-feed into main"
+          git merge upstream/data-feed --allow-unrelated-histories -m "Auto-merge data-feed into main"
+      
 
       - name: Push changes to main
         env:
