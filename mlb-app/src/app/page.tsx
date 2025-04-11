@@ -14,20 +14,13 @@ import {
   ExternalLink,
   Github,
   Download,
-  Trophy,
   Clock,
   BarChart3,
   ArrowUp,
   ArrowDown,
-  Goal,
-  Brain,
-  BrainIcon,
-  BrainCircuit,
-  BoomBox,
 } from "lucide-react"
 import { useFetchCsv } from "@/components/csv-fetcher"
 import { TeamLogo } from "@/components/team-logo"
-import { Onest } from "next/font/google"
 
 type GamePick = {
   game_id: string | number
@@ -387,7 +380,7 @@ export default function Home() {
             className="bg-teal-900/20 border border-teal-800/30 rounded-lg p-3 flex items-center gap-2 text-teal-300/80 hover:text-teal-200 transition-colors font-medium"
           >
             <Download className="h-4 w-4" />
-            <span>Today's Data</span>
+            <span>Today&apos;s Data</span>
           </a>
           <a
             href="/data/cumulative_performance.csv"
