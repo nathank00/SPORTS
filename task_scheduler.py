@@ -48,6 +48,7 @@ def git_commit_and_push():
     print(f"[{get_local_time()}] Committing and pushing changes to GitHub...")
     log_message(f" [INFO] Committing and pushing changes to GitHub...")
     os.chdir(REPO_PATH)
+    subprocess.run(["git", "pull", "origin", "main"], check=True)
     subprocess.run(["git", "add", "."], check=True)
     subprocess.run(["git", "commit", "-m", f"Auto-update {get_local_time()}"], check=True)
     subprocess.run(["git", "push", "origin", "data-feed", "--force"], check=True)
