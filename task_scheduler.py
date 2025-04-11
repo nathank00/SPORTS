@@ -6,6 +6,7 @@ import pytz
 import sys
 print(sys.executable)
 
+subprocess.run(["git", "pull", "origin", "main"], check=True)
 
 # Define paths
 INITIAL_SCRIPTS = ["1-game_pks.py", "2-player_ids.py", "3-gamelogs.py", "4-odds.py", "5-playerstats.py", "6-customstats.py", "7-currentdata.py", "8-scrape-odds.py", "9-predict.py", "10-performance.py"]
@@ -48,7 +49,6 @@ def git_commit_and_push():
     print(f"[{get_local_time()}] Committing and pushing changes to GitHub...")
     log_message(f" [INFO] Committing and pushing changes to GitHub...")
     os.chdir(REPO_PATH)
-    subprocess.run(["git", "pull", "origin", "main"], check=True)
     subprocess.run(["git", "add", "."], check=True)
     subprocess.run(["git", "commit", "-m", f"Auto-update {get_local_time()}"], check=True)
     subprocess.run(["git", "push", "origin", "data-feed", "--force"], check=True)
@@ -62,7 +62,8 @@ def main():
         print("[INFO] Stop file detected. Exiting before execution.")
         log_message("[INFO] Stop file detected. Exiting before execution.")
         return
-
+    
+    subprocess.run(["git", "pull", "origin", "main"], check=True)
     run_scripts(INITIAL_SCRIPTS)
 
     while True:
@@ -76,6 +77,7 @@ def main():
             log_message(f"[INFO] Stopping execution at {get_local_time()}")
             break
 
+        subprocess.run(["git", "pull", "origin", "main"], check=True)    
         run_scripts(PERIODIC_SCRIPTS)
         git_commit_and_push()
 
