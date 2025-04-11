@@ -1,0 +1,37 @@
+name: Merge data-feed into main
+
+on:
+  push:
+    branches:
+      - data-feed
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add remote and fetch data-feed
+        run: |
+          git remote add upstream https://github.com/${{ github.repository }}.git
+          git fetch upstream data-feed
+
+      - name: Merge data-feed into main
+        run: |
+          git merge upstream/data-feed --allow-unrelated-histories -m "Auto-merge data-feed into main"
+      
+
+      - name: Push changes to main
+        env:
+          TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git HEAD:main
