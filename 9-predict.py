@@ -58,7 +58,7 @@ output_file = os.path.join(output_dir, f"{today}.csv")
 output_df.to_csv(output_file, index=False)
 
 # Write to 'public' output file
-output_dir = 'mlb-app/public'
+output_dir = 'mlb-app/public/data'
 os.makedirs(output_dir, exist_ok=True)
 output_file = os.path.join(output_dir, f"{today}.csv")
 output_df.to_csv(output_file, index=False)
