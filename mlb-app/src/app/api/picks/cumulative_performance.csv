@@ -98,6 +98,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-10,778373,Kansas City Royals,Minnesota Twins,8.5,5.0,0,0
 2025-04-11,778375,Cleveland Guardians,Kansas City Royals,6.5,7.0,1,1
 2025-04-11,778374,Cincinnati Reds,Pittsburgh Pirates,8.0,8.0,1,
+2025-04-11,778367,Tampa Bay Rays,Atlanta Braves,9.0,9.0,0,
+2025-04-11,778370,New York Yankees,San Francisco Giants,8.0,9.0,0,1
+2025-04-11,778369,Miami Marlins,Washington Nationals,8.0,9.0,1,1
 2025-04-04,778458,Detroit Tigers,Chicago White Sox,7.0,11.0,0,1
 2025-04-04,778463,Boston Red Sox,St. Louis Cardinals,9.5,22.0,1,1
 2025-04-04,778460,Chicago Cubs,San Diego Padres,7.0,4.0,1,0
