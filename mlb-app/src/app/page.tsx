@@ -239,50 +239,59 @@ export default function Home() {
     return true
   }
 
-  // Determine game prediction status (Winner, Loser, Pending)
+  // Determine game prediction status (W, L, TBD, push)
   const getGameStatus = (game: GamePick): { status: string; className: string; shortStatus: string } => {
     const enrichedGame = enrichedGames[game.game_id]
-
     if (!enrichedGame) {
       return { status: "Pending", className: "bg-teal-900/40 text-teal-300", shortStatus: "TBD" }
     }
-
-    // Check if game is completed or if runs_total > runline
-    const completed = enrichedGame.completed === "1" || enrichedGame.completed === 1
-    const runsTotal = Number.parseFloat(enrichedGame.runs_total as string)
-    const runline = Number.parseFloat(enrichedGame.runline as string)
+  
     const prediction = enrichedGame.prediction
     const outcome = enrichedGame.outcome
-
-    // If game is completed or runs_total > runline, we can determine winner/loser
-    if (completed || runsTotal > runline) {
-      // If prediction matches outcome, it's a winner
-      if (prediction !== undefined && outcome !== undefined && prediction.toString() === outcome.toString()) {
+    const completed = enrichedGame.completed === "1" || enrichedGame.completed === 1
+  
+    if (completed) {
+      if (outcome === "push") {
+        return { status: "Push", className: "bg-gray-700 text-gray-300", shortStatus: "PUSH" }
+      }
+      if (prediction === outcome) {
         return { status: "Winner", className: "bg-green-900/40 text-green-400", shortStatus: "W" }
-      } else if (prediction !== undefined && outcome !== undefined) {
+      } else {
         return { status: "Loser", className: "bg-red-900/40 text-red-400", shortStatus: "L" }
       }
+    } else {
+      if (outcome === "push") {
+        return { status: "Push (In Progress)", className: "bg-gray-700/40 text-gray-300", shortStatus: "TBD" }
+      }
+      if (prediction === "1" && outcome === "1") {
+        return { status: "Winner (Locked)", className: "bg-green-900/30 text-green-300", shortStatus: "W" }
+      }
+      if (prediction === "0" && outcome === "1") {
+        return { status: "Loser (Locked)", className: "bg-red-900/30 text-red-300", shortStatus: "L" }
+      }
+      return { status: "Pending", className: "bg-gray-800/30 text-gray-300", shortStatus: "TBD" }
     }
-
-    return { status: "Game in progress", className: "bg-gray-800/30 text-gray-300", shortStatus: "TBD" }
   }
+  
 
   // Calculate daily record
   const dailyRecord = useMemo(() => {
     let wins = 0
     let losses = 0
-
+  
     games.forEach((game) => {
       const status = getGameStatus(game)
-      if (status.status === "Winner") {
+      if (status.shortStatus === "W") {
         wins++
-      } else if (status.status === "Loser") {
+      } else if (status.shortStatus === "L") {
         losses++
       }
+      // Pushes (P) and TBD are ignored
     })
-
+  
     return { wins, losses }
   }, [games, enrichedGames])
+  
 
   // Format date for display - Fixed to handle timezone issues
   const formatDate = (dateString: string): string => {
