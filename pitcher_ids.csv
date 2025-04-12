@@ -49,6 +49,7 @@ mlbID,Name,Position,key_bbref
 571446,Mark Appel,P,appelma01
 644364,Víctor Arano,P,aranovi01
 502042,Chris Archer,P,archech01
+678215,Luarbert Arias,P,ariaslu01
 685503,Kohei Arihara,P,arihako01
 542888,Shawn Armstrong,P,armstsh01
 453562,Jake Arrieta,P,arrieja01
@@ -273,6 +274,7 @@ mlbID,Name,Position,key_bbref
 640444,Wil Crowe,P,crowewi01
 518585,Fernando Cruz,P,cruzfe01
 672911,Jesus Cruz,P,cruzje01
+678316,Omar Cruz,P,cruzom01
 674444,Steven Cruz,P,cruzst01
 621016,Jose Cuas,P,cuasjo01
 456501,Johnny Cueto,P,cuetojo01
@@ -396,6 +398,7 @@ mlbID,Name,Position,key_bbref
 623167,Chris Flexen,P,flexech01
 641576,Bernardo Flores Jr.,P,florebe01
 571670,Dylan Floro,P,florody01
+689254,Mason Fluharty,P,fluhama01
 671345,Jason Foley,P,foleyja01
 592314,Mike Foltynewicz,P,foltymi01
 641582,Matt Foster,P,fostema01
@@ -489,6 +492,7 @@ mlbID,Name,Position,key_bbref
 692285,Luis Guerrero,P,guerrlu01
 543258,Preston Guilmet,P,guilmpr01
 594311,Jandel Gustave,P,gustaja01
+687473,Ryan Gusto,P,gustory01
 661269,Vladimir Gutierrez,P,gutievl01
 660422,Jorge Guzmán,P,guzmajo04
 608597,Ronald Guzmán,P,guzmaro01
@@ -509,6 +513,7 @@ mlbID,Name,Position,key_bbref
 665048,Hobie Harris,P,harriho02
 663687,Hogan Harris,P,harriho03
 690986,Kyle Harrison,P,harriky01
+802419,Thomas Harrington,P,harrito03
 501789,Will Harris,P,harriwi10
 606996,Kyle Hart,P,hartky01
 664129,Geoff Hartlieb,P,hartlge01
@@ -726,6 +731,7 @@ mlbID,Name,Position,key_bbref
 641154,Pablo López,P,lopezpa01
 625643,Reynaldo López,P,lopezre01
 661255,Yoan López,P,lopezyo01
+695418,Brad Lord,P,lordbr02
 547179,Michael Lorenzen,P,lorenmi01
 571901,Aaron Loup,P,loupaa01
 702795,Ryan Loutos,P,loutory01
@@ -788,6 +794,7 @@ mlbID,Name,Position,key_bbref
 670766,Darren McCaughan,P,mccauda01
 663556,Shane McClanahan,P,mcclash01
 621121,Lance McCullers Jr.,P,mcculla02
+680729,Garrett McDaniels,P,mcdanga01
 694646,Chayce McDermott,P,mcderch01
 686790,Trevor McDonald,P,mcdontr01
 519008,T.J. McFarland,P,mcfartj01
@@ -868,6 +875,7 @@ mlbID,Name,Position,key_bbref
 666205,Kyle Muller,P,mulleky01
 662253,Andrés Muñoz,P,munozan01
 682610,Roddery Muñoz,P,munozro01
+668716,Noah Murdock,P,murdono01
 682171,Penn Murfee,P,murfepe01
 669684,Chris Murphy,P,murphch01
 641907,Patrick Murphy,P,murphpa02
@@ -936,6 +944,7 @@ mlbID,Name,Position,key_bbref
 680730,Mitchell Parker,P,parkemi01
 641149,Wes Parsons,P,parsowe01
 672715,Luis Patiño,P,patinlu01
+694477,Chad Patrick,P,patrich01
 607359,Spencer Patton,P,pattosp01
 600944,David Paulino,P,paulida01
 572020,James Paxton,P,paxtoja01
@@ -1159,6 +1168,7 @@ mlbID,Name,Position,key_bbref
 622098,Drew Smith,P,smithdr01
 501925,Joe Smith,P,smithjo05
 642092,Riley Smith,P,smithri01
+681343,Shane Smith,P,smithsh02
 519293,Will Smith,P,smithwi04
 592767,Drew Smyly,P,smylydr01
 669912,Kirby Snead,P,sneadki01
@@ -1213,6 +1223,7 @@ mlbID,Name,Position,key_bbref
 624133,Ranger Suárez,P,suarera01
 663158,Robert Suarez,P,suarero01
 593833,Wander Suero,P,suerowa01
+608372,Tomoyuki Sugano,P,suganto01
 676641,Beau Sulser,P,sulsebe01
 642121,Cole Sulser,P,sulseco01
 608718,Brent Suter,P,suterbr01
@@ -1236,6 +1247,7 @@ mlbID,Name,Position,key_bbref
 676194,Jackson Tetreault,P,tetreja01
 672730,Juan Then,P,thenju01
 573204,Caleb Thielbar,P,thielca01
+671162,Connor Thomas,P,thomaco02
 624522,Keegan Thompson,P,thompke02
 666168,Mason Thompson,P,thompma02
 657044,Ryan Thompson,P,thompry02
@@ -1273,6 +1285,7 @@ mlbID,Name,Position,key_bbref
 672841,Carlos Vargas,P,vargaca01
 681402,Gus Varland,P,varlagu01
 686973,Louis Varland,P,varlalo01
+678024,Mike Vasil,P,vasilmi01
 607755,Andrew Vasquez,P,vasquan02
 681190,Randy Vásquez,P,vasqura02
 592826,Vince Velasquez,P,velasvi01
@@ -1397,19 +1410,7 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-678215,Luarbert Arias,P,
-678316,Omar Cruz,P,
+690382,Michael Darrell-Hicks,P,
 690928,Hunter Dobbins,P,
 801403,Chase Dollander,P,
-689254,Mason Fluharty,P,
-687473,Ryan Gusto,P,
-802419,Thomas Harrington,P,
-695418,Brad Lord,P,
-680729,Garrett McDaniels,P,
-668716,Noah Murdock,P,
-694477,Chad Patrick,P,
-681343,Shane Smith,P,
-608372,Tomoyuki Sugano,P,
-671162,Connor Thomas,P,
 701121,Logan VanWey,P,
-678024,Mike Vasil,P,

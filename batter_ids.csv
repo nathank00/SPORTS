@@ -283,6 +283,7 @@ mlbID,Name,Position,key_bbref
 687952,Christian Encarnacion-Strand,1B,encarch01
 666464,Jerar Encarnacion,RF,encarje01
 641553,Adam Engel,CF,engelad01
+641555,J.C. Escarra,C,escarjc01
 444876,Alcides Escobar,SS,escobal02
 500871,Eduardo Escobar,3B,escobed01
 669289,Santiago Espinal,3B,espinsa01
@@ -499,6 +500,7 @@ mlbID,Name,Position,key_bbref
 667428,Grant Koch,C,kochgr01
 670128,Taylor Kohlwey,RF,kohlwta01
 656627,Mark Kolozsvary,C,kolozma01
+683766,Christian Koss,SS,kossch01
 518902,Pete Kozma,SS,kozmape01
 668952,Ryan Kreidler,SS,kreidry01
 607249,Jason Krizan,2B,krizaja01
@@ -569,6 +571,7 @@ mlbID,Name,Position,key_bbref
 455117,Martín Maldonado,C,maldoma01
 669234,Justyn-Henry Malloy,LF,malloju02
 641820,Trey Mancini,1B,mancitr01
+663968,Jake Mangum,CF,manguja01
 700932,Kyle Manzardo,1B,manzaky01
 672779,Tucupita Marcano,SS,marcatu01
 665561,Rafael Marchán,C,marchra01
@@ -950,6 +953,7 @@ mlbID,Name,Position,key_bbref
 669352,Bubba Thompson,CF,thompbu01
 572204,Trayce Thompson,RF,thomptr01
 669911,Michael Toglia,1B,toglimi01
+686475,Tyler Tolbert,SS,tolbety01
 664789,Ka'ai Tom,OF,tomka01
 679529,Spencer Torkelson,1B,torkesp01
 647351,Abraham Toro,3B,toroab01
@@ -1047,6 +1051,7 @@ mlbID,Name,Position,key_bbref
 642221,Kean Wong,2B,wongke01
 543939,Kolten Wong,2B,wongko01
 695578,James Wood,LF,woodja03
+669398,Gage Workman,3B,workmga01
 642851,Austin Wynns,C,wynnsau01
 687066,Eric Yang,C,yanger01
 573262,Mike Yastrzemski,RF,yastrmi01
@@ -1062,11 +1067,6 @@ mlbID,Name,Position,key_bbref
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
 691907,Tsung-Che Cheng,SS,
-641555,J.C. Escarra,C,
-683766,Christian Koss,SS,
-663968,Jake Mangum,CF,
 805367,Chase Meidroth,3B,
 694374,Tim Tawa,2B,
-686475,Tyler Tolbert,SS,
 691728,Zac Veen,RF,
-669398,Gage Workman,3B,

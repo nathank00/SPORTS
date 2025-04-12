@@ -1,0 +1,15 @@
+game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+778355,12:05,New York Yankees,San Francisco Giants,8.0,Over,0,1,0,0,,,,,,,,,,Ben Rice,Aaron Judge,Cody Bellinger,Paul Goldschmidt,Jazz Chisholm Jr.,Anthony Volpe,Austin Wells,Jasson Domínguez,Oswaldo Cabrera,,Will Warren
+778347,11:15,St. Louis Cardinals,Philadelphia Phillies,8.0,Over,0,1,0,0,Bryson Stott,Trea Turner,Bryce Harper,Kyle Schwarber,Nick Castellanos,Max Kepler,J.T. Realmuto,Alec Bohm,Brandon Marsh,Lars Nootbaar,Luken Baker,Willson Contreras,Nolan Arenado,Brendan Donovan,Jordan Walker,Pedro Pagés,Victor Scott II,Thomas Saggese,Cristopher Sánchez,Miles Mikolas
+778348,11:10,Minnesota Twins,Detroit Tigers,9.0,Under,0,0,0,0,Zach McKinstry,Kerry Carpenter,Spencer Torkelson,Riley Greene,Colt Keith,Justyn-Henry Malloy,Trey Sweeney,Javier Báez,Tomás Nido,Matt Wallner,Willi Castro,Carlos Correa,Trevor Larnach,Byron Buxton,Ty France,Edouard Julien,Harrison Bader,Christian Vázquez,Jackson Jobe,Chris Paddack
+778354,13:10,Miami Marlins,Washington Nationals,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778349,13:10,Chicago White Sox,Boston Red Sox,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778353,13:10,Tampa Bay Rays,Atlanta Braves,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778362,13:05,Baltimore Orioles,Toronto Blue Jays,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778352,17:40,San Diego Padres,Colorado Rockies,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778357,15:40,Cincinnati Reds,Pittsburgh Pirates,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778359,15:10,Cleveland Guardians,Kansas City Royals,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778351,16:10,Houston Astros,Los Angeles Angels,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778345,18:10,Los Angeles Dodgers,Chicago Cubs,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778350,17:10,Arizona Diamondbacks,Milwaukee Brewers,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778341,18:40,Seattle Mariners,Texas Rangers,7.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
