@@ -329,15 +329,15 @@ export default function Home() {
     <div className="flex min-h-screen bg-[#021414] text-teal-50 font-light">
       {/* Left Sidebar */}
       <aside
-        className={`w-[24rem] bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full transition-all duration-300 ease-in-out ${
-          sidebarVisible ? "left-0" : "-left-96"
+        className={`w-[26rem] bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full transition-all duration-300 ease-in-out ${
+          sidebarVisible ? "left-0" : "-left-[26rem]"
         }`}
       >
 
         <div className="mb-8"></div>
-        <div className="mb-8">
+        <div className="mb-8 flex justify-center w-full">
           <h1 
-            className="text-2xl font-mono text-white mb-2 font-light tracking-wide cursor-pointer hover:text-teal-300 transition-colors"
+            className="text-2xl font-mono text-white mb-2 font-light tracking-wide cursor-pointer hover:text-teal-300 transition-colors whitespace-nowrap text-center"
             onClick={() => setSidebarVisible(false)}
           >
               [ONE OF ONE INTELLIGENCE]
