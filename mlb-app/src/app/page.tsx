@@ -435,7 +435,7 @@ export default function Home() {
       )}
 
       {/* Main Content */}
-      <main className={`flex-1 p-6 transition-all duration-300 ease-in-out ${sidebarVisible ? "ml-96" : "ml-0"}`}>
+      <main className={`flex-1 p-6 transition-all duration-300 ease-in-out ${sidebarVisible ? "ml-[26rem]" : "ml-0"}`}>
         <div className="max-w-7xl mx-auto">
           {/* Date Header with Record */}
           <div className="mb-8 text-center relative">
