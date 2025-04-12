@@ -68,7 +68,13 @@ type CsvRow = Record<string, string | number>
 export default function Home() {
   const [games, setGames] = useState<GamePick[]>([])
   const [error, setError] = useState("")
-  const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split("T")[0])
+  const [selectedDate, setSelectedDate] = useState(() => {
+    const pacificNow = new Date(new Date().toLocaleString("en-US", { timeZone: "America/Los_Angeles" }))
+    const year = pacificNow.getFullYear()
+    const month = String(pacificNow.getMonth() + 1).padStart(2, "0")
+    const day = String(pacificNow.getDate()).padStart(2, "0")
+    return `${year}-${month}-${day}`
+  })  
   const [lastUpdated, setLastUpdated] = useState<string>("Loading...")
   const [isLoading, setIsLoading] = useState(true)
   const [accuracy, setAccuracy] = useState<{ wins: number; losses: number; percent: string; total: number }>({
@@ -206,21 +212,13 @@ export default function Home() {
       })
   }
 
-  // Update the useEffect to default to today's date
-  useEffect(() => {
-    // Get current date in YYYY-MM-DD format
-    const today = new Date().toISOString().split("T")[0]
-    setSelectedDate(today)
-    fetchPicks(today)
-  }, [])
-
-  // Replace the existing useEffect that depends on selectedDate with this:
+  // Update the useEffect to default to today's date (PST)
   useEffect(() => {
     if (selectedDate) {
       fetchPicks(selectedDate)
     }
-  }, [selectedDate])
-
+  }, [selectedDate])  
+  
   // Check if a game has complete lineup data
   const isGameBetReady = (game: GamePick): boolean => {
     // Check if both starting pitchers are available
@@ -331,7 +329,7 @@ export default function Home() {
     <div className="flex min-h-screen bg-[#021414] text-teal-50 font-light">
       {/* Left Sidebar */}
       <aside
-        className={`w-96 bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full transition-all duration-300 ease-in-out ${
+        className={`w-[24rem] bg-[#011010] border-r border-gray-700/30 p-4 flex flex-col fixed h-full transition-all duration-300 ease-in-out ${
           sidebarVisible ? "left-0" : "-left-96"
         }`}
       >
@@ -347,7 +345,7 @@ export default function Home() {
         </div>
 
         <div className="mb-2 flex justify-center">
-          <img src="/team-logos/monkeyking4.png" alt="Monkey King" className="w-24 h-auto" />
+          <img src="/team-logos/monkeyking5.png" alt="Monkey King" className="w-24 h-auto" />
         </div>
 
         {/* Accuracy Display */}
