@@ -71,6 +71,7 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-10,778382,Tampa Bay Rays,Los Angeles Angels,8.0,12.0,0,1
 2025-04-10,778378,Cleveland Guardians,Chicago White Sox,7.5,7.0,0,0
 2025-04-11,778375,Cleveland Guardians,Kansas City Royals,6.5,7.0,1,1
+2025-04-11,778374,Cincinnati Reds,Pittsburgh Pirates,8.0,8.0,1,
 2025-04-04,778458,Detroit Tigers,Chicago White Sox,7.0,11.0,0,1
 2025-04-04,778463,Boston Red Sox,St. Louis Cardinals,9.5,22.0,1,1
 2025-04-04,778460,Chicago Cubs,San Diego Padres,7.0,4.0,1,0
