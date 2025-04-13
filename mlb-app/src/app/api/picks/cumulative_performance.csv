@@ -62,16 +62,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-07,778412,Kansas City Royals,Minnesota Twins,8.0,6.0,1,0
 2025-04-07,778414,Athletics,San Diego Padres,8.5,9.0,0,1
 2025-04-07,778410,San Francisco Giants,Cincinnati Reds,6.5,2.0,1,0
-2025-04-12,778348,Minnesota Twins,Detroit Tigers,8.5,4.0,0,0
 2025-04-12,778347,St. Louis Cardinals,Philadelphia Phillies,8.0,5.0,1,0
+2025-04-12,778348,Minnesota Twins,Detroit Tigers,8.5,4.0,0,0
 2025-04-12,778355,New York Yankees,San Francisco Giants,8.0,12.0,1,1
 2025-04-12,778346,Athletics,New York Mets,9.0,4.0,0,0
-2025-04-12,778362,Baltimore Orioles,Toronto Blue Jays,8.0,9.0,0,1
-2025-04-12,778349,Chicago White Sox,Boston Red Sox,7.5,5.0,1,0
 2025-04-12,778353,Tampa Bay Rays,Atlanta Braves,8.5,9.0,1,1
-2025-04-12,778359,Cleveland Guardians,Kansas City Royals,8.0,9.0,0,1
-2025-04-12,778354,Miami Marlins,Washington Nationals,7.5,13.0,0,1
+2025-04-12,778362,Baltimore Orioles,Toronto Blue Jays,8.0,9.0,0,1
 2025-04-12,778357,Cincinnati Reds,Pittsburgh Pirates,8.0,7.0,1,0
+2025-04-12,778354,Miami Marlins,Washington Nationals,7.5,13.0,0,1
+2025-04-12,778359,Cleveland Guardians,Kansas City Royals,8.0,9.0,0,1
+2025-04-12,778349,Chicago White Sox,Boston Red Sox,7.5,5.0,1,0
 2025-04-02,778477,Milwaukee Brewers,Kansas City Royals,7.5,5.0,0,0
 2025-04-02,778479,Tampa Bay Rays,Pittsburgh Pirates,7.0,6.0,0,0
 2025-04-02,778480,Cincinnati Reds,Texas Rangers,8.5,1.0,1,0
