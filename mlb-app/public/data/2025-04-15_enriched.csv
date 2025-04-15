@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-778314,15:40,Pittsburgh Pirates,Washington Nationals,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778316,15:40,Cincinnati Reds,Seattle Mariners,8.5,Under,0,0,0,0,,,,,,,,,,TJ Friedl,Matt McLain,Elly De La Cruz,Gavin Lux,Austin Hays,Jeimer Candelario,Christian Encarnacion-Strand,Jake Fraley,Jose Trevino,,Nick Lodolo
-778313,15:45,Philadelphia Phillies,San Francisco Giants,8.0,Under,0,0,0,0,,,,,,,,,,Bryson Stott,Trea Turner,Bryce Harper,Kyle Schwarber,Nick Castellanos,J.T. Realmuto,Max Kepler,Alec Bohm,Brandon Marsh,,Jesús Luzardo
-778319,16:05,Tampa Bay Rays,Boston Red Sox,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778314,15:40,Pittsburgh Pirates,Washington Nationals,8.5,Under,0,0,0,0,,,,,,,,,,Oneil Cruz,Bryan Reynolds,Ke'Bryan Hayes,Enmanuel Valdez,Jack Suwinski,Tommy Pham,Adam Frazier,Isiah Kiner-Falefa,Henry Davis,,Mitch Keller
+778316,15:40,Cincinnati Reds,Seattle Mariners,8.5,Under,0,0,0,0,Dylan Moore,Julio Rodríguez,Cal Raleigh,Randy Arozarena,Mitch Garver,Donovan Solano,Leo Rivas,Ben Williamson,J.P. Crawford,TJ Friedl,Matt McLain,Elly De La Cruz,Gavin Lux,Austin Hays,Jeimer Candelario,Christian Encarnacion-Strand,Jake Fraley,Jose Trevino,Luis Castillo,Nick Lodolo
 778318,15:40,Miami Marlins,Arizona Diamondbacks,9.0,Under,0,0,0,0,Corbin Carroll,Geraldo Perdomo,Pavin Smith,Josh Naylor,Lourdes Gurriel Jr.,Eugenio Suárez,Gabriel Moreno,Alek Thomas,Garrett Hampson,Xavier Edwards,Jesús Sánchez,Eric Wagaman,Matt Mervis,Kyle Stowers,Otto Lopez,Griffin Conine,Liam Hicks,Graham Pauley,Merrill Kelly,Connor Gillispie
+778313,15:45,Philadelphia Phillies,San Francisco Giants,8.0,Under,0,0,0,0,,,,,,,,,,Bryson Stott,Trea Turner,Bryce Harper,Kyle Schwarber,Nick Castellanos,J.T. Realmuto,Max Kepler,Alec Bohm,Brandon Marsh,,Jesús Luzardo
+778319,16:05,Tampa Bay Rays,Boston Red Sox,9.0,Under,0,0,0,0,,,,,,,,,,Yandy Díaz,Brandon Lowe,Junior Caminero,Jonathan Aranda,Christopher Morel,Kameron Misner,Jake Mangum,Taylor Walls,Ben Rortvedt,,Ryan Pepiot
 778317,16:05,Baltimore Orioles,Cleveland Guardians,9.0,Under,0,0,0,0,,,,,,,,,,Jordan Westburg,Adley Rutschman,Tyler O'Neill,Gunnar Henderson,Ryan Mountcastle,Gary Sánchez,Cedric Mullins,Ramón Laureano,Jorge Mateo,,Charlie Morton
-778311,16:07,Toronto Blue Jays,Atlanta Braves,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778312,16:05,New York Yankees,Kansas City Royals,8.5,Under,0,0,0,0,,,,,,,,,,Ben Rice,Aaron Judge,Cody Bellinger,Paul Goldschmidt,Jazz Chisholm Jr.,Anthony Volpe,Austin Wells,Jasson Domínguez,Oswald Peraza,,Max Fried
-778309,16:40,Chicago White Sox,Athletics,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778307,16:40,Minnesota Twins,New York Mets,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778306,17:05,Texas Rangers,Los Angeles Angels,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778309,16:40,Chicago White Sox,Athletics,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778311,16:07,Toronto Blue Jays,Atlanta Braves,7.5,Under,0,0,0,0,,,,,,,,,,Bo Bichette,Vladimir Guerrero Jr.,Anthony Santander,Andrés Giménez,Alejandro Kirk,Will Wagner,Addison Barger,Myles Straw,Alan Roden,,Kevin Gausman
 778308,16:45,St. Louis Cardinals,Houston Astros,7.5,Under,0,0,0,0,,,,,,,,,,Lars Nootbaar,Willson Contreras,Brendan Donovan,Nolan Arenado,Alec Burleson,Jordan Walker,Nolan Gorman,Pedro Pagés,Michael Siani,,Erick Fedde
+778306,17:05,Texas Rangers,Los Angeles Angels,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778310,16:40,Milwaukee Brewers,Detroit Tigers,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778302,19:10,Los Angeles Dodgers,Colorado Rockies,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778305,18:40,San Diego Padres,Chicago Cubs,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778302,19:10,Los Angeles Dodgers,Colorado Rockies,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
