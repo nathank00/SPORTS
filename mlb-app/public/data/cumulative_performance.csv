@@ -14,6 +14,7 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-13,778334,Seattle Mariners,Texas Rangers,6.5,4.0,0,0
 2025-04-13,778332,Arizona Diamondbacks,Milwaukee Brewers,8.0,7.0,0,0
 2025-04-13,778331,Los Angeles Dodgers,Chicago Cubs,9.0,6.0,0,0
+2025-04-14,778328,Tampa Bay Rays,Boston Red Sox,8.5,11.0,0,1
 2025-04-01,778498,Cincinnati Reds,Texas Rangers,8.5,1.0,0,0
 2025-04-01,778497,Miami Marlins,New York Mets,7.5,6.0,0,0
 2025-04-01,778492,New York Yankees,Arizona Diamondbacks,8.5,12.0,0,1
