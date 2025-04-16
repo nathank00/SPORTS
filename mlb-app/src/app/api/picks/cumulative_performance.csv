@@ -147,10 +147,10 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-10,778382,Tampa Bay Rays,Los Angeles Angels,8.0,12.0,1,1
 2025-04-10,778371,Colorado Rockies,Milwaukee Brewers,10.5,9.0,1,0
 2025-04-10,778373,Kansas City Royals,Minnesota Twins,8.5,5.0,0,0
-2025-04-16,778297,Toronto Blue Jays,Atlanta Braves,7.0,4.0,1,0
-2025-04-16,778295,Milwaukee Brewers,Detroit Tigers,8.0,6.0,0,0
-2025-04-16,778290,St. Louis Cardinals,Houston Astros,8.0,5.0,0,0
 2025-04-16,778299,Minnesota Twins,New York Mets,8.0,7.0,0,0
+2025-04-16,778297,Toronto Blue Jays,Atlanta Braves,7.0,4.0,1,0
+2025-04-16,778290,St. Louis Cardinals,Houston Astros,8.0,5.0,0,0
+2025-04-16,778295,Milwaukee Brewers,Detroit Tigers,8.0,6.0,0,0
 2025-04-11,778375,Cleveland Guardians,Kansas City Royals,6.5,7.0,1,1
 2025-04-11,778374,Cincinnati Reds,Pittsburgh Pirates,8.0,8.0,1,
 2025-04-11,778369,Miami Marlins,Washington Nationals,8.0,11.0,1,1
