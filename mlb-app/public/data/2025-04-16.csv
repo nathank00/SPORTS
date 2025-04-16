@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-778297,Toronto Blue Jays,Atlanta Braves,7.0,Over,Michael Harris II,Austin Riley,Matt Olson,Sean Murphy,Ozzie Albies,Drake Baldwin,Bryan De La Cruz,Eli White,Orlando Arcia,Bo Bichette,Vladimir Guerrero Jr.,Anthony Santander,Andrés Giménez,Alejandro Kirk,Alan Roden,Ernie Clement,Addison Barger,Myles Straw,Spencer Strider,Chris Bassitt
 778299,Minnesota Twins,New York Mets,8.0,Under,Francisco Lindor,Juan Soto,Pete Alonso,Jesse Winker,Brandon Nimmo,Luisangel Acuña,Tyrone Taylor,Brett Baty,Hayden Senger,Edouard Julien,Byron Buxton,Ty France,Trevor Larnach,Ryan Jeffers,Brooks Lee,Willi Castro,DaShawn Keirsey Jr.,Harrison Bader,Huascar Brazobán,David Festa
-778290,St. Louis Cardinals,Houston Astros,8.0,Under,Jose Altuve,Jeremy Peña,Isaac Paredes,Christian Walker,Yainer Diaz,Brendan Rodgers,Jake Meyers,Cam Smith,Chas McCormick,Lars Nootbaar,Willson Contreras,Brendan Donovan,Nolan Arenado,Alec Burleson,Jordan Walker,Yohel Pozo,Victor Scott II,Thomas Saggese,Ronel Blanco,Steven Matz
-778301,Baltimore Orioles,Cleveland Guardians,8.0,Under,,,,,,,,,,,,,,,,,,,,
-778288,San Diego Padres,Chicago Cubs,7.5,Under,Ian Happ,Kyle Tucker,Seiya Suzuki,Michael Busch,Dansby Swanson,Nico Hoerner,Pete Crow-Armstrong,Carson Kelly,Jon Berti,Fernando Tatis Jr.,Luis Arraez,Manny Machado,Xander Bogaerts,Oscar Gonzalez,Jose Iglesias,Connor Joe,Elias Díaz,Tyler Wade,Matthew Boyd,Nick Pivetta
+778297,Toronto Blue Jays,Atlanta Braves,7.0,Over,Michael Harris II,Austin Riley,Matt Olson,Sean Murphy,Ozzie Albies,Drake Baldwin,Bryan De La Cruz,Eli White,Orlando Arcia,Bo Bichette,Vladimir Guerrero Jr.,Anthony Santander,Andrés Giménez,Alejandro Kirk,Alan Roden,Ernie Clement,Addison Barger,Myles Straw,Spencer Strider,Chris Bassitt
 778295,Milwaukee Brewers,Detroit Tigers,8.0,Under,Justyn-Henry Malloy,Gleyber Torres,Andy Ibáñez,Spencer Torkelson,Riley Greene,Javier Báez,Tomás Nido,Trey Sweeney,Ryan Kreidler,Brice Turang,Jackson Chourio,Christian Yelich,William Contreras,Sal Frelick,Rhys Hoskins,Garrett Mitchell,Joey Ortiz,Oliver Dunn,Keider Montero,Jose Quintana
+778290,St. Louis Cardinals,Houston Astros,8.0,Under,Jose Altuve,Jeremy Peña,Isaac Paredes,Christian Walker,Yainer Diaz,Brendan Rodgers,Jake Meyers,Cam Smith,Chas McCormick,Lars Nootbaar,Willson Contreras,Brendan Donovan,Nolan Arenado,Alec Burleson,Jordan Walker,Yohel Pozo,Victor Scott II,Thomas Saggese,Ronel Blanco,Steven Matz
+778288,San Diego Padres,Chicago Cubs,7.5,Under,Ian Happ,Kyle Tucker,Seiya Suzuki,Michael Busch,Dansby Swanson,Nico Hoerner,Pete Crow-Armstrong,Carson Kelly,Jon Berti,Fernando Tatis Jr.,Luis Arraez,Manny Machado,Xander Bogaerts,Oscar Gonzalez,Jose Iglesias,Connor Joe,Elias Díaz,Tyler Wade,Matthew Boyd,Nick Pivetta
+778301,Baltimore Orioles,Cleveland Guardians,8.0,Under,,,,,,,,,,Gunnar Henderson,Adley Rutschman,Ryan O'Hearn,Cedric Mullins,Tyler O'Neill,Heston Kjerstad,Ryan Mountcastle,Jackson Holliday,Ramón Urías,,Dean Kremer
 778293,Pittsburgh Pirates,Washington Nationals,8.0,Under,,,,,,,,,,,,,,,,,,,,
-778304,Cincinnati Reds,Seattle Mariners,8.5,Under,,,,,,,,,,,,,,,,,,,,
-778303,Miami Marlins,Arizona Diamondbacks,8.5,Under,Corbin Carroll,Geraldo Perdomo,Pavin Smith,Josh Naylor,Lourdes Gurriel Jr.,Eugenio Suárez,Gabriel Moreno,Alek Thomas,Tim Tawa,,,,,,,,,,Brandon Pfaadt,
-778296,Philadelphia Phillies,San Francisco Giants,8.0,Under,,,,,,,,,,,,,,,,,,,,
 778298,Tampa Bay Rays,Boston Red Sox,9.0,Under,,,,,,,,,,,,,,,,,,,,
+778296,Philadelphia Phillies,San Francisco Giants,8.0,Under,,,,,,,,,,,,,,,,,,,,
+778303,Miami Marlins,Arizona Diamondbacks,8.5,Under,Corbin Carroll,Geraldo Perdomo,Pavin Smith,Josh Naylor,Lourdes Gurriel Jr.,Eugenio Suárez,Gabriel Moreno,Alek Thomas,Tim Tawa,,,,,,,,,,Brandon Pfaadt,
 778300,New York Yankees,Kansas City Royals,8.0,Under,,,,,,,,,,,,,,,,,,,,
+778304,Cincinnati Reds,Seattle Mariners,8.5,Under,,,,,,,,,,TJ Friedl,Matt McLain,Elly De La Cruz,Austin Hays,Gavin Lux,Spencer Steer,Christian Encarnacion-Strand,Jake Fraley,Jose Trevino,,Nick Martinez
 778294,Chicago White Sox,Athletics,7.5,Under,,,,,,,,,,,,,,,,,,,,
-778289,Texas Rangers,Los Angeles Angels,9.5,Under,,,,,,,,,,,,,,,,,,,,
 778287,Los Angeles Dodgers,Colorado Rockies,8.5,Under,,,,,,,,,,,,,,,,,,,,
+778289,Texas Rangers,Los Angeles Angels,9.5,Under,,,,,,,,,,,,,,,,,,,,
