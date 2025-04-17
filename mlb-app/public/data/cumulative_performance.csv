@@ -122,14 +122,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-10,778382,Tampa Bay Rays,Los Angeles Angels,8.0,12.0,0,1
 2025-04-10,778378,Cleveland Guardians,Chicago White Sox,7.5,7.0,0,0
 2025-04-16,778297,Toronto Blue Jays,Atlanta Braves,7.0,4.0,1,0
+2025-04-16,778290,St. Louis Cardinals,Houston Astros,8.0,5.0,0,0
+2025-04-16,778301,Baltimore Orioles,Cleveland Guardians,8.0,10.0,0,1
 2025-04-16,778295,Milwaukee Brewers,Detroit Tigers,8.0,6.0,0,0
 2025-04-16,778299,Minnesota Twins,New York Mets,8.0,7.0,0,0
-2025-04-16,778290,St. Louis Cardinals,Houston Astros,8.0,5.0,0,0
-2025-04-16,778288,San Diego Padres,Chicago Cubs,7.5,6.0,0,0
 2025-04-16,778293,Pittsburgh Pirates,Washington Nationals,8.0,7.0,1,0
-2025-04-16,778301,Baltimore Orioles,Cleveland Guardians,8.0,10.0,0,1
-2025-04-16,778296,Philadelphia Phillies,San Francisco Giants,8.0,15.0,0,1
+2025-04-16,778288,San Diego Padres,Chicago Cubs,7.5,6.0,0,0
+2025-04-16,778304,Cincinnati Reds,Seattle Mariners,8.5,8.0,0,0
 2025-04-16,778303,Miami Marlins,Arizona Diamondbacks,8.5,8.0,0,0
+2025-04-16,778300,New York Yankees,Kansas City Royals,8.0,7.0,0,0
+2025-04-16,778296,Philadelphia Phillies,San Francisco Giants,8.0,15.0,0,1
+2025-04-16,778298,Tampa Bay Rays,Boston Red Sox,9.0,1.0,0,0
 2025-04-11,778375,Cleveland Guardians,Kansas City Royals,6.5,7.0,1,1
 2025-04-11,778374,Cincinnati Reds,Pittsburgh Pirates,8.0,8.0,1,
 2025-04-11,778369,Miami Marlins,Washington Nationals,8.0,11.0,1,1
