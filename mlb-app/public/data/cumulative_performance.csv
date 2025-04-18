@@ -124,8 +124,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-17,778291,Miami Marlins,Arizona Diamondbacks,8.5,10.0,0,1
 2025-04-17,778280,Pittsburgh Pirates,Washington Nationals,8.0,1.0,1,0
 2025-04-17,778279,Philadelphia Phillies,San Francisco Giants,8.0,10.0,0,1
-2025-04-17,778285,Cincinnati Reds,Seattle Mariners,9.0,18.0,1,1
 2025-04-17,778283,Chicago White Sox,Athletics,8.0,8.0,1,
+2025-04-17,778285,Cincinnati Reds,Seattle Mariners,9.0,18.0,1,1
+2025-04-17,778292,Baltimore Orioles,Cleveland Guardians,8.0,8.0,0,
 2025-04-16,778297,Toronto Blue Jays,Atlanta Braves,7.0,4.0,1,0
 2025-04-16,778299,Minnesota Twins,New York Mets,8.0,7.0,0,0
 2025-04-16,778295,Milwaukee Brewers,Detroit Tigers,8.0,6.0,0,0
