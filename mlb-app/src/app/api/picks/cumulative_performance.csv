@@ -36,9 +36,10 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-03-29,778532,Arizona Diamondbacks,Chicago Cubs,9.0,7.0,0,0
 2025-03-29,778533,Los Angeles Dodgers,Detroit Tigers,7.5,10.0,1,1
 2025-03-29,778521,Seattle Mariners,Athletics,7.0,6.0,1,0
-2025-04-19,778252,Philadelphia Phillies,Miami Marlins,10.5,21.0,1,1
 2025-04-19,778265,Detroit Tigers,Kansas City Royals,8.0,4.0,0,0
+2025-04-19,778252,Philadelphia Phillies,Miami Marlins,10.5,21.0,1,1
 2025-04-19,778257,Chicago Cubs,Arizona Diamondbacks,7.5,8.0,1,1
+2025-04-19,778247,Colorado Rockies,Washington Nationals,9.5,11.0,1,1
 2025-04-13,778344,Baltimore Orioles,Toronto Blue Jays,8.5,13.0,1,1
 2025-04-13,778343,Cincinnati Reds,Pittsburgh Pirates,7.5,4.0,0,0
 2025-04-13,778342,Cleveland Guardians,Kansas City Royals,7.0,6.0,0,0
