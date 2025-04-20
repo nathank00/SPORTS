@@ -13,17 +13,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-18,778269,Houston Astros,San Diego Padres,9.0,10.0,1,1
 2025-04-18,778261,Milwaukee Brewers,Athletics,8.0,8.0,1,
 2025-04-19,778252,Philadelphia Phillies,Miami Marlins,10.5,21.0,1,1
-2025-04-19,778257,Chicago Cubs,Arizona Diamondbacks,7.5,8.0,1,1
 2025-04-19,778265,Detroit Tigers,Kansas City Royals,8.0,4.0,0,0
-2025-04-19,778256,New York Mets,St. Louis Cardinals,9.0,3.0,0,0
-2025-04-19,778262,Baltimore Orioles,Cincinnati Reds,9.0,14.0,0,1
-2025-04-19,778254,Pittsburgh Pirates,Cleveland Guardians,8.0,3.0,0,0
+2025-04-19,778257,Chicago Cubs,Arizona Diamondbacks,7.5,8.0,1,1
 2025-04-19,778258,Toronto Blue Jays,Seattle Mariners,7.5,12.0,1,1
+2025-04-19,778254,Pittsburgh Pirates,Cleveland Guardians,8.0,3.0,0,0
+2025-04-19,778262,Baltimore Orioles,Cincinnati Reds,9.0,14.0,0,1
+2025-04-19,778256,New York Mets,St. Louis Cardinals,9.0,3.0,0,0
 2025-04-19,778251,Texas Rangers,Los Angeles Dodgers,8.5,7.0,0,0
 2025-04-19,778247,Colorado Rockies,Washington Nationals,9.5,23.0,1,1
 2025-04-19,778264,Boston Red Sox,Chicago White Sox,9.0,7.0,0,0
-2025-04-19,778255,Tampa Bay Rays,New York Yankees,8.5,18.0,0,1
 2025-04-19,778253,Milwaukee Brewers,Athletics,8.5,4.0,0,0
+2025-04-19,778255,Tampa Bay Rays,New York Yankees,8.5,18.0,0,1
 2025-04-13,778344,Baltimore Orioles,Toronto Blue Jays,8.5,13.0,1,1
 2025-04-13,778343,Cincinnati Reds,Pittsburgh Pirates,7.5,4.0,0,0
 2025-04-13,778342,Cleveland Guardians,Kansas City Royals,7.0,6.0,0,0
