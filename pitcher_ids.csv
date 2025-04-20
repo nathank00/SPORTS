@@ -285,6 +285,7 @@ mlbID,Name,Position,key_bbref
 669721,Davis Daniel,P,danieda01
 641501,Tyler Danish,P,danisty01
 668470,Hagen Danner,P,danneha01
+690382,Michael Darrell-Hicks,P,darremi01
 506433,Yu Darvish,P,darviyu01
 656353,Tucker Davidson,P,davidtu01
 605200,Zach Davies,P,davieza02
@@ -316,10 +317,12 @@ mlbID,Name,Position,key_bbref
 670426,Phillip Diehl,P,diehlph01
 518617,Jake Diekman,P,diekmja01
 650959,Marcos Diplán,P,diplama01
+690928,Hunter Dobbins,P,dobbihu01
 677976,Randy Dobnak,P,dobnara01
 689266,Dylan Dodd,P,dodddy01
 675971,Kyle Dohy,P,dohyky01
 503569,Rafael Dolis,P,dolisra01
+801403,Chase Dollander,P,dollach01
 622554,Seranthony Domínguez,P,dominse01
 448281,Sean Doolittle,P,doolise01
 666808,Camilo Doval,P,dovalca01
@@ -497,6 +500,7 @@ mlbID,Name,Position,key_bbref
 660422,Jorge Guzmán,P,guzmajo04
 608597,Ronald Guzmán,P,guzmaro01
 623352,Josh Hader,P,haderjo01
+663795,Justin Hagenman,P,hagenju01
 534910,Jesse Hahn,P,hahnje01
 571735,David Hale,P,haleda02
 669084,DL Hall,P,halldl01
@@ -536,6 +540,7 @@ mlbID,Name,Position,key_bbref
 668874,Blair Henley,P,henlebl01
 683618,Edgardo Henriquez,P,henried01
 678692,Ronny Henriquez,P,henriro01
+669371,Cole Henry,P,henryco01
 674072,Tommy Henry,P,henryto01
 656529,Sam Hentges,P,hentgsa01
 623474,Jimmy Herget,P,hergeji01
@@ -1153,6 +1158,7 @@ mlbID,Name,Position,key_bbref
 681217,Chase Silseth,P,silsech01
 608371,Lucas Sims,P,simslu01
 663903,Brady Singer,P,singebr01
+681895,Evan Sisk,P,siskev01
 670087,Brandyn Sittinger,P,sittibr01
 694973,Paul Skenes,P,skenepa01
 669373,Tarik Skubal,P,skubata01
@@ -1227,6 +1233,7 @@ mlbID,Name,Position,key_bbref
 676641,Beau Sulser,P,sulsebe01
 642121,Cole Sulser,P,sulseco01
 608718,Brent Suter,P,suterbr01
+694335,Matt Svanson,P,svansma01
 657024,Erik Swanson,P,swanser01
 664161,Matt Swarmer,P,swarmma01
 461872,Anthony Swarzak,P,swarzan01
@@ -1282,6 +1289,7 @@ mlbID,Name,Position,key_bbref
 570488,Phillips Valdez,P,valdeph01
 681808,Chris Vallimont,P,vallich01
 676568,Ricky Vanasco,P,vanasri01
+701121,Logan VanWey,P,vanwelo01
 672841,Carlos Vargas,P,vargaca01
 681402,Gus Varland,P,varlagu01
 686973,Louis Varland,P,varlalo01
@@ -1410,14 +1418,11 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-690382,Michael Darrell-Hicks,P,
-690928,Hunter Dobbins,P,
-801403,Chase Dollander,P,
-663795,Justin Hagenman,P,
+806188,Cade Gibson,P,
 701656,Logan Henderson,P,
-669371,Cole Henry,P,
+666659,Sauryn Lao,P,
+691251,Andry Lara,P,
 687287,Patrick Monteverde,P,
-681895,Evan Sisk,P,
-694335,Matt Svanson,P,
-701121,Logan VanWey,P,
+666661,Juan Morillo,P,
+687606,Paxton Schultz,P,
 687064,Brandon Young,P,
