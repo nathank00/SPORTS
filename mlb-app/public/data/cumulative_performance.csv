@@ -203,6 +203,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-03,778462,Minnesota Twins,Houston Astros,7.0,7.0,1,
 2025-04-03,778466,New York Yankees,Arizona Diamondbacks,9.5,16.0,0,1
 2025-04-03,778468,Milwaukee Brewers,Cincinnati Reds,8.0,1.0,0,0
+2025-04-20,778250,Baltimore Orioles,Cincinnati Reds,9.0,11.0,0,1
+2025-04-20,778241,Toronto Blue Jays,Seattle Mariners,8.5,9.0,1,1
 2025-04-09,778389,Pittsburgh Pirates,St. Louis Cardinals,8.0,3.0,0,0
 2025-04-09,778390,New York Mets,Miami Marlins,7.0,5.0,0,0
 2025-04-09,778385,Chicago Cubs,Texas Rangers,7.5,8.0,0,1
