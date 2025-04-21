@@ -1,9 +1,9 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 778227,15:10,Cleveland Guardians,New York Yankees,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778230,15:40,Miami Marlins,Cincinnati Reds,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778238,08:10,Boston Red Sox,Chicago White Sox,9.0,Over,6,1,0,1,Nick Maton,Andrew Benintendi,Luis Robert Jr.,Edgar Quero,Lenyn Sosa,Miguel Vargas,Brooks Baldwin,Michael A. Taylor,Jacob Amaya,Jarren Duran,Rafael Devers,Alex Bregman,Trevor Story,Wilyer Abreu,Kristian Campbell,Triston Casas,Rob Refsnyder,Carlos Narváez,Jonathan Cannon,Walker Buehler
-778225,16:10,New York Mets,Philadelphia Phillies,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778228,15:40,Detroit Tigers,San Diego Padres,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778233,16:15,Atlanta Braves,St. Louis Cardinals,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778231,17:10,Houston Astros,Toronto Blue Jays,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778230,15:40,Miami Marlins,Cincinnati Reds,8.0,Under,0,0,0,0,TJ Friedl,Matt McLain,Elly De La Cruz,Austin Hays,Gavin Lux,Spencer Steer,Jake Fraley,Noelvi Marte,Jose Trevino,,,,,,,,,,Nick Lodolo,
 778226,18:45,San Francisco Giants,Milwaukee Brewers,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778225,16:10,New York Mets,Philadelphia Phillies,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
