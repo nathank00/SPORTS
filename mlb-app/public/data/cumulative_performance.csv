@@ -159,9 +159,11 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-17,778286,Detroit Tigers,Kansas City Royals,7.5,7.0,1,0
 2025-04-17,778278,New York Mets,St. Louis Cardinals,8.0,5.0,1,0
 2025-04-17,778281,Texas Rangers,Los Angeles Angels,9.5,8.0,0,0
-2025-04-21,778238,Boston Red Sox,Chicago White Sox,9.0,6.0,1,0
 2025-04-21,778227,Cleveland Guardians,New York Yankees,8.5,10.0,0,1
+2025-04-21,778238,Boston Red Sox,Chicago White Sox,9.0,6.0,1,0
 2025-04-21,778228,Detroit Tigers,San Diego Padres,8.5,10.0,1,1
+2025-04-21,778230,Miami Marlins,Cincinnati Reds,8.0,9.0,0,1
+2025-04-21,778233,Atlanta Braves,St. Louis Cardinals,8.5,13.0,0,1
 2025-04-16,778297,Toronto Blue Jays,Atlanta Braves,7.0,4.0,1,0
 2025-04-16,778299,Minnesota Twins,New York Mets,8.0,7.0,0,0
 2025-04-16,778295,Milwaukee Brewers,Detroit Tigers,8.0,6.0,0,0
