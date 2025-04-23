@@ -1,0 +1,15 @@
+game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+778214,Atlanta Braves,St. Louis Cardinals,9.0,Over,Lars Nootbaar,Willson Contreras,Nolan Gorman,Nolan Arenado,Alec Burleson,Jordan Walker,Yohel Pozo,Victor Scott II,Masyn Winn,Michael Harris II,Austin Riley,Marcell Ozuna,Matt Olson,Ozzie Albies,Drake Baldwin,Eli White,Jarred Kelenic,Nick Allen,Miles Mikolas,Bryce Elder
+778203,New York Mets,Philadelphia Phillies,7.5,Under,Trea Turner,Bryce Harper,Kyle Schwarber,Nick Castellanos,J.T. Realmuto,Alec Bohm,Edmundo Sosa,Weston Wilson,Johan Rojas,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jesse Winker,Tyrone Taylor,Brett Baty,Hayden Senger,Zack Wheeler,David Peterson
+778209,Detroit Tigers,San Diego Padres,8.5,Over,Fernando Tatis Jr.,Gavin Sheets,Manny Machado,Xander Bogaerts,Tirso Ornelas,Oscar Gonzalez,Jose Iglesias,Tyler Wade,Martín Maldonado,Justyn-Henry Malloy,Gleyber Torres,Riley Greene,Andy Ibáñez,Spencer Torkelson,Zach McKinstry,Dillon Dingler,Javier Báez,Trey Sweeney,Kyle Hart,Reese Olson
+778207,Boston Red Sox,Seattle Mariners,10.0,Under,,,,,,,,,,,,,,,,,,,,
+778204,Washington Nationals,Baltimore Orioles,9.5,Under,,,,,,,,,,,,,,,,,,,,
+778206,Cleveland Guardians,New York Yankees,8.5,Under,Ben Rice,Aaron Judge,Cody Bellinger,Paul Goldschmidt,Jazz Chisholm Jr.,Anthony Volpe,Austin Wells,Jasson Domínguez,Oswaldo Cabrera,Steven Kwan,Gabriel Arias,José Ramírez,Carlos Santana,Will Wilson,Angel Martínez,Jhonkensy Noel,Austin Hedges,Brayan Rocchio,Carlos Rodón,Luis L. Ortiz
+778208,Miami Marlins,Cincinnati Reds,8.5,Under,TJ Friedl,Matt McLain,Elly De La Cruz,Gavin Lux,Noelvi Marte,Jeimer Candelario,Jake Fraley,Spencer Steer,Austin Wynns,Xavier Edwards,Jesús Sánchez,Eric Wagaman,Matt Mervis,Kyle Stowers,Otto Lopez,Liam Hicks,Ronny Simon,Graham Pauley,Brady Singer,Sandy Alcantara
+778200,Houston Astros,Toronto Blue Jays,8.5,Under,,,,,,,,,,,,,,,,,,,,
+778195,Kansas City Royals,Colorado Rockies,8.5,Under,,,,,,,,,,,,,,,,,,,,
+778201,Minnesota Twins,Chicago White Sox,8.5,Under,,,,,,,,,,,,,,,,,,,,
+778202,Los Angeles Angels,Pittsburgh Pirates,9.0,Under,,,,,,,,,,,,,,,,,,,,
+778199,Arizona Diamondbacks,Tampa Bay Rays,9.0,Under,,,,,,,,,,,,,,,,,,,,
+778198,San Francisco Giants,Milwaukee Brewers,6.5,Under,,,,,,,,,,,,,,,,,,,,
+778197,Athletics,Texas Rangers,9.5,Under,,,,,,,,,,,,,,,,,,,,
