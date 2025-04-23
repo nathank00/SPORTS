@@ -130,8 +130,10 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-12,778352,San Diego Padres,Colorado Rockies,8.0,2.0,0,0
 2025-04-12,778341,Seattle Mariners,Texas Rangers,7.0,10.0,1,1
 2025-04-12,778345,Los Angeles Dodgers,Chicago Cubs,9.0,16.0,1,1
-2025-04-23,778209,Detroit Tigers,San Diego Padres,8.5,6.0,1,0
 2025-04-23,778214,Atlanta Braves,St. Louis Cardinals,9.0,5.0,1,0
+2025-04-23,778209,Detroit Tigers,San Diego Padres,8.5,6.0,1,0
+2025-04-23,778208,Miami Marlins,Cincinnati Reds,8.5,7.0,1,0
+2025-04-23,778206,Cleveland Guardians,New York Yankees,8.5,6.0,0,0
 2025-04-02,778477,Milwaukee Brewers,Kansas City Royals,7.5,5.0,0,0
 2025-04-02,778479,Tampa Bay Rays,Pittsburgh Pirates,7.0,6.0,0,0
 2025-04-02,778480,Cincinnati Reds,Texas Rangers,8.5,1.0,1,0
