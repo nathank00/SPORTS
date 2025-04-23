@@ -102,15 +102,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-06,778423,Colorado Rockies,Athletics,10.5,17.0,0,1
 2025-04-06,778427,San Francisco Giants,Seattle Mariners,7.5,9.0,1,1
 2025-04-06,778425,Los Angeles Angels,Cleveland Guardians,9.5,8.0,0,0
-2025-04-22,778218,Cleveland Guardians,New York Yankees,8.5,5.0,1,0
 2025-04-22,778221,Detroit Tigers,San Diego Padres,7.5,2.0,0,0
 2025-04-22,778219,Miami Marlins,Cincinnati Reds,8.5,7.0,1,0
-2025-04-22,778222,Washington Nationals,Baltimore Orioles,9.0,7.0,0,0
+2025-04-22,778218,Cleveland Guardians,New York Yankees,8.5,5.0,1,0
 2025-04-22,778224,Boston Red Sox,Seattle Mariners,9.5,11.0,0,1
-2025-04-22,778229,Atlanta Braves,St. Louis Cardinals,9.0,14.0,1,1
+2025-04-22,778222,Washington Nationals,Baltimore Orioles,9.0,7.0,0,0
 2025-04-22,778223,New York Mets,Philadelphia Phillies,8.0,6.0,1,0
-2025-04-22,778220,Chicago Cubs,Los Angeles Dodgers,9.0,17.0,1,1
+2025-04-22,778229,Atlanta Braves,St. Louis Cardinals,9.0,14.0,1,1
+2025-04-22,778215,Kansas City Royals,Colorado Rockies,8.0,7.0,0,0
+2025-04-22,778220,Chicago Cubs,Los Angeles Dodgers,9.0,19.0,1,1
 2025-04-22,778216,Minnesota Twins,Chicago White Sox,8.5,6.0,0,0
+2025-04-22,778217,Houston Astros,Toronto Blue Jays,8.0,6.0,1,0
 2025-04-07,778415,Pittsburgh Pirates,St. Louis Cardinals,8.5,12.0,0,1
 2025-04-07,778424,Detroit Tigers,New York Yankees,8.5,8.0,1,0
 2025-04-07,778418,Washington Nationals,Los Angeles Dodgers,7.5,10.0,1,1
