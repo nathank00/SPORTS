@@ -1,10 +1,10 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 778195,Kansas City Royals,Colorado Rockies,8.0,Under,,,,,,,,,,,,,,,,,,,,
-778189,Minnesota Twins,Chicago White Sox,7.5,Under,Joshua Palacios,Luis Robert Jr.,Andrew Benintendi,Andrew Vaughn,Edgar Quero,Lenyn Sosa,Miguel Vargas,Michael A. Taylor,Bobby Dalbec,Edouard Julien,Byron Buxton,Luke Keaschall,Trevor Larnach,Carlos Correa,Ty France,Brooks Lee,DaShawn Keirsey Jr.,Christian Vázquez,Shane Smith,Chris Paddack
-778193,Washington Nationals,Baltimore Orioles,8.5,Under,,,,,,,,,,,,,,,,,,,,
 778196,Boston Red Sox,Seattle Mariners,8.0,Over,Dylan Moore,Julio Rodríguez,Cal Raleigh,Randy Arozarena,Mitch Garver,Donovan Solano,Ben Williamson,Leo Rivas,J.P. Crawford,Jarren Duran,Rafael Devers,Alex Bregman,Wilyer Abreu,Trevor Story,Triston Casas,Kristian Campbell,David Hamilton,Carlos Narváez,Bryan Woo,Garrett Crochet
-778195,Kansas City Royals,Colorado Rockies,8.5,Under,,,,,,,,,,,,,,,,,,,,
-778194,San Francisco Giants,Milwaukee Brewers,7.5,Over,Brice Turang,Sal Frelick,Christian Yelich,Rhys Hoskins,Jake Bauers,Joey Ortiz,Garrett Mitchell,Vinny Capra,Eric Haase,Mike Yastrzemski,Willy Adames,Jung Hoo Lee,Matt Chapman,Heliot Ramos,LaMonte Wade Jr.,Tyler Fitzgerald,Sam Huff,Luis Matos,Tobias Myers,Landen Roupp
+778189,Minnesota Twins,Chicago White Sox,7.5,Under,Joshua Palacios,Luis Robert Jr.,Andrew Benintendi,Andrew Vaughn,Edgar Quero,Lenyn Sosa,Miguel Vargas,Michael A. Taylor,Bobby Dalbec,Edouard Julien,Byron Buxton,Luke Keaschall,Trevor Larnach,Carlos Correa,Ty France,Brooks Lee,DaShawn Keirsey Jr.,Christian Vázquez,Shane Smith,Chris Paddack
+778190,Kansas City Royals,Colorado Rockies,8.5,Under,Brenton Doyle,Kyle Farmer,Ryan McMahon,Hunter Goodman,Sean Bouchard,Mickey Moniak,Michael Toglia,Jordan Beck,Aaron Schunk,Maikel Garcia,Bobby Witt Jr.,Vinnie Pasquantino,Salvador Perez,Cavan Biggio,Michael Massey,Hunter Renfroe,Drew Waters,Kyle Isbel,Germán Márquez,Cole Ragans
 778191,Los Angeles Angels,Pittsburgh Pirates,9.0,Under,,,,,,,,,,,,,,,,,,,,
+778193,Washington Nationals,Baltimore Orioles,8.5,Under,,,,,,,,,,,,,,,,,,,,
+778194,San Francisco Giants,Milwaukee Brewers,7.5,Over,Brice Turang,Sal Frelick,Christian Yelich,Rhys Hoskins,Jake Bauers,Joey Ortiz,Garrett Mitchell,Vinny Capra,Eric Haase,Mike Yastrzemski,Willy Adames,Jung Hoo Lee,Matt Chapman,Heliot Ramos,LaMonte Wade Jr.,Tyler Fitzgerald,Sam Huff,Luis Matos,Tobias Myers,Landen Roupp
 778188,Arizona Diamondbacks,Tampa Bay Rays,8.0,Under,,,,,,,,,,,,,,,,,,,,
 778192,Athletics,Texas Rangers,8.5,Under,,,,,,,,,,,,,,,,,,,,
