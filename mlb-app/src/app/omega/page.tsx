@@ -340,25 +340,50 @@ export default function OmegaPage() {
                 </div>
               </div>
 
-                {game.description && (
-                  <div
-                    className={`
-                      font-normal text-sm flex items-center text-purple-300
-                      ${game.game_started ? "bg-purple-800/60 px-2 py-1 rounded-full" : ""}
-                    `}
-                  >
-                    {!game.game_started ? (
-                      <>
-                        <span>{game.description}</span>
-                        <span className="mx-1 align-middle">·</span>
-                        <Clock className="h-4 w-4 mr-1" />
-                        {formatTime(game.start_time)}
-                      </>
-                    ) : (
-                      <span>{game.description}</span>
-                    )}
-                  </div>
-                )}
+              {game.description && (
+                <div className="font-normal text-sm flex items-center text-purple-200">
+                  {!game.game_started ? (
+                    <>
+                      <span>Scheduled</span>
+                      <span className="mx-1 align-middle">·</span>
+                      <Clock className="h-4 w-4 mr-1" />
+                      {formatTime(game.start_time)}
+                    </>
+                  ) : (
+                    <div className="flex items-center gap-6">
+                      {/* Inning */}
+                      <div className="bg-purple-800 text-white text-base px-3 py-1 rounded-full font-mono">
+                        {game.description?.split(",")[0]?.split(":")[1]?.trim()}
+                      </div>
+
+                      {/* Diamond */}
+                      <div className="relative w-12 h-12">
+                        {/* 2B */}
+                        <div className={`absolute top-0 left-1/2 transform -translate-x-1/2 w-4 h-4 border border-white rotate-45 ${game.description?.includes("(2") ? "bg-white" : ""}`}></div>
+                        {/* 1B */}
+                        <div className={`absolute bottom-1/2 right-0 transform translate-y-1/2 w-4 h-4 border border-white rotate-45 ${game.description?.includes("(1") ? "bg-white" : ""}`}></div>
+                        {/* 3B */}
+                        <div className={`absolute bottom-1/2 left-0 transform translate-y-1/2 w-4 h-4 border border-white rotate-45 ${game.description?.includes("(3") ? "bg-white" : ""}`}></div>
+                      </div>
+
+                      {/* Outs */}
+                      <div className="flex gap-2">
+                        {[0, 1, 2].map((i) => (
+                          <div
+                            key={i}
+                            className={`w-3 h-3 rounded-full border border-white ${
+                              Number(game.description?.split(",")[1]?.split(":")[1]?.trim()) > i
+                                ? "bg-red-400"
+                                : ""
+                            }`}
+                          ></div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              )}
+
 
 
                 </div>
