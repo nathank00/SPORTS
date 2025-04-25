@@ -181,22 +181,46 @@ def clean_float(value):
 
 def get_description(gamepk):
     """
-    Fetches the current game status description for a given gamepk.
+    Fetches a compact game state description for a given gamepk.
+    Format: 'inning: T9, outs: 2, runners: (1,2,3)'
     """
     try:
         url = f"https://statsapi.mlb.com/api/v1.1/game/{gamepk}/feed/live"
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         data = response.json()
-        
-        description = data.get("liveData", {}).get("plays", {}).get("currentPlay", {}).get("about", {}).get("description")
-        if not description:
-            description = data.get("gameData", {}).get("status", {}).get("detailedState", "Unknown")
-        
-        return description
+
+        linescore = data.get("liveData", {}).get("linescore", {})
+        inning_half = linescore.get("inningHalf")
+        current_inning = linescore.get("currentInning")
+        outs = linescore.get("outs")
+
+        offense = linescore.get("offense", {})
+
+        # Build runners list
+        bases_occupied = []
+        if offense.get("first"):
+            bases_occupied.append(1)
+        if offense.get("second"):
+            bases_occupied.append(2)
+        if offense.get("third"):
+            bases_occupied.append(3)
+
+        bases_occupied.sort()
+
+        if inning_half and current_inning is not None and outs is not None:
+            inning_code = f"{inning_half[0]}{current_inning}"  # T1, B5, etc.
+            runners_str = f"({','.join(str(b) for b in bases_occupied)})" if bases_occupied else "()"
+            return f"inning: {inning_code}, outs: {outs}, runners: {runners_str}"
+        else:
+            detailed_state = data.get("gameData", {}).get("status", {}).get("detailedState", "Unknown")
+            return detailed_state
+
     except Exception as e:
-        print(f"[DESCRIPTION ERROR] Game {gamepk}: {e}")
+        print(f"[GAME STATE ERROR] Game {gamepk}: {e}")
         return None
+
+
 
 
 def get_weather_by_coords(lat, lon, dt_iso):
