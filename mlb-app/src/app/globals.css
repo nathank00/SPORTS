@@ -60,14 +60,64 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: hsl(180 30% 5%);
+  background: hsl(0, 0%, 7%);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: hsl(175 60% 20%);
+  background: hsl(0, 0%, 25%);
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: hsl(175 70% 30%);
+  background: hsl(0, 0%, 45%);
+}
+
+/* Scoped scrollbar styling for the OMEGA page only */
+.omega-page::-webkit-scrollbar {
+  width: 10px;
+}
+
+.omega-page::-webkit-scrollbar-track {
+  background: #1a0d22; /* dark purple background */
+}
+
+.omega-page::-webkit-scrollbar-thumb {
+  background-color: #a855f7; /* vibrant purple */
+  border-radius: 6px;
+  border: 2px solid #1a0d22;
+}
+
+.omega-page::-webkit-scrollbar-thumb:hover {
+  background-color: #c084fc;
+}
+
+/* Firefox support */
+.omega-page {
+  scrollbar-width: thin;
+  scrollbar-color: #a855f7 #1a0d22;
+}
+
+
+.omega-scroll-wrapper::-webkit-scrollbar {
+  width: 10px;
+}
+
+.omega-scroll-wrapper::-webkit-scrollbar-track {
+  background: #1a0d22;
+}
+
+.omega-scroll-wrapper::-webkit-scrollbar-thumb {
+  background-color: #a855f7;
+  border-radius: 6px;
+  border: 2px solid #1a0d22;
+}
+
+.omega-scroll-wrapper::-webkit-scrollbar-thumb:hover {
+  background-color: #c084fc;
+}
+
+/* Firefox */
+.omega-scroll-wrapper {
+  scrollbar-width: thin;
+  scrollbar-color: #a855f7 #1a0d22;
 }

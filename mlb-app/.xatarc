@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Nate-Kessell-s-workspace-8sm50a.us-west-2.xata.sh/db/MLB",
+  "codegen": {
+    "output": "src/lib/xata.ts"
+  }
+}
