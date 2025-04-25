@@ -4,7 +4,6 @@ import { useEffect, useRef, useState } from "react"
 import { Calendar, Clock, Info, ArrowUp, ArrowDown } from "lucide-react"
 import { useRouter } from "next/navigation"
 import { TeamLogo } from "@/components/team-logo"
-import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import {
   Dialog,
