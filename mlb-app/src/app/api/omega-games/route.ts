@@ -106,8 +106,20 @@ export async function GET(req: NextRequest) {
       players.map(p => [p.player_id ?? "", p.player_name ?? "TBD"])
     )
 
+    type EnrichedGameData = {
+      model_prediction: number | null | undefined;
+      prediction_confidence: number | null;
+      label_over_under: number | null | undefined;
+      game_complete: boolean | null | undefined;
+      runs_total: number | null;
+      description: string | null;
+      runs_home: number | null;
+      runs_away: number | null;
+      game_started: boolean;
+    };
+
     // Build enriched map from masterGames
-    const enrichedMap: Record<string, any> = {}
+    const enrichedMap: Record<string, EnrichedGameData> = {}
     for (const game of masterGames) {
       const id = String(game.game_id ?? "")
       enrichedMap[id] = {

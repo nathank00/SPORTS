@@ -19,12 +19,13 @@ import {
 } from "lucide-react"
 import { useFetchCsv } from "@/components/csv-fetcher"
 
+{/*}
 type EnrichedGameData = {
   prediction: number | null
   outcome: number | null
   completed: boolean
   runs_total: number | "-" | null
-}
+}*/}
 
 
 type GamePick = {
