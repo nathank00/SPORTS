@@ -155,8 +155,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-12,778341,Seattle Mariners,Texas Rangers,7.0,10.0,1,1
 2025-04-12,778345,Los Angeles Dodgers,Chicago Cubs,9.0,16.0,1,1
 2025-04-24,778195,Kansas City Royals,Colorado Rockies,8.0,8.0,0,
+2025-04-24,778195,Kansas City Royals,Colorado Rockies,9.0,8.0,0,0
 2025-04-24,778196,Boston Red Sox,Seattle Mariners,8.0,7.0,1,0
-2025-04-24,778190,Kansas City Royals,Colorado Rockies,9.0,11.0,0,1
 2025-04-24,778194,San Francisco Giants,Milwaukee Brewers,7.5,11.0,1,1
 2025-04-23,778214,Atlanta Braves,St. Louis Cardinals,9.0,5.0,1,0
 2025-04-23,778206,Cleveland Guardians,New York Yankees,8.5,6.0,0,0
