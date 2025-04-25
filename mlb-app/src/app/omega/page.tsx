@@ -103,7 +103,7 @@ export default function OmegaPage() {
     return `${year}-${month}-${day}`
   })
 
-  const [enrichedGames, setEnrichedGames] = useState<Record<string | number, EnrichedGameData>>({})
+  //const [enrichedGames, setEnrichedGames] = useState<Record<string | number, EnrichedGameData>>({})
   const [games, setGames] = useState<GamePick[]>([])
   const [lastUpdated, setLastUpdated] = useState<string>("Loading...")
   const [dailyRecord, setDailyRecord] = useState<{ wins: number; losses: number; percent: string }>({ wins: 0, losses: 0, percent: "0.0%" })
