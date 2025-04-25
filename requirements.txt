@@ -3,6 +3,7 @@ sqlite-utils
 sqlalchemy
 libsql-client
 psycopg
+xata
 
 # API Requests and Data Handling
 requests
@@ -16,6 +17,9 @@ webdriver-manager
 html5lib
 cloudscraper
 curl_cffi
+more_itertools
+timezonefinder
+tqdm
 
 # Environment Variables
 python-dotenv
@@ -27,3 +31,5 @@ jupyter
 scikit-learn
 xgboost
 joblib
+seaborn
+matplotlib
