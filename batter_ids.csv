@@ -179,7 +179,6 @@ mlbID,Name,Position,key_bbref
 656305,Matt Chapman,3B,chapmma01
 656308,Michael Chavis,2B,chavimi01
 691907,Tsung-Che Cheng,SS,chengts01
-691907,Tsung-Che Cheng,SS,chengts01
 455139,Robinson Chirinos,C,chiriro01
 665862,Jazz Chisholm Jr.,2B,chishja01
 596847,Ji Man Choi,1B,choiji01
@@ -505,7 +504,7 @@ mlbID,Name,Position,key_bbref
 667428,Grant Koch,C,kochgr01
 670128,Taylor Kohlwey,RF,kohlwta01
 656627,Mark Kolozsvary,C,kolozma01
-683766,Christian Koss,SS,kossch01
+683766,Christian Koss,2B,kossch01
 518902,Pete Kozma,SS,kozmape01
 668952,Ryan Kreidler,CF,kreidry01
 607249,Jason Krizan,2B,krizaja01
@@ -576,7 +575,7 @@ mlbID,Name,Position,key_bbref
 455117,Martín Maldonado,C,maldoma01
 669234,Justyn-Henry Malloy,RF,malloju02
 641820,Trey Mancini,1B,mancitr01
-663968,Jake Mangum,CF,manguja01
+663968,Jake Mangum,RF,manguja01
 700932,Kyle Manzardo,1B,manzaky01
 672779,Tucupita Marcano,SS,marcatu01
 665561,Rafael Marchán,C,marchra01
@@ -633,7 +632,7 @@ mlbID,Name,Position,key_bbref
 640457,Austin Meadows,LF,meadoau01
 678009,Parker Meadows,CF,meadopa01
 685133,Wade Meckler,OF,mecklwa01
-805367,Chase Meidroth,3B,meidrch01
+805367,Chase Meidroth,2B,meidrch01
 642336,Francisco Mejía,C,mejiafr01
 669004,MJ Melendez,LF,melenmj01
 664901,Danny Mendick,3B,mendida01
@@ -961,7 +960,7 @@ mlbID,Name,Position,key_bbref
 669352,Bubba Thompson,CF,thompbu01
 572204,Trayce Thompson,RF,thomptr01
 669911,Michael Toglia,1B,toglimi01
-686475,Tyler Tolbert,SS,tolbety01
+686475,Tyler Tolbert,2B,tolbety01
 664789,Ka'ai Tom,OF,tomka01
 679529,Spencer Torkelson,1B,torkesp01
 647351,Abraham Toro,3B,toroab01
@@ -997,7 +996,7 @@ mlbID,Name,Position,key_bbref
 679631,Terrin Vavra,2B,vavrate01
 543877,Christian Vázquez,C,vazquch01
 676679,Luis Vázquez,SS,vazqulu01
-691728,Zac Veen,RF,veenza01
+691728,Zac Veen,LF,veenza01
 623205,Andrew Velazquez,SS,velazan01
 676369,Nelson Velázquez,RF,velazne01
 657077,Alex Verdugo,LF,verdual01
@@ -1076,6 +1075,10 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-690924,Braxton Fulford,C,
-700337,Edgar Quero,C,
-810938,Ben Williamson,3B,
+685301,Matt Gorski,CF,
+701762,Nick Kurtz,1B,
+672359,Tirso Ornelas,LF,
+682663,Agustín Ramírez,C,
+682927,Ronny Simon,2B,
+802415,Chandler Simpson,SS,
+669717,Will Wilson,SS,

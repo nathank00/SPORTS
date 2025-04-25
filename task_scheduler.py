@@ -7,8 +7,18 @@ import sys
 print(sys.executable)
 
 # Define paths
-INITIAL_SCRIPTS = ["1-game_pks.py", "2-player_ids.py", "3-gamelogs.py", "4-odds.py", "5-playerstats.py", "6-customstats.py", "7-currentdata.py", "8-scrape-odds.py", "9-predict.py", "10-performance.py"]
-PERIODIC_SCRIPTS = ["3-gamelogs.py", "4-odds.py", "6-customstats.py", "7-currentdata.py", "8-scrape-odds.py", "9-predict.py", "10-performance.py"]
+INITIAL_SCRIPTS = ["1-game_pks.py", "2-player_ids.py", "3-gamelogs.py", "4-odds.py", 
+                   "5-playerstats.py", "6-customstats.py", "7-currentdata.py", 
+                   "8-scrape-odds.py", "9-predict.py", "10-performance.py", 
+                   
+                   "z_players_delta.py", "z_batter_pitcher_delta.py", "z_games_builder.py",
+                   "z_games_delta.py", "z_master_builder.py", "z_master_delta.py", "z_model_predict.py"]
+
+PERIODIC_SCRIPTS = ["3-gamelogs.py", "4-odds.py", "6-customstats.py", 
+                    "7-currentdata.py", "8-scrape-odds.py", "9-predict.py", "10-performance.py",
+                    
+                    "z_games_delta.py", "z_master_delta.py", "z_model_predict.py"]
+
 REPO_PATH = "/Users/natekessell/Desktop/development/MLB-Analytics"
 STOP_FILE = "/Users/natekessell/Desktop/development/MLB-Analytics/stop_scheduler"
 LOG_FILE = "/Users/natekessell/Desktop/development/MLB-Analytics/task_scheduler.log"
