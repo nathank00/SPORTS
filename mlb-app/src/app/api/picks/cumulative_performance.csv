@@ -115,14 +115,14 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-22,778217,Houston Astros,Toronto Blue Jays,8.0,6.0,1,0
 2025-04-22,778211,Los Angeles Angels,Pittsburgh Pirates,8.5,9.0,0,1
 2025-04-22,778210,San Francisco Giants,Milwaukee Brewers,8.0,12.0,0,1
-2025-04-25,778182,Chicago Cubs,Philadelphia Phillies,8.0,4.0,1,0
 2025-04-25,778183,Washington Nationals,New York Mets,9.0,9.0,0,
-2025-04-25,778187,Kansas City Royals,Houston Astros,8.0,2.0,0,0
+2025-04-25,778182,Chicago Cubs,Philadelphia Phillies,8.0,4.0,1,0
 2025-04-25,778185,New York Yankees,Toronto Blue Jays,9.0,6.0,1,0
+2025-04-25,778187,Kansas City Royals,Houston Astros,8.0,2.0,0,0
 2025-04-25,778186,Minnesota Twins,Los Angeles Angels,8.0,15.0,1,1
 2025-04-25,778184,St. Louis Cardinals,Milwaukee Brewers,8.0,5.0,0,0
-2025-04-25,778181,Colorado Rockies,Cincinnati Reds,9.5,14.0,1,1
-2025-04-25,778175,Seattle Mariners,Miami Marlins,7.5,10.0,0,1
+2025-04-25,778181,Colorado Rockies,Cincinnati Reds,9.5,15.0,1,1
+2025-04-25,778175,Seattle Mariners,Miami Marlins,7.5,12.0,0,1
 2025-04-07,778415,Pittsburgh Pirates,St. Louis Cardinals,8.5,12.0,0,1
 2025-04-07,778424,Detroit Tigers,New York Yankees,8.5,8.0,1,0
 2025-04-07,778418,Washington Nationals,Los Angeles Dodgers,7.5,10.0,1,1
