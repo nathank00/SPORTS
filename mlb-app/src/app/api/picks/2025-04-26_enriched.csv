@@ -3,12 +3,12 @@ game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcom
 778179,10:10,Cleveland Guardians,Boston Red Sox,8.0,Over,0,1,0,0,Jarren Duran,Rafael Devers,Alex Bregman,Trevor Story,Wilyer Abreu,Kristian Campbell,Triston Casas,Blake Sabol,Ceddanne Rafaela,Steven Kwan,Nolan Jones,José Ramírez,Kyle Manzardo,Carlos Santana,Gabriel Arias,Daniel Schneemann,Angel Martínez,Austin Hedges,Tanner Houck,Ben Lively
 778179,10:10,Cleveland Guardians,Boston Red Sox,7.5,Over,0,1,0,0,Jarren Duran,Rafael Devers,Alex Bregman,Trevor Story,Wilyer Abreu,Kristian Campbell,Triston Casas,Blake Sabol,Ceddanne Rafaela,Steven Kwan,Nolan Jones,José Ramírez,Kyle Manzardo,Carlos Santana,Gabriel Arias,Daniel Schneemann,Angel Martínez,Austin Hedges,Tanner Houck,Ben Lively
 778166,11:10,Minnesota Twins,Los Angeles Angels,8.0,Under,0,0,0,0,,,,,,,,,,Ryan Jeffers,Byron Buxton,Carlos Correa,Ty France,Trevor Larnach,Jonah Bride,Brooks Lee,Harrison Bader,Christian Vázquez,,Simeon Woods Richardson
-778161,12:10,Colorado Rockies,Cincinnati Reds,10.5,Under,0,0,0,0,,,,,,,,,,Brenton Doyle,Jordan Beck,Ryan McMahon,Hunter Goodman,Michael Toglia,Kyle Farmer,Mickey Moniak,Nick Martini,Adael Amador,,Antonio Senzatela
-778173,13:05,Washington Nationals,New York Mets,9.5,Under,0,0,0,0,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jesse Winker,Francisco Alvarez,Jeff McNeil,Luisangel Acuña,,,,,,,,,,Clay Holmes,
 778159,13:05,San Francisco Giants,Texas Rangers,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778174,13:05,Chicago Cubs,Philadelphia Phillies,7.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778165,13:05,Athletics,Chicago White Sox,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778164,11:15,St. Louis Cardinals,Milwaukee Brewers,7.0,Over,0,1,0,0,Brice Turang,Jackson Chourio,Christian Yelich,William Contreras,Sal Frelick,Rhys Hoskins,Jake Bauers,Joey Ortiz,Caleb Durbin,Lars Nootbaar,Willson Contreras,Brendan Donovan,Nolan Arenado,Nolan Gorman,Thomas Saggese,Pedro Pagés,Victor Scott II,Masyn Winn,Quinn Priester,Sonny Gray
+778173,13:05,Washington Nationals,New York Mets,9.5,Under,0,0,0,0,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jesse Winker,Francisco Alvarez,Jeff McNeil,Luisangel Acuña,,,,,,,,,,Clay Holmes,
+778165,13:05,Athletics,Chicago White Sox,9.0,Under,0,0,0,0,,,,,,,,,,Jacob Wilson,Brent Rooker,Tyler Soderstrom,Miguel Andujar,JJ Bleday,Luis Urías,Nick Kurtz,Gio Urshela,Jhonny Pereda,,Jeffrey Springs
+778161,12:10,Colorado Rockies,Cincinnati Reds,10.5,Under,0,0,0,0,TJ Friedl,Matt McLain,Elly De La Cruz,Austin Hays,Gavin Lux,Spencer Steer,Noelvi Marte,Jake Fraley,Jose Trevino,Brenton Doyle,Jordan Beck,Ryan McMahon,Hunter Goodman,Michael Toglia,Kyle Farmer,Mickey Moniak,Nick Martini,Adael Amador,Hunter Greene,Antonio Senzatela
+778174,13:05,Chicago Cubs,Philadelphia Phillies,7.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778167,16:10,Kansas City Royals,Houston Astros,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778162,17:10,Arizona Diamondbacks,Atlanta Braves,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778160,17:40,San Diego Padres,Tampa Bay Rays,7.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
