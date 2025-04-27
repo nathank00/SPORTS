@@ -233,15 +233,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-26,778179,Cleveland Guardians,Boston Red Sox,7.5,9.0,1,1
 2025-04-26,778179,Cleveland Guardians,Boston Red Sox,7.5,9.0,1,1
 2025-04-26,778180,Detroit Tigers,Baltimore Orioles,9.0,8.0,0,0
-2025-04-26,778164,St. Louis Cardinals,Milwaukee Brewers,7.0,11.0,1,1
 2025-04-26,778166,Minnesota Twins,Los Angeles Angels,8.0,6.0,1,0
 2025-04-26,778161,Colorado Rockies,Cincinnati Reds,10.5,10.0,1,0
-2025-04-26,778167,Kansas City Royals,Houston Astros,8.0,2.0,0,0
+2025-04-26,778164,St. Louis Cardinals,Milwaukee Brewers,7.0,11.0,1,1
 2025-04-26,778173,Washington Nationals,New York Mets,9.5,2.0,0,0
 2025-04-26,778159,San Francisco Giants,Texas Rangers,8.0,5.0,0,0
 2025-04-26,778165,Athletics,Chicago White Sox,9.0,13.0,0,1
 2025-04-26,778174,Chicago Cubs,Philadelphia Phillies,7.0,14.0,1,1
-2025-04-26,778162,Arizona Diamondbacks,Atlanta Braves,9.0,13.0,0,1
+2025-04-26,778167,Kansas City Royals,Houston Astros,8.0,2.0,0,0
+2025-04-26,778162,Arizona Diamondbacks,Atlanta Braves,9.0,15.0,0,1
+2025-04-26,778154,Seattle Mariners,Miami Marlins,7.5,8.0,0,1
 2025-04-16,778297,Toronto Blue Jays,Atlanta Braves,7.0,4.0,1,0
 2025-04-16,778299,Minnesota Twins,New York Mets,8.0,7.0,0,0
 2025-04-16,778295,Milwaukee Brewers,Detroit Tigers,8.0,6.0,0,0
