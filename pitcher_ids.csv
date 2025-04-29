@@ -10,6 +10,7 @@ mlbID,Name,Position,key_bbref
 613534,Austin Adams,P,adamsau02
 686654,Ty Adcock,P,adcocty01
 672851,Joan Adon,P,adonjo01
+688642,Zach Agnos,P,agnosza01
 687924,Julian Aguiar,P,aguiaju01
 620396,Miguel Aguilar,P,aguilmi01
 669211,Keegan Akin,P,akinke01
@@ -444,6 +445,7 @@ mlbID,Name,Position,key_bbref
 593334,Domingo Germán,P,germado01
 681464,Frank German,P,germafr02
 664139,Ian Gibaut,P,gibauia01
+806188,Cade Gibson,P,gibsoca01
 502043,Kyle Gibson,P,gibsoky01
 669302,Logan Gilbert,P,gilbelo01
 656457,Tyler Gilbert,P,gilbety01
@@ -534,6 +536,7 @@ mlbID,Name,Position,key_bbref
 621294,Ben Heller,P,hellebe01
 664854,Ryan Helsley,P,helslry01
 592390,Heath Hembree,P,hembrhe01
+701656,Logan Henderson,P,hendelo01
 543294,Kyle Hendricks,P,hendrky01
 521230,Liam Hendriks,P,hendrli01
 641682,Ryan Hendrix,P,hendrry01
@@ -647,6 +650,7 @@ mlbID,Name,Position,key_bbref
 677161,Zack Kelly,P,kellyza01
 664028,Brett Kennedy,P,kennebr02
 453178,Ian Kennedy,P,kenneia01
+687849,Zak Kent,P,kentza01
 689147,Orion Kerkering,P,kerkeor01
 678061,Ray Kerr,P,kerrra01
 477132,Clayton Kershaw,P,kershcl01
@@ -697,6 +701,7 @@ mlbID,Name,Position,key_bbref
 663567,Peter Lambert,P,lambepe01
 659275,Dinelson Lamet,P,lametdi01
 656638,Alex Lange,P,langeal01
+666659,Sauryn Lao,P,laosa01
 686747,Joe La Sorsa,P,lasorjo01
 656641,Jacob Latz,P,latzja01
 641778,Eric Lauer,P,lauerer01
@@ -708,6 +713,7 @@ mlbID,Name,Position,key_bbref
 673929,Jordan Leasure,P,leasujo01
 453281,Wade LeBlanc,P,leblawa01
 600917,José Leclerc,P,leclejo01
+695445,Chase Lee,P,leech02
 669276,Dylan Lee,P,leedy01
 681885,Evan Lee,P,leeev01
 668984,Casey Legumina,P,legumca01
@@ -824,6 +830,7 @@ mlbID,Name,Position,key_bbref
 664682,Ryan Meisinger,P,meisiry01
 650668,Humberto Mejía,P,mejiahu01
 650496,J.C. Mejía,P,mejiaje02
+675848,Juan Mejia,P,mejiaju01
 453343,Mark Melancon,P,melanma01
 622492,Keury Mella,P,mellake01
 691441,Cristian Mena,P,menacr01
@@ -860,6 +867,7 @@ mlbID,Name,Position,key_bbref
 593423,Frankie Montas,P,montafr02
 656755,Bryce Montes de Oca,P,montebr01
 672456,Keider Montero,P,monteke01
+687287,Patrick Monteverde,P,montepa01
 606160,Rafael Montero,P,montera01
 656756,Jordan Montgomery,P,montgjo01
 682254,Mason Montgomery,P,montgma01
@@ -872,6 +880,7 @@ mlbID,Name,Position,key_bbref
 664294,Dauri Moreta,P,moretda01
 605388,Adam Morgan,P,morgaad01
 669212,Eli Morgan,P,morgael01
+666661,Juan Morillo,P,morilju02
 596049,Shawn Morimando,P,morimsh01
 606625,Reyes Moronta,P,moronre01
 663752,Cody Morris,P,morrico01
@@ -1130,6 +1139,7 @@ mlbID,Name,Position,key_bbref
 657376,Clarke Schmidt,P,schmicl01
 669947,Jesse Scholtens,P,scholje01
 670167,John Schreiber,P,schrejo01
+687606,Paxton Schultz,P,schulpa01
 680885,Spencer Schwellenbach,P,schwesp01
 681035,Christian Scott,P,scottch01
 656945,Tanner Scott,P,scottta01
@@ -1362,6 +1372,7 @@ mlbID,Name,Position,key_bbref
 642203,Taylor Widener,P,widenta01
 623364,Brad Wieck,P,wieckbr01
 621079,Collin Wiles,P,wilesco01
+686249,Nathan Wiles,P,wilesna01
 686294,Amos Willingham,P,william01
 682227,Brandon Williamson,P,willibr02
 642207,Devin Williams,P,willide03
@@ -1404,7 +1415,9 @@ mlbID,Name,Position,key_bbref
 642233,Eric Yardley,P,yardler01
 489446,Kirby Yates,P,yateski01
 660623,Huascar Ynoa,P,ynoahu01
+684974,Craig Yoho,P,yohocr01
 622065,Alex Young,P,youngal01
+687064,Brandon Young,P,youngbr01
 664849,Danny Young,P,youngda02
 656008,Aneurys Zabala,P,zabalan01
 623354,Daniel Zamora,P,zamorda01
@@ -1418,20 +1431,9 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-688642,Zach Agnos,P,
 686701,Ryan Bergert,P,
+688138,Logan Evans,P,
 820862,Jose Fermin,P,
-806188,Cade Gibson,P,
-701656,Logan Henderson,P,
-687849,Zak Kent,P,
-666659,Sauryn Lao,P,
-695445,Chase Lee,P,
-675848,Juan Mejia,P,
-687287,Patrick Monteverde,P,
-666661,Juan Morillo,P,
+688158,David Morgan,P,
 680951,Doug Nikhazy,P,
-687606,Paxton Schultz,P,
-686249,Nathan Wiles,P,
 664991,Grant Wolfram,P,
-684974,Craig Yoho,P,
-687064,Brandon Young,P,

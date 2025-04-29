@@ -366,6 +366,7 @@ mlbID,Name,Position,key_bbref
 624503,Nick Gordon,SS,gordoni01
 605253,Terrance Gore,OF,gorete01
 669357,Nolan Gorman,2B,gormano01
+685301,Matt Gorski,CF,gorskma01
 594838,Phil Gosselin,2B,gosseph01
 493329,Yuli Gurriel,1B,gourryu01
 518735,Yasmani Grandal,C,grandya01
@@ -509,6 +510,7 @@ mlbID,Name,Position,key_bbref
 668952,Ryan Kreidler,CF,kreidry01
 607249,Jason Krizan,2B,krizaja01
 667674,Jack Kruger,C,krugeja01
+701762,Nick Kurtz,1B,kurtzni01
 680757,Steven Kwan,LF,kwanst01
 502285,Tyler Ladendorf,2B,ladenty01
 501571,Juan Lagares,RF,lagarju01
@@ -650,7 +652,7 @@ mlbID,Name,Position,key_bbref
 680911,Owen Miller,1B,milleow01
 669304,Jose Miranda,3B,miranjo01
 670224,Kameron Misner,CF,misneka01
-668751,Cal Mitchell,1B,mitchca01
+668751,Cal Mitchell,LF,mitchca01
 669003,Garrett Mitchell,CF,mitchga01
 425877,Yadier Molina,C,molinya01
 655316,Andruw Monasterio,3B,monasan01
@@ -711,6 +713,7 @@ mlbID,Name,Position,key_bbref
 621566,Matt Olson,1B,olsonma02
 641933,Tyler O'Neill,RF,oneilty01
 680716,Jonathan Ornelas,SS,orneljo01
+672359,Tirso Ornelas,LF,ornelti01
 542364,Rafael Ortega,CF,ortegra01
 687401,Joey Ortiz,SS,ortizjo06
 681546,James Outman,CF,outmaja01
@@ -779,6 +782,7 @@ mlbID,Name,Position,key_bbref
 678882,Ceddanne Rafaela,CF,rafaece01
 663728,Cal Raleigh,C,raleica01
 670042,Luke Raley,RF,raleylu01
+682663,Agustín Ramírez,C,ramirag01
 623912,Harold Ramírez,RF,ramirha02
 608070,José Ramírez,3B,ramirjo01
 682868,Bryan Ramos,3B,ramosbr01
@@ -890,6 +894,8 @@ mlbID,Name,Position,key_bbref
 672279,Michael Siani,CF,sianimi01
 642423,Magneuris Sierra,CF,sierrma01
 592743,Andrelton Simmons,SS,simmoan01
+682927,Ronny Simon,2B,simonro01
+802415,Chandler Simpson,SS,simpsch01
 572138,Jon Singleton,1B,singljo02
 642350,Jose Siri,CF,sirijo01
 642082,Chance Sisco,C,siscoch01
@@ -970,7 +976,7 @@ mlbID,Name,Position,key_bbref
 678662,Ezequiel Tovar,SS,tovarez01
 541600,Wilfredo Tovar,SS,tovarwi01
 666211,Taylor Trammell,LF,trammta01
-676701,Alan Trejo,SS,trejoal01
+676701,Alan Trejo,2B,trejoal01
 624431,Jose Trevino,C,trevijo01
 669707,Jared Triolo,2B,triolja01
 644433,Chadwick Tromp,C,trompch01
@@ -1050,6 +1056,7 @@ mlbID,Name,Position,key_bbref
 805779,Jacob Wilson,SS,wilsoja05
 657129,Marcus Wilson,CF,wilsoma02
 642215,Weston Wilson,LF,wilsowe01
+669717,Will Wilson,SS,wilsowi03
 608385,Jesse Winker,LF,winkeje01
 691026,Masyn Winn,SS,winnma01
 621550,Patrick Wisdom,1B,wisdopa01
@@ -1075,10 +1082,4 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-685301,Matt Gorski,CF,
-701762,Nick Kurtz,1B,
-672359,Tirso Ornelas,LF,
-682663,Agustín Ramírez,C,
-682927,Ronny Simon,2B,
-802415,Chandler Simpson,SS,
-669717,Will Wilson,SS,
+668974,Maverick Handley,C,
