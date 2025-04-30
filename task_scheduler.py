@@ -80,7 +80,7 @@ def main():
         nine_pm = now.replace(hour=21, minute=0, second=0, microsecond=0)
         ten_pm = nine_pm.replace(hour=22)
 
-        if should_stop() or now.hour >= 21:
+        if should_stop() or now.hour >= 0:
             print(f"[INFO] Stopping execution at {get_local_time()}")
             log_message(f"[INFO] Stopping execution at {get_local_time()}")
             break
@@ -90,7 +90,7 @@ def main():
 
         print(f"[{get_local_time()}] Sleeping for 15 minutes")
         log_message(f" Sleeping for 15 minutes")
-        time.sleep(900)  # 15 min sleep
+        time.sleep(600)  # 15 min sleep
 
 if __name__ == "__main__":
     main()
