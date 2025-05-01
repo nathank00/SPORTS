@@ -63,6 +63,10 @@ os.makedirs(output_dir, exist_ok=True)
 output_file = os.path.join(output_dir, f"{today}.csv")
 output_df.to_csv(output_file, index=False)
 
+# Write to 'public' output file
+output_file = f"{today}.csv"
+output_df.to_csv(output_file, index=False)
+
 # Timestamp file
 formatted_time = now.strftime('%Y-%m-%d %H:%M PST')
 with open('mlb-app/public/last_updated.csv', 'w', newline='') as csvfile:
