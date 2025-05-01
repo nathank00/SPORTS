@@ -88,8 +88,8 @@ def main():
         run_scripts(PERIODIC_SCRIPTS)
         git_commit_and_push()
 
-        print(f"[{get_local_time()}] Sleeping for 15 minutes")
-        log_message(f" Sleeping for 15 minutes")
+        print(f"[{get_local_time()}] Sleeping for 10 minutes")
+        log_message(f" Sleeping for 10 minutes")
         time.sleep(600)  # 15 min sleep
 
 if __name__ == "__main__":
