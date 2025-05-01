@@ -80,7 +80,7 @@ def main():
         nine_pm = now.replace(hour=21, minute=0, second=0, microsecond=0)
         ten_pm = nine_pm.replace(hour=22)
 
-        if should_stop() or now.hour >= 0:
+        if should_stop() or now.hour >= 23:
             print(f"[INFO] Stopping execution at {get_local_time()}")
             log_message(f"[INFO] Stopping execution at {get_local_time()}")
             break
