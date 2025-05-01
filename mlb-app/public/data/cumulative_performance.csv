@@ -94,19 +94,19 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-06,778425,Los Angeles Angels,Cleveland Guardians,9.5,8.0,0,0
 2025-04-30,778134,Cincinnati Reds,St. Louis Cardinals,9.5,6.0,1,0
 2025-04-30,778134,Cincinnati Reds,St. Louis Cardinals,9.0,6.0,1,0
-2025-04-30,778110,Houston Astros,Detroit Tigers,8.0,11.0,0,1
 2025-04-30,778102,Colorado Rockies,Atlanta Braves,10.0,3.0,0,0
+2025-04-30,778110,Houston Astros,Detroit Tigers,8.0,11.0,0,1
 2025-04-30,778109,Los Angeles Dodgers,Miami Marlins,10.0,19.0,0,1
-2025-04-30,778105,San Diego Padres,San Francisco Giants,7.0,8.0,0,1
 2025-04-30,778104,Seattle Mariners,Los Angeles Angels,8.5,12.0,0,1
+2025-04-30,778105,San Diego Padres,San Francisco Giants,7.0,8.0,0,1
 2025-04-30,778116,Cleveland Guardians,Minnesota Twins,7.0,6.0,0,0
-2025-04-30,778115,Baltimore Orioles,New York Yankees,9.5,9.0,0,0
-2025-04-30,778113,Tampa Bay Rays,Kansas City Royals,8.0,3.0,0,0
-2025-04-30,778118,Philadelphia Phillies,Washington Nationals,8.0,9.0,0,1
 2025-04-30,778114,Toronto Blue Jays,Boston Red Sox,9.5,13.0,0,1
 2025-04-30,778112,Pittsburgh Pirates,Chicago Cubs,9.0,7.0,0,0
-2025-04-30,778111,Chicago White Sox,Milwaukee Brewers,7.5,10.0,0,1
+2025-04-30,778113,Tampa Bay Rays,Kansas City Royals,8.0,3.0,0,0
+2025-04-30,778118,Philadelphia Phillies,Washington Nationals,8.0,9.0,0,1
+2025-04-30,778115,Baltimore Orioles,New York Yankees,9.5,9.0,0,0
 2025-04-30,778117,New York Mets,Arizona Diamondbacks,8.5,7.0,0,0
+2025-04-30,778111,Chicago White Sox,Milwaukee Brewers,7.5,10.0,0,1
 2025-04-30,778106,Texas Rangers,Athletics,8.5,8.0,0,0
 2025-04-22,778218,Cleveland Guardians,New York Yankees,8.5,5.0,1,0
 2025-04-22,778221,Detroit Tigers,San Diego Padres,7.5,2.0,0,0
