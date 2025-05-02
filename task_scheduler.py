@@ -53,14 +53,24 @@ def run_scripts(scripts):
             log_message(f" [ERROR] Script {script} failed: {e}")
 
 def git_commit_and_push():
-    """Commits and pushes changes to GitHub."""
-    print(f"[{get_local_time()}] Committing and pushing changes to GitHub...")
-    log_message(f" [INFO] Committing and pushing changes to GitHub...")
-    os.chdir(REPO_PATH)
-    subprocess.run(["git", "pull", "origin", "main"], check=True) 
-    subprocess.run(["git", "add", "."], check=True)
-    subprocess.run(["git", "commit", "-m", f"Auto-update {get_local_time()}"], check=True)
-    subprocess.run(["git", "push", "origin", "data-feed", "--force"], check=True)
+    try:
+        log_message(f"[INFO] Committing and pushing changes to GitHub...")
+        os.chdir(REPO_PATH)
+
+        # Step 1: Update local branch with latest changes
+        subprocess.run(["git", "fetch", "origin"], check=True)
+        subprocess.run(["git", "rebase", "--autostash", "origin/main"], check=True)
+
+        # Step 2: Add and commit new changes
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", f"Auto-update {get_local_time()}"], check=True)
+
+        # Step 3: Push to remote
+        subprocess.run(["git", "push", "origin", "data-feed", "--force"], check=True)
+
+    except subprocess.CalledProcessError as e:
+        log_message(f"[ERROR] Git operation failed: {e}")
+
 
 def main():
     """Main execution loop."""
