@@ -3,7 +3,9 @@
 /v4_and_v5/
 cron_log.txt
 task_scheduler.log
+task_scheduler
 node_modules/
 .xata
 cron_log.log
 cron_log
+task_scheduler.log
