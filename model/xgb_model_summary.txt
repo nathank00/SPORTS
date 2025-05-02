@@ -1,0 +1,18 @@
+Model: model/xgb_model.pkl
+Training samples: 9211
+Accuracy: 0.6196
+ROC AUC: 0.6642
+
+Confusion Matrix:
+[[510 381]
+ [320 632]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.61      0.57      0.59       891
+           1       0.62      0.66      0.64       952
+
+    accuracy                           0.62      1843
+   macro avg       0.62      0.62      0.62      1843
+weighted avg       0.62      0.62      0.62      1843
