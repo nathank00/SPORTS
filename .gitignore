@@ -3,7 +3,7 @@
 /v4_and_v5/
 cron_log.txt
 task_scheduler.log
-z_model.pkl
 node_modules/
-z_model1.pkl
 .xata
+cron_log.log
+cron_log

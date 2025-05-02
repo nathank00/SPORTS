@@ -1,9 +1,11 @@
 *
 !.gitignore
 !currentdata.parquet
+!currentdata_features.txt
 !data_cleaner.py
 !__init__.py
 !masterdata.parquet
 !masterdata_features.txt
 !xgb_model.pkl
 !xgb_model_summary.txt
+!final_features.txt
