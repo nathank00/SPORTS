@@ -465,7 +465,7 @@ mlbID,Name,Position,key_bbref
 677870,Leo Jiménez,SS,jimenle01
 656582,Connor Joe,1B,joeco01
 669369,Bryce Johnson,OF,johnsbr03
-669288,Daniel Johnson,CF,johnsda07
+669288,Daniel Johnson,OF,johnsda07
 675659,Greg Jones,RF,jonesgr02
 592444,JaCoby Jones,CF,jonesja07
 663330,Jahmai Jones,CF,jonesja08
@@ -480,7 +480,7 @@ mlbID,Name,Position,key_bbref
 673962,Josh Jung,3B,jungjo01
 663731,Connor Kaiser,SS,kaiseco01
 641741,Gosuke Katoh,2B,katohgo01
-694359,Niko Kavadas,1B,kavadni01
+694359,Niko Kavadas,OF,kavadni01
 453527,Sean Kazmar Jr.,SS,kazmase01
 807712,Luke Keaschall,2B,keasclu01
 680577,DaShawn Keirsey Jr.,RF,keirsda01
@@ -712,7 +712,7 @@ mlbID,Name,Position,key_bbref
 666931,Jared Oliva,RF,olivaja01
 621566,Matt Olson,1B,olsonma02
 641933,Tyler O'Neill,RF,oneilty01
-680716,Jonathan Ornelas,SS,orneljo01
+680716,Jonathan Ornelas,3B,orneljo01
 672359,Tirso Ornelas,LF,ornelti01
 542364,Rafael Ortega,CF,ortegra01
 687401,Joey Ortiz,SS,ortizjo06
@@ -1083,6 +1083,7 @@ mlbID,Name,Position,key_bbref
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
 682997,Tyler Callihan,2B,
+688760,Blaine Crim,1B,
 668974,Maverick Handley,C,
 689041,Rhylan Thomas,LF,
 678391,Jorbit Vivas,2B,
