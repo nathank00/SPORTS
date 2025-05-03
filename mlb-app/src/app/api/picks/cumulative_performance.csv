@@ -365,19 +365,19 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-09,778393,Atlanta Braves,Philadelphia Phillies,9.0,7.0,1,0
 2025-04-09,778388,Kansas City Royals,Minnesota Twins,7.5,4.0,0,0
 2025-04-09,778379,Colorado Rockies,Milwaukee Brewers,10.5,19.0,1,1
-2025-05-02,778086,Philadelphia Phillies,Arizona Diamondbacks,9.0,5.0,1,0
-2025-05-02,778090,Pittsburgh Pirates,San Diego Padres,8.0,12.0,0,1
-2025-05-02,778093,Baltimore Orioles,Kansas City Royals,9.0,3.0,0,0
 2025-05-02,778087,Cincinnati Reds,Washington Nationals,9.0,7.0,1,0
-2025-05-02,778089,Boston Red Sox,Minnesota Twins,9.0,7.0,1,0
+2025-05-02,778090,Pittsburgh Pirates,San Diego Padres,8.0,13.0,0,1
+2025-05-02,778086,Philadelphia Phillies,Arizona Diamondbacks,9.0,5.0,1,0
 2025-05-02,778088,New York Yankees,Tampa Bay Rays,8.5,3.0,0,0
+2025-05-02,778093,Baltimore Orioles,Kansas City Royals,9.0,3.0,0,0
 2025-05-02,778081,Toronto Blue Jays,Cleveland Guardians,8.5,8.0,1,0
-2025-05-02,778091,Miami Marlins,Athletics,9.5,7.0,0,0
-2025-05-02,778083,Texas Rangers,Seattle Mariners,8.5,14.0,1,1
+2025-05-02,778089,Boston Red Sox,Minnesota Twins,9.0,7.0,1,0
 2025-05-02,778092,Atlanta Braves,Los Angeles Dodgers,9.0,3.0,1,0
+2025-05-02,778091,Miami Marlins,Athletics,9.5,7.0,0,0
 2025-05-02,778079,Chicago White Sox,Houston Astros,8.0,10.0,1,1
+2025-05-02,778083,Texas Rangers,Seattle Mariners,8.5,14.0,1,1
 2025-05-02,778080,Milwaukee Brewers,Chicago Cubs,9.0,10.0,1,1
-2025-05-02,778084,St. Louis Cardinals,New York Mets,7.5,11.0,1,1
+2025-05-02,778084,St. Louis Cardinals,New York Mets,7.5,12.0,1,1
 2025-04-08,778403,Detroit Tigers,New York Yankees,7.5,5.0,0,0
 2025-04-08,778402,Cleveland Guardians,Chicago White Sox,7.5,1.0,0,0
 2025-04-08,778408,Pittsburgh Pirates,St. Louis Cardinals,6.0,8.0,0,1
