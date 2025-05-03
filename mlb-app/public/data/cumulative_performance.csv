@@ -328,6 +328,7 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-03,778066,Chicago White Sox,Houston Astros,7.5,11.0,1,1
 2025-05-03,778064,Toronto Blue Jays,Cleveland Guardians,7.5,8.0,0,1
 2025-05-03,778069,San Francisco Giants,Colorado Rockies,8.5,9.0,0,1
+2025-05-03,778075,Miami Marlins,Athletics,9.0,10.0,0,1
 2025-04-09,778389,Pittsburgh Pirates,St. Louis Cardinals,8.0,3.0,0,0
 2025-04-09,778390,New York Mets,Miami Marlins,7.0,5.0,0,0
 2025-04-09,778385,Chicago Cubs,Texas Rangers,7.5,8.0,0,1
