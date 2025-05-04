@@ -352,16 +352,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-20,778237,Houston Astros,San Diego Padres,7.5,5.0,0,0
 2025-05-03,778066,Chicago White Sox,Houston Astros,7.5,11.0,1,1
 2025-05-03,778074,New York Yankees,Tampa Bay Rays,10.0,5.0,0,0
-2025-05-03,778064,Toronto Blue Jays,Cleveland Guardians,7.5,8.0,0,1
-2025-05-03,778069,San Francisco Giants,Colorado Rockies,8.5,9.0,0,1
 2025-05-03,778065,Pittsburgh Pirates,San Diego Padres,9.5,3.0,1,0
+2025-05-03,778069,San Francisco Giants,Colorado Rockies,8.5,9.0,0,1
+2025-05-03,778064,Toronto Blue Jays,Cleveland Guardians,7.5,8.0,0,1
+2025-05-03,778073,Boston Red Sox,Minnesota Twins,9.5,7.0,1,0
 2025-05-03,778078,Philadelphia Phillies,Arizona Diamondbacks,9.5,9.0,0,0
 2025-05-03,778075,Miami Marlins,Athletics,9.0,15.0,0,1
-2025-05-03,778073,Boston Red Sox,Minnesota Twins,9.5,7.0,1,0
-2025-05-03,778077,Cincinnati Reds,Washington Nationals,9.0,17.0,1,1
-2025-05-03,778070,Texas Rangers,Seattle Mariners,9.0,3.0,0,0
 2025-05-03,778071,Milwaukee Brewers,Chicago Cubs,8.5,8.0,0,0
+2025-05-03,778077,Cincinnati Reds,Washington Nationals,9.0,17.0,1,1
 2025-05-03,778072,Baltimore Orioles,Kansas City Royals,9.0,4.0,0,0
+2025-05-03,778070,Texas Rangers,Seattle Mariners,9.0,3.0,0,0
 2025-05-03,778076,Atlanta Braves,Los Angeles Dodgers,8.5,10.0,1,1
 2025-05-03,778067,Los Angeles Angels,Detroit Tigers,8.5,7.0,0,0
 2025-04-09,778389,Pittsburgh Pirates,St. Louis Cardinals,8.0,3.0,0,0
