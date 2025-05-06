@@ -140,6 +140,7 @@ mlbID,Name,Position,key_bbref
 594777,Kole Calhoun,RF,calhoko01
 641432,Willie Calhoun,1B,calhowi01
 669743,Alex Call,RF,callal02
+682997,Tyler Callihan,2B,callity01
 665856,Jair Camargo,C,camarja01
 622666,Johan Camargo,3B,camarjo01
 663662,Daz Cameron,LF,camerda01
@@ -204,6 +205,7 @@ mlbID,Name,Position,key_bbref
 543063,Brandon Crawford,SS,crawfbr01
 641487,J.P. Crawford,SS,crawfjp01
 686611,Dylan Crews,RF,crewsdy01
+688760,Blaine Crim,1B,crimbl01
 543068,C.J. Cron,1B,croncj01
 630105,Jake Cronenworth,2B,croneja01
 643271,Narciso Crook,OF,crookna01
@@ -393,6 +395,7 @@ mlbID,Name,Position,key_bbref
 643348,Caleb Hamilton,C,hamilca01
 666152,David Hamilton,2B,hamilda03
 641658,Garrett Hampson,2B,hampsga01
+668974,Maverick Handley,C,handlma01
 571745,Mitch Haniger,RF,hanigmi01
 664023,Ian Happ,LF,happia01
 547180,Bryce Harper,1B,harpebr03
@@ -963,6 +966,7 @@ mlbID,Name,Position,key_bbref
 642137,Cody Thomas,RF,thomaco01
 605504,Dillon Thomas,LF,thomadi01
 657041,Lane Thomas,CF,thomala02
+689041,Rhylan Thomas,LF,thomarh01
 669352,Bubba Thompson,CF,thompbu01
 572204,Trayce Thompson,RF,thomptr01
 669911,Michael Toglia,1B,toglimi01
@@ -1012,6 +1016,7 @@ mlbID,Name,Position,key_bbref
 681584,David Villar,2B,villada01
 542340,Jonathan Villar,2B,villajo01
 650619,Meibrys Viloria,C,vilorme01
+678391,Jorbit Vivas,2B,vivasjo01
 596129,Daniel Vogelbach,DH,vogelda01
 519390,Stephen Vogt,C,vogtst01
 572228,Luke Voit,1B,voitlu01
@@ -1082,9 +1087,4 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-682997,Tyler Callihan,2B,
-688760,Blaine Crim,1B,
-668974,Maverick Handley,C,
 808975,Hyeseong Kim,2B,
-689041,Rhylan Thomas,LF,
-678391,Jorbit Vivas,2B,
