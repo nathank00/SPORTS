@@ -2,16 +2,16 @@ game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Awa
 778046,Washington Nationals,Cleveland Guardians,9.5,Under,,,,,,,,,,,,,,,,,,,,
 778026,Washington Nationals,Cleveland Guardians,9.0,Under,Steven Kwan,Daniel Schneemann,José Ramírez,Kyle Manzardo,Carlos Santana,Bo Naylor,Gabriel Arias,Nolan Jones,Angel Martínez,CJ Abrams,Alex Call,James Wood,Nathaniel Lowe,Keibert Ruiz,Luis García Jr.,Dylan Crews,José Tena,Jacob Young,Luis L. Ortiz,Jake Irvin
 778035,Miami Marlins,Los Angeles Dodgers,9.5,Under,,,,,,,,,,,,,,,,,,,,
-778037,Boston Red Sox,Texas Rangers,8.5,Under,,,,,,,,,,,,,,,,,,,,
 778040,Tampa Bay Rays,Philadelphia Phillies,8.0,Under,,,,,,,,,,,,,,,,,,,,
-778034,Atlanta Braves,Cincinnati Reds,8.0,Under,,,,,,,,,,,,,,,,,,,,
+778037,Boston Red Sox,Texas Rangers,8.5,Under,,,,,,,,,,Jarren Duran,Rafael Devers,Alex Bregman,Kristian Campbell,Wilyer Abreu,Trevor Story,Abraham Toro,Carlos Narváez,Ceddanne Rafaela,,Lucas Giolito
 778041,New York Yankees,San Diego Padres,8.0,Under,,,,,,,,,,,,,,,,,,,,
+778034,Atlanta Braves,Cincinnati Reds,8.0,Under,,,,,,,,,,,,,,,,,,,,
 778027,Chicago Cubs,San Francisco Giants,8.0,Under,,,,,,,,,,,,,,,,,,,,
 778033,Kansas City Royals,Chicago White Sox,8.5,Under,,,,,,,,,,,,,,,,,,,,
-778028,Minnesota Twins,Baltimore Orioles,8.5,Under,,,,,,,,,,,,,,,,,,,,
 778031,Milwaukee Brewers,Houston Astros,8.0,Under,,,,,,,,,,,,,,,,,,,,
-778029,Colorado Rockies,Detroit Tigers,9.5,Under,,,,,,,,,,,,,,,,,,,,
-778030,St. Louis Cardinals,Pittsburgh Pirates,7.0,Under,,,,,,,,,,Lars Nootbaar,Masyn Winn,Brendan Donovan,Nolan Arenado,Willson Contreras,Alec Burleson,Yohel Pozo,Jordan Walker,Victor Scott II,,Matthew Liberatore
-778032,Arizona Diamondbacks,New York Mets,9.0,Under,,,,,,,,,,,,,,,,,,,,
 778025,Los Angeles Angels,Toronto Blue Jays,9.0,Under,,,,,,,,,,,,,,,,,,,,
+778028,Minnesota Twins,Baltimore Orioles,8.5,Over,,,,,,,,,,Byron Buxton,Ryan Jeffers,Ty France,Carlos Correa,Royce Lewis,Brooks Lee,Harrison Bader,Jonah Bride,Willi Castro,,Pablo López
+778030,St. Louis Cardinals,Pittsburgh Pirates,7.0,Under,,,,,,,,,,Lars Nootbaar,Masyn Winn,Brendan Donovan,Nolan Arenado,Willson Contreras,Alec Burleson,Yohel Pozo,Jordan Walker,Victor Scott II,,Matthew Liberatore
+778029,Colorado Rockies,Detroit Tigers,9.5,Under,,,,,,,,,,,,,,,,,,,,
 778024,Athletics,Seattle Mariners,10.0,Under,,,,,,,,,,,,,,,,,,,,
+778032,Arizona Diamondbacks,New York Mets,9.0,Under,,,,,,,,,,,,,,,,,,,,
