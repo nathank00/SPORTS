@@ -1,14 +1,14 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 778046,12:40,Washington Nationals,Cleveland Guardians,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778026,12:35,Washington Nationals,Cleveland Guardians,9.5,Under,0,0,0,0,,,,,,,,,,CJ Abrams,Alex Call,James Wood,Nathaniel Lowe,Keibert Ruiz,Luis García Jr.,Dylan Crews,José Tena,Jacob Young,,Jake Irvin
+778046,12:40,Washington Nationals,Cleveland Guardians,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778035,15:40,Miami Marlins,Los Angeles Dodgers,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778037,15:45,Boston Red Sox,Texas Rangers,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778040,16:05,Tampa Bay Rays,Philadelphia Phillies,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778027,16:40,Chicago Cubs,San Francisco Giants,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778034,16:15,Atlanta Braves,Cincinnati Reds,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778041,16:05,New York Yankees,San Diego Padres,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778033,16:40,Kansas City Royals,Chicago White Sox,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778027,16:40,Chicago Cubs,San Francisco Giants,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778028,16:40,Minnesota Twins,Baltimore Orioles,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778033,16:40,Kansas City Royals,Chicago White Sox,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778031,16:40,Milwaukee Brewers,Houston Astros,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778030,16:45,St. Louis Cardinals,Pittsburgh Pirates,7.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778029,17:40,Colorado Rockies,Detroit Tigers,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
