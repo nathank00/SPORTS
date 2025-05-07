@@ -1,7 +1,8 @@
 date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
-2025-05-07,778016,St. Louis Cardinals,Pittsburgh Pirates,7.5,5.0,0,0
 2025-05-07,778015,Milwaukee Brewers,Houston Astros,7.5,10.0,0,1
 2025-05-07,778022,Washington Nationals,Cleveland Guardians,9.0,14.0,1,1
+2025-05-07,778016,St. Louis Cardinals,Pittsburgh Pirates,7.5,5.0,0,0
+2025-05-07,778010,Athletics,Seattle Mariners,9.5,11.0,0,1
 2025-05-07,778020,Chicago Cubs,San Francisco Giants,7.5,4.0,1,0
 2025-04-29,778129,Cleveland Guardians,Minnesota Twins,8.0,3.0,0,0
 2025-04-29,778133,Baltimore Orioles,New York Yankees,9.5,18.0,0,1
