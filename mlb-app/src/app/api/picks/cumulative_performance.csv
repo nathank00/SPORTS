@@ -44,18 +44,18 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-01,778099,Philadelphia Phillies,Washington Nationals,10.0,6.0,1,0
 2025-05-01,778108,Cleveland Guardians,Minnesota Twins,9.0,7.0,0,0
 2025-05-01,778096,Texas Rangers,Athletics,8.5,3.0,0,0
-2025-05-06,778026,Washington Nationals,Cleveland Guardians,9.5,19.0,0,1
-2025-05-06,778046,Washington Nationals,Cleveland Guardians,9.0,10.0,0,1
+2025-05-06,778046,Washington Nationals,Cleveland Guardians,9.5,10.0,0,1
+2025-05-06,778026,Washington Nationals,Cleveland Guardians,9.0,19.0,0,1
 2025-05-06,778035,Miami Marlins,Los Angeles Dodgers,10.0,9.0,1,0
 2025-05-06,778037,Boston Red Sox,Texas Rangers,8.5,7.0,0,0
 2025-05-06,778040,Tampa Bay Rays,Philadelphia Phillies,8.0,12.0,0,1
 2025-05-06,778041,New York Yankees,San Diego Padres,8.0,15.0,0,1
-2025-05-06,778027,Chicago Cubs,San Francisco Giants,8.5,19.0,0,1
-2025-05-06,778033,Kansas City Royals,Chicago White Sox,8.5,7.0,0,0
 2025-05-06,778034,Atlanta Braves,Cincinnati Reds,8.0,3.0,0,0
 2025-05-06,778028,Minnesota Twins,Baltimore Orioles,9.0,10.0,1,1
-2025-05-06,778031,Milwaukee Brewers,Houston Astros,8.0,7.0,1,0
+2025-05-06,778027,Chicago Cubs,San Francisco Giants,8.5,19.0,0,1
+2025-05-06,778033,Kansas City Royals,Chicago White Sox,8.5,7.0,0,0
 2025-05-06,778030,St. Louis Cardinals,Pittsburgh Pirates,7.0,3.0,0,0
+2025-05-06,778031,Milwaukee Brewers,Houston Astros,8.0,7.0,1,0
 2025-03-29,778538,New York Yankees,Milwaukee Brewers,9.0,29.0,0,1
 2025-03-29,778534,Chicago White Sox,Los Angeles Angels,8.0,1.0,1,0
 2025-03-29,778528,St. Louis Cardinals,Minnesota Twins,7.5,6.0,0,0
