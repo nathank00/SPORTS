@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-778022,09:05,Washington Nationals,Cleveland Guardians,9.0,Over,0,1,0,0,Steven Kwan,Daniel Schneemann,José Ramírez,Carlos Santana,Gabriel Arias,Bo Naylor,Angel Martínez,Nolan Jones,Brayan Rocchio,CJ Abrams,Amed Rosario,James Wood,Nathaniel Lowe,Alex Call,Keibert Ruiz,Luis García Jr.,Dylan Crews,Jacob Young,Logan Allen,Michael Soroka
+778022,09:05,Washington Nationals,Cleveland Guardians,9.0,Over,3,1,0,0,Steven Kwan,Daniel Schneemann,José Ramírez,Carlos Santana,Gabriel Arias,Bo Naylor,Angel Martínez,Nolan Jones,Brayan Rocchio,CJ Abrams,Amed Rosario,James Wood,Nathaniel Lowe,Alex Call,Keibert Ruiz,Luis García Jr.,Dylan Crews,Jacob Young,Logan Allen,Michael Soroka
+778010,12:35,Athletics,Seattle Mariners,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778015,10:10,Milwaukee Brewers,Houston Astros,7.5,Under,0,0,0,0,Jeremy Peña,Jose Altuve,Isaac Paredes,Christian Walker,Yainer Diaz,Jake Meyers,Zach Dezenzo,Brendan Rodgers,Chas McCormick,Jackson Chourio,Isaac Collins,Christian Yelich,Rhys Hoskins,Daz Cameron,Caleb Durbin,Vinny Capra,Eric Haase,Joey Ortiz,Framber Valdez,Quinn Priester
-778020,11:20,Chicago Cubs,San Francisco Giants,7.0,Over,0,1,0,0,Mike Yastrzemski,Willy Adames,Jung Hoo Lee,Matt Chapman,Wilmer Flores,Heliot Ramos,LaMonte Wade Jr.,Sam Huff,Christian Koss,Ian Happ,Kyle Tucker,Seiya Suzuki,Carson Kelly,Justin Turner,Nico Hoerner,Pete Crow-Armstrong,Dansby Swanson,Jon Berti,Robbie Ray,Ben Brown
-778010,12:35,Athletics,Seattle Mariners,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778020,11:20,Chicago Cubs,San Francisco Giants,7.5,Over,0,1,0,0,Mike Yastrzemski,Willy Adames,Jung Hoo Lee,Matt Chapman,Wilmer Flores,Heliot Ramos,LaMonte Wade Jr.,Sam Huff,Christian Koss,Ian Happ,Kyle Tucker,Seiya Suzuki,Carson Kelly,Justin Turner,Nico Hoerner,Pete Crow-Armstrong,Dansby Swanson,Jon Berti,Robbie Ray,Ben Brown
+778014,12:40,Arizona Diamondbacks,New York Mets,9.5,Under,0,0,0,0,,,,,,,,,,Corbin Carroll,Geraldo Perdomo,Pavin Smith,Josh Naylor,Eugenio Suárez,Lourdes Gurriel Jr.,Alek Thomas,Tim Tawa,Jose Herrera,,Merrill Kelly
 778016,10:15,St. Louis Cardinals,Pittsburgh Pirates,7.5,Under,0,0,0,0,Oneil Cruz,Bryan Reynolds,Andrew McCutchen,Joey Bart,Enmanuel Valdez,Ke'Bryan Hayes,Adam Frazier,Tommy Pham,Liover Peguero,Lars Nootbaar,Masyn Winn,Brendan Donovan,Nolan Arenado,Willson Contreras,Alec Burleson,Jordan Walker,Pedro Pagés,Victor Scott II,Mitch Keller,Sonny Gray
 778017,13:40,Miami Marlins,Los Angeles Dodgers,10.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778014,12:40,Arizona Diamondbacks,New York Mets,9.5,Under,0,0,0,0,,,,,,,,,,Corbin Carroll,Geraldo Perdomo,Pavin Smith,Josh Naylor,Eugenio Suárez,Lourdes Gurriel Jr.,Alek Thomas,Tim Tawa,Jose Herrera,,Merrill Kelly
-778018,15:45,Boston Red Sox,Texas Rangers,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778011,16:40,Minnesota Twins,Baltimore Orioles,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778019,16:05,New York Yankees,San Diego Padres,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778023,16:15,Atlanta Braves,Cincinnati Reds,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778018,15:45,Boston Red Sox,Texas Rangers,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778021,16:05,Tampa Bay Rays,Philadelphia Phillies,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-778012,16:40,Kansas City Royals,Chicago White Sox,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778023,16:15,Atlanta Braves,Cincinnati Reds,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778011,16:40,Minnesota Twins,Baltimore Orioles,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778013,17:40,Colorado Rockies,Detroit Tigers,10.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+778012,16:40,Kansas City Royals,Chicago White Sox,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 778009,18:38,Los Angeles Angels,Toronto Blue Jays,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
