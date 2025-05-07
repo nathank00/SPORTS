@@ -36,9 +36,15 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-01,778108,Cleveland Guardians,Minnesota Twins,9.0,7.0,0,0
 2025-05-01,778096,Texas Rangers,Athletics,8.5,3.0,0,0
 2025-05-06,778046,Washington Nationals,Cleveland Guardians,9.5,10.0,0,1
-2025-05-06,778026,Washington Nationals,Cleveland Guardians,9.0,19.0,0,1
-2025-05-06,778041,New York Yankees,San Diego Padres,8.0,15.0,0,1
+2025-05-06,778046,Washington Nationals,Cleveland Guardians,9.0,10.0,0,1
+2025-05-06,778037,Boston Red Sox,Texas Rangers,8.5,7.0,0,0
+2025-05-06,778035,Miami Marlins,Los Angeles Dodgers,10.0,9.0,1,0
 2025-05-06,778040,Tampa Bay Rays,Philadelphia Phillies,8.0,12.0,0,1
+2025-05-06,778041,New York Yankees,San Diego Padres,8.0,15.0,0,1
+2025-05-06,778027,Chicago Cubs,San Francisco Giants,8.5,10.0,0,1
+2025-05-06,778033,Kansas City Royals,Chicago White Sox,8.5,7.0,0,0
+2025-05-06,778031,Milwaukee Brewers,Houston Astros,8.0,7.0,1,0
+2025-05-06,778030,St. Louis Cardinals,Pittsburgh Pirates,7.0,3.0,0,0
 2025-05-06,778028,Minnesota Twins,Baltimore Orioles,9.0,10.0,1,1
 2025-04-19,778265,Detroit Tigers,Kansas City Royals,8.0,4.0,0,0
 2025-04-19,778252,Philadelphia Phillies,Miami Marlins,10.5,21.0,1,1
