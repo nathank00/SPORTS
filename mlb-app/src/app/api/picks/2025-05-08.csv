@@ -1,9 +1,9 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 778029,Colorado Rockies,Detroit Tigers,10.0,Under,,,,,,,,,,,,,,,,,,,,
 778007,Minnesota Twins,Baltimore Orioles,8.5,Under,Gunnar Henderson,Jackson Holliday,Ryan O'Hearn,Ryan Mountcastle,Ramón Laureano,Heston Kjerstad,Coby Mayo,Emmanuel Rivera,Maverick Handley,Byron Buxton,Trevor Larnach,Brooks Lee,Ty France,Carlos Correa,Willi Castro,Royce Lewis,Harrison Bader,Christian Vázquez,Dean Kremer,Bailey Ober
-778006,Boston Red Sox,Texas Rangers,9.0,Over,Josh Smith,Wyatt Langford,Joc Pederson,Adolis García,Marcus Semien,Evan Carter,Josh Jung,Dustin Harris,Tucker Barnhart,Jarren Duran,Rafael Devers,Alex Bregman,Kristian Campbell,Wilyer Abreu,Trevor Story,Abraham Toro,Carlos Narváez,Ceddanne Rafaela,Jack Leiter,Brayan Bello
+778006,Boston Red Sox,Texas Rangers,9.5,Over,Josh Smith,Wyatt Langford,Joc Pederson,Adolis García,Marcus Semien,Evan Carter,Josh Jung,Dustin Harris,Tucker Barnhart,Jarren Duran,Rafael Devers,Alex Bregman,Kristian Campbell,Wilyer Abreu,Trevor Story,Abraham Toro,Carlos Narváez,Ceddanne Rafaela,Jack Leiter,Brayan Bello
 778008,Kansas City Royals,Chicago White Sox,8.5,Under,Chase Meidroth,Miguel Vargas,Edgar Quero,Luis Robert Jr.,Andrew Vaughn,Joshua Palacios,Lenyn Sosa,Brooks Baldwin,Michael A. Taylor,Jonathan India,Bobby Witt Jr.,Vinnie Pasquantino,Salvador Perez,Maikel Garcia,Michael Massey,Hunter Renfroe,Drew Waters,Freddy Fermin,Davis Martin,Kris Bubic
 778005,Tampa Bay Rays,Philadelphia Phillies,9.0,Under,,,,,,,,,,,,,,,,,,,,
-778003,Atlanta Braves,Cincinnati Reds,8.0,Under,,,,,,,,,,,,,,,,,,,,
 778000,Los Angeles Angels,Toronto Blue Jays,8.5,Under,,,,,,,,,,,,,,,,,,,,
+778003,Atlanta Braves,Cincinnati Reds,8.0,Under,,,,,,,,,,,,,,,,,,,,
 777999,Arizona Diamondbacks,Los Angeles Dodgers,9.0,Under,,,,,,,,,,,,,,,,,,,,
