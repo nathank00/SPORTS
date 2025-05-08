@@ -1,19 +1,19 @@
 date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
-2025-05-07,778022,Washington Nationals,Cleveland Guardians,9.0,14.0,1,1
 2025-05-07,778015,Milwaukee Brewers,Houston Astros,7.5,10.0,0,1
+2025-05-07,778022,Washington Nationals,Cleveland Guardians,9.0,14.0,1,1
 2025-05-07,778016,St. Louis Cardinals,Pittsburgh Pirates,7.5,5.0,0,0
 2025-05-07,778020,Chicago Cubs,San Francisco Giants,7.5,4.0,1,0
+2025-05-07,778014,Arizona Diamondbacks,New York Mets,9.0,8.0,0,0
 2025-05-07,778010,Athletics,Seattle Mariners,9.5,11.0,1,1
 2025-05-07,778017,Miami Marlins,Los Angeles Dodgers,10.0,11.0,1,1
-2025-05-07,778014,Arizona Diamondbacks,New York Mets,9.0,8.0,0,0
-2025-05-07,778018,Boston Red Sox,Texas Rangers,9.0,10.0,0,1
 2025-05-07,778021,Tampa Bay Rays,Philadelphia Phillies,8.5,7.0,0,0
 2025-05-07,778019,New York Yankees,San Diego Padres,8.0,7.0,0,0
+2025-05-07,778018,Boston Red Sox,Texas Rangers,9.0,10.0,0,1
 2025-05-07,778011,Minnesota Twins,Baltimore Orioles,9.0,7.0,0,0
 2025-05-07,778023,Atlanta Braves,Cincinnati Reds,7.5,7.0,0,0
-2025-05-07,778013,Colorado Rockies,Detroit Tigers,10.0,14.0,0,1
 2025-05-07,778012,Kansas City Royals,Chicago White Sox,8.0,3.0,0,0
 2025-05-07,778009,Los Angeles Angels,Toronto Blue Jays,8.5,9.0,1,1
+2025-05-07,778013,Colorado Rockies,Detroit Tigers,10.0,14.0,0,1
 2025-04-29,778129,Cleveland Guardians,Minnesota Twins,8.0,3.0,0,0
 2025-04-29,778133,Baltimore Orioles,New York Yankees,9.5,18.0,0,1
 2025-04-29,778131,Philadelphia Phillies,Washington Nationals,8.5,13.0,0,1
