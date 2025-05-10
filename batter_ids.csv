@@ -59,7 +59,7 @@ mlbID,Name,Position,key_bbref
 640492,José Azocar,LF,azocajo01
 668731,Akil Baddoo,LF,baddoak01
 664056,Harrison Bader,LF,baderha01
-678225,Ji Hwan Bae,LF,baeji01
+678225,Ji Hwan Bae,CF,baeji01
 595879,Javier Báez,3B,baezja01
 672275,Patrick Bailey,C,bailepa01
 671117,Darren Baker,2B,bakerda02
@@ -1088,3 +1088,4 @@ mlbID,Name,Position,key_bbref
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
 808975,Hyeseong Kim,2B,
+683090,Matthew Lugo,LF,
