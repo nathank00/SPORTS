@@ -1,12 +1,12 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777960,Cleveland Guardians,Milwaukee Brewers,8.5,Under,,,,,,,,,,Steven Kwan,Daniel Schneemann,José Ramírez,Carlos Santana,Kyle Manzardo,Bo Naylor,Gabriel Arias,Nolan Jones,Will Brennan,,Ben Lively
 777951,Detroit Tigers,Boston Red Sox,8.5,Under,Jarren Duran,Rafael Devers,Alex Bregman,Kristian Campbell,Wilyer Abreu,Trevor Story,Abraham Toro,Connor Wong,Ceddanne Rafaela,Kerry Carpenter,Gleyber Torres,Colt Keith,Riley Greene,Spencer Torkelson,Zach McKinstry,Dillon Dingler,Trey Sweeney,Javier Báez,Tanner Houck,Jackson Jobe
-777952,Chicago Cubs,Miami Marlins,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777953,Philadelphia Phillies,St. Louis Cardinals,8.5,Over,Lars Nootbaar,Masyn Winn,Brendan Donovan,Nolan Arenado,Willson Contreras,Iván Herrera,Pedro Pagés,Jordan Walker,Jose Barrero,Trea Turner,Bryce Harper,Kyle Schwarber,Nick Castellanos,J.T. Realmuto,Alec Bohm,Edmundo Sosa,Weston Wilson,Johan Rojas,Matthew Liberatore,Cristopher Sánchez
 777950,New York Mets,Pittsburgh Pirates,7.0,Under,,,,,,,,,,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jeff McNeil,Francisco Alvarez,Brett Baty,Luisangel Acuña,,David Peterson
+777952,Chicago Cubs,Miami Marlins,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777959,Atlanta Braves,Washington Nationals,8.5,Under,CJ Abrams,James Wood,Nathaniel Lowe,Keibert Ruiz,Luis García Jr.,Josh Bell,Dylan Crews,José Tena,Jacob Young,Alex Verdugo,Austin Riley,Matt Olson,Marcell Ozuna,Michael Harris II,Sean Murphy,Ozzie Albies,Eli White,Nick Allen,Jake Irvin,Grant Holmes
-777948,Houston Astros,Kansas City Royals,8.0,Under,,,,,,,,,,,,,,,,,,,,
-777949,Texas Rangers,Colorado Rockies,8.5,Under,Brenton Doyle,Jordan Beck,Ryan McMahon,Hunter Goodman,Michael Toglia,Mickey Moniak,Nick Martini,Adael Amador,Alan Trejo,,,,,,,,,,Chase Dollander,
 777947,San Diego Padres,Los Angeles Angels,7.0,Under,,,,,,,,,,,,,,,,,,,,
+777949,Texas Rangers,Colorado Rockies,8.5,Under,Brenton Doyle,Jordan Beck,Ryan McMahon,Hunter Goodman,Michael Toglia,Mickey Moniak,Nick Martini,Adael Amador,Alan Trejo,Evan Carter,Wyatt Langford,Joc Pederson,Adolis García,Marcus Semien,Josh Jung,Jake Burger,Tucker Barnhart,Ezequiel Duran,Chase Dollander,Tyler Mahle
 777941,Seattle Mariners,New York Yankees,8.0,Under,,,,,,,,,,,,,,,,,,,,
+777948,Houston Astros,Kansas City Royals,8.0,Under,Jonathan India,Bobby Witt Jr.,Vinnie Pasquantino,Salvador Perez,Maikel Garcia,Michael Massey,Cavan Biggio,Drew Waters,Kyle Isbel,Jeremy Peña,Jose Altuve,Isaac Paredes,Christian Walker,Yainer Diaz,Victor Caratini,Jake Meyers,Zach Dezenzo,Cam Smith,Michael Wacha,Ryan Gusto
 777939,San Francisco Giants,Arizona Diamondbacks,8.0,Under,,,,,,,,,,,,,,,,,,,,
