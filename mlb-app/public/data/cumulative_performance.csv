@@ -380,18 +380,18 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-20,778237,Houston Astros,San Diego Padres,7.5,5.0,0,0
 2025-05-11,777962,Washington Nationals,St. Louis Cardinals,8.5,7.0,1,0
 2025-05-11,777968,New York Mets,Chicago Cubs,8.0,8.0,1,
-2025-05-11,777967,Pittsburgh Pirates,Atlanta Braves,8.0,7.0,0,0
 2025-05-11,777969,Detroit Tigers,Texas Rangers,7.0,7.0,1,
-2025-05-11,777963,Houston Astros,Cincinnati Reds,8.5,6.0,0,0
+2025-05-11,777967,Pittsburgh Pirates,Atlanta Braves,8.0,7.0,0,0
 2025-05-11,777964,Tampa Bay Rays,Milwaukee Brewers,9.0,6.0,0,0
+2025-05-11,777963,Houston Astros,Cincinnati Reds,8.5,6.0,0,0
 2025-05-11,777965,Kansas City Royals,Boston Red Sox,8.5,4.0,0,0
 2025-05-11,777956,Minnesota Twins,San Francisco Giants,8.5,13.0,1,1
-2025-05-11,777955,Colorado Rockies,San Diego Padres,11.5,12.0,0,1
 2025-05-11,777966,Chicago White Sox,Miami Marlins,8.0,6.0,0,0
+2025-05-11,777955,Colorado Rockies,San Diego Padres,11.5,12.0,0,1
 2025-05-11,777957,Athletics,New York Yankees,11.0,14.0,0,1
-2025-05-11,777961,Los Angeles Angels,Baltimore Orioles,9.0,10.0,0,1
-2025-05-11,777958,Seattle Mariners,Toronto Blue Jays,8.0,10.0,0,1
 2025-05-11,777954,Arizona Diamondbacks,Los Angeles Dodgers,9.5,9.0,0,0
+2025-05-11,777958,Seattle Mariners,Toronto Blue Jays,8.0,10.0,0,1
+2025-05-11,777961,Los Angeles Angels,Baltimore Orioles,9.0,10.0,0,1
 2025-05-04,778068,St. Louis Cardinals,New York Mets,8.5,9.0,0,1
 2025-05-04,778051,Pittsburgh Pirates,San Diego Padres,9.0,4.0,1,0
 2025-05-04,778062,Baltimore Orioles,Kansas City Royals,9.0,17.0,0,1
