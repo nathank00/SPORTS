@@ -32,8 +32,10 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-12,777960,Cleveland Guardians,Milwaukee Brewers,8.5,5.0,0,0
 2025-05-12,777953,Philadelphia Phillies,St. Louis Cardinals,8.5,5.0,1,0
 2025-05-12,777950,New York Mets,Pittsburgh Pirates,7.0,7.0,0,
-2025-05-12,777948,Houston Astros,Kansas City Royals,8.0,9.0,0,1
+2025-05-12,777952,Chicago Cubs,Miami Marlins,8.0,7.0,0,0
 2025-05-12,777959,Atlanta Braves,Washington Nationals,8.5,7.0,0,0
+2025-05-12,777949,Texas Rangers,Colorado Rockies,8.5,3.0,0,0
+2025-05-12,777948,Houston Astros,Kansas City Royals,8.0,12.0,0,1
 2025-04-18,778268,Chicago Cubs,Arizona Diamondbacks,11.5,24.0,0,1
 2025-04-18,778277,Detroit Tigers,Kansas City Royals,7.5,10.0,1,1
 2025-04-18,778274,Philadelphia Phillies,Miami Marlins,8.0,9.0,0,1
