@@ -53,6 +53,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-18,778269,Houston Astros,San Diego Padres,9.0,10.0,1,1
 2025-04-18,778261,Milwaukee Brewers,Athletics,8.0,8.0,1,
 2025-05-13,777944,Cleveland Guardians,Milwaukee Brewers,9.0,2.0,1,0
+2025-05-13,777940,Detroit Tigers,Boston Red Sox,8.5,10.0,0,1
+2025-05-13,777935,Toronto Blue Jays,Tampa Bay Rays,8.0,9.0,1,1
 2025-05-01,778100,Pittsburgh Pirates,Chicago Cubs,8.0,11.0,0,1
 2025-05-01,778107,Cincinnati Reds,St. Louis Cardinals,9.0,10.0,1,1
 2025-05-01,778103,New York Mets,Arizona Diamondbacks,8.0,6.0,0,0
