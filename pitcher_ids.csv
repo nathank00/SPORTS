@@ -30,6 +30,7 @@ mlbID,Name,Position,key_bbref
 680430,Nick Allgeyer,P,allgeni01
 622075,Yency Almonte,P,almonye01
 656186,Dan Altavilla,P,altavda01
+665660,Elvis Alvarado,P,alvarel01
 501625,Jose Alvarez,P,alvarjo02
 621237,José Alvarado,P,alvarjo03
 571439,R.J. Alvarez,P,alvarrj01
@@ -415,6 +416,7 @@ mlbID,Name,Position,key_bbref
 641585,J.P. France,P,francjp01
 571676,Seth Frankoff,P,frankse01
 607536,Kyle Freeland,P,freelky01
+673965,Caleb Freeman,P,freemca01
 666818,Luis Frías,P,friaslu01
 608331,Max Fried,P,friedma01
 605240,Jace Fry,P,fryja01
@@ -1285,6 +1287,7 @@ mlbID,Name,Position,key_bbref
 689672,Drew Thorpe,P,thorpdr01
 626929,Lewis Thorpe,P,thorple01
 676709,Ty Tice,P,ticety01
+694918,Blade Tidwell,P,tidwebl01
 622786,Jesus Tinoco,P,tinocje01
 458708,Josh Tomlin,P,tomlijo01
 543859,Michael Tonkin,P,tonkimi01
@@ -1442,9 +1445,6 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-665660,Elvis Alvarado,P,
 680755,Braydon Fisher,P,
-673965,Caleb Freeman,P,
 690990,Cade Horton,P,
 669020,Ryan Rolison,P,
-694918,Blade Tidwell,P,

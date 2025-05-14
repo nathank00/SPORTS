@@ -497,6 +497,7 @@ mlbID,Name,Position,key_bbref
 666198,Carter Kieboom,3B,kieboca01
 595281,Kevin Kiermaier,CF,kiermke01
 673490,Ha-Seong Kim,SS,kimha01
+808975,Hyeseong Kim,2B,kimhy02
 643396,Isiah Kiner-Falefa,SS,kineris01
 664068,Scott Kingery,SS,kingesc01
 666135,Alex Kirilloff,LF,kirilal01
@@ -566,6 +567,7 @@ mlbID,Name,Position,key_bbref
 476704,Jed Lowrie,SS,lowrije01
 682617,Marco Luciano,OF,luciama01
 518960,Jonathan Lucroy,C,lucrojo01
+683090,Matthew Lugo,LF,lugoma01
 664770,Nathan Lukes,CF,lukesna01
 656669,Jordan Luplow,LF,luplojo01
 666158,Gavin Lux,LF,luxga01
@@ -1087,6 +1089,5 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
+694208,Moisés Ballesteros,C,
 671284,Tim Elko,1B,
-808975,Hyeseong Kim,2B,
-683090,Matthew Lugo,LF,
