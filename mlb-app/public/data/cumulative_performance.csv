@@ -67,11 +67,11 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-13,777937,Los Angeles Dodgers,Athletics,9.0,12.0,0,1
 2025-05-14,777933,Philadelphia Phillies,St. Louis Cardinals,8.5,16.0,1,1
 2025-05-14,777938,Baltimore Orioles,Minnesota Twins,8.5,14.0,0,1
-2025-05-14,777938,Baltimore Orioles,Minnesota Twins,8.5,14.0,0,1
+2025-05-14,777924,Baltimore Orioles,Minnesota Twins,8.5,9.0,0,1
 2025-05-14,777922,Philadelphia Phillies,St. Louis Cardinals,8.0,3.0,1,0
-2025-05-14,777915,Seattle Mariners,New York Yankees,8.0,5.0,0,0
 2025-05-14,777925,Cleveland Guardians,Milwaukee Brewers,8.0,14.0,0,1
 2025-05-14,777916,San Francisco Giants,Arizona Diamondbacks,8.5,15.0,0,1
+2025-05-14,777915,Seattle Mariners,New York Yankees,8.0,5.0,0,0
 2025-05-01,778100,Pittsburgh Pirates,Chicago Cubs,8.0,11.0,0,1
 2025-05-01,778107,Cincinnati Reds,St. Louis Cardinals,9.0,10.0,1,1
 2025-05-01,778103,New York Mets,Arizona Diamondbacks,8.0,6.0,0,0
