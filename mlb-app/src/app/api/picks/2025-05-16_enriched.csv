@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-777902,14:10,Cincinnati Reds,Cleveland Guardians,9.0,Over,0,1,0,0,,,,,,,,,,TJ Friedl,Santiago Espinal,Elly De La Cruz,Austin Hays,Gavin Lux,Spencer Steer,Tyler Stephenson,Will Benson,Matt McLain,,Brady Singer
 777900,11:20,Chicago Cubs,Chicago White Sox,11.5,Under,0,0,0,0,Chase Meidroth,Matt Thaiss,Luis Robert Jr.,Miguel Vargas,Joshua Palacios,Andrew Vaughn,Edgar Quero,Josh Rojas,Brooks Baldwin,Pete Crow-Armstrong,Kyle Tucker,Seiya Suzuki,Michael Busch,Carson Kelly,Dansby Swanson,Moisés Ballesteros,Nico Hoerner,Jon Berti,Shane Smith,Cade Horton
 777905,15:45,Philadelphia Phillies,Pittsburgh Pirates,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777904,16:05,New York Yankees,New York Mets,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777902,14:10,Cincinnati Reds,Cleveland Guardians,9.0,Over,0,1,0,0,Steven Kwan,Nolan Jones,José Ramírez,Kyle Manzardo,Carlos Santana,Daniel Schneemann,Gabriel Arias,Bo Naylor,Will Brennan,TJ Friedl,Santiago Espinal,Elly De La Cruz,Austin Hays,Gavin Lux,Spencer Steer,Tyler Stephenson,Will Benson,Matt McLain,Tanner Bibee,Brady Singer
 777907,16:05,Baltimore Orioles,Washington Nationals,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777908,16:10,Boston Red Sox,Atlanta Braves,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777906,16:07,Toronto Blue Jays,Detroit Tigers,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777904,16:05,New York Yankees,New York Mets,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777901,16:40,Kansas City Royals,St. Louis Cardinals,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777903,16:10,Miami Marlins,Tampa Bay Rays,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777895,17:05,Texas Rangers,Houston Astros,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777906,16:07,Toronto Blue Jays,Detroit Tigers,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777908,16:10,Boston Red Sox,Atlanta Braves,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777903,16:10,Miami Marlins,Tampa Bay Rays,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777898,17:10,Milwaukee Brewers,Minnesota Twins,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777897,18:40,Arizona Diamondbacks,Colorado Rockies,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777896,18:40,San Diego Padres,Seattle Mariners,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777891,19:15,San Francisco Giants,Athletics,7.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777899,19:10,Los Angeles Dodgers,Los Angeles Angels,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777891,19:15,San Francisco Giants,Athletics,7.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
