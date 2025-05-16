@@ -426,6 +426,7 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-20,778234,Texas Rangers,Los Angeles Dodgers,8.5,1.0,0,0
 2025-04-20,778237,Houston Astros,San Diego Padres,7.5,5.0,0,0
 2025-05-16,777900,Chicago Cubs,Chicago White Sox,11.5,16.0,0,1
+2025-05-16,777902,Cincinnati Reds,Cleveland Guardians,9.5,9.0,1,0
 2025-05-11,777968,New York Mets,Chicago Cubs,8.0,8.0,1,
 2025-05-11,777967,Pittsburgh Pirates,Atlanta Braves,8.0,7.0,0,0
 2025-05-11,777962,Washington Nationals,St. Louis Cardinals,8.5,7.0,1,0
