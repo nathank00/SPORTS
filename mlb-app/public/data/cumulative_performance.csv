@@ -29,11 +29,11 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-29,778123,Los Angeles Dodgers,Miami Marlins,8.5,10.0,0,1
 2025-04-29,778126,San Diego Padres,San Francisco Giants,7.0,11.0,0,1
 2025-05-15,777911,Baltimore Orioles,Minnesota Twins,9.0,4.0,0,0
-2025-05-15,777913,Toronto Blue Jays,Tampa Bay Rays,8.0,11.0,0,1
 2025-05-15,777909,Atlanta Braves,Washington Nationals,8.5,7.0,1,0
-2025-05-15,777910,Texas Rangers,Houston Astros,6.5,1.0,0,0
-2025-05-15,777946,Los Angeles Dodgers,Athletics,9.5,17.0,1,1
 2025-05-15,777912,Cincinnati Reds,Chicago White Sox,9.0,8.0,0,0
+2025-05-15,777910,Texas Rangers,Houston Astros,6.5,1.0,0,0
+2025-05-15,777913,Toronto Blue Jays,Tampa Bay Rays,8.0,11.0,0,1
+2025-05-15,777946,Los Angeles Dodgers,Athletics,9.5,18.0,1,1
 2025-05-12,777960,Cleveland Guardians,Milwaukee Brewers,8.5,5.0,0,0
 2025-05-12,777951,Detroit Tigers,Boston Red Sox,8.5,16.0,1,1
 2025-05-12,777953,Philadelphia Phillies,St. Louis Cardinals,8.5,5.0,1,0
