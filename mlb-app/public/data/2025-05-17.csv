@@ -1,0 +1,16 @@
+game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+777888,New York Yankees,New York Mets,10.0,Under,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jeff McNeil,Luis Torrens,Brett Baty,Tyrone Taylor,Ben Rice,Aaron Judge,Cody Bellinger,Paul Goldschmidt,Jasson Domínguez,Anthony Volpe,J.C. Escarra,DJ LeMahieu,Jorbit Vivas,Griffin Canning,Clarke Schmidt
+777881,Chicago Cubs,Chicago White Sox,10.0,Under,Chase Meidroth,Miguel Vargas,Edgar Quero,Luis Robert Jr.,Andrew Vaughn,Lenyn Sosa,Tim Elko,Joshua Palacios,Michael A. Taylor,Pete Crow-Armstrong,Kyle Tucker,Seiya Suzuki,Michael Busch,Dansby Swanson,Moisés Ballesteros,Nico Hoerner,Miguel Amaya,Vidal Bruján,Sean Burke,Matthew Boyd
+777886,Toronto Blue Jays,Detroit Tigers,8.5,Over,Justyn-Henry Malloy,Gleyber Torres,Riley Greene,Andy Ibáñez,Spencer Torkelson,Colt Keith,Javier Báez,Tomás Nido,Zach McKinstry,Bo Bichette,Vladimir Guerrero Jr.,Daulton Varsho,George Springer,Addison Barger,Ernie Clement,Nathan Lukes,Tyler Heineman,Michael Stefanic,Reese Olson,Eric Lauer
+777890,Baltimore Orioles,Washington Nationals,10.5,Under,CJ Abrams,James Wood,Nathaniel Lowe,Keibert Ruiz,Luis García Jr.,Josh Bell,Dylan Crews,José Tena,Jacob Young,Jackson Holliday,Ryan O'Hearn,Gunnar Henderson,Adley Rutschman,Cedric Mullins,Ramón Urías,Heston Kjerstad,Ramón Laureano,Maverick Handley,Jake Irvin,Kyle Gibson
+777889,Miami Marlins,Tampa Bay Rays,8.0,Under,Josh Lowe,Brandon Lowe,Yandy Díaz,Jonathan Aranda,Kameron Misner,José Caballero,Taylor Walls,Danny Jansen,Chandler Simpson,Jesús Sánchez,Liam Hicks,Connor Norby,Kyle Stowers,Eric Wagaman,Ronny Simon,Matt Mervis,Nick Fortes,Javier Sanoja,Drew Rasmussen,Sandy Alcantara
+777894,Philadelphia Phillies,Pittsburgh Pirates,9.0,Under,,,,,,,,,,Bryson Stott,Trea Turner,Bryce Harper,Kyle Schwarber,Nick Castellanos,Max Kepler,J.T. Realmuto,Alec Bohm,Brandon Marsh,,Zack Wheeler
+777882,Texas Rangers,Houston Astros,8.0,Under,,,,,,,,,,,,,,,,,,,,
+777893,Boston Red Sox,Atlanta Braves,9.5,Under,,,,,,,,,,,,,,,,,,,,
+777892,Cincinnati Reds,Cleveland Guardians,10.0,Under,,,,,,,,,,,,,,,,,,,,
+777885,Kansas City Royals,St. Louis Cardinals,8.5,Under,Lars Nootbaar,Masyn Winn,Brendan Donovan,Nolan Arenado,Willson Contreras,Iván Herrera,Pedro Pagés,Jordan Walker,Victor Scott II,Jonathan India,Bobby Witt Jr.,Vinnie Pasquantino,Salvador Perez,Maikel Garcia,Michael Massey,Cavan Biggio,Drew Waters,Kyle Isbel,Miles Mikolas,Noah Cameron
+777887,Arizona Diamondbacks,Colorado Rockies,9.5,Under,,,,,,,,,,,,,,,,,,,,
+777883,Milwaukee Brewers,Minnesota Twins,7.5,Over,Trevor Larnach,Ryan Jeffers,Brooks Lee,Ty France,Kody Clemens,Royce Lewis,Harrison Bader,DaShawn Keirsey Jr.,Christian Vázquez,,,,,,,,,,Pablo López,
+777875,San Diego Padres,Seattle Mariners,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777884,Los Angeles Dodgers,Los Angeles Angels,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777879,San Francisco Giants,Athletics,8.0,Under,,,,,,,,,,,,,,,,,,,,
