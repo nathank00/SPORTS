@@ -1,13 +1,13 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777859,15:40,Pittsburgh Pirates,Cincinnati Reds,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777863,15:40,Miami Marlins,Chicago Cubs,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777856,15:45,Boston Red Sox,New York Mets,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777857,16:40,Chicago White Sox,Seattle Mariners,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777858,16:05,Tampa Bay Rays,Houston Astros,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777861,16:40,Minnesota Twins,Cleveland Guardians,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777856,15:45,Boston Red Sox,New York Mets,9.0,Under,0,0,0,0,,,,,,,,,,Jarren Duran,Rafael Devers,Alex Bregman,Wilyer Abreu,Trevor Story,Nick Sogard,David Hamilton,Carlos Narváez,Ceddanne Rafaela,,Hunter Dobbins
+777857,16:40,Chicago White Sox,Seattle Mariners,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777860,16:40,Milwaukee Brewers,Baltimore Orioles,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777862,16:45,St. Louis Cardinals,Detroit Tigers,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777852,17:40,Colorado Rockies,Philadelphia Phillies,10.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777852,17:40,Colorado Rockies,Philadelphia Phillies,10.0,Under,0,0,0,0,,,,,,,,,,Jordan Beck,Ezequiel Tovar,Hunter Goodman,Michael Toglia,Brenton Doyle,Ryan McMahon,Tyler Freeman,Adael Amador,Jacob Stallings,,Kyle Freeland
 777855,18:45,San Francisco Giants,Kansas City Royals,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777854,19:10,Los Angeles Dodgers,Arizona Diamondbacks,10.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777853,19:05,Athletics,Los Angeles Angels,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777854,19:10,Los Angeles Dodgers,Arizona Diamondbacks,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
