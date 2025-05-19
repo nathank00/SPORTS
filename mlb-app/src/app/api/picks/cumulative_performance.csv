@@ -300,16 +300,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-18,777880,Philadelphia Phillies,Pittsburgh Pirates,9.0,1.0,0,0
 2025-05-18,777876,Boston Red Sox,Atlanta Braves,9.5,14.0,1,1
 2025-05-18,777871,Toronto Blue Jays,Detroit Tigers,8.5,5.0,1,0
+2025-05-18,777877,Miami Marlins,Tampa Bay Rays,9.0,6.0,0,0
 2025-05-18,777874,Cincinnati Reds,Cleveland Guardians,9.0,4.0,0,0
 2025-05-18,777864,Kansas City Royals,St. Louis Cardinals,8.0,3.0,0,0
-2025-05-18,777872,Chicago Cubs,Chicago White Sox,7.5,8.0,1,1
-2025-05-18,777877,Miami Marlins,Tampa Bay Rays,9.0,6.0,0,0
 2025-05-18,777865,Milwaukee Brewers,Minnesota Twins,7.5,7.0,1,0
+2025-05-18,777872,Chicago Cubs,Chicago White Sox,7.5,8.0,1,1
 2025-05-18,777867,San Francisco Giants,Athletics,8.5,5.0,0,0
 2025-05-18,777870,Arizona Diamondbacks,Colorado Rockies,9.0,1.0,0,0
-2025-05-18,777868,San Diego Padres,Seattle Mariners,7.5,7.0,1,0
 2025-05-18,777866,Los Angeles Dodgers,Los Angeles Angels,9.0,10.0,1,1
 2025-05-18,777878,New York Yankees,New York Mets,9.0,10.0,0,1
+2025-05-18,777868,San Diego Padres,Seattle Mariners,7.5,7.0,1,0
 2025-04-02,778477,Milwaukee Brewers,Kansas City Royals,7.5,5.0,0,0
 2025-04-02,778479,Tampa Bay Rays,Pittsburgh Pirates,7.0,6.0,0,0
 2025-04-02,778480,Cincinnati Reds,Texas Rangers,8.5,1.0,1,0
