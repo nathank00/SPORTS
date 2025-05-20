@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-777850,Miami Marlins,Chicago Cubs,8.5,Under,,,,,,,,,,Jesús Sánchez,Agustín Ramírez,Kyle Stowers,Matt Mervis,Eric Wagaman,Ronny Simon,Graham Pauley,Nick Fortes,Javier Sanoja,,Ryan Weathers
 777847,Pittsburgh Pirates,Cincinnati Reds,8.0,Under,TJ Friedl,Santiago Espinal,Elly De La Cruz,Austin Hays,Spencer Steer,Tyler Stephenson,Jose Trevino,Matt McLain,Connor Joe,,,,,,,,,,Nick Martinez,
-777841,Washington Nationals,Atlanta Braves,8.0,Over,,,,,,,,,,CJ Abrams,James Wood,Nathaniel Lowe,Keibert Ruiz,Luis García Jr.,Josh Bell,Alex Call,José Tena,Dylan Crews,,Mitchell Parker
-777851,Boston Red Sox,New York Mets,8.5,Under,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jeff McNeil,Francisco Alvarez,Brett Baty,Tyrone Taylor,,,,,,,,,,Clay Holmes,
+777850,Miami Marlins,Chicago Cubs,8.5,Under,,,,,,,,,,Jesús Sánchez,Agustín Ramírez,Kyle Stowers,Matt Mervis,Eric Wagaman,Ronny Simon,Graham Pauley,Nick Fortes,Javier Sanoja,,Ryan Weathers
 777848,Tampa Bay Rays,Houston Astros,9.0,Under,,,,,,,,,,Yandy Díaz,José Caballero,Jonathan Aranda,Junior Caminero,Christopher Morel,Danny Jansen,Josh Lowe,Taylor Walls,Curtis Mead,,Zack Littell
-777849,New York Yankees,Texas Rangers,8.5,Over,,,,,,,,,,Paul Goldschmidt,Trent Grisham,Aaron Judge,Cody Bellinger,Anthony Volpe,Ben Rice,DJ LeMahieu,Austin Wells,Oswald Peraza,,Will Warren
+777851,Boston Red Sox,New York Mets,8.5,Under,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jeff McNeil,Francisco Alvarez,Brett Baty,Tyrone Taylor,,,,,,,,,,Clay Holmes,
+777849,New York Yankees,Texas Rangers,8.5,Under,Josh Smith,Wyatt Langford,Josh Jung,Adolis García,Marcus Semien,Joc Pederson,Jake Burger,Jonah Heim,Sam Haggerty,Paul Goldschmidt,Trent Grisham,Aaron Judge,Cody Bellinger,Anthony Volpe,Ben Rice,DJ LeMahieu,Austin Wells,Oswald Peraza,Patrick Corbin,Will Warren
 777839,Minnesota Twins,Cleveland Guardians,7.5,Under,,,,,,,,,,,,,,,,,,,,
+777841,Washington Nationals,Atlanta Braves,8.0,Over,Alex Verdugo,Austin Riley,Marcell Ozuna,Matt Olson,Sean Murphy,Ozzie Albies,Eli White,Michael Harris II,Nick Allen,CJ Abrams,James Wood,Nathaniel Lowe,Keibert Ruiz,Luis García Jr.,Josh Bell,Alex Call,José Tena,Dylan Crews,Spencer Strider,Mitchell Parker
 777845,Toronto Blue Jays,San Diego Padres,8.0,Over,Fernando Tatis Jr.,Luis Arraez,Manny Machado,Jackson Merrill,Xander Bogaerts,Gavin Sheets,Jake Cronenworth,Jason Heyward,Martín Maldonado,Bo Bichette,Vladimir Guerrero Jr.,Daulton Varsho,George Springer,Alejandro Kirk,Anthony Santander,Addison Barger,Ernie Clement,Nathan Lukes,Dylan Cease,Chris Bassitt
-777846,Chicago White Sox,Seattle Mariners,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777844,Milwaukee Brewers,Baltimore Orioles,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777842,Colorado Rockies,Philadelphia Phillies,11.0,Under,,,,,,,,,,Jordan Beck,Ezequiel Tovar,Hunter Goodman,Michael Toglia,Brenton Doyle,Kyle Farmer,Tyler Freeman,Adael Amador,Aaron Schunk,,Antonio Senzatela
+777846,Chicago White Sox,Seattle Mariners,8.5,Under,,,,,,,,,,Chase Meidroth,Josh Rojas,Joshua Palacios,Miguel Vargas,Luis Robert Jr.,Edgar Quero,Andrew Vaughn,Lenyn Sosa,Tim Elko,,Adrian Houser
 777840,St. Louis Cardinals,Detroit Tigers,7.5,Under,,,,,,,,,,Lars Nootbaar,Masyn Winn,Brendan Donovan,Willson Contreras,Iván Herrera,Nolan Arenado,Jordan Walker,Pedro Pagés,Victor Scott II,,Erick Fedde
 777836,San Francisco Giants,Kansas City Royals,8.0,Under,,,,,,,,,,,,,,,,,,,,
+777842,Colorado Rockies,Philadelphia Phillies,11.0,Under,,,,,,,,,,Jordan Beck,Ezequiel Tovar,Hunter Goodman,Michael Toglia,Brenton Doyle,Kyle Farmer,Tyler Freeman,Adael Amador,Aaron Schunk,,Antonio Senzatela
 777843,Athletics,Los Angeles Angels,10.5,Under,,,,,,,,,,,,,,,,,,,,
 777838,Los Angeles Dodgers,Arizona Diamondbacks,9.5,Under,,,,,,,,,,,,,,,,,,,,
