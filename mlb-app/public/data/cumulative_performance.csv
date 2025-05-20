@@ -215,14 +215,15 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-25,778184,St. Louis Cardinals,Milwaukee Brewers,8.0,5.0,0,0
 2025-04-25,778181,Colorado Rockies,Cincinnati Reds,9.5,15.0,1,1
 2025-04-25,778175,Seattle Mariners,Miami Marlins,7.5,12.0,0,1
-2025-05-19,777863,Miami Marlins,Chicago Cubs,8.5,15.0,1,1
-2025-05-19,777858,Tampa Bay Rays,Houston Astros,9.0,7.0,0,0
 2025-05-19,777859,Pittsburgh Pirates,Cincinnati Reds,8.0,8.0,0,
+2025-05-19,777863,Miami Marlins,Chicago Cubs,8.5,15.0,1,1
 2025-05-19,777856,Boston Red Sox,New York Mets,9.0,4.0,0,0
-2025-05-19,777860,Milwaukee Brewers,Baltimore Orioles,8.5,9.0,0,1
-2025-05-19,777857,Chicago White Sox,Seattle Mariners,8.0,6.0,1,0
+2025-05-19,777858,Tampa Bay Rays,Houston Astros,9.0,7.0,0,0
 2025-05-19,777862,St. Louis Cardinals,Detroit Tigers,8.0,15.0,1,1
+2025-05-19,777857,Chicago White Sox,Seattle Mariners,8.0,6.0,1,0
+2025-05-19,777860,Milwaukee Brewers,Baltimore Orioles,8.5,9.0,0,1
 2025-05-19,777852,Colorado Rockies,Philadelphia Phillies,10.0,12.0,0,1
+2025-05-19,777855,San Francisco Giants,Kansas City Royals,7.5,4.0,1,0
 2025-04-07,778415,Pittsburgh Pirates,St. Louis Cardinals,8.5,12.0,0,1
 2025-04-07,778424,Detroit Tigers,New York Yankees,8.5,8.0,1,0
 2025-04-07,778418,Washington Nationals,Los Angeles Dodgers,7.5,10.0,1,1
