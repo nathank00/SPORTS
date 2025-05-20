@@ -1,15 +1,15 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777847,Pittsburgh Pirates,Cincinnati Reds,8.0,Under,,,,,,,,,,,,,,,,,,,,
 777850,Miami Marlins,Chicago Cubs,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777849,New York Yankees,Texas Rangers,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777841,Washington Nationals,Atlanta Braves,8.0,Under,,,,,,,,,,,,,,,,,,,,
-777848,Tampa Bay Rays,Houston Astros,9.0,Under,,,,,,,,,,,,,,,,,,,,
 777851,Boston Red Sox,New York Mets,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777839,Minnesota Twins,Cleveland Guardians,7.0,Under,,,,,,,,,,,,,,,,,,,,
+777841,Washington Nationals,Atlanta Braves,8.0,Over,,,,,,,,,,CJ Abrams,James Wood,Nathaniel Lowe,Keibert Ruiz,Luis García Jr.,Josh Bell,Dylan Crews,José Tena,Jacob Young,,Mitchell Parker
+777848,Tampa Bay Rays,Houston Astros,9.0,Under,,,,,,,,,,,,,,,,,,,,
+777849,New York Yankees,Texas Rangers,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777846,Chicago White Sox,Seattle Mariners,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777839,Minnesota Twins,Cleveland Guardians,7.0,Under,,,,,,,,,,,,,,,,,,,,
 777844,Milwaukee Brewers,Baltimore Orioles,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777836,San Francisco Giants,Kansas City Royals,8.0,Under,,,,,,,,,,,,,,,,,,,,
-777842,Colorado Rockies,Philadelphia Phillies,11.0,Under,,,,,,,,,,,,,,,,,,,,
-777843,Athletics,Los Angeles Angels,10.5,Under,,,,,,,,,,,,,,,,,,,,
-777840,St. Louis Cardinals,Detroit Tigers,7.5,Under,,,,,,,,,,,,,,,,,,,,
+777840,St. Louis Cardinals,Detroit Tigers,7.5,Under,,,,,,,,,,Lars Nootbaar,Masyn Winn,Brendan Donovan,Willson Contreras,Iván Herrera,Nolan Arenado,Jordan Walker,Pedro Pagés,Victor Scott II,,Erick Fedde
 777838,Los Angeles Dodgers,Arizona Diamondbacks,9.5,Under,,,,,,,,,,,,,,,,,,,,
+777836,San Francisco Giants,Kansas City Royals,8.0,Under,,,,,,,,,,,,,,,,,,,,
+777843,Athletics,Los Angeles Angels,10.5,Under,,,,,,,,,,,,,,,,,,,,
+777842,Colorado Rockies,Philadelphia Phillies,11.0,Under,,,,,,,,,,Jordan Beck,Ezequiel Tovar,Hunter Goodman,Michael Toglia,Brenton Doyle,Kyle Farmer,Tyler Freeman,Adael Amador,Aaron Schunk,,Antonio Senzatela
