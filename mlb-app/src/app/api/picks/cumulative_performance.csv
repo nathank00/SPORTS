@@ -552,20 +552,20 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-09,778393,Atlanta Braves,Philadelphia Phillies,9.0,7.0,1,0
 2025-04-09,778388,Kansas City Royals,Minnesota Twins,7.5,4.0,0,0
 2025-04-09,778379,Colorado Rockies,Milwaukee Brewers,10.5,19.0,1,1
-2025-05-20,777850,Miami Marlins,Chicago Cubs,9.0,15.0,0,1
 2025-05-20,777847,Pittsburgh Pirates,Cincinnati Reds,8.0,1.0,1,0
-2025-05-20,777841,Washington Nationals,Atlanta Braves,8.5,8.0,1,0
-2025-05-20,777851,Boston Red Sox,New York Mets,8.5,2.0,1,0
-2025-05-20,777845,Toronto Blue Jays,San Diego Padres,7.5,3.0,1,0
-2025-05-20,777849,New York Yankees,Texas Rangers,9.0,7.0,1,0
+2025-05-20,777850,Miami Marlins,Chicago Cubs,9.0,15.0,0,1
 2025-05-20,777848,Tampa Bay Rays,Houston Astros,9.0,5.0,0,0
+2025-05-20,777851,Boston Red Sox,New York Mets,8.5,2.0,1,0
+2025-05-20,777849,New York Yankees,Texas Rangers,9.0,7.0,1,0
+2025-05-20,777841,Washington Nationals,Atlanta Braves,8.5,8.0,1,0
+2025-05-20,777845,Toronto Blue Jays,San Diego Padres,7.5,3.0,1,0
 2025-05-20,777846,Chicago White Sox,Seattle Mariners,8.5,1.0,0,0
-2025-05-20,777844,Milwaukee Brewers,Baltimore Orioles,8.5,7.0,0,0
 2025-05-20,777840,St. Louis Cardinals,Detroit Tigers,7.5,9.0,0,1
+2025-05-20,777844,Milwaukee Brewers,Baltimore Orioles,8.5,7.0,0,0
 2025-05-20,777842,Colorado Rockies,Philadelphia Phillies,11.5,11.0,1,0
-2025-05-20,777838,Los Angeles Dodgers,Arizona Diamondbacks,9.0,7.0,0,0
 2025-05-20,777836,San Francisco Giants,Kansas City Royals,7.5,5.0,0,0
 2025-05-20,777843,Athletics,Los Angeles Angels,10.5,12.0,0,1
+2025-05-20,777838,Los Angeles Dodgers,Arizona Diamondbacks,9.0,7.0,0,0
 2025-05-02,778086,Philadelphia Phillies,Arizona Diamondbacks,9.0,5.0,1,0
 2025-05-02,778087,Cincinnati Reds,Washington Nationals,9.0,7.0,1,0
 2025-05-02,778090,Pittsburgh Pirates,San Diego Padres,8.0,13.0,0,1
