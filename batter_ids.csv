@@ -66,6 +66,7 @@ mlbID,Name,Position,key_bbref
 663609,Luken Baker,1B,bakerlu01
 681460,Brooks Baldwin,LF,baldwbr01
 686948,Drake Baldwin,C,baldwdr01
+694208,Moisés Ballesteros,C,ballemo01
 676625,Rylan Bannon,3B,bannory01
 675915,David Bañuelos,C,banueda01
 680718,Addison Barger,3B,bargead01
@@ -282,6 +283,7 @@ mlbID,Name,Position,key_bbref
 686490,Cam Eden,CF,edenca01
 669242,Tommy Edman,2B,edmanto01
 669364,Xavier Edwards,SS,edwarxa01
+671284,Tim Elko,1B,elkoti01
 656403,Drew Ellis,3B,ellisdr01
 668752,Duke Ellis,CF,ellisdu01
 687952,Christian Encarnacion-Strand,1B,encarch01
@@ -302,6 +304,7 @@ mlbID,Name,Position,key_bbref
 666023,Freddy Fermin,C,fermifr01
 665877,José Fermín,2B,fermijo01
 605233,Derek Fisher,LF,fishede01
+680837,Ryan Fitzgerald,3B,fitzgry01
 666149,Tyler Fitzgerald,2B,fitzgty01
 664058,David Fletcher,2B,fletcda02
 666150,Dominic Fletcher,RF,fletcdo01
@@ -490,7 +493,7 @@ mlbID,Name,Position,key_bbref
 690993,Colt Keith,2B,keithco01
 672284,Jarred Kelenic,RF,kelenja01
 608348,Carson Kelly,C,kellyca02
-643393,Tony Kemp,2B,kempto01
+643393,Tony Kemp,LF,kempto01
 671083,Buddy Kennedy,2B,kennebu01
 596146,Max Kepler,LF,keplema01
 666197,Grae Kessinger,3B,kessigr01
@@ -852,6 +855,7 @@ mlbID,Name,Position,key_bbref
 665923,Esteury Ruiz,LF,ruizes01
 660688,Keibert Ruiz,C,ruizke01
 547004,Rio Ruiz,2B,ruizri01
+687221,Dalton Rushing,C,rushida01
 666164,Blake Rutherford,LF,ruthebl01
 668939,Adley Rutschman,C,rutscad01
 666165,Blake Sabol,C,sabolbl01
@@ -884,7 +888,7 @@ mlbID,Name,Position,key_bbref
 608369,Corey Seager,SS,seageco01
 572122,Kyle Seager,3B,seageky01
 676882,Chandler Seagle,C,seaglch01
-516416,Jean Segura,2B,segurje01
+516416,Jean Segura,SS,segurje01
 543760,Marcus Semien,2B,semiema01
 663584,Hayden Senger,C,sengeha01
 669222,Nick Senzel,3B,senzeni01
@@ -1089,8 +1093,5 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-694208,Moisés Ballesteros,C,
-671284,Tim Elko,1B,
-680837,Ryan Fitzgerald,3B,
+690987,Robert Hassell III,CF,
 676812,Carson McCusker,LF,
-687221,Dalton Rushing,C,
