@@ -155,8 +155,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-22,777817,Colorado Rockies,Philadelphia Phillies,11.5,2.0,1,0
 2025-05-22,777816,Toronto Blue Jays,San Diego Padres,8.5,13.0,1,1
 2025-05-22,777812,Athletics,Los Angeles Angels,10.0,15.0,0,1
-2025-05-22,777814,Pittsburgh Pirates,Milwaukee Brewers,8.5,11.0,1,1
 2025-05-22,777821,Detroit Tigers,Cleveland Guardians,8.0,7.0,0,0
+2025-05-22,777814,Pittsburgh Pirates,Milwaukee Brewers,8.5,13.0,1,1
 2025-05-22,777820,Washington Nationals,Atlanta Braves,8.5,15.0,1,1
 2025-05-22,777822,Houston Astros,Seattle Mariners,8.0,11.0,0,1
 2025-04-13,778344,Baltimore Orioles,Toronto Blue Jays,8.5,13.0,1,1
