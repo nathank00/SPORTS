@@ -1,15 +1,15 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777815,Boston Red Sox,Baltimore Orioles,9.5,Over,Jackson Holliday,Adley Rutschman,Gunnar Henderson,Ryan Mountcastle,Ryan O'Hearn,Ramón Urías,Cedric Mullins,Heston Kjerstad,Jorge Mateo,Jarren Duran,Rafael Devers,Alex Bregman,Rob Refsnyder,Trevor Story,Carlos Narváez,Nick Sogard,Kristian Campbell,Ceddanne Rafaela,Cade Povich,Brayan Bello
-777811,Cincinnati Reds,Chicago Cubs,8.5,Under,,,,,,,,,,TJ Friedl,Santiago Espinal,Elly De La Cruz,Austin Hays,Spencer Steer,Tyler Stephenson,Jose Trevino,Connor Joe,Matt McLain,,Hunter Greene
 777806,Pittsburgh Pirates,Milwaukee Brewers,7.0,Under,,,,,,,,,,,,,,,,,,,,
-777801,Washington Nationals,San Francisco Giants,8.0,Over,,,,,,,,,,CJ Abrams,James Wood,Nathaniel Lowe,Keibert Ruiz,Luis García Jr.,Josh Bell,Robert Hassell III,José Tena,Daylen Lile,,MacKenzie Gore
-777810,Tampa Bay Rays,Toronto Blue Jays,9.0,Under,,,,,,,,,,,,,,,,,,,,
+777811,Cincinnati Reds,Chicago Cubs,8.5,Under,,,,,,,,,,TJ Friedl,Santiago Espinal,Elly De La Cruz,Austin Hays,Spencer Steer,Tyler Stephenson,Jose Trevino,Connor Joe,Matt McLain,,Hunter Greene
+777801,Washington Nationals,San Francisco Giants,8.0,Over,Heliot Ramos,Jung Hoo Lee,Matt Chapman,Wilmer Flores,Willy Adames,Casey Schmitt,Mike Yastrzemski,Patrick Bailey,Tyler Fitzgerald,CJ Abrams,James Wood,Nathaniel Lowe,Keibert Ruiz,Luis García Jr.,Josh Bell,Robert Hassell III,José Tena,Daylen Lile,Landen Roupp,MacKenzie Gore
+777813,Atlanta Braves,San Diego Padres,7.5,Under,,,,,,,,,,,,,,,,,,,,
+777810,Tampa Bay Rays,Toronto Blue Jays,9.0,Under,,,,,,,,,,Yandy Díaz,Junior Caminero,Brandon Lowe,Christopher Morel,Danny Jansen,Josh Lowe,José Caballero,Curtis Mead,Chandler Simpson,,Drew Rasmussen
+777807,Detroit Tigers,Cleveland Guardians,8.5,Under,,,,,,,,,,Kerry Carpenter,Gleyber Torres,Colt Keith,Dillon Dingler,Spencer Torkelson,Trey Sweeney,Andy Ibáñez,Akil Baddoo,Javier Báez,,Jackson Jobe
 777800,Houston Astros,Seattle Mariners,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777805,Chicago White Sox,Texas Rangers,8.0,Under,,,,,,,,,,,,,,,,,,,,
-777807,Detroit Tigers,Cleveland Guardians,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777813,Atlanta Braves,San Diego Padres,7.5,Under,,,,,,,,,,,,,,,,,,,,
-777808,New York Mets,Los Angeles Dodgers,8.5,Under,Shohei Ohtani,Mookie Betts,Freddie Freeman,Will Smith,Teoscar Hernández,Max Muncy,Andy Pages,Michael Conforto,Tommy Edman,Francisco Lindor,Mark Vientos,Juan Soto,Pete Alonso,Starling Marte,Brandon Nimmo,Tyrone Taylor,Brett Baty,Francisco Alvarez,Clayton Kershaw,Griffin Canning
 777799,Minnesota Twins,Kansas City Royals,7.5,Under,,,,,,,,,,,,,,,,,,,,
-777802,Colorado Rockies,New York Yankees,11.5,Under,,,,,,,,,,Jordan Beck,Ezequiel Tovar,Hunter Goodman,Ryan McMahon,Brenton Doyle,Mickey Moniak,Kyle Farmer,Nick Martini,Adael Amador,,Tanner Gordon
+777808,New York Mets,Los Angeles Dodgers,8.5,Under,Shohei Ohtani,Mookie Betts,Freddie Freeman,Will Smith,Teoscar Hernández,Max Muncy,Andy Pages,Michael Conforto,Tommy Edman,Francisco Lindor,Mark Vientos,Juan Soto,Pete Alonso,Starling Marte,Brandon Nimmo,Tyrone Taylor,Brett Baty,Francisco Alvarez,Clayton Kershaw,Griffin Canning
 777797,St. Louis Cardinals,Arizona Diamondbacks,8.5,Under,Corbin Carroll,Ketel Marte,Lourdes Gurriel Jr.,Josh Naylor,Eugenio Suárez,Pavin Smith,Geraldo Perdomo,Alek Thomas,Jose Herrera,,,,,,,,,,Zac Gallen,
+777802,Colorado Rockies,New York Yankees,11.5,Under,,,,,,,,,,Jordan Beck,Ezequiel Tovar,Hunter Goodman,Ryan McMahon,Brenton Doyle,Mickey Moniak,Kyle Farmer,Nick Martini,Adael Amador,,Tanner Gordon
 777798,Los Angeles Angels,Miami Marlins,8.5,Under,,,,,,,,,,,,,,,,,,,,
