@@ -191,19 +191,19 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-22,777822,Houston Astros,Seattle Mariners,8.0,11.0,0,1
 2025-05-25,777780,Detroit Tigers,Cleveland Guardians,7.0,5.0,0,0
 2025-05-25,777778,Washington Nationals,San Francisco Giants,7.5,5.0,1,0
-2025-05-25,777785,Boston Red Sox,Baltimore Orioles,9.0,6.0,1,0
 2025-05-25,777776,Pittsburgh Pirates,Milwaukee Brewers,8.0,11.0,1,1
-2025-05-25,777779,Cincinnati Reds,Chicago Cubs,8.5,19.0,0,1
+2025-05-25,777785,Boston Red Sox,Baltimore Orioles,9.0,6.0,1,0
 2025-05-25,777775,Tampa Bay Rays,Toronto Blue Jays,8.5,13.0,1,1
+2025-05-25,777779,Cincinnati Reds,Chicago Cubs,8.5,19.0,0,1
 2025-05-25,777774,Houston Astros,Seattle Mariners,8.0,8.0,1,
-2025-05-25,777766,St. Louis Cardinals,Arizona Diamondbacks,7.0,7.0,1,
 2025-05-25,777772,Minnesota Twins,Kansas City Royals,7.5,3.0,0,0
-2025-05-25,777768,Colorado Rockies,New York Yankees,10.5,9.0,0,0
 2025-05-25,777777,Chicago White Sox,Texas Rangers,8.0,9.0,0,1
-2025-05-25,777765,Athletics,Philadelphia Phillies,10.0,9.0,1,0
+2025-05-25,777766,St. Louis Cardinals,Arizona Diamondbacks,7.0,7.0,1,
+2025-05-25,777768,Colorado Rockies,New York Yankees,10.5,9.0,0,0
 2025-05-25,777767,Los Angeles Angels,Miami Marlins,9.0,3.0,1,0
-2025-05-25,777773,New York Mets,Los Angeles Dodgers,8.5,4.0,0,0
+2025-05-25,777765,Athletics,Philadelphia Phillies,10.0,9.0,1,0
 2025-05-25,777783,Atlanta Braves,San Diego Padres,8.0,8.0,0,
+2025-05-25,777773,New York Mets,Los Angeles Dodgers,8.5,4.0,0,0
 2025-04-13,778344,Baltimore Orioles,Toronto Blue Jays,8.5,13.0,1,1
 2025-04-13,778343,Cincinnati Reds,Pittsburgh Pirates,7.5,4.0,0,0
 2025-04-13,778342,Cleveland Guardians,Kansas City Royals,7.0,6.0,0,0
