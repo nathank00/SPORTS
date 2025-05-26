@@ -96,7 +96,7 @@ mlbID,Name,Position,key_bbref
 542194,Christian Bethancourt,C,bethach01
 605141,Mookie Betts,SS,bettsmo01
 666182,Bo Bichette,SS,bichebo01
-624415,Cavan Biggio,1B,biggica01
+624415,Cavan Biggio,2B,biggica01
 623323,Braden Bishop,CF,bishobr01
 453568,Charlie Blackmon,CF,blackch02
 672012,Tyler Black,3B,blackty01
@@ -166,7 +166,7 @@ mlbID,Name,Position,key_bbref
 592200,Curt Casali,C,casalcu01
 671213,Triston Casas,1B,casastr01
 592206,Nick Castellanos,RF,casteni01
-660636,Diego A. Castillo,SS,castidi02
+660636,Diego Castillo,SS,castidi02
 602080,Erick Castillo,C,castier01
 622668,Ivan Castillo,2B,castiiv01
 605612,Harold Castro,2B,castrha01
@@ -1100,3 +1100,5 @@ mlbID,Name,Position,key_bbref
 680862,Willie MacIver,C,
 691785,Marcelo Mayer,SS,
 676812,Carson McCusker,LF,
+696030,Alejandro Osuna,RF,
+670231,John Rave,CF,
