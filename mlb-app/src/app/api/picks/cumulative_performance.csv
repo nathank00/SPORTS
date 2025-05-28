@@ -227,10 +227,11 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-14,778322,Toronto Blue Jays,Atlanta Braves,8.5,12.0,1,1
 2025-04-14,778325,St. Louis Cardinals,Houston Astros,7.0,11.0,1,1
 2025-04-14,778323,Milwaukee Brewers,Detroit Tigers,7.5,10.0,0,1
-2025-05-28,777738,Detroit Tigers,San Francisco Giants,8.0,7.0,1,0
 2025-05-28,777739,Cleveland Guardians,Los Angeles Dodgers,8.5,11.0,1,1
-2025-05-28,777732,Tampa Bay Rays,Minnesota Twins,8.0,5.0,0,0
+2025-05-28,777738,Detroit Tigers,San Francisco Giants,8.0,7.0,1,0
+2025-05-28,777734,Houston Astros,Athletics,8.5,8.0,0,0
 2025-05-28,777737,New York Mets,Chicago White Sox,8.0,13.0,0,1
+2025-05-28,777732,Tampa Bay Rays,Minnesota Twins,8.0,5.0,0,0
 2025-05-28,777736,Milwaukee Brewers,Boston Red Sox,7.5,11.0,0,1
 2025-04-01,778498,Cincinnati Reds,Texas Rangers,8.5,1.0,0,0
 2025-04-01,778497,Miami Marlins,New York Mets,7.5,6.0,0,0
