@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-777738,Detroit Tigers,San Francisco Giants,7.5,Over,Mike Yastrzemski,Heliot Ramos,Wilmer Flores,Jung Hoo Lee,Matt Chapman,Willy Adames,LaMonte Wade Jr.,Sam Huff,Christian Koss,Kerry Carpenter,Gleyber Torres,Colt Keith,Riley Greene,Wenceel Pérez,Justyn-Henry Malloy,Zach McKinstry,Trey Sweeney,Jake Rogers,Landen Roupp,Jackson Jobe
-777732,Tampa Bay Rays,Minnesota Twins,8.0,Under,Trevor Larnach,Ryan Jeffers,Carlos Correa,Brooks Lee,Ty France,Kody Clemens,Royce Lewis,Christian Vázquez,DaShawn Keirsey Jr.,Josh Lowe,Brandon Lowe,Yandy Díaz,Jonathan Aranda,Junior Caminero,Chandler Simpson,Taylor Walls,Kameron Misner,Danny Jansen,Pablo López,Drew Rasmussen
-777739,Cleveland Guardians,Los Angeles Dodgers,9.0,Over,Shohei Ohtani,Mookie Betts,Teoscar Hernández,Freddie Freeman,Will Smith,Andy Pages,Tommy Edman,Enrique Hernández,Miguel Rojas,Steven Kwan,Angel Martínez,José Ramírez,Carlos Santana,Gabriel Arias,Jhonkensy Noel,Will Wilson,Daniel Schneemann,Austin Hedges,Clayton Kershaw,Kolby Allard
+777739,Cleveland Guardians,Los Angeles Dodgers,8.5,Over,Shohei Ohtani,Mookie Betts,Teoscar Hernández,Freddie Freeman,Will Smith,Andy Pages,Tommy Edman,Enrique Hernández,Miguel Rojas,Steven Kwan,Angel Martínez,José Ramírez,Carlos Santana,Gabriel Arias,Jhonkensy Noel,Will Wilson,Daniel Schneemann,Austin Hedges,Clayton Kershaw,Kolby Allard
+777738,Detroit Tigers,San Francisco Giants,8.0,Over,Mike Yastrzemski,Heliot Ramos,Wilmer Flores,Jung Hoo Lee,Matt Chapman,Willy Adames,LaMonte Wade Jr.,Sam Huff,Christian Koss,Kerry Carpenter,Gleyber Torres,Colt Keith,Riley Greene,Wenceel Pérez,Justyn-Henry Malloy,Zach McKinstry,Trey Sweeney,Jake Rogers,Landen Roupp,Jackson Jobe
+777729,Arizona Diamondbacks,Pittsburgh Pirates,7.5,Under,,,,,,,,,,,,,,,,,,,,
 777737,New York Mets,Chicago White Sox,8.0,Under,Chase Meidroth,Mike Tauchman,Miguel Vargas,Andrew Benintendi,Lenyn Sosa,Edgar Quero,Korey Lee,Josh Rojas,Michael A. Taylor,Francisco Lindor,Brandon Nimmo,Juan Soto,Pete Alonso,Brett Baty,Mark Vientos,Jeff McNeil,Luis Torrens,Tyrone Taylor,Shane Smith,Griffin Canning
+777732,Tampa Bay Rays,Minnesota Twins,8.0,Under,Trevor Larnach,Ryan Jeffers,Carlos Correa,Brooks Lee,Ty France,Kody Clemens,Royce Lewis,Christian Vázquez,DaShawn Keirsey Jr.,Josh Lowe,Brandon Lowe,Yandy Díaz,Jonathan Aranda,Junior Caminero,Chandler Simpson,Taylor Walls,Kameron Misner,Danny Jansen,Pablo López,Drew Rasmussen
+777726,San Diego Padres,Miami Marlins,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777740,Baltimore Orioles,St. Louis Cardinals,8.0,Under,,,,,,,,,,,,,,,,,,,,
 777734,Houston Astros,Athletics,8.5,Under,Lawrence Butler,Jacob Wilson,Brent Rooker,Tyler Soderstrom,Miguel Andujar,Shea Langeliers,CJ Alexander,Luis Urías,Denzel Clarke,Jeremy Peña,Isaac Paredes,Jose Altuve,Christian Walker,Victor Caratini,Jake Meyers,Cam Smith,Zach Dezenzo,Brendan Rodgers,Luis Severino,Lance McCullers Jr.
 777736,Milwaukee Brewers,Boston Red Sox,7.5,Under,Jarren Duran,Rafael Devers,Wilyer Abreu,Marcelo Mayer,Nick Sogard,Trevor Story,David Hamilton,Connor Wong,Ceddanne Rafaela,Brice Turang,Jackson Chourio,Christian Yelich,William Contreras,Sal Frelick,Isaac Collins,Caleb Durbin,Jake Bauers,Joey Ortiz,Brayan Bello,Freddy Peralta
-777729,Arizona Diamondbacks,Pittsburgh Pirates,7.5,Under,,,,,,,,,,,,,,,,,,,,
-777740,Baltimore Orioles,St. Louis Cardinals,8.0,Under,,,,,,,,,,,,,,,,,,,,
-777735,Philadelphia Phillies,Atlanta Braves,7.5,Under,,,,,,,,,,,,,,,,,,,,
-777726,San Diego Padres,Miami Marlins,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777733,Kansas City Royals,Cincinnati Reds,7.5,Under,,,,,,,,,,,,,,,,,,,,
 777724,Texas Rangers,Toronto Blue Jays,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777733,Kansas City Royals,Cincinnati Reds,7.5,Under,,,,,,,,,,,,,,,,,,,,
 777731,Chicago Cubs,Colorado Rockies,8.0,Under,,,,,,,,,,,,,,,,,,,,
-777728,Los Angeles Angels,New York Yankees,9.0,Under,,,,,,,,,,,,,,,,,,,,
+777735,Philadelphia Phillies,Atlanta Braves,7.5,Under,,,,,,,,,,,,,,,,,,,,
 777730,Seattle Mariners,Washington Nationals,8.0,Under,,,,,,,,,,,,,,,,,,,,
+777728,Los Angeles Angels,New York Yankees,9.0,Under,,,,,,,,,,,,,,,,,,,,
