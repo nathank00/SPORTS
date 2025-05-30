@@ -2,6 +2,7 @@ mlbID,Name,Position,key_bbref
 472551,Fernando Abad,P,abadfe01
 671096,Andrew Abbott,P,abbotan01
 676265,Cory Abbott,P,abbotco01
+690953,Mick Abel,P,abelmi01
 656061,Albert Abreu,P,abreual01
 650556,Bryan Abreu,P,abreubr01
 642758,Domingo Acevedo,P,acevedo01
@@ -343,6 +344,7 @@ mlbID,Name,Position,key_bbref
 643290,Justin Dunn,P,dunnju01
 670161,Parker Dunshee,P,dunshpa01
 641541,Jon Duplantier,P,duplajo01
+679922,Carlos Duran,P,duranca01
 661395,Jhoan Duran,P,duranjh01
 663975,Nick Duron,P,duronni01
 671109,Jake Eder,P,ederja01
@@ -1249,6 +1251,7 @@ mlbID,Name,Position,key_bbref
 548389,Ross Stripling,P,stripro01
 573186,Marcus Stroman,P,stromma01
 467008,Pedro Strop,P,stroppe01
+669704,Kade Strowd,P,strowka01
 657265,Peter Strzelecki,P,strzepe01
 544150,Albert Suárez,P,suareal01
 605498,Andrew Suárez,P,suarean01
@@ -1450,12 +1453,9 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-690953,Mick Abel,P,
 677952,Braxton Ashcraft,P,
 680604,Blas Castaño,P,
-679922,Carlos Duran,P,
 663671,Nic Enright,P,
 682274,Yaramil Hiraldo,P,
 694851,Andrew Hoffmann,P,
 688158,David Morgan,P,
-669704,Kade Strowd,P,
