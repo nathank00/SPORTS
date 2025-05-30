@@ -1,15 +1,15 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777720,Baltimore Orioles,Chicago White Sox,9.0,Over,Chase Meidroth,Mike Tauchman,Miguel Vargas,Andrew Benintendi,Luis Robert Jr.,Joshua Palacios,Edgar Quero,Lenyn Sosa,Josh Rojas,,,,,,,,,,Jared Shuster,
-777712,Chicago Cubs,Cincinnati Reds,9.0,Under,TJ Friedl,Santiago Espinal,Elly De La Cruz,Gavin Lux,Spencer Steer,Will Benson,Tyler Stephenson,Jake Fraley,Matt McLain,Ian Happ,Kyle Tucker,Seiya Suzuki,Carson Kelly,Pete Crow-Armstrong,Dansby Swanson,Nico Hoerner,Justin Turner,Matt Shaw,Andrew Abbott,Colin Rea
-777716,Toronto Blue Jays,Athletics,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777715,Philadelphia Phillies,Milwaukee Brewers,9.5,Under,,,,,,,,,,,,,,,,,,,,
+777712,Chicago Cubs,Cincinnati Reds,9.0,Under,TJ Friedl,Santiago Espinal,Elly De La Cruz,Gavin Lux,Spencer Steer,Will Benson,Tyler Stephenson,Jake Fraley,Matt McLain,Ian Happ,Kyle Tucker,Seiya Suzuki,Carson Kelly,Pete Crow-Armstrong,Dansby Swanson,Nico Hoerner,Justin Turner,Matt Shaw,Andrew Abbott,Colin Rea
 777721,Cleveland Guardians,Los Angeles Angels,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777717,Miami Marlins,San Francisco Giants,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777716,Toronto Blue Jays,Athletics,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777718,New York Mets,Colorado Rockies,7.5,Under,,,,,,,,,,,,,,,,,,,,
+777717,Miami Marlins,San Francisco Giants,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777719,Atlanta Braves,Boston Red Sox,9.5,Under,,,,,,,,,,,,,,,,,,,,
-777709,Texas Rangers,St. Louis Cardinals,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777711,Kansas City Royals,Detroit Tigers,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777714,Houston Astros,Tampa Bay Rays,7.5,Under,,,,,,,,,,,,,,,,,,,,
+777709,Texas Rangers,St. Louis Cardinals,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777710,Arizona Diamondbacks,Washington Nationals,9.0,Under,,,,,,,,,,,,,,,,,,,,
 777707,San Diego Padres,Pittsburgh Pirates,7.5,Under,,,,,,,,,,,,,,,,,,,,
 777713,Seattle Mariners,Minnesota Twins,7.0,Under,,,,,,,,,,,,,,,,,,,,
