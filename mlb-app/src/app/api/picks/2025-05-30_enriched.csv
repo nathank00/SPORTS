@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-777712,11:20,Chicago Cubs,Cincinnati Reds,9.0,Under,4,0,0,0,TJ Friedl,Santiago Espinal,Elly De La Cruz,Gavin Lux,Spencer Steer,Will Benson,Tyler Stephenson,Jake Fraley,Matt McLain,Ian Happ,Kyle Tucker,Seiya Suzuki,Carson Kelly,Pete Crow-Armstrong,Dansby Swanson,Nico Hoerner,Justin Turner,Matt Shaw,Andrew Abbott,Colin Rea
 777720,13:30,Baltimore Orioles,Chicago White Sox,9.0,Over,0,1,0,0,Chase Meidroth,Mike Tauchman,Miguel Vargas,Andrew Benintendi,Luis Robert Jr.,Joshua Palacios,Edgar Quero,Lenyn Sosa,Josh Rojas,Jackson Holliday,Adley Rutschman,Gunnar Henderson,Ryan Mountcastle,Ryan O'Hearn,Ramón Urías,Emmanuel Rivera,Heston Kjerstad,Dylan Carlson,Jared Shuster,Zach Eflin
+777712,11:20,Chicago Cubs,Cincinnati Reds,9.0,Under,6,0,0,0,TJ Friedl,Santiago Espinal,Elly De La Cruz,Gavin Lux,Spencer Steer,Will Benson,Tyler Stephenson,Jake Fraley,Matt McLain,Ian Happ,Kyle Tucker,Seiya Suzuki,Carson Kelly,Pete Crow-Armstrong,Dansby Swanson,Nico Hoerner,Justin Turner,Matt Shaw,Andrew Abbott,Colin Rea
 777715,15:45,Philadelphia Phillies,Milwaukee Brewers,9.5,Over,0,1,0,0,,,,,,,,,,Bryson Stott,Trea Turner,Kyle Schwarber,Alec Bohm,Nick Castellanos,Max Kepler,J.T. Realmuto,Brandon Marsh,Edmundo Sosa,,Taijuan Walker
-777721,16:10,Cleveland Guardians,Los Angeles Angels,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777716,16:07,Toronto Blue Jays,Athletics,9.0,Over,0,1,0,0,,,,,,,,,,Bo Bichette,Vladimir Guerrero Jr.,George Springer,Alejandro Kirk,Daulton Varsho,Ernie Clement,Addison Barger,Myles Straw,Nathan Lukes,,Chris Bassitt
-777718,16:10,New York Mets,Colorado Rockies,7.5,Under,0,0,0,0,Jordan Beck,Ezequiel Tovar,Hunter Goodman,Thairo Estrada,Brenton Doyle,Ryan McMahon,Kyle Farmer,Michael Toglia,Tyler Freeman,,,,,,,,,,Kyle Freeland,
-777717,16:10,Miami Marlins,San Francisco Giants,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777719,16:15,Atlanta Braves,Boston Red Sox,9.5,Under,0,0,0,0,Jarren Duran,Rafael Devers,Wilyer Abreu,Carlos Narváez,Marcelo Mayer,Abraham Toro,Trevor Story,Kristian Campbell,Ceddanne Rafaela,,,,,,,,,,Lucas Giolito,
+777716,16:07,Toronto Blue Jays,Athletics,8.5,Over,0,1,0,0,Lawrence Butler,Jacob Wilson,Brent Rooker,Tyler Soderstrom,Shea Langeliers,CJ Alexander,Logan Davidson,Drew Avans,Denzel Clarke,Bo Bichette,Vladimir Guerrero Jr.,George Springer,Alejandro Kirk,Daulton Varsho,Ernie Clement,Addison Barger,Myles Straw,Nathan Lukes,Jeffrey Springs,Chris Bassitt
 777709,17:05,Texas Rangers,St. Louis Cardinals,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777714,17:10,Houston Astros,Tampa Bay Rays,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777710,18:40,Arizona Diamondbacks,Washington Nationals,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777707,18:40,San Diego Padres,Pittsburgh Pirates,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777713,19:10,Seattle Mariners,Minnesota Twins,7.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777719,16:15,Atlanta Braves,Boston Red Sox,9.5,Under,0,0,0,0,Jarren Duran,Rafael Devers,Wilyer Abreu,Carlos Narváez,Marcelo Mayer,Abraham Toro,Trevor Story,Kristian Campbell,Ceddanne Rafaela,,,,,,,,,,Lucas Giolito,
+777718,16:10,New York Mets,Colorado Rockies,7.5,Under,0,0,0,0,Jordan Beck,Ezequiel Tovar,Hunter Goodman,Thairo Estrada,Brenton Doyle,Ryan McMahon,Kyle Farmer,Michael Toglia,Tyler Freeman,Francisco Lindor,Mark Vientos,Juan Soto,Pete Alonso,Brandon Nimmo,Starling Marte,Tyrone Taylor,Francisco Alvarez,Luisangel Acuña,Kyle Freeland,David Peterson
+777717,16:10,Miami Marlins,San Francisco Giants,8.5,Over,0,1,0,0,Mike Yastrzemski,Heliot Ramos,Jung Hoo Lee,Wilmer Flores,Matt Chapman,Willy Adames,Patrick Bailey,Casey Schmitt,Tyler Fitzgerald,Agustín Ramírez,Heriberto Hernandez,Eric Wagaman,Otto Lopez,Dane Myers,Connor Norby,Kyle Stowers,Javier Sanoja,Nick Fortes,Kyle Harrison,Cal Quantrill
+777721,16:10,Cleveland Guardians,Los Angeles Angels,8.5,Over,0,1,0,0,Zach Neto,Nolan Schanuel,Taylor Ward,Jorge Soler,Mike Trout,Logan O'Hoppe,Jo Adell,Scott Kingery,Luis Rengifo,Steven Kwan,Angel Martínez,José Ramírez,Kyle Manzardo,Carlos Santana,Daniel Schneemann,Gabriel Arias,Bo Naylor,Nolan Jones,José Soriano,Luis L. Ortiz
 777711,17:10,Kansas City Royals,Detroit Tigers,8.5,Under,0,0,0,0,,,,,,,,,,Jonathan India,Bobby Witt Jr.,Vinnie Pasquantino,Salvador Perez,Maikel Garcia,Drew Waters,John Rave,Michael Massey,Kyle Isbel,,Seth Lugo
+777714,17:10,Houston Astros,Tampa Bay Rays,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777707,18:40,San Diego Padres,Pittsburgh Pirates,7.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777710,18:40,Arizona Diamondbacks,Washington Nationals,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777713,19:10,Seattle Mariners,Minnesota Twins,7.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777708,19:10,Los Angeles Dodgers,New York Yankees,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
