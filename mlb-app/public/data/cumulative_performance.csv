@@ -144,8 +144,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-06,778024,Athletics,Seattle Mariners,10.5,8.0,0,0
 2025-05-30,777712,Chicago Cubs,Cincinnati Reds,9.0,8.0,0,0
 2025-05-30,777720,Baltimore Orioles,Chicago White Sox,9.0,3.0,1,0
-2025-05-30,777716,Toronto Blue Jays,Athletics,8.5,16.0,1,1
 2025-05-30,777715,Philadelphia Phillies,Milwaukee Brewers,9.5,8.0,1,0
+2025-05-30,777716,Toronto Blue Jays,Athletics,8.5,16.0,1,1
+2025-05-30,777718,New York Mets,Colorado Rockies,8.0,6.0,0,0
 2025-04-19,778265,Detroit Tigers,Kansas City Royals,8.0,4.0,0,0
 2025-04-19,778252,Philadelphia Phillies,Miami Marlins,10.5,21.0,1,1
 2025-04-19,778256,New York Mets,St. Louis Cardinals,9.0,3.0,0,0
