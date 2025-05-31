@@ -145,16 +145,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-30,777712,Chicago Cubs,Cincinnati Reds,9.0,8.0,0,0
 2025-05-30,777720,Baltimore Orioles,Chicago White Sox,9.0,3.0,1,0
 2025-05-30,777715,Philadelphia Phillies,Milwaukee Brewers,9.5,8.0,1,0
-2025-05-30,777716,Toronto Blue Jays,Athletics,8.5,18.0,1,1
 2025-05-30,777718,New York Mets,Colorado Rockies,8.0,6.0,0,0
+2025-05-30,777716,Toronto Blue Jays,Athletics,8.5,18.0,1,1
 2025-05-30,777721,Cleveland Guardians,Los Angeles Angels,8.5,5.0,1,0
 2025-05-30,777717,Miami Marlins,San Francisco Giants,8.5,2.0,1,0
 2025-05-30,777719,Atlanta Braves,Boston Red Sox,9.0,6.0,0,0
 2025-05-30,777709,Texas Rangers,St. Louis Cardinals,8.5,12.0,1,1
-2025-05-30,777714,Houston Astros,Tampa Bay Rays,7.5,3.0,0,0
-2025-05-30,777710,Arizona Diamondbacks,Washington Nationals,9.0,14.0,0,1
 2025-05-30,777711,Kansas City Royals,Detroit Tigers,8.5,12.0,0,1
+2025-05-30,777714,Houston Astros,Tampa Bay Rays,7.5,3.0,0,0
 2025-05-30,777707,San Diego Padres,Pittsburgh Pirates,7.5,5.0,0,0
+2025-05-30,777710,Arizona Diamondbacks,Washington Nationals,9.0,15.0,0,1
+2025-05-30,777708,Los Angeles Dodgers,New York Yankees,9.0,11.0,0,1
 2025-04-19,778265,Detroit Tigers,Kansas City Royals,8.0,4.0,0,0
 2025-04-19,778252,Philadelphia Phillies,Miami Marlins,10.5,21.0,1,1
 2025-04-19,778256,New York Mets,St. Louis Cardinals,9.0,3.0,0,0
