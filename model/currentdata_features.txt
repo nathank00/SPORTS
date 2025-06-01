@@ -727,6 +727,9 @@ Away_P_7_XB_against_20
 Away_P_7_XB_against_3
 Away_P_7_XB_against_5
 Away_P_7_bbrefID
+Away_P_8_ID
+Away_P_8_Name
+Away_P_8_bbrefID
 Away_SP_BB
 Away_SP_BB_10
 Away_SP_BB_20
