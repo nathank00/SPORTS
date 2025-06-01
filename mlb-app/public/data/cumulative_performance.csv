@@ -88,17 +88,18 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-23,777802,Colorado Rockies,New York Yankees,11.5,5.0,0,0
 2025-05-23,777798,Los Angeles Angels,Miami Marlins,8.5,11.0,0,1
 2025-05-23,777804,Athletics,Philadelphia Phillies,9.5,7.0,1,0
-2025-05-31,777701,Toronto Blue Jays,Athletics,9.0,15.0,1,1
 2025-05-31,777704,Chicago Cubs,Cincinnati Reds,7.0,2.0,1,0
+2025-05-31,777701,Toronto Blue Jays,Athletics,9.0,15.0,1,1
 2025-05-31,777697,Texas Rangers,St. Louis Cardinals,8.5,2.0,1,0
 2025-05-31,777699,Baltimore Orioles,Chicago White Sox,8.5,6.0,0,0
 2025-05-31,777702,Philadelphia Phillies,Milwaukee Brewers,8.0,24.0,1,1
 2025-05-31,777703,Cleveland Guardians,Los Angeles Angels,8.0,12.0,1,1
-2025-05-31,777693,Houston Astros,Tampa Bay Rays,8.5,19.0,0,1
-2025-05-31,777694,Kansas City Royals,Detroit Tigers,8.0,1.0,0,0
 2025-05-31,777700,New York Mets,Colorado Rockies,8.5,10.0,0,1
+2025-05-31,777694,Kansas City Royals,Detroit Tigers,8.0,1.0,0,0
+2025-05-31,777693,Houston Astros,Tampa Bay Rays,8.5,19.0,0,1
 2025-05-31,777706,Atlanta Braves,Boston Red Sox,8.5,5.0,1,0
 2025-05-31,777705,Miami Marlins,San Francisco Giants,7.5,1.0,0,0
+2025-05-31,777698,Los Angeles Dodgers,New York Yankees,9.5,11.0,1,1
 2025-05-13,777944,Cleveland Guardians,Milwaukee Brewers,9.0,2.0,1,0
 2025-05-13,777940,Detroit Tigers,Boston Red Sox,8.5,19.0,0,1
 2025-05-13,777945,Cincinnati Reds,Chicago White Sox,9.0,6.0,0,0
