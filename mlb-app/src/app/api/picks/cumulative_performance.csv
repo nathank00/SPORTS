@@ -423,6 +423,7 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-18,777868,San Diego Padres,Seattle Mariners,7.5,7.0,1,0
 2025-05-18,777866,Los Angeles Dodgers,Los Angeles Angels,9.0,10.0,1,1
 2025-05-18,777878,New York Yankees,New York Mets,9.0,10.0,0,1
+2025-06-01,777678,Texas Rangers,St. Louis Cardinals,7.5,9.0,0,1
 2025-04-02,778477,Milwaukee Brewers,Kansas City Royals,7.5,5.0,0,0
 2025-04-02,778479,Tampa Bay Rays,Pittsburgh Pirates,7.0,6.0,0,0
 2025-04-02,778480,Cincinnati Reds,Texas Rangers,8.5,1.0,1,0
