@@ -275,8 +275,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-06,778423,Colorado Rockies,Athletics,10.5,17.0,0,1
 2025-04-06,778427,San Francisco Giants,Seattle Mariners,7.5,9.0,1,1
 2025-04-06,778425,Los Angeles Angels,Cleveland Guardians,9.5,8.0,0,0
-2025-06-02,777673,Miami Marlins,Colorado Rockies,8.0,10.0,0,1
 2025-06-02,777670,Boston Red Sox,Los Angeles Angels,9.5,12.0,0,1
+2025-06-02,777673,Miami Marlins,Colorado Rockies,8.0,10.0,0,1
+2025-06-02,777674,Chicago White Sox,Detroit Tigers,8.5,11.0,1,1
 2025-04-30,778134,Cincinnati Reds,St. Louis Cardinals,9.5,6.0,1,0
 2025-04-30,778119,Cincinnati Reds,St. Louis Cardinals,9.0,10.0,0,1
 2025-04-30,778102,Colorado Rockies,Atlanta Braves,10.0,3.0,0,0
