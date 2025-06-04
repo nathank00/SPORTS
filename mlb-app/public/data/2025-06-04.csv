@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777652,Miami Marlins,Colorado Rockies,8.0,Over,Jordan Beck,Thairo Estrada,Hunter Goodman,Ryan McMahon,Brenton Doyle,Orlando Arcia,Keston Hiura,Jacob Stallings,Tyler Freeman,Otto Lopez,Agustín Ramírez,Connor Norby,Eric Wagaman,Heriberto Hernandez,Dane Myers,Nick Fortes,Javier Sanoja,Jack Winkler,Kyle Freeland,Cal Quantrill
 777648,Pittsburgh Pirates,Houston Astros,9.5,Under,,,,,,,,,,,,,,,,,,,,
+777653,New York Yankees,Cleveland Guardians,9.0,Under,,,,,,,,,,,,,,,,,,,,
+777650,Washington Nationals,Chicago Cubs,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777647,Cincinnati Reds,Milwaukee Brewers,9.0,Under,Andruw Monasterio,Jackson Chourio,Christian Yelich,Rhys Hoskins,Daz Cameron,Sal Frelick,Joey Ortiz,Eric Haase,Brice Turang,TJ Friedl,Santiago Espinal,Elly De La Cruz,Tyler Stephenson,Spencer Steer,Connor Joe,Jose Trevino,Will Benson,Matt McLain,DL Hall,Andrew Abbott
 777649,Boston Red Sox,Los Angeles Angels,10.5,Under,Zach Neto,Nolan Schanuel,Mike Trout,Taylor Ward,Jorge Soler,Logan O'Hoppe,Jo Adell,Chris Taylor,Kevin Newman,Jarren Duran,Rafael Devers,Wilyer Abreu,Carlos Narváez,Marcelo Mayer,Abraham Toro,Ceddanne Rafaela,David Hamilton,Kristian Campbell,José Soriano,Lucas Giolito
-777650,Washington Nationals,Chicago Cubs,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777653,New York Yankees,Cleveland Guardians,9.0,Under,,,,,,,,,,,,,,,,,,,,
 777651,Toronto Blue Jays,Philadelphia Phillies,9.0,Under,,,,,,,,,,,,,,,,,,,,
-777654,Atlanta Braves,Arizona Diamondbacks,8.0,Under,,,,,,,,,,,,,,,,,,,,
-777642,St. Louis Cardinals,Kansas City Royals,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777654,Atlanta Braves,Arizona Diamondbacks,7.5,Under,,,,,,,,,,,,,,,,,,,,
 777646,Tampa Bay Rays,Texas Rangers,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777642,St. Louis Cardinals,Kansas City Royals,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777639,Chicago White Sox,Detroit Tigers,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777645,Seattle Mariners,Baltimore Orioles,8.0,Under,,,,,,,,,,,,,,,,,,,,
 777641,San Francisco Giants,San Diego Padres,7.0,Under,,,,,,,,,,,,,,,,,,,,
-777645,Seattle Mariners,Baltimore Orioles,8.5,Under,,,,,,,,,,,,,,,,,,,,
 777643,Athletics,Minnesota Twins,10.0,Under,,,,,,,,,,,,,,,,,,,,
 777638,Los Angeles Dodgers,New York Mets,10.0,Under,,,,,,,,,,,,,,,,,,,,
