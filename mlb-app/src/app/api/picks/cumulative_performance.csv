@@ -367,9 +367,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-07,778410,San Francisco Giants,Cincinnati Reds,6.5,2.0,1,0
 2025-06-04,777652,Miami Marlins,Colorado Rockies,8.0,5.0,1,0
 2025-06-04,777647,Cincinnati Reds,Milwaukee Brewers,9.0,10.0,0,1
-2025-06-04,777650,Washington Nationals,Chicago Cubs,8.0,2.0,0,0
-2025-06-04,777648,Pittsburgh Pirates,Houston Astros,9.0,3.0,1,0
 2025-06-04,777649,Boston Red Sox,Los Angeles Angels,10.5,20.0,0,1
+2025-06-04,777648,Pittsburgh Pirates,Houston Astros,9.0,3.0,1,0
+2025-06-04,777650,Washington Nationals,Chicago Cubs,8.0,2.0,0,0
 2025-06-04,777653,New York Yankees,Cleveland Guardians,9.0,4.0,0,0
 2025-06-04,777651,Toronto Blue Jays,Philadelphia Phillies,9.0,3.0,1,0
 2025-06-04,777646,Tampa Bay Rays,Texas Rangers,8.5,9.0,0,1
