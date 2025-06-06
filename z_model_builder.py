@@ -106,6 +106,7 @@ joblib.dump((model, numeric_feature_cols), "z_model1.pkl")
 end = time.time()
 
 print(f"🔍 Prediction took {end - start:.2f} seconds.")
+
 # ====================== CONFIDENT PREDICTION EVALUATION ==============================
 
 # Create validation DataFrame with predictions
