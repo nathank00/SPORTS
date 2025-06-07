@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777609,10:10,Detroit Tigers,Chicago Cubs,8.5,Under,0,0,0,0,Ian Happ,Kyle Tucker,Seiya Suzuki,Dansby Swanson,Pete Crow-Armstrong,Nico Hoerner,Michael Busch,Matt Shaw,Reese McGuire,Parker Meadows,Gleyber Torres,Kerry Carpenter,Riley Greene,Spencer Torkelson,Wenceel Pérez,Zach McKinstry,Jake Rogers,Trey Sweeney,Jameson Taillon,Tyler Holton
-777601,11:15,St. Louis Cardinals,Los Angeles Dodgers,8.0,Over,0,1,0,0,Shohei Ohtani,Mookie Betts,Freddie Freeman,Will Smith,Max Muncy,Andy Pages,Michael Conforto,Tommy Edman,Hyeseong Kim,Lars Nootbaar,Masyn Winn,Brendan Donovan,Willson Contreras,Alec Burleson,Iván Herrera,Nolan Gorman,Pedro Pagés,Victor Scott II,Yoshinobu Yamamoto,Erick Fedde
-777610,13:05,Washington Nationals,Texas Rangers,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777600,11:10,Minnesota Twins,Toronto Blue Jays,8.0,Over,0,1,0,0,Bo Bichette,Vladimir Guerrero Jr.,Addison Barger,George Springer,Nathan Lukes,Ernie Clement,Andrés Giménez,Jonatan Clase,Tyler Heineman,Trevor Larnach,Ryan Jeffers,Carlos Correa,Matt Wallner,Ty France,Royce Lewis,Kody Clemens,Willi Castro,Harrison Bader,Kevin Gausman,Chris Paddack
-777607,13:05,Pittsburgh Pirates,Philadelphia Phillies,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777598,13:05,San Francisco Giants,Atlanta Braves,7.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777608,13:10,Cleveland Guardians,Houston Astros,7.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777610,13:05,Washington Nationals,Texas Rangers,8.0,Under,0,0,0,0,Sam Haggerty,Wyatt Langford,Josh Jung,Marcus Semien,Jake Burger,Adolis García,Jonah Heim,Kyle Higashioka,Ezequiel Duran,,,,,,,,,,Jacob deGrom,
+777601,11:15,St. Louis Cardinals,Los Angeles Dodgers,8.0,Over,0,1,0,0,Shohei Ohtani,Mookie Betts,Freddie Freeman,Will Smith,Max Muncy,Andy Pages,Michael Conforto,Tommy Edman,Hyeseong Kim,Lars Nootbaar,Masyn Winn,Brendan Donovan,Willson Contreras,Alec Burleson,Iván Herrera,Nolan Gorman,Pedro Pagés,Victor Scott II,Yoshinobu Yamamoto,Erick Fedde
+777598,13:05,San Francisco Giants,Atlanta Braves,7.0,Over,0,1,0,0,,,,,,,,,,Daniel Johnson,Heliot Ramos,Wilmer Flores,Matt Chapman,Dominic Smith,Willy Adames,Mike Yastrzemski,Patrick Bailey,Tyler Fitzgerald,,Logan Webb
+777607,13:05,Pittsburgh Pirates,Philadelphia Phillies,8.0,Over,0,1,0,0,,,,,,,,,,Nick Gonzales,Andrew McCutchen,Bryan Reynolds,Alexander Canario,Ke'Bryan Hayes,Henry Davis,Tommy Pham,Jared Triolo,Isiah Kiner-Falefa,,Andrew Heaney
 777612,13:10,Cincinnati Reds,Arizona Diamondbacks,9.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777606,13:10,Chicago White Sox,Kansas City Royals,8.0,Under,0,0,0,0,Jonathan India,Bobby Witt Jr.,Maikel Garcia,Vinnie Pasquantino,Salvador Perez,Jac Caglianone,Drew Waters,Michael Massey,Kyle Isbel,Mike Tauchman,Chase Meidroth,Andrew Benintendi,Miguel Vargas,Kyle Teel,Edgar Quero,Luis Robert Jr.,Josh Rojas,Tim Elko,Michael Wacha,Adrian Houser
-777611,13:10,Tampa Bay Rays,Miami Marlins,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777605,16:35,New York Yankees,Boston Red Sox,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777608,13:10,Cleveland Guardians,Houston Astros,7.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777603,18:38,Los Angeles Angels,Seattle Mariners,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777597,16:35,Milwaukee Brewers,San Diego Padres,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777604,18:40,Colorado Rockies,New York Mets,11.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777603,18:38,Los Angeles Angels,Seattle Mariners,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777611,13:10,Tampa Bay Rays,Miami Marlins,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777605,16:35,New York Yankees,Boston Red Sox,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777606,13:10,Chicago White Sox,Kansas City Royals,8.0,Under,0,0,0,0,Jonathan India,Bobby Witt Jr.,Maikel Garcia,Vinnie Pasquantino,Salvador Perez,Jac Caglianone,Drew Waters,Michael Massey,Kyle Isbel,Mike Tauchman,Chase Meidroth,Andrew Benintendi,Miguel Vargas,Kyle Teel,Edgar Quero,Luis Robert Jr.,Josh Rojas,Tim Elko,Michael Wacha,Adrian Houser
 777599,19:05,Athletics,Baltimore Orioles,10.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
