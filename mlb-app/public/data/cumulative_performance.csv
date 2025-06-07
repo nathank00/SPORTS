@@ -465,6 +465,7 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-01,777682,Los Angeles Dodgers,New York Yankees,8.5,10.0,1,1
 2025-06-06,777625,Tampa Bay Rays,Miami Marlins,8.5,7.0,0,0
 2025-06-06,777624,Washington Nationals,Texas Rangers,9.0,2.0,0,0
+2025-06-06,777627,New York Yankees,Boston Red Sox,9.0,10.0,1,1
 2025-04-02,778477,Milwaukee Brewers,Kansas City Royals,7.5,5.0,0,0
 2025-04-02,778479,Tampa Bay Rays,Pittsburgh Pirates,7.0,6.0,0,0
 2025-04-02,778480,Cincinnati Reds,Texas Rangers,8.5,1.0,1,0
