@@ -575,6 +575,7 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-11,778366,Chicago White Sox,Boston Red Sox,8.0,12.0,1,1
 2025-04-11,778361,San Diego Padres,Colorado Rockies,7.5,8.0,0,1
 2025-04-11,778363,Minnesota Twins,Detroit Tigers,8.0,13.0,1,1
+2025-06-07,777609,Detroit Tigers,Chicago Cubs,8.5,7.0,0,0
 2025-04-04,778458,Detroit Tigers,Chicago White Sox,7.0,11.0,0,1
 2025-04-04,778463,Boston Red Sox,St. Louis Cardinals,9.5,22.0,1,1
 2025-04-04,778460,Chicago Cubs,San Diego Padres,7.0,4.0,1,0
