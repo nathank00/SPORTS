@@ -58,6 +58,7 @@ mlbID,Name,Position,key_bbref
 453562,Jake Arrieta,P,arrieja01
 681293,Spencer Arrighetti,P,arrigsp01
 676879,Aaron Ashby,P,ashbyaa01
+677952,Braxton Ashcraft,P,ashcrbr01
 668933,Graham Ashcraft,P,ashcrgr01
 665871,Javier Assad,P,assadja01
 501593,Luis Avilán,P,avilalu01
@@ -214,6 +215,7 @@ mlbID,Name,Position,key_bbref
 656290,Drew Carlton,P,carltdr01
 471911,Carlos Carrasco,P,carraca01
 676508,Ben Casparius,P,caspabe01
+680604,Blas Castaño,P,castabl01
 641447,Daniel Castano,P,castada01
 528748,Humberto Castellanos,P,castehu01
 624418,Ryan Castellani,P,castery01
@@ -361,6 +363,7 @@ mlbID,Name,Position,key_bbref
 592288,Kent Emanuel,P,emanuke01
 669438,Mason Englert,P,englema01
 608650,Dietrich Enns,P,ennsdi01
+663671,Nic Enright,P,enrigni01
 543135,Nathan Eovaldi,P,eovalna01
 668674,Lucas Erceg,P,erceglu01
 572362,Robbie Erlin,P,erlinro01
@@ -576,9 +579,11 @@ mlbID,Name,Position,key_bbref
 677955,Jaden Hill,P,hillja01
 448179,Rich Hill,P,hillri01
 657612,Tim Hill,P,hillti01
+682274,Yaramil Hiraldo,P,hiralya01
 663546,Sean Hjelle,P,hjellse01
 687863,Porter Hodge,P,hodgepo01
 663773,Bryan Hoeing,P,hoeinbr01
+694851,Andrew Hoffmann,P,hoffman01
 656546,Jeff Hoffman,P,hoffmje02
 680684,Gunnar Hoglund,P,hoglugu01
 670059,Colin Holderman,P,holdeco01
@@ -893,6 +898,7 @@ mlbID,Name,Position,key_bbref
 670970,Adrian Morejon,P,morejad01
 664294,Dauri Moreta,P,moretda01
 605388,Adam Morgan,P,morgaad01
+688158,David Morgan,P,morgada01
 669212,Eli Morgan,P,morgael01
 666661,Juan Morillo,P,morilju02
 596049,Shawn Morimando,P,morimsh01
@@ -1454,11 +1460,6 @@ mlbID,Name,Position,key_bbref
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
 701519,Travis Adams,P,
-677952,Braxton Ashcraft,P,
-680604,Blas Castaño,P,
-663671,Nic Enright,P,
-682274,Yaramil Hiraldo,P,
-694851,Andrew Hoffmann,P,
-688158,David Morgan,P,
+660604,Alan Rangel,P,
 699134,Bradgley Rodriguez,P,
 681916,Dylan Smith,P,
