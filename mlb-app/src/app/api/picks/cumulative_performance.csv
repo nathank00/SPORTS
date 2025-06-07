@@ -496,6 +496,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-06,777622,Cleveland Guardians,Houston Astros,8.0,6.0,1,0
 2025-06-06,777615,Minnesota Twins,Toronto Blue Jays,8.5,10.0,0,1
 2025-06-06,777617,Milwaukee Brewers,San Diego Padres,8.5,2.0,0,0
+2025-06-06,777620,St. Louis Cardinals,Los Angeles Dodgers,8.5,5.0,1,0
+2025-06-06,777616,Colorado Rockies,New York Mets,10.5,6.0,0,0
 2025-04-02,778477,Milwaukee Brewers,Kansas City Royals,7.5,5.0,0,0
 2025-04-02,778479,Tampa Bay Rays,Pittsburgh Pirates,7.0,6.0,0,0
 2025-04-02,778480,Cincinnati Reds,Texas Rangers,8.5,1.0,1,0
