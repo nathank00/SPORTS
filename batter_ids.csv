@@ -846,7 +846,7 @@ mlbID,Name,Position,key_bbref
 663898,Brendan Rodgers,2B,rodgebr02
 682848,Endy Rodríguez,1B,rodrien01
 679563,José Rodríguez,SS,rodrijo09
-671286,Johnathan Rodríguez,LF,rodrijo10
+671286,Johnathan Rodríguez,RF,rodrijo10
 677594,Julio Rodríguez,CF,rodriju01
 668670,Jake Rogers,C,rogerja03
 668942,Josh Rojas,3B,rojasjo01
@@ -1106,6 +1106,7 @@ mlbID,Name,Position,key_bbref
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
 695506,Jac Caglianone,OF,
+805249,Otto Kemp,3B,
 689200,Jacob Melton,CF,
 690022,Ryan Ritter,SS,
 691019,Kyle Teel,C,
