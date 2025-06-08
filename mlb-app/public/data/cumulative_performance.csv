@@ -583,8 +583,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-07,777598,San Francisco Giants,Atlanta Braves,7.5,5.0,0,0
 2025-06-07,777612,Cincinnati Reds,Arizona Diamondbacks,9.0,14.0,0,1
 2025-06-07,777608,Cleveland Guardians,Houston Astros,6.5,8.0,1,1
-2025-06-07,777605,New York Yankees,Boston Red Sox,7.5,13.0,0,1
 2025-06-07,777606,Chicago White Sox,Kansas City Royals,8.0,5.0,0,0
+2025-06-07,777605,New York Yankees,Boston Red Sox,7.5,13.0,0,1
 2025-06-07,777611,Tampa Bay Rays,Miami Marlins,8.5,21.0,0,1
 2025-04-04,778458,Detroit Tigers,Chicago White Sox,7.0,11.0,0,1
 2025-04-04,778463,Boston Red Sox,St. Louis Cardinals,9.5,22.0,1,1
