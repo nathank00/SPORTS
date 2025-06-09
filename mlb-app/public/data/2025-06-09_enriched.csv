@@ -1,9 +1,9 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+777580,15:40,Cleveland Guardians,Cincinnati Reds,8.5,Over,0,1,0,0,TJ Friedl,Gavin Lux,Elly De La Cruz,Christian Encarnacion-Strand,Tyler Stephenson,Will Benson,Santiago Espinal,Jake Fraley,Matt McLain,,,,,,,,,,Wade Miley,
 777574,15:40,Pittsburgh Pirates,Miami Marlins,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777580,15:40,Cleveland Guardians,Cincinnati Reds,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777578,15:45,Philadelphia Phillies,Chicago Cubs,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777584,16:10,Boston Red Sox,Tampa Bay Rays,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777575,16:40,Milwaukee Brewers,Atlanta Braves,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777581,16:45,St. Louis Cardinals,Toronto Blue Jays,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777579,18:40,San Diego Padres,Los Angeles Dodgers,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777577,18:40,Arizona Diamondbacks,Seattle Mariners,9.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777579,18:40,San Diego Padres,Los Angeles Dodgers,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
