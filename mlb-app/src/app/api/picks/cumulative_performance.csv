@@ -97,6 +97,7 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-03-28,778541,Seattle Mariners,Athletics,7.0,7.0,1,
 2025-03-28,778542,San Diego Padres,Atlanta Braves,7.0,7.0,0,
 2025-03-28,778544,Los Angeles Dodgers,Detroit Tigers,7.0,13.0,1,1
+2025-06-09,777580,Cleveland Guardians,Cincinnati Reds,9.0,10.0,0,1
 2025-05-31,777701,Toronto Blue Jays,Athletics,9.0,15.0,1,1
 2025-05-31,777704,Chicago Cubs,Cincinnati Reds,7.0,2.0,1,0
 2025-05-31,777697,Texas Rangers,St. Louis Cardinals,8.5,2.0,1,0
