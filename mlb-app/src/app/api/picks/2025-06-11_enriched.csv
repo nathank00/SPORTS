@@ -1,0 +1,16 @@
+game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+777549,10:10,Cleveland Guardians,Cincinnati Reds,8.5,Over,0,1,0,0,TJ Friedl,Santiago Espinal,Elly De La Cruz,Christian Encarnacion-Strand,Spencer Steer,Jose Trevino,Connor Joe,Matt McLain,Garrett Hampson,Lane Thomas,David Fry,José Ramírez,Carlos Santana,Gabriel Arias,Nolan Jones,Johnathan Rodríguez,Dom Nuñez,Angel Martínez,Nick Lodolo,Logan Allen
+777553,10:05,Philadelphia Phillies,Chicago Cubs,8.5,Over,0,1,0,0,Ian Happ,Kyle Tucker,Seiya Suzuki,Dansby Swanson,Carson Kelly,Justin Turner,Nico Hoerner,Matt Shaw,Vidal Bruján,Trea Turner,Kyle Schwarber,Alec Bohm,Nick Castellanos,Max Kepler,J.T. Realmuto,Bryson Stott,Otto Kemp,Johan Rojas,Ben Brown,Jesús Luzardo
+777554,11:10,Milwaukee Brewers,Atlanta Braves,8.0,Over,0,1,0,0,,,,,,,,,,Brice Turang,Jackson Chourio,William Contreras,Jake Bauers,Rhys Hoskins,Sal Frelick,Caleb Durbin,Joey Ortiz,Eric Haase,,Chad Patrick
+777552,09:35,Pittsburgh Pirates,Miami Marlins,8.5,Under,0,0,0,0,Xavier Edwards,Agustín Ramírez,Heriberto Hernandez,Otto Lopez,Eric Wagaman,Connor Norby,Dane Myers,Nick Fortes,Javier Sanoja,Oneil Cruz,Andrew McCutchen,Bryan Reynolds,Spencer Horwitz,Nick Gonzales,Adam Frazier,Henry Davis,Ke'Bryan Hayes,Isiah Kiner-Falefa,Cal Quantrill,Bailey Falter
+777545,11:15,St. Louis Cardinals,Toronto Blue Jays,8.5,Over,0,1,0,0,,,,,,,,,,Lars Nootbaar,Masyn Winn,Iván Herrera,Willson Contreras,Alec Burleson,Nolan Arenado,Nolan Gorman,Yohel Pozo,Victor Scott II,,Matthew Liberatore
+777548,12:40,Arizona Diamondbacks,Seattle Mariners,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777542,13:07,Los Angeles Angels,Athletics,10.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777555,16:10,New York Mets,Washington Nationals,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777543,13:10,San Diego Padres,Los Angeles Dodgers,9.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777561,16:10,Boston Red Sox,Tampa Bay Rays,9.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777562,15:35,Baltimore Orioles,Detroit Tigers,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777556,16:40,Minnesota Twins,Texas Rangers,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777547,17:40,Colorado Rockies,San Francisco Giants,10.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777551,16:40,Kansas City Royals,New York Yankees,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777550,17:10,Houston Astros,Chicago White Sox,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
