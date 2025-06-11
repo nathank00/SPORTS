@@ -257,18 +257,18 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-10,777573,Baltimore Orioles,Detroit Tigers,9.0,8.0,0,0
 2025-06-10,777569,Cleveland Guardians,Cincinnati Reds,8.5,1.0,0,0
 2025-06-10,777566,Pittsburgh Pirates,Miami Marlins,8.0,5.0,0,0
-2025-06-10,777565,Boston Red Sox,Tampa Bay Rays,9.0,4.0,0,0
 2025-06-10,777571,Philadelphia Phillies,Chicago Cubs,9.5,12.0,0,1
+2025-06-10,777565,Boston Red Sox,Tampa Bay Rays,9.0,4.0,0,0
 2025-06-10,777570,New York Mets,Washington Nationals,8.0,9.0,0,1
-2025-06-10,777557,Minnesota Twins,Texas Rangers,9.0,20.0,0,1
 2025-06-10,777572,Kansas City Royals,New York Yankees,8.5,12.0,0,1
+2025-06-10,777557,Minnesota Twins,Texas Rangers,9.0,20.0,0,1
 2025-06-10,777558,St. Louis Cardinals,Toronto Blue Jays,8.0,19.0,1,1
 2025-06-10,777568,Milwaukee Brewers,Atlanta Braves,8.5,5.0,0,0
 2025-06-10,777567,Houston Astros,Chicago White Sox,7.5,6.0,0,0
-2025-06-10,777559,Arizona Diamondbacks,Seattle Mariners,9.5,13.0,0,1
 2025-06-10,777563,Colorado Rockies,San Francisco Giants,11.0,11.0,0,
 2025-06-10,777560,San Diego Padres,Los Angeles Dodgers,8.5,12.0,0,1
 2025-06-10,777564,Los Angeles Angels,Athletics,9.0,3.0,0,0
+2025-06-10,777559,Arizona Diamondbacks,Seattle Mariners,9.5,13.0,0,1
 2025-05-28,777739,Cleveland Guardians,Los Angeles Dodgers,8.5,11.0,1,1
 2025-05-28,777737,New York Mets,Chicago White Sox,8.0,13.0,0,1
 2025-05-28,777738,Detroit Tigers,San Francisco Giants,8.0,7.0,1,0
