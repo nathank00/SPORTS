@@ -606,9 +606,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-12,777534,Colorado Rockies,San Francisco Giants,11.0,15.0,0,1
 2025-06-12,777540,Baltimore Orioles,Detroit Tigers,7.5,5.0,1,0
 2025-06-12,777532,Milwaukee Brewers,St. Louis Cardinals,7.5,6.0,1,0
-2025-06-12,777536,Kansas City Royals,New York Yankees,8.5,1.0,0,0
-2025-06-12,777541,Chicago Cubs,Pittsburgh Pirates,7.5,5.0,0,0
 2025-06-12,777546,Houston Astros,Chicago White Sox,7.5,7.0,0,0
+2025-06-12,777541,Chicago Cubs,Pittsburgh Pirates,7.5,5.0,0,0
+2025-06-12,777536,Kansas City Royals,New York Yankees,8.5,1.0,0,0
 2025-04-16,778297,Toronto Blue Jays,Atlanta Braves,7.0,4.0,1,0
 2025-04-16,778299,Minnesota Twins,New York Mets,8.0,7.0,0,0
 2025-04-16,778295,Milwaukee Brewers,Detroit Tigers,8.0,6.0,0,0
