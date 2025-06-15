@@ -44,6 +44,7 @@ mlbID,Name,Position,key_bbref
 607430,John Andreoli,RF,andrejo03
 462101,Elvis Andrus,SS,andruel01
 609280,Miguel Andujar,LF,andujmi01
+701350,Roman Anthony,CF,anthoro01
 606157,Aristides Aquino,RF,aquinar01
 666018,Jonathan Aranda,1B,arandjo01
 660620,Jonathan Araúz,2B,arauzjo01
@@ -138,6 +139,7 @@ mlbID,Name,Position,key_bbref
 452678,Asdrúbal Cabrera,SS,cabreas01
 408234,Miguel Cabrera,1B,cabremi01
 665828,Oswaldo Cabrera,3B,cabreos01
+695506,Jac Caglianone,OF,caglija01
 456715,Lorenzo Cain,CF,cainlo01
 594777,Kole Calhoun,RF,calhoko01
 641432,Willie Calhoun,1B,calhowi01
@@ -494,10 +496,11 @@ mlbID,Name,Position,key_bbref
 694359,Niko Kavadas,1B,kavadni01
 453527,Sean Kazmar Jr.,SS,kazmase01
 807712,Luke Keaschall,2B,keasclu01
-680577,DaShawn Keirsey Jr.,CF,keirsda01
+680577,DaShawn Keirsey Jr.,RF,keirsda01
 690993,Colt Keith,2B,keithco01
 672284,Jarred Kelenic,RF,kelenja01
 608348,Carson Kelly,C,kellyca02
+805249,Otto Kemp,3B,kempot01
 643393,Tony Kemp,LF,kempto01
 671083,Buddy Kennedy,2B,kennebu01
 596146,Max Kepler,LF,keplema01
@@ -654,6 +657,7 @@ mlbID,Name,Position,key_bbref
 805367,Chase Meidroth,SS,meidrch01
 642336,Francisco Mejía,C,mejiafr01
 669004,MJ Melendez,LF,melenmj01
+689200,Jacob Melton,CF,meltoja01
 664901,Danny Mendick,3B,mendida01
 608841,Joey Meneses,1B,menesjo01
 640458,Óscar Mercado,RF,mercaos01
@@ -680,6 +684,7 @@ mlbID,Name,Position,key_bbref
 666160,Mickey Moniak,RF,moniami01
 663796,Coco Montes,2B,monteco01
 660707,Elehuris Montero,1B,monteel01
+695681,Christian Moore,2B,moorech03
 664238,Dylan Moore,2B,mooredy01
 592567,Colin Moran,1B,moranco01
 666624,Christopher Morel,LF,morelch01
@@ -828,6 +833,7 @@ mlbID,Name,Position,key_bbref
 595375,JT Riddle,SS,riddljt01
 663586,Austin Riley,3B,rileyau01
 621458,Edwin Ríos,1B,riosed01
+690022,Ryan Ritter,SS,rittery01
 663845,Alfonso Rivas III,1B,rivasal01
 660844,Leo Rivas,2B,rivasle01
 593590,Webster Rivas,1B,rivaswe01
@@ -974,6 +980,7 @@ mlbID,Name,Position,key_bbref
 572191,Michael A. Taylor,RF,taylomi02
 669392,Samad Taylor,RF,taylosa04
 621438,Tyrone Taylor,CF,tayloty01
+691019,Kyle Teel,C,teelky01
 660731,Anderson Tejeda,SS,tejedan01
 642133,Rowdy Tellez,1B,tellero01
 677588,José Tena,3B,tenajo01
@@ -1081,6 +1088,7 @@ mlbID,Name,Position,key_bbref
 642215,Weston Wilson,LF,wilsowe01
 669717,Will Wilson,3B,wilsowi03
 608385,Jesse Winker,LF,winkeje01
+676466,Jack Winkler,2B,winklja01
 691026,Masyn Winn,SS,winnma01
 621550,Patrick Wisdom,1B,wisdopa01
 689172,Brett Wisely,2B,wiselbr01
@@ -1099,19 +1107,11 @@ mlbID,Name,Position,key_bbref
 694377,Nick Yorke,2B,yorkeni01
 807799,Masataka Yoshida,LF,yoshima02
 670370,Andrew Young,2B,youngan02
+702284,Cole Young,2B,youngco01
 676724,Jared Young,LF,youngja02
 696285,Jacob Young,CF,youngja03
 664874,Seby Zavala,C,zavalse01
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-701350,Roman Anthony,CF,
-695506,Jac Caglianone,OF,
-805249,Otto Kemp,3B,
-689200,Jacob Melton,CF,
-695681,Christian Moore,2B,
-690022,Ryan Ritter,SS,
 683770,Will Robertson,LF,
-691019,Kyle Teel,C,
-676466,Jack Winkler,2B,
-702284,Cole Young,2B,

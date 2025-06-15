@@ -67,6 +67,7 @@ mlbID,Name,Position,key_bbref
 446099,John Axford,P,axforjo01
 669199,Lake Bachar,P,bachala01
 696147,Sam Bachman,P,bachmsa01
+679775,Kyle Backhus,P,backhky01
 673258,Michel Baez,P,baezmi01
 520980,Pedro Báez,P,baezpe01
 641329,Bryan Baker,P,bakerbr01
@@ -488,6 +489,7 @@ mlbID,Name,Position,key_bbref
 641627,Trevor Gott,P,gotttr01
 623485,Ashton Goudeau,P,goudeas01
 700669,Gordon Graceffo,P,gracego01
+701552,Andre Granillo,P,granian01
 660813,Brusdar Graterol,P,gratebr01
 608665,Kendall Graveman,P,graveke01
 592351,Jon Gray,P,grayjo02
@@ -878,6 +880,7 @@ mlbID,Name,Position,key_bbref
 501985,Mike Minor,P,minormi01
 621345,A.J. Minter,P,minteaj01
 664948,Anthony Misiewicz,P,misiean01
+694819,Jacob Misiorowski,P,misioja01
 571951,Bryan Mitchell,P,mitchbr01
 663554,Casey Mize,P,mizeca01
 669387,Carmen Mlodzinski,P,mlodzca01
@@ -885,6 +888,7 @@ mlbID,Name,Position,key_bbref
 594580,Sam Moll,P,mollsa01
 593423,Frankie Montas,P,montafr02
 656755,Bryce Montes de Oca,P,montebr01
+801216,Christian Montes De Oca,P,montech01
 672456,Keider Montero,P,monteke01
 687287,Patrick Monteverde,P,montepa01
 606160,Rafael Montero,P,montera01
@@ -1058,6 +1062,7 @@ mlbID,Name,Position,key_bbref
 670990,Yohan Ramírez,P,ramiryo01
 573109,AJ Ramos,P,ramosaj01
 682010,Lane Ramsey,P,ramsela02
+660604,Alan Rangel,P,rangeal01
 656876,Drew Rasmussen,P,rasmudr01
 592662,Robbie Ray,P,rayro02
 607067,Colin Rea,P,reaco01
@@ -1082,6 +1087,7 @@ mlbID,Name,Position,key_bbref
 570663,Hansel Robles,P,robleha01
 677958,Kumar Rocker,P,rockeku01
 607074,Carlos Rodón,P,rodonca01
+699134,Bradgley Rodriguez,P,rodribr01
 692230,Carlos Rodriguez,P,rodrica02
 669735,Chris Rodriguez,P,rodrich01
 605446,Dereck Rodríguez,P,rodride01
@@ -1180,6 +1186,7 @@ mlbID,Name,Position,key_bbref
 644429,Anderson Severino,P,severan01
 622663,Luis Severino,P,severlu01
 623149,Paul Sewald,P,sewalpa01
+693855,Ian Seymour,P,seymoia01
 543766,Bryan Shaw,P,shawbr01
 686218,Emmet Sheehan,P,sheehem01
 642068,Jordan Sheffield,P,sheffjo01
@@ -1207,6 +1214,7 @@ mlbID,Name,Position,key_bbref
 671922,Cade Smith,P,smithca06
 663385,Chad Smith,P,smithch12
 622098,Drew Smith,P,smithdr01
+681916,Dylan Smith,P,smithdy01
 501925,Joe Smith,P,smithjo05
 642092,Riley Smith,P,smithri01
 681343,Shane Smith,P,smithsh02
@@ -1282,6 +1290,7 @@ mlbID,Name,Position,key_bbref
 605501,Stephen Tarpley,P,tarplst01
 622253,Dillon Tate,P,tatedi01
 642130,Blake Taylor,P,taylobl01
+691799,Grant Taylor,P,taylogr02
 657031,Josh Taylor,P,taylojo02
 700187,Troy Taylor,P,taylotr01
 527054,Julio Teheran,P,teherju01
@@ -1459,12 +1468,3 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-679775,Kyle Backhus,P,
-701552,Andre Granillo,P,
-694819,Jacob Misiorowski,P,
-801216,Christian Montes De Oca,P,
-660604,Alan Rangel,P,
-699134,Bradgley Rodriguez,P,
-693855,Ian Seymour,P,
-681916,Dylan Smith,P,
-691799,Grant Taylor,P,
