@@ -452,8 +452,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-29,777727,Toronto Blue Jays,Athletics,9.0,12.0,1,1
 2025-05-29,777725,Houston Astros,Tampa Bay Rays,8.0,16.0,1,1
 2025-05-29,777722,Seattle Mariners,Washington Nationals,7.5,12.0,1,1
-2025-06-16,777483,Miami Marlins,Philadelphia Phillies,8.5,7.0,0,0
 2025-06-16,777488,Washington Nationals,Colorado Rockies,8.5,10.0,0,1
+2025-06-16,777487,New York Yankees,Los Angeles Angels,8.0,1.0,0,0
+2025-06-16,777483,Miami Marlins,Philadelphia Phillies,8.5,7.0,0,0
 2025-06-16,777484,Tampa Bay Rays,Baltimore Orioles,8.5,8.0,0,0
 2025-06-11,777552,Pittsburgh Pirates,Miami Marlins,8.5,7.0,1,0
 2025-06-11,777553,Philadelphia Phillies,Chicago Cubs,9.0,9.0,1,
