@@ -477,7 +477,7 @@ mlbID,Name,Position,key_bbref
 650391,Eloy Jiménez,DH,jimenel02
 677870,Leo Jiménez,SS,jimenle01
 656582,Connor Joe,RF,joeco01
-669369,Bryce Johnson,OF,johnsbr03
+669369,Bryce Johnson,RF,johnsbr03
 669288,Daniel Johnson,OF,johnsda07
 675659,Greg Jones,RF,jonesgr02
 592444,JaCoby Jones,CF,jonesja07
@@ -1114,4 +1114,5 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
+691781,Brady House,3B,
 683770,Will Robertson,LF,
