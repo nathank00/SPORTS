@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777481,Miami Marlins,Philadelphia Phillies,8.5,Over,,,,,,,,,,Xavier Edwards,Agustín Ramírez,Otto Lopez,Heriberto Hernandez,Eric Wagaman,Connor Norby,Nick Fortes,Kyle Stowers,Javier Sanoja,,Cal Quantrill
 777475,Detroit Tigers,Pittsburgh Pirates,8.0,Over,,,,,,,,,,Gleyber Torres,Jahmai Jones,Riley Greene,Spencer Torkelson,Wenceel Pérez,Zach McKinstry,Dillon Dingler,Javier Báez,Parker Meadows,,Casey Mize
-777480,Washington Nationals,Colorado Rockies,9.0,Over,Mickey Moniak,Tyler Freeman,Hunter Goodman,Ryan McMahon,Thairo Estrada,Brenton Doyle,Michael Toglia,Sam Hilliard,Ryan Ritter,CJ Abrams,James Wood,Luis García Jr.,Nathaniel Lowe,Brady House,Josh Bell,Daylen Lile,Keibert Ruiz,Jacob Young,Antonio Senzatela,Michael Soroka
 777476,New York Yankees,Los Angeles Angels,9.0,Over,Zach Neto,Nolan Schanuel,Mike Trout,Taylor Ward,Jorge Soler,Logan O'Hoppe,Luis Rengifo,Jo Adell,Christian Moore,Jasson Domínguez,Aaron Judge,Cody Bellinger,Giancarlo Stanton,Jazz Chisholm Jr.,Paul Goldschmidt,Austin Wells,Anthony Volpe,DJ LeMahieu,Kyle Hendricks,Will Warren
-777479,Toronto Blue Jays,Arizona Diamondbacks,9.0,Over,,,,,,,,,,Bo Bichette,Addison Barger,Vladimir Guerrero Jr.,Alejandro Kirk,George Springer,Andrés Giménez,Ernie Clement,Will Robertson,Jonatan Clase,,Chris Bassitt
-777478,Cincinnati Reds,Minnesota Twins,9.0,Under,Byron Buxton,Ryan Jeffers,Willi Castro,Carlos Correa,Ty France,Brooks Lee,Trevor Larnach,Harrison Bader,Jonah Bride,,,,,,,,,,David Festa,
-777489,Atlanta Braves,New York Mets,8.5,Under,,,,,,,,,,Ronald Acuña Jr.,Eli White,Matt Olson,Austin Riley,Marcell Ozuna,Ozzie Albies,Sean Murphy,Michael Harris II,Nick Allen,,Spencer Schwellenbach
+777480,Washington Nationals,Colorado Rockies,9.0,Over,Mickey Moniak,Tyler Freeman,Hunter Goodman,Ryan McMahon,Thairo Estrada,Brenton Doyle,Michael Toglia,Sam Hilliard,Ryan Ritter,CJ Abrams,James Wood,Luis García Jr.,Nathaniel Lowe,Brady House,Josh Bell,Daylen Lile,Keibert Ruiz,Jacob Young,Antonio Senzatela,Michael Soroka
+777479,Toronto Blue Jays,Arizona Diamondbacks,8.5,Under,Corbin Carroll,Ketel Marte,Geraldo Perdomo,Josh Naylor,Eugenio Suárez,Lourdes Gurriel Jr.,Pavin Smith,Gabriel Moreno,Alek Thomas,Bo Bichette,Addison Barger,Vladimir Guerrero Jr.,Alejandro Kirk,George Springer,Andrés Giménez,Ernie Clement,Will Robertson,Jonatan Clase,Brandon Pfaadt,Chris Bassitt
 777477,Tampa Bay Rays,Baltimore Orioles,9.5,Over,,,,,,,,,,,,,,,,,,,,
-777467,Chicago White Sox,St. Louis Cardinals,9.0,Over,,,,,,,,,,Chase Meidroth,Austin Slater,Miguel Vargas,Edgar Quero,Luis Robert Jr.,Mike Tauchman,Lenyn Sosa,Michael A. Taylor,Vinny Capra,,Shane Smith
 777468,Texas Rangers,Kansas City Royals,8.5,Over,,,,,,,,,,,,,,,,,,,,
-777473,Seattle Mariners,Boston Red Sox,7.0,Over,,,,,,,,,,,,,,,,,,,,
+777489,Atlanta Braves,New York Mets,8.5,Under,Francisco Lindor,Brandon Nimmo,Juan Soto,Pete Alonso,Jeff McNeil,Jared Young,Francisco Alvarez,Ronny Mauricio,Tyrone Taylor,Ronald Acuña Jr.,Eli White,Matt Olson,Austin Riley,Marcell Ozuna,Ozzie Albies,Sean Murphy,Michael Harris II,Nick Allen,David Peterson,Spencer Schwellenbach
+777478,Cincinnati Reds,Minnesota Twins,9.0,Under,Byron Buxton,Ryan Jeffers,Willi Castro,Carlos Correa,Ty France,Brooks Lee,Trevor Larnach,Harrison Bader,Jonah Bride,TJ Friedl,Gavin Lux,Elly De La Cruz,Tyler Stephenson,Christian Encarnacion-Strand,Will Benson,Spencer Steer,Jake Fraley,Matt McLain,David Festa,Andrew Abbott
+777467,Chicago White Sox,St. Louis Cardinals,9.0,Under,Brendan Donovan,Masyn Winn,Iván Herrera,Willson Contreras,Alec Burleson,Nolan Arenado,Lars Nootbaar,Pedro Pagés,Victor Scott II,Chase Meidroth,Austin Slater,Miguel Vargas,Edgar Quero,Luis Robert Jr.,Mike Tauchman,Lenyn Sosa,Michael A. Taylor,Vinny Capra,Matthew Liberatore,Shane Smith
 777482,Chicago Cubs,Milwaukee Brewers,9.0,Over,,,,,,,,,,,,,,,,,,,,
 777472,San Francisco Giants,Cleveland Guardians,7.0,Over,,,,,,,,,,,,,,,,,,,,
-777469,Athletics,Houston Astros,11.0,Over,,,,,,,,,,,,,,,,,,,,
 777471,Los Angeles Dodgers,San Diego Padres,10.0,Under,,,,,,,,,,,,,,,,,,,,
+777469,Athletics,Houston Astros,11.0,Over,,,,,,,,,,,,,,,,,,,,
+777473,Seattle Mariners,Boston Red Sox,7.0,Over,,,,,,,,,,,,,,,,,,,,
