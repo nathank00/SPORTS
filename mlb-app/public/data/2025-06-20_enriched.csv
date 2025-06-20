@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-777431,16:05,Tampa Bay Rays,Detroit Tigers,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777432,15:40,Pittsburgh Pirates,Texas Rangers,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777435,16:07,Toronto Blue Jays,Chicago White Sox,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777436,11:20,Chicago Cubs,Seattle Mariners,10.0,Under,4,0,0,0,J.P. Crawford,Julio Rodríguez,Cal Raleigh,Randy Arozarena,Mitch Garver,Donovan Solano,Dylan Moore,Ben Williamson,Cole Young,Ian Happ,Kyle Tucker,Seiya Suzuki,Pete Crow-Armstrong,Dansby Swanson,Michael Busch,Nico Hoerner,Matt Shaw,Reese McGuire,George Kirby,Matthew Boyd
-777438,16:05,New York Yankees,Baltimore Orioles,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+777436,11:20,Chicago Cubs,Seattle Mariners,10.0,Under,5,0,0,0,J.P. Crawford,Julio Rodríguez,Cal Raleigh,Randy Arozarena,Mitch Garver,Donovan Solano,Dylan Moore,Ben Williamson,Cole Young,Ian Happ,Kyle Tucker,Seiya Suzuki,Pete Crow-Armstrong,Dansby Swanson,Michael Busch,Nico Hoerner,Matt Shaw,Reese McGuire,George Kirby,Matthew Boyd
+777432,15:40,Pittsburgh Pirates,Texas Rangers,7.5,Over,0,1,0,0,,,,,,,,,,Oneil Cruz,Andrew McCutchen,Nick Gonzales,Spencer Horwitz,Joey Bart,Jared Triolo,Adam Frazier,Alexander Canario,Isiah Kiner-Falefa,,Mike Burrows
+777435,16:07,Toronto Blue Jays,Chicago White Sox,9.0,Under,0,0,0,0,Chase Meidroth,Andrew Benintendi,Miguel Vargas,Kyle Teel,Luis Robert Jr.,Lenyn Sosa,Ryan Noda,Austin Slater,Josh Rojas,,,,,,,,,,Grant Taylor,
+777431,16:05,Tampa Bay Rays,Detroit Tigers,8.5,Under,0,0,0,0,,,,,,,,,,Yandy Díaz,Brandon Lowe,Jake Mangum,Jonathan Aranda,Curtis Mead,Josh Lowe,Matt Thaiss,Taylor Walls,Kameron Misner,,Shane Baz
+777438,16:05,New York Yankees,Baltimore Orioles,9.0,Under,0,0,0,0,Jordan Westburg,Adley Rutschman,Ramón Laureano,Ramón Urías,Colton Cowser,Gary Sánchez,Coby Mayo,Dylan Carlson,Luis Vázquez,Paul Goldschmidt,Trent Grisham,Aaron Judge,Jazz Chisholm Jr.,Giancarlo Stanton,Jasson Domínguez,Anthony Volpe,Austin Wells,DJ LeMahieu,Tomoyuki Sugano,Max Fried
+777439,16:10,Miami Marlins,Atlanta Braves,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777433,16:15,St. Louis Cardinals,Cincinnati Reds,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777434,17:10,Minnesota Twins,Milwaukee Brewers,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777439,16:10,Miami Marlins,Atlanta Braves,9.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777430,17:40,Colorado Rockies,Arizona Diamondbacks,11.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777437,16:15,Philadelphia Phillies,New York Mets,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777428,18:38,Los Angeles Angels,Houston Astros,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777426,18:40,San Diego Padres,Kansas City Royals,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777430,17:40,Colorado Rockies,Arizona Diamondbacks,11.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777429,19:05,Athletics,Cleveland Guardians,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777425,19:15,San Francisco Giants,Boston Red Sox,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777426,18:40,San Diego Padres,Kansas City Royals,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777427,19:10,Los Angeles Dodgers,Washington Nationals,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777425,19:15,San Francisco Giants,Boston Red Sox,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
