@@ -930,17 +930,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-21,777828,Athletics,Los Angeles Angels,10.5,15.0,1,1
 2025-05-21,777823,Colorado Rockies,Philadelphia Phillies,11.0,14.0,0,1
 2025-05-21,777829,Minnesota Twins,Cleveland Guardians,7.5,6.0,0,0
-2025-06-19,777464,Detroit Tigers,Pittsburgh Pirates,7.0,8.0,1,1
 2025-06-19,777458,Chicago White Sox,St. Louis Cardinals,9.0,14.0,0,1
+2025-06-19,777464,Detroit Tigers,Pittsburgh Pirates,7.0,12.0,1,1
 2025-06-19,777452,Cincinnati Reds,Minnesota Twins,9.5,17.0,0,1
-2025-06-19,777451,Detroit Tigers,Pittsburgh Pirates,7.0,11.0,0,1
 2025-06-19,777445,Washington Nationals,Colorado Rockies,10.0,7.0,0,0
 2025-06-19,777449,New York Yankees,Los Angeles Angels,10.0,10.0,0,
+2025-06-19,777464,Detroit Tigers,Pittsburgh Pirates,7.0,12.0,1,1
 2025-06-19,777447,Chicago White Sox,St. Louis Cardinals,9.0,9.0,1,
 2025-06-19,777450,Chicago Cubs,Milwaukee Brewers,8.5,15.0,0,1
 2025-06-19,777443,Texas Rangers,Kansas City Royals,8.0,5.0,0,0
-2025-06-19,777448,Toronto Blue Jays,Arizona Diamondbacks,8.5,14.0,0,1
 2025-06-19,777440,San Francisco Giants,Cleveland Guardians,7.0,3.0,1,0
+2025-06-19,777448,Toronto Blue Jays,Arizona Diamondbacks,8.5,14.0,0,1
 2025-06-19,777444,Miami Marlins,Philadelphia Phillies,7.5,3.0,1,0
 2025-06-19,777455,Atlanta Braves,New York Mets,9.0,8.0,0,0
 2025-05-26,777770,Detroit Tigers,San Francisco Giants,8.5,4.0,0,0
