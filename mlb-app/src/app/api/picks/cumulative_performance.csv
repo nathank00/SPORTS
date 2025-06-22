@@ -410,14 +410,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-21,777420,Tampa Bay Rays,Detroit Tigers,8.0,11.0,0,1
 2025-06-21,777422,New York Yankees,Baltimore Orioles,9.5,9.0,0,0
 2025-06-21,777412,Minnesota Twins,Milwaukee Brewers,10.0,9.0,0,0
-2025-06-21,777419,Chicago Cubs,Seattle Mariners,12.5,17.0,1,1
 2025-06-21,777418,Toronto Blue Jays,Chicago White Sox,8.0,8.0,1,
+2025-06-21,777419,Chicago Cubs,Seattle Mariners,12.5,17.0,1,1
 2025-06-21,777417,San Francisco Giants,Boston Red Sox,7.5,5.0,1,0
+2025-06-21,777424,Miami Marlins,Atlanta Braves,8.5,7.0,0,0
 2025-06-21,777415,St. Louis Cardinals,Cincinnati Reds,9.0,11.0,0,1
 2025-06-21,777421,Pittsburgh Pirates,Texas Rangers,8.5,5.0,0,0
-2025-06-21,777424,Miami Marlins,Atlanta Braves,8.5,7.0,0,0
 2025-06-21,777413,San Diego Padres,Kansas City Royals,7.5,6.0,0,0
 2025-06-21,777423,Philadelphia Phillies,New York Mets,10.5,15.0,0,1
+2025-06-21,777410,Colorado Rockies,Arizona Diamondbacks,12.5,8.0,0,0
+2025-06-21,777414,Los Angeles Angels,Houston Astros,8.0,10.0,0,1
 2025-05-19,777859,Pittsburgh Pirates,Cincinnati Reds,8.0,8.0,0,
 2025-05-19,777863,Miami Marlins,Chicago Cubs,8.5,15.0,1,1
 2025-05-19,777856,Boston Red Sox,New York Mets,9.0,4.0,0,0
