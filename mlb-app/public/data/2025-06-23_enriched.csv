@@ -1,10 +1,10 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-777389,16:10,New York Mets,Atlanta Braves,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777394,15:35,Baltimore Orioles,Texas Rangers,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777390,16:10,Cincinnati Reds,New York Yankees,10.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777393,16:40,Chicago White Sox,Arizona Diamondbacks,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777389,16:10,New York Mets,Atlanta Braves,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777388,16:40,Minnesota Twins,Seattle Mariners,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777393,16:40,Chicago White Sox,Arizona Diamondbacks,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777381,18:38,Los Angeles Angels,Boston Red Sox,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777392,16:45,St. Louis Cardinals,Chicago Cubs,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777391,16:40,Milwaukee Brewers,Pittsburgh Pirates,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777381,18:38,Los Angeles Angels,Boston Red Sox,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777382,18:40,San Diego Padres,Washington Nationals,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
