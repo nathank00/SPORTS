@@ -457,6 +457,7 @@ mlbID,Name,Position,key_bbref
 687462,Spencer Horwitz,1B,horwisp01
 656555,Rhys Hoskins,1B,hoskirh01
 543333,Eric Hosmer,1B,hosmeer01
+691781,Brady House,3B,housebr01
 592419,Jared Hoying,LF,hoyinja01
 621529,Joe Hudson,C,hudsojo03
 669087,Sam Huff,C,huffsa01
@@ -844,6 +845,7 @@ mlbID,Name,Position,key_bbref
 621002,Daniel Robertson,2B,roberda10
 670298,Kramer Robertson,SS,roberkr01
 673357,Luis Robert Jr.,CF,roberlu01
+683770,Will Robertson,LF,roberwi02
 642020,Chuckie Robinson,C,robinch04
 645302,Victor Robles,RF,roblevi01
 615699,Jacob Robson,OF,robsoja01
@@ -1114,5 +1116,3 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-691781,Brady House,3B,
-683770,Will Robertson,LF,

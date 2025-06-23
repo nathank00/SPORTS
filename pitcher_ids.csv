@@ -428,6 +428,7 @@ mlbID,Name,Position,key_bbref
 608331,Max Fried,P,friedma01
 605240,Jace Fry,P,fryja01
 643316,Paul Fry,P,frypa01
+800311,Didier Fuentes,P,fuentdi01
 660261,Shintaro Fujinami,P,fujinsh01
 608334,Carson Fulmer,P,fulmeca01
 605242,Michael Fulmer,P,fulmemi01
@@ -482,6 +483,7 @@ mlbID,Name,Position,key_bbref
 592346,Chi Chi González,P,gonzach01
 594835,Marco Gonzales,P,gonzama02
 624647,Victor González,P,gonzavi02
+682790,Wikelman González,P,gonzawi02
 676467,Colton Gordon,P,gordoco01
 685299,Tanner Gordon,P,gordota01
 669022,MacKenzie Gore,P,gorema01
@@ -748,6 +750,7 @@ mlbID,Name,Position,key_bbref
 689167,Jeff Lindgren,P,lindgje01
 641793,Zack Littell,P,litteza01
 663893,Brendon Little,P,littlbr02
+669193,Jack Little,P,littlja02
 681432,Luke Little,P,littllu01
 594902,Ben Lively,P,livelbe01
 661440,Mauricio Llovera,P,llovema01
@@ -1025,6 +1028,7 @@ mlbID,Name,Position,key_bbref
 623465,Evan Phillips,P,phillev01
 663969,Tyler Phillips,P,phillty01
 663455,Konnor Pilkington,P,pilkiko01
+673820,Robinson Piña,P,pinaro01
 501381,Michael Pineda,P,pinedmi01
 620982,Ricardo Pinto,P,pintori01
 666207,Riley Pint,P,pintri01
@@ -1468,11 +1472,7 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-800311,Didier Fuentes,P,
 801434,Paul Gervase,P,
-682790,Wikelman González,P,
-669193,Jack Little,P,
 669449,Jake Palisch,P,
-673820,Robinson Piña,P,
-682144,Jayvien Sandridge,P,
+678022,Jack Perkins,P,
 681006,Josh Simpson,P,
