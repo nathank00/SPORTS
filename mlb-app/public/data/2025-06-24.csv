@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777380,Baltimore Orioles,Texas Rangers,9.5,Under,,,,,,,,,,,,,,,,,,,,
 777386,Detroit Tigers,Athletics,7.5,Under,Jacob Wilson,Brent Rooker,Nick Kurtz,Austin Wynns,Max Muncy,Lawrence Butler,Luis Urías,Tyler Soderstrom,Denzel Clarke,Colt Keith,Gleyber Torres,Kerry Carpenter,Riley Greene,Wenceel Pérez,Zach McKinstry,Parker Meadows,Dillon Dingler,Trey Sweeney,Luis Severino,Tarik Skubal
-777378,Kansas City Royals,Tampa Bay Rays,8.5,Under,,,,,,,,,,Jonathan India,Bobby Witt Jr.,Maikel Garcia,Vinnie Pasquantino,Salvador Perez,Jac Caglianone,Drew Waters,John Rave,Kyle Isbel,,Kris Bubic
 777384,Cleveland Guardians,Toronto Blue Jays,9.0,Over,Bo Bichette,Ernie Clement,Vladimir Guerrero Jr.,Alejandro Kirk,George Springer,Davis Schneider,Jonatan Clase,Myles Straw,Andrés Giménez,Steven Kwan,Lane Thomas,José Ramírez,David Fry,Carlos Santana,Gabriel Arias,Angel Martínez,Johnathan Rodríguez,Austin Hedges,Eric Lauer,Logan Allen
 777387,New York Mets,Atlanta Braves,9.0,Over,Ronald Acuña Jr.,Matt Olson,Marcell Ozuna,Austin Riley,Drake Baldwin,Ozzie Albies,Alex Verdugo,Michael Harris II,Nick Allen,Francisco Lindor,Brandon Nimmo,Juan Soto,Pete Alonso,Starling Marte,Jeff McNeil,Luis Torrens,Brett Baty,Ronny Mauricio,Spencer Strider,Frankie Montas
-777375,Minnesota Twins,Seattle Mariners,8.5,Over,,,,,,,,,,Byron Buxton,Trevor Larnach,Brooks Lee,Carlos Correa,Matt Wallner,Ty France,Kody Clemens,Ryan Jeffers,Harrison Bader,,Chris Paddack
 777374,Milwaukee Brewers,Pittsburgh Pirates,7.5,Over,,,,,,,,,,,,,,,,,,,,
 777385,Cincinnati Reds,New York Yankees,9.5,Under,Trent Grisham,Ben Rice,Aaron Judge,Cody Bellinger,Paul Goldschmidt,Jazz Chisholm Jr.,Anthony Volpe,Austin Wells,Oswald Peraza,TJ Friedl,Matt McLain,Elly De La Cruz,Spencer Steer,Tyler Stephenson,Rece Hinds,Jose Trevino,Christian Encarnacion-Strand,Santiago Espinal,Carlos Rodón,Chase Burns
+777378,Kansas City Royals,Tampa Bay Rays,8.5,Under,Yandy Díaz,Curtis Mead,Junior Caminero,Jonathan Aranda,Jake Mangum,José Caballero,Danny Jansen,Taylor Walls,,Jonathan India,Bobby Witt Jr.,Maikel Garcia,Vinnie Pasquantino,Salvador Perez,Jac Caglianone,Drew Waters,John Rave,Kyle Isbel,,Kris Bubic
+777375,Minnesota Twins,Seattle Mariners,8.5,Under,J.P. Crawford,Julio Rodríguez,Cal Raleigh,Randy Arozarena,Luke Raley,Donovan Solano,Dominic Canzone,Ben Williamson,Cole Young,Byron Buxton,Trevor Larnach,Brooks Lee,Carlos Correa,Matt Wallner,Ty France,Kody Clemens,Ryan Jeffers,Harrison Bader,Luis Castillo,Chris Paddack
 777373,St. Louis Cardinals,Chicago Cubs,8.5,Over,,,,,,,,,,,,,,,,,,,,
 777383,Chicago White Sox,Arizona Diamondbacks,8.5,Under,Geraldo Perdomo,Ketel Marte,Pavin Smith,Josh Naylor,Lourdes Gurriel Jr.,Jake McCarthy,Ildemaro Vargas,Alek Thomas,Jose Herrera,Mike Tauchman,Chase Meidroth,Andrew Benintendi,Miguel Vargas,Ryan Noda,Luis Robert Jr.,Edgar Quero,Josh Rojas,Michael A. Taylor,Ryne Nelson,Jordan Leasure
-777376,Los Angeles Angels,Boston Red Sox,8.0,Over,,,,,,,,,,,,,,,,,,,,
-777372,San Diego Padres,Washington Nationals,8.5,Under,,,,,,,,,,,,,,,,,,,,
-777379,Colorado Rockies,Los Angeles Dodgers,12.0,Over,,,,,,,,,,Tyler Freeman,Hunter Goodman,Jordan Beck,Michael Toglia,Thairo Estrada,Ryan McMahon,Brenton Doyle,Kyle Farmer,Ryan Ritter,,Germán Márquez
 777377,Houston Astros,Philadelphia Phillies,7.5,Over,,,,,,,,,,Jeremy Peña,Isaac Paredes,Jose Altuve,Jake Meyers,Cam Smith,Christian Walker,Yainer Diaz,Cooper Hummel,Mauricio Dubón,,Framber Valdez
+777379,Colorado Rockies,Los Angeles Dodgers,12.0,Over,,,,,,,,,,Tyler Freeman,Hunter Goodman,Jordan Beck,Michael Toglia,Thairo Estrada,Ryan McMahon,Brenton Doyle,Kyle Farmer,Ryan Ritter,,Germán Márquez
 777364,San Francisco Giants,Miami Marlins,8.0,Over,,,,,,,,,,,,,,,,,,,,
+777372,San Diego Padres,Washington Nationals,8.5,Under,,,,,,,,,,,,,,,,,,,,
+777376,Los Angeles Angels,Boston Red Sox,8.0,Over,,,,,,,,,,,,,,,,,,,,
