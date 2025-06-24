@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777380,15:35,Baltimore Orioles,Texas Rangers,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777386,15:40,Detroit Tigers,Athletics,7.5,Under,0,0,0,0,Jacob Wilson,Brent Rooker,Nick Kurtz,Austin Wynns,Max Muncy,Lawrence Butler,Luis Urías,Tyler Soderstrom,Denzel Clarke,Colt Keith,Gleyber Torres,Kerry Carpenter,Riley Greene,Wenceel Pérez,Zach McKinstry,Parker Meadows,Dillon Dingler,Trey Sweeney,Luis Severino,Tarik Skubal
-777385,16:10,Cincinnati Reds,New York Yankees,9.5,Under,0,0,0,0,,,,,,,,,,TJ Friedl,Matt McLain,Elly De La Cruz,Spencer Steer,Tyler Stephenson,Rece Hinds,Jose Trevino,Christian Encarnacion-Strand,Santiago Espinal,,Chase Burns
-777378,16:40,Kansas City Royals,Tampa Bay Rays,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777384,15:40,Cleveland Guardians,Toronto Blue Jays,9.0,Over,0,1,0,0,,,,,,,,,,Steven Kwan,Lane Thomas,José Ramírez,David Fry,Carlos Santana,Gabriel Arias,Angel Martínez,Johnathan Rodríguez,Austin Hedges,,Logan Allen
+777384,15:40,Cleveland Guardians,Toronto Blue Jays,9.0,Over,0,1,0,0,Bo Bichette,Ernie Clement,Vladimir Guerrero Jr.,Alejandro Kirk,George Springer,Davis Schneider,Jonatan Clase,Myles Straw,Andrés Giménez,Steven Kwan,Lane Thomas,José Ramírez,David Fry,Carlos Santana,Gabriel Arias,Angel Martínez,Johnathan Rodríguez,Austin Hedges,Eric Lauer,Logan Allen
 777387,16:10,New York Mets,Atlanta Braves,9.0,Over,0,1,0,0,,,,,,,,,,Francisco Lindor,Brandon Nimmo,Juan Soto,Pete Alonso,Starling Marte,Jeff McNeil,Luis Torrens,Brett Baty,Ronny Mauricio,,Frankie Montas
-777383,16:40,Chicago White Sox,Arizona Diamondbacks,8.5,Under,0,0,0,0,Geraldo Perdomo,Ketel Marte,Pavin Smith,Josh Naylor,Lourdes Gurriel Jr.,Jake McCarthy,Ildemaro Vargas,Alek Thomas,Jose Herrera,,,,,,,,,,Ryne Nelson,
+777385,16:10,Cincinnati Reds,New York Yankees,9.5,Under,0,0,0,0,,,,,,,,,,TJ Friedl,Matt McLain,Elly De La Cruz,Spencer Steer,Tyler Stephenson,Rece Hinds,Jose Trevino,Christian Encarnacion-Strand,Santiago Espinal,,Chase Burns
+777378,16:40,Kansas City Royals,Tampa Bay Rays,8.5,Under,0,0,0,0,,,,,,,,,,Jonathan India,Bobby Witt Jr.,Maikel Garcia,Vinnie Pasquantino,Salvador Perez,Jac Caglianone,Drew Waters,John Rave,Kyle Isbel,,Kris Bubic
 777374,16:40,Milwaukee Brewers,Pittsburgh Pirates,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777375,16:40,Minnesota Twins,Seattle Mariners,8.5,Over,0,1,0,0,,,,,,,,,,Byron Buxton,Trevor Larnach,Brooks Lee,Carlos Correa,Matt Wallner,Ty France,Kody Clemens,Ryan Jeffers,Harrison Bader,,Chris Paddack
 777373,16:45,St. Louis Cardinals,Chicago Cubs,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777383,16:40,Chicago White Sox,Arizona Diamondbacks,8.5,Under,0,0,0,0,Geraldo Perdomo,Ketel Marte,Pavin Smith,Josh Naylor,Lourdes Gurriel Jr.,Jake McCarthy,Ildemaro Vargas,Alek Thomas,Jose Herrera,Mike Tauchman,Chase Meidroth,Andrew Benintendi,Miguel Vargas,Ryan Noda,Luis Robert Jr.,Edgar Quero,Josh Rojas,Michael A. Taylor,Ryne Nelson,Jordan Leasure
 777377,17:10,Houston Astros,Philadelphia Phillies,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777379,17:40,Colorado Rockies,Los Angeles Dodgers,12.0,Over,0,1,0,0,,,,,,,,,,Tyler Freeman,Hunter Goodman,Jordan Beck,Michael Toglia,Thairo Estrada,Ryan McMahon,Brenton Doyle,Kyle Farmer,Ryan Ritter,,Germán Márquez
 777376,18:38,Los Angeles Angels,Boston Red Sox,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777372,18:40,San Diego Padres,Washington Nationals,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 777364,18:45,San Francisco Giants,Miami Marlins,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+777372,18:40,San Diego Padres,Washington Nationals,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
