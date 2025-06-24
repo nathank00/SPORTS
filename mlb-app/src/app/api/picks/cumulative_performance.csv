@@ -786,13 +786,13 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-09,777984,Seattle Mariners,Toronto Blue Jays,7.0,9.0,0,1
 2025-06-23,777394,Baltimore Orioles,Texas Rangers,9.5,6.0,0,0
 2025-06-23,777389,New York Mets,Atlanta Braves,8.5,5.0,0,0
-2025-06-23,777388,Minnesota Twins,Seattle Mariners,8.5,13.0,0,1
 2025-06-23,777390,Cincinnati Reds,New York Yankees,10.0,7.0,1,0
+2025-06-23,777388,Minnesota Twins,Seattle Mariners,8.5,13.0,0,1
 2025-06-23,777393,Chicago White Sox,Arizona Diamondbacks,9.5,10.0,0,1
 2025-06-23,777391,Milwaukee Brewers,Pittsburgh Pirates,8.5,9.0,1,1
 2025-06-23,777392,St. Louis Cardinals,Chicago Cubs,8.5,10.0,0,1
 2025-06-23,777381,Los Angeles Angels,Boston Red Sox,9.0,14.0,0,1
-2025-06-23,777382,San Diego Padres,Washington Nationals,8.5,13.0,0,1
+2025-06-23,777382,San Diego Padres,Washington Nationals,8.5,16.0,1,1
 2025-04-27,778153,Washington Nationals,New York Mets,8.0,15.0,0,1
 2025-04-27,778144,Minnesota Twins,Los Angeles Angels,8.0,5.0,1,0
 2025-04-27,778155,Detroit Tigers,Baltimore Orioles,7.5,7.0,0,0
