@@ -758,13 +758,15 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-09,777994,Athletics,New York Yankees,10.5,12.0,0,1
 2025-05-09,777988,Arizona Diamondbacks,Los Angeles Dodgers,10.0,25.0,1,1
 2025-05-09,777984,Seattle Mariners,Toronto Blue Jays,7.0,9.0,0,1
-2025-06-24,777386,Detroit Tigers,Athletics,7.5,11.0,0,1
+2025-06-24,777386,Detroit Tigers,Athletics,7.5,13.0,0,1
 2025-06-24,777380,Baltimore Orioles,Texas Rangers,9.0,11.0,0,1
 2025-06-24,777384,Cleveland Guardians,Toronto Blue Jays,9.0,16.0,1,1
-2025-06-24,777387,New York Mets,Atlanta Braves,9.0,10.0,1,1
-2025-06-24,777375,Minnesota Twins,Seattle Mariners,8.5,10.0,0,1
-2025-06-24,777374,Milwaukee Brewers,Pittsburgh Pirates,7.5,10.0,0,1
+2025-06-24,777387,New York Mets,Atlanta Braves,9.0,11.0,1,1
+2025-06-24,777375,Minnesota Twins,Seattle Mariners,8.5,11.0,0,1
+2025-06-24,777378,Kansas City Royals,Tampa Bay Rays,8.5,6.0,0,0
+2025-06-24,777374,Milwaukee Brewers,Pittsburgh Pirates,7.5,12.0,0,1
 2025-06-24,777373,St. Louis Cardinals,Chicago Cubs,8.5,15.0,0,1
+2025-06-24,777383,Chicago White Sox,Arizona Diamondbacks,8.5,5.0,0,0
 2025-06-23,777394,Baltimore Orioles,Texas Rangers,9.5,6.0,0,0
 2025-06-23,777389,New York Mets,Atlanta Braves,8.5,5.0,0,0
 2025-06-23,777393,Chicago White Sox,Arizona Diamondbacks,9.5,10.0,0,1
