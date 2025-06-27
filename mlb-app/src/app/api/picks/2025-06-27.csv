@@ -1,0 +1,16 @@
+game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+777341,Pittsburgh Pirates,New York Mets,8.0,Over,,,,,,,,,,,,,,,,,,,,
+777343,Baltimore Orioles,Tampa Bay Rays,8.5,Over,,,,,,,,,,,,,,,,,,,,
+777337,New York Yankees,Athletics,8.5,Over,,,,,,,,,,Trent Grisham,Aaron Judge,Cody Bellinger,Giancarlo Stanton,Jazz Chisholm Jr.,Paul Goldschmidt,Ben Rice,Anthony Volpe,DJ LeMahieu,,Will Warren
+777346,Cincinnati Reds,San Diego Padres,9.0,Over,,,,,,,,,,TJ Friedl,Matt McLain,Elly De La Cruz,Austin Hays,Gavin Lux,Tyler Stephenson,Spencer Steer,Will Benson,Christian Encarnacion-Strand,,Nick Martinez
+777345,Boston Red Sox,Toronto Blue Jays,8.5,Over,,,,,,,,,,Jarren Duran,Abraham Toro,Roman Anthony,Trevor Story,Wilyer Abreu,Ceddanne Rafaela,David Hamilton,Connor Wong,Nick Sogard,,Brayan Bello
+777342,Atlanta Braves,Philadelphia Phillies,9.0,Over,,,,,,,,,,,,,,,,,,,,
+777349,Cleveland Guardians,St. Louis Cardinals,8.5,Under,Brendan Donovan,Masyn Winn,Alec Burleson,Willson Contreras,Lars Nootbaar,Nolan Arenado,Nolan Gorman,Pedro Pagés,Victor Scott II,Steven Kwan,Lane Thomas,Kyle Manzardo,David Fry,Daniel Schneemann,Nolan Jones,Gabriel Arias,Bo Naylor,Angel Martínez,Sonny Gray,Luis L. Ortiz
+777338,Chicago White Sox,San Francisco Giants,9.0,Over,,,,,,,,,,,,,,,,,,,,
+777334,Detroit Tigers,Minnesota Twins,8.5,Under,Byron Buxton,Trevor Larnach,Willi Castro,Carlos Correa,Matt Wallner,Brooks Lee,Kody Clemens,Harrison Bader,Christian Vázquez,,,,,,,,,,David Festa,
+777336,Houston Astros,Chicago Cubs,8.0,Over,,,,,,,,,,,,,,,,,,,,
+777340,Texas Rangers,Seattle Mariners,7.0,Over,,,,,,,,,,,,,,,,,,,,
+777335,Kansas City Royals,Los Angeles Dodgers,9.5,Over,,,,,,,,,,,,,,,,,,,,
+777331,Los Angeles Angels,Washington Nationals,8.5,Over,,,,,,,,,,,,,,,,,,,,
+777332,Arizona Diamondbacks,Miami Marlins,8.5,Over,,,,,,,,,,,,,,,,,,,,
+777339,Milwaukee Brewers,Colorado Rockies,8.5,Over,,,,,,,,,,,,,,,,,,,,
