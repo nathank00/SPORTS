@@ -531,18 +531,18 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-23,778201,Minnesota Twins,Chicago White Sox,8.5,9.0,1,1
 2025-04-23,778199,Arizona Diamondbacks,Tampa Bay Rays,9.0,10.0,0,1
 2025-06-27,777341,Pittsburgh Pirates,New York Mets,8.0,10.0,0,1
+2025-06-27,777337,New York Yankees,Athletics,8.5,3.0,1,0
 2025-06-27,777343,Baltimore Orioles,Tampa Bay Rays,8.5,30.0,0,1
 2025-06-27,777346,Cincinnati Reds,San Diego Padres,9.0,9.0,0,
 2025-06-27,777349,Cleveland Guardians,St. Louis Cardinals,8.5,5.0,0,0
-2025-06-27,777337,New York Yankees,Athletics,8.5,3.0,1,0
 2025-06-27,777345,Boston Red Sox,Toronto Blue Jays,8.5,9.0,1,1
 2025-06-27,777334,Detroit Tigers,Minnesota Twins,9.0,5.0,1,0
 2025-06-27,777342,Atlanta Braves,Philadelphia Phillies,9.5,11.0,1,1
 2025-06-27,777338,Chicago White Sox,San Francisco Giants,9.0,4.0,1,0
-2025-06-27,777340,Texas Rangers,Seattle Mariners,7.0,10.0,0,1
+2025-06-27,777340,Texas Rangers,Seattle Mariners,7.0,12.0,0,1
+2025-06-27,777339,Milwaukee Brewers,Colorado Rockies,8.5,16.0,0,1
 2025-06-27,777336,Houston Astros,Chicago Cubs,8.0,11.0,0,1
-2025-06-27,777331,Los Angeles Angels,Washington Nationals,8.5,10.0,0,1
-2025-06-27,777339,Milwaukee Brewers,Colorado Rockies,8.5,13.0,0,1
+2025-06-27,777335,Kansas City Royals,Los Angeles Dodgers,9.5,9.0,1,0
 2025-05-18,777869,Texas Rangers,Houston Astros,8.0,7.0,1,0
 2025-05-18,777873,Baltimore Orioles,Washington Nationals,9.5,14.0,1,1
 2025-05-18,777880,Philadelphia Phillies,Pittsburgh Pirates,9.0,1.0,0,0
