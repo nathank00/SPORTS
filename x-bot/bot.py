@@ -11,7 +11,7 @@ import random
 USERNAME = "monkeyking1379"
 PASSWORD = "Sycamore2000!"
 
-SEARCH_QUERY = "MLB parlay OR betting OR 'lock of the day'"
+SEARCH_QUERY = "MLB parlay OR MLB betting OR 'lock of the day'"
 MIN_LIKES = 10
 SCROLL_COUNT = 5
 
