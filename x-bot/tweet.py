@@ -11,11 +11,11 @@ TWEET_ID = "1939755377350078927"
 
 # List of random replies
 REPLIES = [
-    "Just testing out my reply bot 🚀",
+    "Just testing out my reply bot",
     "This is a test reply. Hello, world!",
-    "Automated comment using Selenium 😎",
-    "Bot replying here — test successful ✔️",
-    "Let’s gooo 💬 #Test"
+    "Automated comment using Selenium",
+    "Bot reply testing bot",
+    "Let’s gooo #Test"
 ]
 
 def reply_to_tweet():
@@ -64,7 +64,7 @@ def reply_to_tweet():
     # Press Ctrl+Enter (Windows) or Cmd+Enter (Mac) to post
     reply_box.send_keys(Keys.CONTROL, Keys.RETURN)  # Use Keys.COMMAND if on Mac
 
-    print(f"✅ Replied to tweet {TWEET_ID} with: {reply}")
+    print(f"SUCCESS - Replied to tweet {TWEET_ID} with: {reply}")
     time.sleep(5)
     driver.quit()
 
