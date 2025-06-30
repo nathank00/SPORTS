@@ -41,7 +41,19 @@ def reply_to_tweet():
     time.sleep(5)
 
     # Click reply box
-    reply_box = driver.find_element(By.CSS_SELECTOR, "div[aria-label='Tweet text']")
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+
+    # Wait for reply box to load
+    wait = WebDriverWait(driver, 10)
+    reply_box = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div[data-testid='tweetTextarea_0']")))
+    reply = random.choice(REPLIES)
+    reply_box.send_keys(reply)
+    time.sleep(1)
+
+    # Post it
+    reply_box.send_keys(Keys.COMMAND, Keys.RETURN)  # Use Keys.CONTROL on Windows
+
     reply_box.click()
     time.sleep(1)
 
