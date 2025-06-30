@@ -14,7 +14,7 @@ REPLIES = [
     "Just testing out my reply bot",
     "This is a test reply. Hello, world!",
     "Automated comment using Selenium",
-    "Bot reply testing bot",
+    "Lets cook - bot testing post",
     "Let’s gooo #Test"
 ]
 
