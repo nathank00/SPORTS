@@ -192,6 +192,7 @@ mlbID,Name,Position,key_bbref
 656271,Brock Burke,P,burkebr01
 680732,Sean Burke,P,burkese01
 669203,Corbin Burnes,P,burneco01
+695505,Chase Burns,P,burnsch01
 663366,Beau Burrows,P,burrobe01
 681347,Mike Burrows,P,burromi01
 621114,Ryan Burr,P,burrry01
@@ -459,6 +460,7 @@ mlbID,Name,Position,key_bbref
 592332,Kevin Gausman,P,gausmke01
 593334,Domingo Germán,P,germado01
 681464,Frank German,P,germafr02
+801434,Paul Gervase,P,gervapa01
 664139,Ian Gibaut,P,gibauia01
 806188,Cade Gibson,P,gibsoca01
 502043,Kyle Gibson,P,gibsoky01
@@ -980,6 +982,7 @@ mlbID,Name,Position,key_bbref
 656820,Nicholas Padilla,P,padilni01
 641941,Emilio Pagán,P,paganem01
 694037,Daniel Palencia,P,palenda01
+669449,Jake Palisch,P,palisja01
 669467,Andre Pallante,P,pallaan01
 687223,Carson Palmquist,P,palmqca01
 623381,Thomas Pannone,P,pannoth01
@@ -1014,6 +1017,7 @@ mlbID,Name,Position,key_bbref
 660431,Hector Perez,P,perezhe02
 527048,Martín Pérez,P,perezma02
 424144,Oliver Pérez,P,perezol01
+678022,Jack Perkins,P,perkija01
 656849,David Peterson,P,peterda01
 596071,Dillon Peters,P,peterdi01
 656847,DJ Peters,P,peterdj01
@@ -1030,6 +1034,7 @@ mlbID,Name,Position,key_bbref
 663455,Konnor Pilkington,P,pilkiko01
 673820,Robinson Piña,P,pinaro01
 501381,Michael Pineda,P,pinedmi01
+702752,Jonathan Pintaro,P,pintajo01
 620982,Ricardo Pinto,P,pintori01
 666207,Riley Pint,P,pintri01
 601713,Nick Pivetta,P,pivetni01
@@ -1202,6 +1207,7 @@ mlbID,Name,Position,key_bbref
 663767,Chase Shugart,P,shugach01
 694363,Jared Shuster,P,shustja01
 681217,Chase Silseth,P,silsech01
+681006,Josh Simpson,P,simpsjo02
 608371,Lucas Sims,P,simslu01
 663903,Brady Singer,P,singebr01
 681895,Evan Sisk,P,siskev01
@@ -1473,11 +1479,5 @@ mlbID,Name,Position,key_bbref
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
 686228,Juan Burgos,P,
-695505,Chase Burns,P,
-801434,Paul Gervase,P,
-669449,Jake Palisch,P,
-678022,Jack Perkins,P,
-702752,Jonathan Pintaro,P,
 697812,Joe Rock,P,
 693313,Carson Seymour,P,
-681006,Josh Simpson,P,
