@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from urllib.parse import quote_plus
-from datetime import datetime
+from datetime import datetime, timezone
 import time
 import re
 import random
@@ -16,7 +16,7 @@ import os
 
 USERNAME = "monkeyking1379"
 PASSWORD = "Sycamore2000!"
-MIN_LIKES = 1000
+MIN_LIKES = 10
 SCROLL_COUNT = 8
 LOG_FILE = "bot_comments.log"
 
@@ -64,7 +64,7 @@ def load_replied_ids():
         return set(line.strip().split(" | ")[1] for line in f.readlines())
 
 def log_reply(tweet_id, preset_label, comment):
-    timestamp = datetime.datetime.now(datetime.PST).isoformat()
+    timestamp = datetime.now().isoformat()
     with open(LOG_FILE, "a") as f:
         f.write(f"{timestamp} | {tweet_id} | {preset_label} | {comment}\n")
 
@@ -80,14 +80,27 @@ def login(driver):
     driver.find_element(By.NAME, "password").send_keys(PASSWORD + Keys.RETURN)
     time.sleep(5)
 
-def extract_numeric_from_tweet(tweet):
+def extract_likes_from_tweet(tweet):
     try:
         footer = tweet.find_element(By.XPATH, ".//div[@role='group']")
         spans = footer.find_elements(By.TAG_NAME, "span")
-        numbers = [int(span.text.replace(",", "")) for span in spans if span.text.replace(",", "").isdigit()]
-        return max(numbers) if numbers else 0
+
+        seen = set()
+        values = []
+        for span in spans:
+            text = span.text.strip().replace(",", "")
+            if text.isdigit():
+                num = int(text)
+                if num not in seen:
+                    seen.add(num)
+                    values.append(num)
+                if len(values) == 4:
+                    break
+
+        return values[2] if len(values) >= 3 else 0  # Likes is 3rd unique value
     except:
         return 0
+
 
 def scrape_tweet_ids(driver, search_query, exclude_ids):
     tweet_ids = set()
@@ -98,7 +111,7 @@ def scrape_tweet_ids(driver, search_query, exclude_ids):
     for _ in range(SCROLL_COUNT):
         tweets = driver.find_elements(By.XPATH, "//article[@data-testid='tweet']")
         for tweet in tweets:
-            likes = extract_numeric_from_tweet(tweet)
+            likes = extract_likes_from_tweet(tweet)
             if likes >= MIN_LIKES:
                 try:
                     tweet_url_elem = tweet.find_element(By.XPATH, ".//a[contains(@href, '/status/')]")
