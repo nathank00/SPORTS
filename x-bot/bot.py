@@ -16,8 +16,8 @@ import os
 
 USERNAME = "monkeyking1379"
 PASSWORD = "Sycamore2000!"
-MIN_LIKES = 100
-SCROLL_COUNT = 6
+MIN_LIKES = 1000
+SCROLL_COUNT = 8
 LOG_FILE = "bot_comments.log"
 
 PRESETS = {
