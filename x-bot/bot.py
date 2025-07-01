@@ -21,8 +21,8 @@ SCROLL_COUNT = 6
 LOG_FILE = "bot_comments.log"
 
 PRESETS = {
-    "lock of the day": {
-        "query": quote_plus("lock of the day"),
+    "mlb pick of the day": {
+        "query": quote_plus("mlb pick of the day"),
         "replies": [
             "Facts. Been thinking the same.",
             "Hard to disagree with this",
@@ -36,8 +36,8 @@ PRESETS = {
             "More people need to realize this."
         ]
     },
-    "MLB betting": {
-        "query": quote_plus("MLB betting"),
+    "mlb parlay": {
+        "query": quote_plus("mlb parlay"),
         "replies": [
             "Great insight",
             "Always interesting to see different angles",
@@ -64,7 +64,7 @@ def load_replied_ids():
         return set(line.strip().split(" | ")[1] for line in f.readlines())
 
 def log_reply(tweet_id, preset_label, comment):
-    timestamp = datetime.utcnow().isoformat()
+    timestamp = datetime.datetime.now(datetime.PST).isoformat()
     with open(LOG_FILE, "a") as f:
         f.write(f"{timestamp} | {tweet_id} | {preset_label} | {comment}\n")
 
