@@ -39,16 +39,16 @@ PRESETS = {
     "MLB betting": {
         "query": quote_plus("MLB betting"),
         "replies": [
-            "Appreciate the insight.",
-            "Always interesting to see different angles.",
-            "This is solid perspective.",
-            "Thanks for sharing this.",
-            "Good stuff right here.",
-            "This makes a lot of sense.",
+            "Great insight",
+            "Always interesting to see different angles",
+            "This is solid perspective",
+            "Thanks for sharing this",
+            "Good stuff right here",
+            "This makes a lot of sense",
             "Watching closely",
-            "Following along for updates.",
-            "Very useful breakdown.",
-            "Noted."
+            "Following along for updates",
+            "Very useful breakdown",
+            "Noted"
         ]
     }
 }
