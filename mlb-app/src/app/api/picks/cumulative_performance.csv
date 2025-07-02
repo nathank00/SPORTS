@@ -148,11 +148,12 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-14,777914,San Diego Padres,Los Angeles Angels,8.5,6.0,1,0
 2025-05-14,777917,Los Angeles Dodgers,Athletics,8.5,12.0,0,1
 2025-05-14,777920,Houston Astros,Kansas City Royals,8.5,7.0,0,0
-2025-07-02,777289,New York Mets,Milwaukee Brewers,8.5,9.0,0,1
 2025-07-02,777284,Washington Nationals,Detroit Tigers,8.0,13.0,0,1
+2025-07-02,777289,New York Mets,Milwaukee Brewers,8.5,9.0,0,1
 2025-07-02,777271,Tampa Bay Rays,Athletics,9.0,11.0,0,1
 2025-07-02,777272,Pittsburgh Pirates,St. Louis Cardinals,7.5,5.0,0,0
-2025-07-02,777273,Philadelphia Phillies,San Diego Padres,7.5,10.0,1,1
+2025-07-02,777284,Washington Nationals,Detroit Tigers,9.0,13.0,0,1
+2025-07-02,777289,New York Mets,Milwaukee Brewers,8.0,9.0,1,1
 2025-05-01,778100,Pittsburgh Pirates,Chicago Cubs,8.0,11.0,0,1
 2025-05-01,778107,Cincinnati Reds,St. Louis Cardinals,9.0,10.0,1,1
 2025-05-01,778103,New York Mets,Arizona Diamondbacks,8.0,6.0,0,0
