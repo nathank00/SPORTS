@@ -1071,7 +1071,7 @@ mlbID,Name,Position,key_bbref
 673995,Davis Wendzel,3B,wendzda01
 642197,Jamie Westbrook,2B,westbja02
 676059,Jordan Westburg,3B,westbjo01
-694376,Shay Whitcomb,2B,whitcsh01
+694376,Shay Whitcomb,LF,whitcsh01
 664334,Aaron Whitefield,LF,whiteaa01
 642201,Eli White,RF,whiteel04
 657108,Evan White,1B,whiteev01
@@ -1116,4 +1116,6 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
+692585,Yanquiel Fernández,RF,
+678011,Anthony Seigler,2B,
 687515,Colby Thomas,RF,

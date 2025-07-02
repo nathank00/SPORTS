@@ -13553,13 +13553,10 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2025-06-30,777297,Kansas City Royals,118,Seattle Mariners,136
 2025-06-30,777291,San Francisco Giants,137,Arizona Diamondbacks,109
 2025-07-01,777283,New York Yankees,147,Toronto Blue Jays,141
-2025-07-01,777290,San Diego Padres,135,Philadelphia Phillies,143
 2025-07-01,777288,St. Louis Cardinals,138,Pittsburgh Pirates,134
 2025-07-01,777293,Minnesota Twins,142,Miami Marlins,146
-2025-07-01,777284,Detroit Tigers,116,Washington Nationals,120
 2025-07-01,777286,Athletics,133,Tampa Bay Rays,139
 2025-07-01,777294,Cincinnati Reds,113,Boston Red Sox,111
-2025-07-01,777289,Milwaukee Brewers,158,New York Mets,121
 2025-07-01,777298,Los Angeles Angels,108,Atlanta Braves,144
 2025-07-01,777287,Cleveland Guardians,114,Chicago Cubs,112
 2025-07-01,777282,Baltimore Orioles,110,Texas Rangers,140
@@ -13567,3 +13564,25 @@ game_date,game_id,away_name,away_id,home_name,home_id
 2025-07-01,777281,Kansas City Royals,118,Seattle Mariners,136
 2025-07-01,777278,San Francisco Giants,137,Arizona Diamondbacks,109
 2025-07-01,777280,Chicago White Sox,145,Los Angeles Dodgers,119
+2025-07-02,777290,San Diego Padres,135,Philadelphia Phillies,143
+2025-07-02,777284,Detroit Tigers,116,Washington Nationals,120
+2025-07-02,777289,Milwaukee Brewers,158,New York Mets,121
+2025-07-02,777271,Athletics,133,Tampa Bay Rays,139
+2025-07-02,777272,St. Louis Cardinals,138,Pittsburgh Pirates,134
+2025-07-02,777284,Detroit Tigers,116,Washington Nationals,120
+2025-07-02,777265,Detroit Tigers,116,Washington Nationals,120
+2025-07-02,777273,San Diego Padres,135,Philadelphia Phillies,143
+2025-07-02,777290,San Diego Padres,135,Philadelphia Phillies,143
+2025-07-02,777289,Milwaukee Brewers,158,New York Mets,121
+2025-07-02,777276,Milwaukee Brewers,158,New York Mets,121
+2025-07-01,777294,Cincinnati Reds,113,Boston Red Sox,111
+2025-07-02,777275,Minnesota Twins,142,Miami Marlins,146
+2025-07-02,777274,New York Yankees,147,Toronto Blue Jays,141
+2025-07-02,777277,Cincinnati Reds,113,Boston Red Sox,111
+2025-07-02,777279,Los Angeles Angels,108,Atlanta Braves,144
+2025-07-02,777266,Cleveland Guardians,114,Chicago Cubs,112
+2025-07-02,777268,Baltimore Orioles,110,Texas Rangers,140
+2025-07-02,777269,Houston Astros,117,Colorado Rockies,115
+2025-07-02,777262,Kansas City Royals,118,Seattle Mariners,136
+2025-07-02,777270,San Francisco Giants,137,Arizona Diamondbacks,109
+2025-07-02,777267,Chicago White Sox,145,Los Angeles Dodgers,119
