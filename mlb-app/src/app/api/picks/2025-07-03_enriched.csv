@@ -1,11 +1,11 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777258,15:45,Washington Nationals,Detroit Tigers,9.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
-777263,09:10,Miami Marlins,Minnesota Twins,8.0,Under,5,0,0,1,Byron Buxton,Trevor Larnach,Willi Castro,Brooks Lee,Ty France,Matt Wallner,Royce Lewis,Harrison Bader,Christian Vázquez,Xavier Edwards,Jesús Sánchez,Otto Lopez,Agustín Ramírez,Kyle Stowers,Eric Wagaman,Liam Hicks,Connor Norby,Derek Hill,David Festa,Eury Pérez
+777264,12:10,Colorado Rockies,Houston Astros,11.5,Under,4,0,0,0,Isaac Paredes,Jake Meyers,Jose Altuve,Cam Smith,Christian Walker,Victor Caratini,Cooper Hummel,Shay Whitcomb,Mauricio Dubón,Tyler Freeman,Kyle Farmer,Jordan Beck,Thairo Estrada,Ryan McMahon,Brenton Doyle,Orlando Arcia,Austin Nola,Ryan Ritter,Brandon Walter,Kyle Freeland
 777260,16:07,Toronto Blue Jays,New York Yankees,8.5,Over,0,1,0,0,,,,,,,,,,Nathan Lukes,George Springer,Vladimir Guerrero Jr.,Addison Barger,Alejandro Kirk,Ernie Clement,Will Wagner,Davis Schneider,Leo Jiménez,,Chris Bassitt
-777257,16:10,New York Mets,Milwaukee Brewers,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777264,12:10,Colorado Rockies,Houston Astros,11.0,Under,0,0,0,0,Isaac Paredes,Jake Meyers,Jose Altuve,Cam Smith,Christian Walker,Victor Caratini,Cooper Hummel,Shay Whitcomb,Mauricio Dubón,Tyler Freeman,Kyle Farmer,Jordan Beck,Thairo Estrada,Ryan McMahon,Brenton Doyle,Orlando Arcia,Austin Nola,Ryan Ritter,Brandon Walter,Kyle Freeland
+777263,09:10,Miami Marlins,Minnesota Twins,8.0,Under,5,0,0,1,Byron Buxton,Trevor Larnach,Willi Castro,Brooks Lee,Ty France,Matt Wallner,Royce Lewis,Harrison Bader,Christian Vázquez,Xavier Edwards,Jesús Sánchez,Otto Lopez,Agustín Ramírez,Kyle Stowers,Eric Wagaman,Liam Hicks,Connor Norby,Derek Hill,David Festa,Eury Pérez
+777257,16:10,New York Mets,Milwaukee Brewers,8.0,Under,0,0,0,0,,,,,,,,,,Starling Marte,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Luis Torrens,Brett Baty,Tyrone Taylor,,David Peterson
+777259,17:05,Chicago Cubs,Cleveland Guardians,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777256,18:40,Arizona Diamondbacks,San Francisco Giants,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777261,16:15,Atlanta Braves,Los Angeles Angels,9.0,Over,0,1,0,0,,,,,,,,,,Ronald Acuña Jr.,Matt Olson,Austin Riley,Marcell Ozuna,Jurickson Profar,Ozzie Albies,Sean Murphy,Michael Harris II,Nick Allen,,Bryce Elder
 777251,19:10,Seattle Mariners,Kansas City Royals,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-777259,17:05,Chicago Cubs,Cleveland Guardians,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 777253,19:10,Los Angeles Dodgers,Chicago White Sox,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
