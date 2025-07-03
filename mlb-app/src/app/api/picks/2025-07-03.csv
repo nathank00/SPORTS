@@ -1,11 +1,11 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-777260,Toronto Blue Jays,New York Yankees,8.5,Over,,,,,,,,,,,,,,,,,,,,
-777257,New York Mets,Milwaukee Brewers,8.0,Over,,,,,,,,,,,,,,,,,,,,
 777258,Washington Nationals,Detroit Tigers,9.5,Under,,,,,,,,,,,,,,,,,,,,
-777264,Colorado Rockies,Houston Astros,11.0,Under,Isaac Paredes,Jake Meyers,Jose Altuve,Cam Smith,Christian Walker,Victor Caratini,Cooper Hummel,Shay Whitcomb,Mauricio Dubón,Tyler Freeman,Kyle Farmer,Jordan Beck,Thairo Estrada,Ryan McMahon,Brenton Doyle,Orlando Arcia,Austin Nola,Ryan Ritter,Brandon Walter,Kyle Freeland
-777261,Atlanta Braves,Los Angeles Angels,9.0,Over,,,,,,,,,,,,,,,,,,,,
 777263,Miami Marlins,Minnesota Twins,8.0,Under,Byron Buxton,Trevor Larnach,Willi Castro,Brooks Lee,Ty France,Matt Wallner,Royce Lewis,Harrison Bader,Christian Vázquez,Xavier Edwards,Jesús Sánchez,Otto Lopez,Agustín Ramírez,Kyle Stowers,Eric Wagaman,Liam Hicks,Connor Norby,Derek Hill,David Festa,Eury Pérez
-777259,Chicago Cubs,Cleveland Guardians,8.5,Over,,,,,,,,,,,,,,,,,,,,
-777251,Seattle Mariners,Kansas City Royals,7.5,Over,,,,,,,,,,,,,,,,,,,,
-777253,Los Angeles Dodgers,Chicago White Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
+777260,Toronto Blue Jays,New York Yankees,8.5,Over,,,,,,,,,,Nathan Lukes,George Springer,Vladimir Guerrero Jr.,Addison Barger,Alejandro Kirk,Ernie Clement,Will Wagner,Davis Schneider,Leo Jiménez,,Chris Bassitt
+777257,New York Mets,Milwaukee Brewers,8.0,Over,,,,,,,,,,,,,,,,,,,,
+777264,Colorado Rockies,Houston Astros,11.0,Under,Isaac Paredes,Jake Meyers,Jose Altuve,Cam Smith,Christian Walker,Victor Caratini,Cooper Hummel,Shay Whitcomb,Mauricio Dubón,Tyler Freeman,Kyle Farmer,Jordan Beck,Thairo Estrada,Ryan McMahon,Brenton Doyle,Orlando Arcia,Austin Nola,Ryan Ritter,Brandon Walter,Kyle Freeland
 777256,Arizona Diamondbacks,San Francisco Giants,8.5,Over,,,,,,,,,,,,,,,,,,,,
+777261,Atlanta Braves,Los Angeles Angels,9.0,Over,,,,,,,,,,Ronald Acuña Jr.,Matt Olson,Austin Riley,Marcell Ozuna,Jurickson Profar,Ozzie Albies,Sean Murphy,Michael Harris II,Nick Allen,,Bryce Elder
+777251,Seattle Mariners,Kansas City Royals,7.5,Over,,,,,,,,,,,,,,,,,,,,
+777259,Chicago Cubs,Cleveland Guardians,8.5,Over,,,,,,,,,,,,,,,,,,,,
+777253,Los Angeles Dodgers,Chicago White Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
