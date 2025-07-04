@@ -1,8 +1,9 @@
 date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
+2025-07-03,777264,Colorado Rockies,Houston Astros,11.5,13.0,0,1
 2025-07-03,777263,Miami Marlins,Minnesota Twins,8.0,5.0,0,0
 2025-07-03,777258,Washington Nationals,Detroit Tigers,9.5,18.0,0,1
-2025-07-03,777264,Colorado Rockies,Houston Astros,11.5,13.0,0,1
-2025-07-03,777260,Toronto Blue Jays,New York Yankees,8.5,11.0,1,1
+2025-07-03,777260,Toronto Blue Jays,New York Yankees,8.5,13.0,1,1
+2025-07-03,777257,New York Mets,Milwaukee Brewers,8.0,5.0,0,0
 2025-07-03,777261,Atlanta Braves,Los Angeles Angels,9.0,6.0,1,0
 2025-05-07,778015,Milwaukee Brewers,Houston Astros,7.5,10.0,0,1
 2025-05-07,778022,Washington Nationals,Cleveland Guardians,9.0,14.0,1,1
