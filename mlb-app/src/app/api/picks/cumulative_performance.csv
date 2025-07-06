@@ -177,15 +177,15 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-07-02,777270,Arizona Diamondbacks,San Francisco Giants,8.5,11.0,0,1
 2025-07-02,777267,Los Angeles Dodgers,Chicago White Sox,9.5,9.0,0,0
 2025-07-05,777230,Minnesota Twins,Tampa Bay Rays,10.0,11.0,0,1
-2025-07-05,777231,Toronto Blue Jays,Los Angeles Angels,9.5,7.0,1,0
-2025-07-05,777233,Philadelphia Phillies,Cincinnati Reds,9.0,6.0,1,0
-2025-07-05,777228,Washington Nationals,Boston Red Sox,10.0,13.0,1,1
 2025-07-05,777229,Chicago Cubs,St. Louis Cardinals,11.5,14.0,1,1
+2025-07-05,777231,Toronto Blue Jays,Los Angeles Angels,9.5,7.0,1,0
+2025-07-05,777228,Washington Nationals,Boston Red Sox,10.0,13.0,1,1
+2025-07-05,777233,Philadelphia Phillies,Cincinnati Reds,9.0,6.0,1,0
 2025-07-05,777234,Arizona Diamondbacks,Kansas City Royals,9.0,8.0,0,0
 2025-07-05,777237,Atlanta Braves,Baltimore Orioles,9.0,15.0,1,1
 2025-07-05,777241,New York Mets,New York Yankees,9.5,18.0,1,1
-2025-07-05,777240,Cleveland Guardians,Detroit Tigers,9.0,1.0,1,0
 2025-07-05,777238,Miami Marlins,Milwaukee Brewers,8.5,6.0,0,0
+2025-07-05,777240,Cleveland Guardians,Detroit Tigers,9.0,1.0,1,0
 2025-07-05,777221,Los Angeles Dodgers,Houston Astros,8.5,10.0,0,1
 2025-05-01,778100,Pittsburgh Pirates,Chicago Cubs,8.0,11.0,0,1
 2025-05-01,778107,Cincinnati Reds,St. Louis Cardinals,9.0,10.0,1,1
