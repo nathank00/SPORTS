@@ -308,6 +308,7 @@ mlbID,Name,Position,key_bbref
 666128,Mario Feliciano,C,felicma01
 666023,Freddy Fermin,C,fermifr01
 665877,José Fermín,2B,fermijo01
+692585,Yanquiel Fernández,RF,fernaya01
 605233,Derek Fisher,LF,fishede01
 680837,Ryan Fitzgerald,2B,fitzgry01
 666149,Tyler Fitzgerald,2B,fitzgty01
@@ -344,7 +345,7 @@ mlbID,Name,Position,key_bbref
 605244,Aramis Garcia,C,garciar01
 541645,Avisaíl García,RF,garciav01
 660650,Dérmis Garcia,1B,garcide02
-676480,Jose Barrero,SS,garcijo02
+676480,José Barrero,SS,garcijo02
 544725,Leury García,OF,garcile02
 671277,Luis García Jr.,2B,garcilu04
 672580,Maikel Garcia,3B,garcima01
@@ -685,6 +686,7 @@ mlbID,Name,Position,key_bbref
 666160,Mickey Moniak,RF,moniami01
 663796,Coco Montes,2B,monteco01
 660707,Elehuris Montero,1B,monteel01
+695657,Colson Montgomery,SS,montgco01
 695681,Christian Moore,2B,moorech03
 664238,Dylan Moore,2B,mooredy01
 592567,Colin Moran,1B,moranco01
@@ -909,6 +911,7 @@ mlbID,Name,Position,key_bbref
 572122,Kyle Seager,3B,seageky01
 676882,Chandler Seagle,C,seaglch01
 516416,Jean Segura,SS,segurje01
+678011,Anthony Seigler,2B,seiglan01
 543760,Marcus Semien,2B,semiema01
 663584,Hayden Senger,C,sengeha01
 669222,Nick Senzel,3B,senzeni01
@@ -958,6 +961,7 @@ mlbID,Name,Position,key_bbref
 663886,Tyler Stephenson,C,stephty01
 664057,Andrew Stevenson,CF,stevean01
 670276,Cal Stevenson,CF,steveca01
+677060,Chad Stevens,SS,stevech02
 621466,DJ Stewart,RF,stewadj01
 657011,Troy Stokes Jr.,LF,stoketr01
 596115,Trevor Story,SS,storytr01
@@ -991,6 +995,7 @@ mlbID,Name,Position,key_bbref
 642136,Matt Thaiss,C,thaisma01
 677950,Alek Thomas,CF,thomaal01
 642137,Cody Thomas,RF,thomaco01
+687515,Colby Thomas,RF,thomaco03
 605504,Dillon Thomas,LF,thomadi01
 657041,Lane Thomas,CF,thomala02
 689041,Rhylan Thomas,RF,thomarh01
@@ -1117,9 +1122,5 @@ mlbID,Name,Position,key_bbref
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
 685744,Kenedy Corona,CF,
+687478,Cam Devanney,SS,
 663536,Tristin English,OF,
-692585,Yanquiel Fernández,RF,
-695657,Colson Montgomery,SS,
-678011,Anthony Seigler,2B,
-677060,Chad Stevens,SS,
-687515,Colby Thomas,RF,
