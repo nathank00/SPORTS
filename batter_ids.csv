@@ -152,7 +152,7 @@ mlbID,Name,Position,key_bbref
 493472,Eric Campbell,3B,campber01
 692225,Kristian Campbell,2B,campbkr01
 672569,Gustavo Campero,RF,campegu01
-669134,Luis Campusano,DH,campulu01
+669134,Luis Campusano,C,campulu01
 672744,Alexander Canario,LF,canaral01
 600869,Jeimer Candelario,3B,candeje01
 592192,Mark Canha,LF,canhama01
@@ -204,6 +204,7 @@ mlbID,Name,Position,key_bbref
 695257,Billy Cook,CF,cookbi01
 643265,Garrett Cooper,1B,coopega03
 614173,Franchy Cordero,OF,cordefr02
+685744,Kenedy Corona,CF,coronke01
 621043,Carlos Correa,SS,correca01
 681297,Colton Cowser,LF,cowseco01
 643269,Will Craig,3B,craigwi01
@@ -294,6 +295,7 @@ mlbID,Name,Position,key_bbref
 687952,Christian Encarnacion-Strand,1B,encarch01
 666464,Jerar Encarnacion,RF,encarje01
 641553,Adam Engel,CF,engelad01
+663536,Tristin English,OF,englitr01
 641555,J.C. Escarra,C,escarjc01
 444876,Alcides Escobar,SS,escobal02
 500871,Eduardo Escobar,3B,escobed01
@@ -628,6 +630,7 @@ mlbID,Name,Position,key_bbref
 656695,J.J. Matijevic,1B,matijjj01
 665155,Nick Maton,1B,matonni01
 682641,Luis Matos,RF,matoslu02
+694728,Brice Matthews,SS,matthbr01
 677595,Ronny Mauricio,3B,mauriro01
 457727,Cameron Maybin,CF,maybica01
 691785,Marcelo Mayer,3B,mayerma01
@@ -765,7 +768,7 @@ mlbID,Name,Position,key_bbref
 665066,Tyler Payne,C,paynety01
 592622,Mark Payton,OF,paytoma01
 592626,Joc Pederson,1B,pederjo01
-678894,Liover Peguero,2B,pegueli01
+678894,Liover Peguero,SS,pegueli01
 665161,Jeremy Peña,SS,penaje02
 444482,David Peralta,LF,peralda01
 606299,José Peraza,2B,perazjo01
@@ -1121,6 +1124,3 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-685744,Kenedy Corona,CF,
-687478,Cam Devanney,SS,
-663536,Tristin English,OF,

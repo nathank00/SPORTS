@@ -9,6 +9,7 @@ mlbID,Name,Position,key_bbref
 670183,Garrett Acton,P,actonga01
 592094,Jason Adam,P,adamja01
 613534,Austin Adams,P,adamsau02
+701519,Travis Adams,P,adamstr01
 686654,Ty Adcock,P,adcocty01
 672851,Joan Adon,P,adonjo01
 688642,Zach Agnos,P,agnosza01
@@ -217,6 +218,7 @@ mlbID,Name,Position,key_bbref
 571539,Matt Carasiti,P,carasma01
 656290,Drew Carlton,P,carltdr01
 471911,Carlos Carrasco,P,carraca01
+692024,Alex Carrillo,P,carrial01
 676508,Ben Casparius,P,caspabe01
 680604,Blas Castaño,P,castabl01
 641447,Daniel Castano,P,castada01
@@ -378,6 +380,7 @@ mlbID,Name,Position,key_bbref
 683155,Joey Estes,P,estesjo01
 608032,Carlos Estévez,P,estevca01
 669093,Jeremiah Estrada,P,estraje01
+681751,Lazaro Estrada,P,estrala01
 663770,Demarcus Evans,P,evansde01
 688138,Logan Evans,P,evanslo01
 656412,Alex Faedo,P,faedoal01
@@ -962,6 +965,7 @@ mlbID,Name,Position,key_bbref
 503285,Darren O'Day,P,odayda01
 543606,Jake Odorizzi,P,odorija01
 642657,Cristofer Ogando,P,ogandcr01
+829272,Shinnosuke Ogasawara,P,ogasash01
 660271,Shohei Ohtani,TWP,ohtansh01
 595345,Steven Okert,P,okertst01
 670124,Adam Oller,P,ollerad01
@@ -1105,7 +1109,7 @@ mlbID,Name,Position,key_bbref
 669735,Chris Rodriguez,P,rodrich01
 605446,Dereck Rodríguez,P,rodride01
 593958,Eduardo Rodriguez,P,rodried05
-660730,Elvin Rodriguez,P,rodriel02
+660730,Elvin Rodríguez,P,rodriel02
 680570,Grayson Rodriguez,P,rodrigr01
 622446,Jefry Rodriguez,P,rodrije01
 570257,Joely Rodríguez,P,rodrijo06
@@ -1164,6 +1168,7 @@ mlbID,Name,Position,key_bbref
 676637,Phoenix Sanders,P,sandeph01
 680704,Nick Sandlin,P,sandlni01
 663776,Patrick Sandoval,P,sandopa02
+682144,Jayvien Sandridge,P,sandrja01
 663485,Cole Sands,P,sandsco01
 665665,Reiver Sanmartin,P,sanmare01
 642701,Dennis Santana,P,santade01
@@ -1180,6 +1185,7 @@ mlbID,Name,Position,key_bbref
 622250,Josh Sborz,P,sborzjo01
 669135,Mac Sceroler,P,sceroma01
 453286,Max Scherzer,P,scherma01
+693645,Cam Schlittler,P,schlica01
 657376,Clarke Schmidt,P,schmicl01
 669947,Jesse Scholtens,P,scholje01
 670167,John Schreiber,P,schrejo01
@@ -1483,9 +1489,3 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-701519,Travis Adams,P,
-692024,Alex Carrillo,P,
-681751,Lazaro Estrada,P,
-829272,Shinnosuke Ogasawara,P,
-682144,Jayvien Sandridge,P,
-693645,Cam Schlittler,P,
