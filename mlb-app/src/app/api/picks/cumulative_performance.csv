@@ -68,20 +68,21 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-18,778263,Texas Rangers,Los Angeles Dodgers,7.5,3.0,0,0
 2025-04-18,778269,Houston Astros,San Diego Padres,9.0,10.0,1,1
 2025-04-18,778261,Milwaukee Brewers,Athletics,8.0,8.0,1,
-2025-07-20,777079,Toronto Blue Jays,San Francisco Giants,8.5,14.0,1,1
-2025-07-20,777076,Tampa Bay Rays,Baltimore Orioles,8.5,8.0,0,0
 2025-07-20,777077,Washington Nationals,San Diego Padres,8.0,9.0,0,1
+2025-07-20,777079,Toronto Blue Jays,San Francisco Giants,8.5,14.0,1,1
 2025-07-20,777078,Philadelphia Phillies,Los Angeles Angels,9.0,10.0,1,1
+2025-07-20,777076,Tampa Bay Rays,Baltimore Orioles,8.5,8.0,0,0
 2025-07-20,777074,Pittsburgh Pirates,Chicago White Sox,9.5,9.0,0,0
 2025-07-20,777083,Atlanta Braves,New York Yankees,10.5,6.0,0,0
 2025-07-20,777087,New York Mets,Cincinnati Reds,8.0,5.0,0,0
-2025-07-20,777072,Colorado Rockies,Minnesota Twins,10.5,8.0,0,0
 2025-07-20,777082,Miami Marlins,Kansas City Royals,7.5,11.0,0,1
 2025-07-20,777084,Cleveland Guardians,Athletics,7.5,10.0,0,1
-2025-07-20,777071,Arizona Diamondbacks,St. Louis Cardinals,9.0,8.0,0,0
-2025-07-20,777067,Seattle Mariners,Houston Astros,6.5,14.0,1,1
 2025-07-20,777075,Chicago Cubs,Boston Red Sox,6.5,7.0,1,1
+2025-07-20,777067,Seattle Mariners,Houston Astros,6.5,14.0,1,1
+2025-07-20,777072,Colorado Rockies,Minnesota Twins,10.5,8.0,0,0
+2025-07-20,777071,Arizona Diamondbacks,St. Louis Cardinals,9.0,8.0,0,0
 2025-07-20,777070,Los Angeles Dodgers,Milwaukee Brewers,9.0,11.0,0,1
+2025-07-20,777073,Texas Rangers,Detroit Tigers,7.0,3.0,0,0
 2025-05-24,777809,Boston Red Sox,Baltimore Orioles,9.0,11.0,1,1
 2025-05-24,777788,Minnesota Twins,Kansas City Royals,7.5,9.0,0,1
 2025-05-24,777790,Boston Red Sox,Baltimore Orioles,9.0,3.0,0,0
