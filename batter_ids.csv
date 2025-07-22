@@ -88,7 +88,7 @@ mlbID,Name,Position,key_bbref
 666179,Seth Beer,1B,beerse01
 641355,Cody Bellinger,LF,bellico01
 605137,Josh Bell,1B,belljo02
-474832,Brandon Belt,DH,beltbr01
+474832,Brandon Belt,1B,beltbr01
 621532,Anthony Bemboom,C,bemboan01
 643217,Andrew Benintendi,LF,beninan01
 666181,Will Benson,LF,bensowi01
@@ -443,7 +443,7 @@ mlbID,Name,Position,key_bbref
 546318,Odúbel Herrera,CF,herreod01
 518792,Jason Heyward,LF,heywaja01
 676551,Brewer Hicklen,CF,hicklbr01
-543305,Aaron Hicks,RF,hicksaa01
+543305,Aaron Hicks,CF,hicksaa01
 543308,John Hicks,C,hicksjo02
 689414,Liam Hicks,C,hicksli01
 543309,Kyle Higashioka,C,higasky01
@@ -699,7 +699,7 @@ mlbID,Name,Position,key_bbref
 621559,Max Moroff,2B,morofma01
 600301,Taylor Motter,2B,motteta01
 663624,Ryan Mountcastle,1B,mountry01
-519058,Mike Moustakas,1B,moustmi01
+519058,Mike Moustakas,3B,moustmi01
 656775,Cedric Mullins,CF,mullice01
 571970,Max Muncy,3B,muncyma01
 691777,Max Muncy,3B,muncyma02
@@ -787,7 +787,7 @@ mlbID,Name,Position,key_bbref
 663368,Blake Perkins,CF,perkibl01
 607054,Jace Peterson,SS,peterja01
 502054,Tommy Pham,LF,phamth01
-607680,Kevin Pillar,CF,pillake01
+607680,Kevin Pillar,LF,pillake01
 444489,Manny Piña,C,pinama01
 640461,Chad Pinder,LF,pindech01
 672832,Israel Pineda,C,pinedis01
