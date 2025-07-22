@@ -251,18 +251,19 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-08,777582,St. Louis Cardinals,Los Angeles Dodgers,9.5,10.0,1,1
 2025-06-08,777589,Los Angeles Angels,Seattle Mariners,9.0,5.0,0,0
 2025-06-08,777593,New York Yankees,Boston Red Sox,7.5,18.0,1,1
-2025-07-21,777068,Cleveland Guardians,Baltimore Orioles,8.5,15.0,0,1
 2025-07-21,777060,Pittsburgh Pirates,Detroit Tigers,7.0,3.0,1,0
+2025-07-21,777068,Cleveland Guardians,Baltimore Orioles,8.5,15.0,0,1
 2025-07-21,777062,Miami Marlins,San Diego Padres,8.0,3.0,0,0
-2025-07-21,777066,Toronto Blue Jays,New York Yankees,8.5,5.0,1,0
 2025-07-21,777064,Washington Nationals,Cincinnati Reds,9.0,18.0,0,1
 2025-07-21,777063,Philadelphia Phillies,Boston Red Sox,7.5,5.0,0,0
+2025-07-21,777066,Toronto Blue Jays,New York Yankees,8.5,5.0,1,0
 2025-07-21,777061,New York Mets,Los Angeles Angels,8.5,12.0,0,1
-2025-07-21,777069,Atlanta Braves,San Francisco Giants,9.5,14.0,1,1
 2025-07-21,777059,Tampa Bay Rays,Chicago White Sox,9.0,11.0,0,1
-2025-07-21,777057,Texas Rangers,Athletics,8.0,9.0,1,1
+2025-07-21,777069,Atlanta Braves,San Francisco Giants,9.5,14.0,1,1
 2025-07-21,777065,Chicago Cubs,Kansas City Royals,7.5,16.0,0,1
+2025-07-21,777057,Texas Rangers,Athletics,8.0,9.0,1,1
 2025-07-21,777050,Seattle Mariners,Milwaukee Brewers,7.0,6.0,0,0
+2025-07-21,777055,Arizona Diamondbacks,Houston Astros,9.0,9.0,0,
 2025-07-21,777053,Colorado Rockies,St. Louis Cardinals,12.0,8.0,0,0
 2025-04-19,778265,Detroit Tigers,Kansas City Royals,8.0,4.0,0,0
 2025-04-19,778252,Philadelphia Phillies,Miami Marlins,10.5,21.0,1,1
