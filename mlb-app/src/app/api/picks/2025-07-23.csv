@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 777026,Washington Nationals,Cincinnati Reds,8.5,Over,TJ Friedl,Gavin Lux,Elly De La Cruz,Austin Hays,Jake Fraley,Noelvi Marte,Jose Trevino,Will Benson,Santiago Espinal,CJ Abrams,James Wood,Amed Rosario,Nathaniel Lowe,Alex Call,Brady House,Luis García Jr.,Drew Millas,Jacob Young,Nick Lodolo,Michael Soroka
-777037,Miami Marlins,San Diego Padres,8.0,Under,Fernando Tatis Jr.,Luis Arraez,Manny Machado,Gavin Sheets,Xander Bogaerts,Jackson Merrill,Jake Cronenworth,Tyler Wade,Elias Díaz,Xavier Edwards,Jesús Sánchez,Otto Lopez,Kyle Stowers,Agustín Ramírez,Liam Hicks,Nick Fortes,Graham Pauley,Javier Sanoja,Dylan Cease,Sandy Alcantara
 777041,Atlanta Braves,San Francisco Giants,8.0,Under,Heliot Ramos,Rafael Devers,Willy Adames,Matt Chapman,Mike Yastrzemski,Casey Schmitt,Dominic Smith,Patrick Bailey,Luis Matos,Jurickson Profar,Matt Olson,Drake Baldwin,Sean Murphy,Ozzie Albies,Michael Harris II,Nacho Alvarez Jr.,Eli White,Nick Allen,Justin Verlander,Spencer Strider
+777037,Miami Marlins,San Diego Padres,7.5,Under,Fernando Tatis Jr.,Luis Arraez,Manny Machado,Gavin Sheets,Xander Bogaerts,Jackson Merrill,Jake Cronenworth,Tyler Wade,Elias Díaz,Xavier Edwards,Jesús Sánchez,Otto Lopez,Kyle Stowers,Agustín Ramírez,Liam Hicks,Nick Fortes,Graham Pauley,Javier Sanoja,Dylan Cease,Sandy Alcantara
 777029,Pittsburgh Pirates,Detroit Tigers,9.0,Over,Gleyber Torres,Jahmai Jones,Wenceel Pérez,Spencer Torkelson,Matt Vierling,Zach McKinstry,Dillon Dingler,Javier Báez,Parker Meadows,Spencer Horwitz,Andrew McCutchen,Bryan Reynolds,Nick Gonzales,Oneil Cruz,Tommy Pham,Ke'Bryan Hayes,Joey Bart,Isiah Kiner-Falefa,Troy Melton,Bailey Falter
-777031,Chicago Cubs,Kansas City Royals,10.5,Over,,,,,,,,,,,,,,,,,,,,
-777034,New York Mets,Los Angeles Angels,9.0,Under,Zach Neto,Nolan Schanuel,Mike Trout,Taylor Ward,Jo Adell,Jorge Soler,Travis d'Arnaud,Luis Rengifo,Chris Taylor,Brandon Nimmo,Francisco Lindor,Juan Soto,Pete Alonso,Starling Marte,Brett Baty,Mark Vientos,Luis Torrens,Tyrone Taylor,Brock Burke,Sean Manaea
-777024,Seattle Mariners,Milwaukee Brewers,7.5,Over,,,,,,,,,,,,,,,,,,,,
 777028,Colorado Rockies,St. Louis Cardinals,11.0,Over,,,,,,,,,,,,,,,,,,,,
 777032,Arizona Diamondbacks,Houston Astros,8.5,Over,,,,,,,,,,,,,,,,,,,,
+777031,Chicago Cubs,Kansas City Royals,10.5,Under,Adam Frazier,Maikel Garcia,Vinnie Pasquantino,Salvador Perez,Jac Caglianone,John Rave,Freddy Fermin,Kyle Isbel,Tyler Tolbert,,,,,,,,,,Seth Lugo,
+777024,Seattle Mariners,Milwaukee Brewers,7.5,Over,,,,,,,,,,,,,,,,,,,,
+777022,Los Angeles Dodgers,Minnesota Twins,9.0,Over,,,,,,,,,,,,,,,,,,,,
+777034,New York Mets,Los Angeles Angels,9.0,Under,Zach Neto,Nolan Schanuel,Mike Trout,Taylor Ward,Jo Adell,Jorge Soler,Travis d'Arnaud,Luis Rengifo,Chris Taylor,Brandon Nimmo,Francisco Lindor,Juan Soto,Pete Alonso,Starling Marte,Brett Baty,Mark Vientos,Luis Torrens,Tyrone Taylor,Brock Burke,Sean Manaea
+777036,Cleveland Guardians,Baltimore Orioles,8.5,Over,,,,,,,,,,,,,,,,,,,,
 777038,Philadelphia Phillies,Boston Red Sox,8.5,Over,,,,,,,,,,,,,,,,,,,,
 777027,Toronto Blue Jays,New York Yankees,8.5,Over,,,,,,,,,,,,,,,,,,,,
-777036,Cleveland Guardians,Baltimore Orioles,8.5,Over,,,,,,,,,,,,,,,,,,,,
-777022,Los Angeles Dodgers,Minnesota Twins,9.0,Over,,,,,,,,,,,,,,,,,,,,
 777030,Tampa Bay Rays,Chicago White Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
 777033,Texas Rangers,Athletics,8.5,Over,,,,,,,,,,,,,,,,,,,,
