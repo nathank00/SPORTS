@@ -1091,14 +1091,15 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-20,777836,San Francisco Giants,Kansas City Royals,7.5,5.0,0,0
 2025-05-20,777843,Athletics,Los Angeles Angels,10.5,12.0,0,1
 2025-05-20,777838,Los Angeles Dodgers,Arizona Diamondbacks,9.0,7.0,0,0
-2025-07-23,777029,Pittsburgh Pirates,Detroit Tigers,9.0,7.0,1,0
 2025-07-23,777026,Washington Nationals,Cincinnati Reds,8.5,5.0,1,0
 2025-07-23,777037,Miami Marlins,San Diego Padres,7.5,5.0,0,0
+2025-07-23,777029,Pittsburgh Pirates,Detroit Tigers,9.0,7.0,1,0
 2025-07-23,777041,Atlanta Braves,San Francisco Giants,7.5,12.0,0,1
 2025-07-23,777034,New York Mets,Los Angeles Angels,9.0,9.0,0,
 2025-07-23,777031,Chicago Cubs,Kansas City Royals,10.0,12.0,0,1
-2025-07-23,777024,Seattle Mariners,Milwaukee Brewers,7.0,12.0,0,1
 2025-07-23,777028,Colorado Rockies,St. Louis Cardinals,11.0,6.0,0,0
+2025-07-23,777032,Arizona Diamondbacks,Houston Astros,8.5,7.0,0,0
+2025-07-23,777024,Seattle Mariners,Milwaukee Brewers,7.0,12.0,0,1
 2025-05-02,778086,Philadelphia Phillies,Arizona Diamondbacks,9.0,5.0,1,0
 2025-05-02,778087,Cincinnati Reds,Washington Nationals,9.0,7.0,1,0
 2025-05-02,778090,Pittsburgh Pirates,San Diego Padres,8.0,13.0,0,1
