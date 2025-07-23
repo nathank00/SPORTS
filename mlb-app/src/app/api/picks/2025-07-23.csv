@@ -5,12 +5,12 @@ game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Awa
 777029,Pittsburgh Pirates,Detroit Tigers,9.0,Over,Gleyber Torres,Jahmai Jones,Wenceel Pérez,Spencer Torkelson,Matt Vierling,Zach McKinstry,Dillon Dingler,Javier Báez,Parker Meadows,Spencer Horwitz,Andrew McCutchen,Bryan Reynolds,Nick Gonzales,Oneil Cruz,Tommy Pham,Ke'Bryan Hayes,Joey Bart,Isiah Kiner-Falefa,Troy Melton,Bailey Falter
 777034,New York Mets,Los Angeles Angels,9.0,Under,Zach Neto,Nolan Schanuel,Mike Trout,Taylor Ward,Jo Adell,Jorge Soler,Travis d'Arnaud,Luis Rengifo,Chris Taylor,Brandon Nimmo,Francisco Lindor,Juan Soto,Pete Alonso,Starling Marte,Brett Baty,Mark Vientos,Luis Torrens,Tyrone Taylor,Brock Burke,Sean Manaea
 777031,Chicago Cubs,Kansas City Royals,10.0,Under,Adam Frazier,Maikel Garcia,Vinnie Pasquantino,Salvador Perez,Jac Caglianone,John Rave,Freddy Fermin,Kyle Isbel,Tyler Tolbert,Michael Busch,Seiya Suzuki,Pete Crow-Armstrong,Carson Kelly,Ian Happ,Dansby Swanson,Nico Hoerner,Reese McGuire,Matt Shaw,Seth Lugo,Colin Rea
-777032,Arizona Diamondbacks,Houston Astros,8.5,Over,,,,,,,,,,,,,,,,,,,,
 777024,Seattle Mariners,Milwaukee Brewers,7.5,Over,,,,,,,,,,,,,,,,,,,,
-777028,Colorado Rockies,St. Louis Cardinals,11.0,Under,,,,,,,,,,Tyler Freeman,Mickey Moniak,Hunter Goodman,Jordan Beck,Ryan McMahon,Ezequiel Tovar,Austin Nola,Kyle Farmer,Adael Amador,,Tanner Gordon
-777022,Los Angeles Dodgers,Minnesota Twins,9.0,Over,,,,,,,,,,,,,,,,,,,,
+777028,Colorado Rockies,St. Louis Cardinals,11.0,Under,Brendan Donovan,Iván Herrera,Alec Burleson,Willson Contreras,Nolan Arenado,Masyn Winn,Jordan Walker,Yohel Pozo,Victor Scott II,Tyler Freeman,Mickey Moniak,Hunter Goodman,Jordan Beck,Ryan McMahon,Ezequiel Tovar,Austin Nola,Kyle Farmer,Adael Amador,Andre Pallante,Tanner Gordon
+777032,Arizona Diamondbacks,Houston Astros,8.5,Over,,,,,,,,,,,,,,,,,,,,
+777022,Los Angeles Dodgers,Minnesota Twins,9.0,Under,Byron Buxton,Willi Castro,Trevor Larnach,Ryan Jeffers,Kody Clemens,Ty France,Matt Wallner,Royce Lewis,Brooks Lee,,,,,,,,,,Chris Paddack,
 777036,Cleveland Guardians,Baltimore Orioles,8.5,Over,,,,,,,,,,,,,,,,,,,,
-777038,Philadelphia Phillies,Boston Red Sox,8.5,Over,,,,,,,,,,,,,,,,,,,,
-777033,Texas Rangers,Athletics,8.5,Over,,,,,,,,,,,,,,,,,,,,
-777030,Tampa Bay Rays,Chicago White Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
 777027,Toronto Blue Jays,New York Yankees,8.5,Over,,,,,,,,,,,,,,,,,,,,
+777038,Philadelphia Phillies,Boston Red Sox,8.5,Over,,,,,,,,,,,,,,,,,,,,
+777030,Tampa Bay Rays,Chicago White Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
+777033,Texas Rangers,Athletics,8.5,Over,,,,,,,,,,,,,,,,,,,,
