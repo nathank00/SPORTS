@@ -1,14 +1,14 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-777014,Pittsburgh Pirates,Arizona Diamondbacks,9.0,Over,,,,,,,,,,,,,,,,,,,,
+777008,Milwaukee Brewers,Miami Marlins,8.0,Under,Xavier Edwards,Jesús Sánchez,Agustín Ramírez,Kyle Stowers,Otto Lopez,Liam Hicks,Eric Wagaman,Graham Pauley,Dane Myers,Brice Turang,William Contreras,Christian Yelich,Jackson Chourio,Isaac Collins,Andrew Vaughn,Blake Perkins,Caleb Durbin,Joey Ortiz,Cal Quantrill,Freddy Peralta
 777015,New York Yankees,Philadelphia Phillies,10.0,Over,,,,,,,,,,,,,,,,,,,,
 777020,Baltimore Orioles,Colorado Rockies,9.0,Over,,,,,,,,,,,,,,,,,,,,
-777008,Milwaukee Brewers,Miami Marlins,8.0,Under,Xavier Edwards,Jesús Sánchez,Agustín Ramírez,Kyle Stowers,Otto Lopez,Liam Hicks,Eric Wagaman,Graham Pauley,Dane Myers,,,,,,,,,,Cal Quantrill,
-777013,Cincinnati Reds,Tampa Bay Rays,9.5,Over,,,,,,,,,,,,,,,,,,,,
 777012,Boston Red Sox,Los Angeles Dodgers,9.5,Over,,,,,,,,,,,,,,,,,,,,
+777014,Pittsburgh Pirates,Arizona Diamondbacks,9.0,Under,Corbin Carroll,Ketel Marte,Geraldo Perdomo,Eugenio Suárez,Adrian Del Castillo,Lourdes Gurriel Jr.,Jake McCarthy,Tristin English,Jose Herrera,Spencer Horwitz,Andrew McCutchen,Bryan Reynolds,Nick Gonzales,Oneil Cruz,Tommy Pham,Ke'Bryan Hayes,Henry Davis,Isiah Kiner-Falefa,Ryne Nelson,Mike Burrows
+777013,Cincinnati Reds,Tampa Bay Rays,9.5,Over,,,,,,,,,,,,,,,,,,,,
 777016,Detroit Tigers,Toronto Blue Jays,9.0,Over,,,,,,,,,,,,,,,,,,,,
+777017,Chicago White Sox,Chicago Cubs,8.0,Over,,,,,,,,,,,,,,,,,,,,
 777005,St. Louis Cardinals,San Diego Padres,8.5,Over,,,,,,,,,,,,,,,,,,,,
 777009,Texas Rangers,Atlanta Braves,8.0,Under,,,,,,,,,,,,,,,,,,,,
-777017,Chicago White Sox,Chicago Cubs,8.0,Over,,,,,,,,,,,,,,,,,,,,
 777010,Kansas City Royals,Cleveland Guardians,8.0,Over,,,,,,,,,,,,,,,,,,,,
 777007,Houston Astros,Athletics,8.5,Over,,,,,,,,,,,,,,,,,,,,
 777011,Minnesota Twins,Washington Nationals,8.5,Over,,,,,,,,,,,,,,,,,,,,
