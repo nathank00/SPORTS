@@ -1261,17 +1261,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-07-22,777040,Arizona Diamondbacks,Houston Astros,8.5,4.0,0,0
 2025-07-22,777035,Seattle Mariners,Milwaukee Brewers,6.5,1.0,0,0
 2025-07-22,777039,Los Angeles Dodgers,Minnesota Twins,8.0,17.0,1,1
+2025-07-25,777014,Pittsburgh Pirates,Arizona Diamondbacks,9.0,1.0,0,0
 2025-07-25,777008,Milwaukee Brewers,Miami Marlins,8.0,6.0,0,0
 2025-07-25,777020,Baltimore Orioles,Colorado Rockies,9.0,11.0,0,1
-2025-07-25,777014,Pittsburgh Pirates,Arizona Diamondbacks,9.0,1.0,0,0
-2025-07-25,777015,New York Yankees,Philadelphia Phillies,10.5,17.0,1,1
 2025-07-25,777012,Boston Red Sox,Los Angeles Dodgers,9.5,7.0,1,0
-2025-07-25,777013,Cincinnati Reds,Tampa Bay Rays,9.5,9.0,0,0
+2025-07-25,777015,New York Yankees,Philadelphia Phillies,10.5,17.0,1,1
 2025-07-25,777016,Detroit Tigers,Toronto Blue Jays,9.0,8.0,1,0
+2025-07-25,777013,Cincinnati Reds,Tampa Bay Rays,9.5,9.0,0,0
 2025-07-25,777005,St. Louis Cardinals,San Diego Padres,8.5,3.0,0,0
 2025-07-25,777017,Chicago White Sox,Chicago Cubs,8.0,17.0,0,1
-2025-07-25,777007,Houston Astros,Athletics,9.0,18.0,1,1
 2025-07-25,777009,Texas Rangers,Atlanta Braves,8.0,11.0,0,1
+2025-07-25,777007,Houston Astros,Athletics,9.0,18.0,1,1
 2025-07-25,777011,Minnesota Twins,Washington Nationals,8.5,1.0,1,0
 2025-04-08,778403,Detroit Tigers,New York Yankees,7.5,5.0,0,0
 2025-04-08,778402,Cleveland Guardians,Chicago White Sox,7.5,1.0,0,0
