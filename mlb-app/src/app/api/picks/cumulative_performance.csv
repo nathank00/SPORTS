@@ -306,8 +306,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-19,778255,Tampa Bay Rays,New York Yankees,8.5,18.0,0,1
 2025-04-19,778267,Atlanta Braves,Minnesota Twins,7.5,7.0,1,0
 2025-07-26,777010,Kansas City Royals,Cleveland Guardians,8.0,8.0,0,
-2025-07-26,777010,Kansas City Royals,Cleveland Guardians,9.0,8.0,0,0
 2025-07-26,777001,New York Yankees,Philadelphia Phillies,9.0,13.0,0,1
+2025-07-26,777010,Kansas City Royals,Cleveland Guardians,9.0,8.0,0,0
 2025-05-22,777817,Colorado Rockies,Philadelphia Phillies,11.5,2.0,1,0
 2025-05-22,777818,New York Yankees,Texas Rangers,7.0,1.0,0,0
 2025-05-22,777821,Detroit Tigers,Cleveland Guardians,8.0,7.0,0,0
