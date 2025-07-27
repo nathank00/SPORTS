@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776986,Baltimore Orioles,Colorado Rockies,10.0,Over,,,,,,,,,,Jordan Westburg,Ramón Laureano,Gunnar Henderson,Tyler O'Neill,Ramón Urías,Cedric Mullins,Coby Mayo,Dylan Carlson,Alex Jackson,,Tomoyuki Sugano
-776983,Boston Red Sox,Los Angeles Dodgers,10.5,Over,,,,,,,,,,Roman Anthony,Alex Bregman,Jarren Duran,Trevor Story,Masataka Yoshida,Carlos Narváez,Wilyer Abreu,Ceddanne Rafaela,Abraham Toro,,Walker Buehler
-776984,Pittsburgh Pirates,Arizona Diamondbacks,7.5,Over,,,,,,,,,,Spencer Horwitz,Nick Gonzales,Bryan Reynolds,Oneil Cruz,Tommy Pham,Ke'Bryan Hayes,Jack Suwinski,Henry Davis,Isiah Kiner-Falefa,,Paul Skenes
-776988,New York Yankees,Philadelphia Phillies,7.5,Over,,,,,,,,,,,,,,,,,,,,
+776986,Baltimore Orioles,Colorado Rockies,10.0,Under,Tyler Freeman,Mickey Moniak,Ezequiel Tovar,Jordan Beck,Thairo Estrada,Yanquiel Fernández,Warming Bernabel,Austin Nola,Orlando Arcia,Jordan Westburg,Ramón Laureano,Gunnar Henderson,Tyler O'Neill,Ramón Urías,Cedric Mullins,Coby Mayo,Dylan Carlson,Alex Jackson,Austin Gomber,Tomoyuki Sugano
+776983,Boston Red Sox,Los Angeles Dodgers,10.0,Over,Mookie Betts,Shohei Ohtani,Teoscar Hernández,Freddie Freeman,Andy Pages,Michael Conforto,Tommy Edman,Dalton Rushing,Miguel Rojas,Roman Anthony,Alex Bregman,Jarren Duran,Trevor Story,Masataka Yoshida,Carlos Narváez,Wilyer Abreu,Ceddanne Rafaela,Abraham Toro,Dustin May,Walker Buehler
+776984,Pittsburgh Pirates,Arizona Diamondbacks,7.5,Under,Corbin Carroll,Ketel Marte,Geraldo Perdomo,Eugenio Suárez,Adrian Del Castillo,Jake McCarthy,James McCann,Alek Thomas,Tristin English,Spencer Horwitz,Nick Gonzales,Bryan Reynolds,Oneil Cruz,Tommy Pham,Ke'Bryan Hayes,Jack Suwinski,Henry Davis,Isiah Kiner-Falefa,Zac Gallen,Paul Skenes
 776982,Cincinnati Reds,Tampa Bay Rays,9.5,Over,,,,,,,,,,TJ Friedl,Matt McLain,Elly De La Cruz,Austin Hays,Gavin Lux,Noelvi Marte,Jake Fraley,Jose Trevino,Santiago Espinal,,Brady Singer
+776988,New York Yankees,Philadelphia Phillies,7.5,Over,Trea Turner,Kyle Schwarber,Bryce Harper,Nick Castellanos,J.T. Realmuto,Otto Kemp,Edmundo Sosa,Weston Wilson,Johan Rojas,Trent Grisham,Ben Rice,Cody Bellinger,Giancarlo Stanton,Jazz Chisholm Jr.,Jasson Domínguez,Ryan McMahon,Anthony Volpe,Austin Wells,Zack Wheeler,Carlos Rodón
 776975,Kansas City Royals,Cleveland Guardians,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776987,Detroit Tigers,Toronto Blue Jays,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776976,Houston Astros,Athletics,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776976,Houston Astros,Athletics,8.0,Under,Miguel Andujar,Lawrence Butler,Brent Rooker,Shea Langeliers,Austin Wynns,Gio Urshela,Colby Thomas,Max Schuemann,Luis Urías,Taylor Trammell,Jose Altuve,Victor Caratini,Christian Walker,Jon Singleton,Cam Smith,Cooper Hummel,Mauricio Dubón,Zack Short,J.T. Ginn,Colton Gordon
+776987,Detroit Tigers,Toronto Blue Jays,8.5,Over,Nathan Lukes,George Springer,Vladimir Guerrero Jr.,Bo Bichette,Addison Barger,Ernie Clement,Joey Loperfido,Tyler Heineman,Alan Roden,Colt Keith,Gleyber Torres,Kerry Carpenter,Riley Greene,Spencer Torkelson,Zach McKinstry,Dillon Dingler,Parker Meadows,Javier Báez,Max Scherzer,Jack Flaherty
 776989,Chicago White Sox,Chicago Cubs,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776979,Minnesota Twins,Washington Nationals,9.5,Over,,,,,,,,,,Trevor Larnach,Willi Castro,Carlos Correa,Kody Clemens,Royce Lewis,Matt Wallner,Brooks Lee,Harrison Bader,Christian Vázquez,,Cole Sands
-776980,St. Louis Cardinals,San Diego Padres,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776978,Milwaukee Brewers,Miami Marlins,7.0,Over,,,,,,,,,,,,,,,,,,,,
 776981,Texas Rangers,Atlanta Braves,9.0,Under,,,,,,,,,,,,,,,,,,,,
-776974,San Francisco Giants,New York Mets,8.0,Under,,,,,,,,,,,,,,,,,,,,
+776978,Milwaukee Brewers,Miami Marlins,7.0,Over,,,,,,,,,,Brice Turang,Jackson Chourio,William Contreras,Christian Yelich,Andrew Vaughn,Isaac Collins,Caleb Durbin,Joey Ortiz,Eric Haase,,Brandon Woodruff
 776977,Los Angeles Angels,Seattle Mariners,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776980,St. Louis Cardinals,San Diego Padres,9.0,Under,,,,,,,,,,Brendan Donovan,Iván Herrera,Alec Burleson,Willson Contreras,Nolan Arenado,Masyn Winn,Jordan Walker,Pedro Pagés,Victor Scott II,,Michael McGreevy
+776974,San Francisco Giants,New York Mets,8.0,Under,,,,,,,,,,,,,,,,,,,,
