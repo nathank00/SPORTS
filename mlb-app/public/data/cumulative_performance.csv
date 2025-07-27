@@ -281,22 +281,22 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-19,778243,Los Angeles Angels,San Francisco Giants,8.5,5.0,1,0
 2025-04-19,778255,Tampa Bay Rays,New York Yankees,8.5,18.0,0,1
 2025-04-19,778267,Atlanta Braves,Minnesota Twins,7.5,7.0,1,0
-2025-07-26,777010,Kansas City Royals,Cleveland Guardians,8.0,8.0,0,
 2025-07-26,777001,New York Yankees,Philadelphia Phillies,9.0,13.0,0,1
+2025-07-26,777010,Kansas City Royals,Cleveland Guardians,8.0,8.0,0,
 2025-07-26,777003,Detroit Tigers,Toronto Blue Jays,7.0,7.0,1,
 2025-07-26,777010,Kansas City Royals,Cleveland Guardians,9.0,8.0,0,0
+2025-07-26,777000,Cincinnati Reds,Tampa Bay Rays,9.0,8.0,0,0
 2025-07-26,777002,Pittsburgh Pirates,Arizona Diamondbacks,9.0,2.0,0,0
 2025-07-26,776999,Baltimore Orioles,Colorado Rockies,9.5,18.0,0,1
-2025-07-26,777000,Cincinnati Reds,Tampa Bay Rays,9.0,8.0,0,0
-2025-07-26,776991,Houston Astros,Athletics,7.5,6.0,0,0
-2025-07-26,776996,Milwaukee Brewers,Miami Marlins,8.5,11.0,0,1
-2025-07-26,776993,Texas Rangers,Atlanta Braves,8.5,11.0,0,1
 2025-07-26,776997,Minnesota Twins,Washington Nationals,9.0,12.0,1,1
+2025-07-26,776993,Texas Rangers,Atlanta Braves,8.5,11.0,0,1
+2025-07-26,776991,Houston Astros,Athletics,7.5,6.0,0,0
 2025-07-26,776994,Chicago White Sox,Chicago Cubs,9.0,7.0,1,0
 2025-07-26,776998,Boston Red Sox,Los Angeles Dodgers,8.5,6.0,1,0
+2025-07-26,776996,Milwaukee Brewers,Miami Marlins,8.5,11.0,0,1
 2025-07-26,776992,St. Louis Cardinals,San Diego Padres,9.0,4.0,1,0
-2025-07-26,776985,San Francisco Giants,New York Mets,7.5,3.0,1,0
 2025-07-26,776995,Los Angeles Angels,Seattle Mariners,8.5,9.0,0,1
+2025-07-26,776985,San Francisco Giants,New York Mets,7.5,3.0,1,0
 2025-05-22,777817,Colorado Rockies,Philadelphia Phillies,11.5,2.0,1,0
 2025-05-22,777818,New York Yankees,Texas Rangers,7.0,1.0,0,0
 2025-05-22,777821,Detroit Tigers,Cleveland Guardians,8.0,7.0,0,0
