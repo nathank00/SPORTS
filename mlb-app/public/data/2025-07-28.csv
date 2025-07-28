@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 776966,Baltimore Orioles,Toronto Blue Jays,9.5,Over,,,,,,,,,,,,,,,,,,,,
-776968,Cleveland Guardians,Colorado Rockies,9.0,Under,Tyler Freeman,Mickey Moniak,Hunter Goodman,Jordan Beck,Thairo Estrada,Warming Bernabel,Brenton Doyle,Kyle Farmer,Orlando Arcia,,,,,,,,,,Bradley Blalock,
-776967,Cincinnati Reds,Los Angeles Dodgers,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776973,Detroit Tigers,Arizona Diamondbacks,9.0,Under,Corbin Carroll,Ketel Marte,Geraldo Perdomo,Eugenio Suárez,Adrian Del Castillo,Lourdes Gurriel Jr.,Tristin English,Alek Thomas,Jose Herrera,,,,,,,,,,Eduardo Rodriguez,
-776970,New York Yankees,Tampa Bay Rays,8.5,Under,,,,,,,,,,,,,,,,,,,,
+776968,Cleveland Guardians,Colorado Rockies,9.0,Under,Tyler Freeman,Mickey Moniak,Hunter Goodman,Jordan Beck,Thairo Estrada,Warming Bernabel,Brenton Doyle,Kyle Farmer,Orlando Arcia,Steven Kwan,Angel Martínez,José Ramírez,Kyle Manzardo,Carlos Santana,Daniel Schneemann,Nolan Jones,Brayan Rocchio,Austin Hedges,Bradley Blalock,Slade Cecconi
+776970,New York Yankees,Tampa Bay Rays,8.5,Over,,,,,,,,,,Trent Grisham,Jasson Domínguez,Cody Bellinger,Giancarlo Stanton,Jazz Chisholm Jr.,Paul Goldschmidt,Ryan McMahon,Austin Wells,Anthony Volpe,,Cam Schlittler
 776961,Minnesota Twins,Boston Red Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776967,Cincinnati Reds,Los Angeles Dodgers,9.0,Over,,,,,,,,,,TJ Friedl,Matt McLain,Elly De La Cruz,Austin Hays,Gavin Lux,Spencer Steer,Tyler Stephenson,Will Benson,Noelvi Marte,,Chase Burns
 776971,Kansas City Royals,Atlanta Braves,9.5,Under,,,,,,,,,,,,,,,,,,,,
-776972,Chicago White Sox,Philadelphia Phillies,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776960,St. Louis Cardinals,Miami Marlins,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776972,Chicago White Sox,Philadelphia Phillies,8.0,Over,,,,,,,,,,Chase Meidroth,Austin Slater,Edgar Quero,Miguel Vargas,Andrew Benintendi,Luis Robert Jr.,Lenyn Sosa,Colson Montgomery,Michael A. Taylor,,Davis Martin
 776965,Milwaukee Brewers,Chicago Cubs,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776960,St. Louis Cardinals,Miami Marlins,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776969,Houston Astros,Washington Nationals,7.5,Over,,,,,,,,,,,,,,,,,,,,
+776958,Los Angeles Angels,Texas Rangers,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776959,San Diego Padres,New York Mets,8.0,Under,,,,,,,,,,,,,,,,,,,,
 776964,San Francisco Giants,Pittsburgh Pirates,7.5,Over,,,,,,,,,,,,,,,,,,,,
-776958,Los Angeles Angels,Texas Rangers,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776957,Athletics,Seattle Mariners,10.5,Over,,,,,,,,,,,,,,,,,,,,
