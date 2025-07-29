@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 776962,Baltimore Orioles,Toronto Blue Jays,10.0,Over,,,,,,,,,,,,,,,,,,,,
-776951,Cleveland Guardians,Colorado Rockies,8.5,Over,Tyler Freeman,Ezequiel Tovar,Hunter Goodman,Jordan Beck,Warming Bernabel,Brenton Doyle,Kyle Farmer,Michael Toglia,Orlando Arcia,Steven Kwan,Daniel Schneemann,José Ramírez,Kyle Manzardo,Gabriel Arias,Nolan Jones,David Fry,Bo Naylor,Brayan Rocchio,Tanner Gordon,Logan Allen
-776953,Detroit Tigers,Arizona Diamondbacks,8.5,Under,Corbin Carroll,Ketel Marte,Geraldo Perdomo,Adrian Del Castillo,Tristin English,Jake McCarthy,Alek Thomas,James McCann,Blaze Alexander,Colt Keith,Gleyber Torres,Kerry Carpenter,Riley Greene,Spencer Torkelson,Wenceel Pérez,Zach McKinstry,Dillon Dingler,Matt Vierling,Brandon Pfaadt,Casey Mize
 778372,Baltimore Orioles,Toronto Blue Jays,10.0,Under,Nathan Lukes,Davis Schneider,Vladimir Guerrero Jr.,Bo Bichette,Addison Barger,Ernie Clement,Joey Loperfido,Will Wagner,Ali Sánchez,Jordan Westburg,Ramón Laureano,Gunnar Henderson,Tyler O'Neill,Ramón Urías,Cedric Mullins,Coby Mayo,Colton Cowser,Alex Jackson,Easton Lucas,Charlie Morton
 776949,New York Yankees,Tampa Bay Rays,8.5,Over,,,,,,,,,,Trent Grisham,Ben Rice,Paul Goldschmidt,Cody Bellinger,Jazz Chisholm Jr.,Jasson Domínguez,Ryan McMahon,Anthony Volpe,Austin Wells,,Max Fried
+776951,Cleveland Guardians,Colorado Rockies,8.5,Over,Tyler Freeman,Ezequiel Tovar,Hunter Goodman,Jordan Beck,Warming Bernabel,Brenton Doyle,Kyle Farmer,Michael Toglia,Orlando Arcia,Steven Kwan,Daniel Schneemann,José Ramírez,Kyle Manzardo,Gabriel Arias,Nolan Jones,David Fry,Bo Naylor,Brayan Rocchio,Tanner Gordon,Logan Allen
+776953,Detroit Tigers,Arizona Diamondbacks,8.5,Under,Corbin Carroll,Ketel Marte,Geraldo Perdomo,Adrian Del Castillo,Tristin English,Jake McCarthy,Alek Thomas,James McCann,Blaze Alexander,Colt Keith,Gleyber Torres,Kerry Carpenter,Riley Greene,Spencer Torkelson,Wenceel Pérez,Zach McKinstry,Dillon Dingler,Matt Vierling,Brandon Pfaadt,Casey Mize
+776963,Cincinnati Reds,Los Angeles Dodgers,9.0,Over,Mookie Betts,Shohei Ohtani,Will Smith,Freddie Freeman,Teoscar Hernández,Andy Pages,Tommy Edman,Miguel Rojas,Esteury Ruiz,Gavin Lux,Matt McLain,Elly De La Cruz,Austin Hays,Jake Fraley,Spencer Steer,Noelvi Marte,Will Benson,Jose Trevino,Tyler Glasnow,Nick Lodolo
+776955,Kansas City Royals,Atlanta Braves,9.5,Under,,,,,,,,,,Jonathan India,Bobby Witt Jr.,Vinnie Pasquantino,Maikel Garcia,Salvador Perez,Adam Frazier,Freddy Fermin,John Rave,Kyle Isbel,,Seth Lugo
 776956,Milwaukee Brewers,Chicago Cubs,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776955,Kansas City Royals,Atlanta Braves,9.5,Under,,,,,,,,,,,,,,,,,,,,
-776963,Cincinnati Reds,Los Angeles Dodgers,9.0,Over,,,,,,,,,,Gavin Lux,Matt McLain,Elly De La Cruz,Austin Hays,Jake Fraley,Spencer Steer,Noelvi Marte,Will Benson,Jose Trevino,,Nick Lodolo
-776952,Chicago White Sox,Philadelphia Phillies,9.0,Over,,,,,,,,,,Chase Meidroth,Austin Slater,Edgar Quero,Miguel Vargas,Luis Robert Jr.,Colson Montgomery,Lenyn Sosa,Michael A. Taylor,Kyle Teel,,Jonathan Cannon
 776946,St. Louis Cardinals,Miami Marlins,7.5,Over,,,,,,,,,,,,,,,,,,,,
-776950,Houston Astros,Washington Nationals,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776943,San Francisco Giants,Pittsburgh Pirates,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776945,Los Angeles Angels,Texas Rangers,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776944,Athletics,Seattle Mariners,10.5,Over,,,,,,,,,,,,,,,,,,,,
+776952,Chicago White Sox,Philadelphia Phillies,9.0,Over,,,,,,,,,,Chase Meidroth,Austin Slater,Edgar Quero,Miguel Vargas,Luis Robert Jr.,Colson Montgomery,Lenyn Sosa,Michael A. Taylor,Kyle Teel,,Jonathan Cannon
+776950,Houston Astros,Washington Nationals,8.5,Over,,,,,,,,,,Taylor Trammell,Jose Altuve,Christian Walker,Cam Smith,Jacob Melton,Yainer Diaz,Mauricio Dubón,Shay Whitcomb,Zack Short,,Jason Alexander
 776947,San Diego Padres,New York Mets,8.0,Under,,,,,,,,,,,,,,,,,,,,
+776943,San Francisco Giants,Pittsburgh Pirates,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776944,Athletics,Seattle Mariners,10.5,Over,,,,,,,,,,,,,,,,,,,,
