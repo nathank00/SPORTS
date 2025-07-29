@@ -748,14 +748,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-10,778382,Tampa Bay Rays,Los Angeles Angels,8.0,12.0,0,1
 2025-04-10,778378,Cleveland Guardians,Chicago White Sox,7.5,7.0,0,0
 2025-07-28,776966,Baltimore Orioles,Toronto Blue Jays,9.5,15.0,1,1
+2025-07-28,776968,Cleveland Guardians,Colorado Rockies,8.5,9.0,0,1
 2025-07-28,776973,Detroit Tigers,Arizona Diamondbacks,8.5,6.0,0,0
 2025-07-28,776970,New York Yankees,Tampa Bay Rays,8.5,6.0,0,0
 2025-07-28,776967,Cincinnati Reds,Los Angeles Dodgers,9.0,7.0,1,0
 2025-07-28,776972,Chicago White Sox,Philadelphia Phillies,8.0,8.0,0,
-2025-07-28,776965,Milwaukee Brewers,Chicago Cubs,7.5,12.0,1,1
 2025-07-28,776960,St. Louis Cardinals,Miami Marlins,8.0,8.0,1,
 2025-07-28,776971,Kansas City Royals,Atlanta Braves,9.5,17.0,1,1
+2025-07-28,776965,Milwaukee Brewers,Chicago Cubs,7.5,12.0,1,1
 2025-07-28,776969,Houston Astros,Washington Nationals,7.0,3.0,0,0
+2025-07-28,776958,Los Angeles Angels,Texas Rangers,8.5,9.0,0,1
+2025-07-28,776964,San Francisco Giants,Pittsburgh Pirates,7.5,8.0,0,1
 2025-04-17,778291,Miami Marlins,Arizona Diamondbacks,8.5,10.0,0,1
 2025-04-17,778280,Pittsburgh Pirates,Washington Nationals,8.0,1.0,1,0
 2025-04-17,778283,Chicago White Sox,Athletics,8.0,8.0,1,
