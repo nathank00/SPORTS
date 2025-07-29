@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776962,Baltimore Orioles,Toronto Blue Jays,10.0,Over,,,,,,,,,,,,,,,,,,,,
-778372,Baltimore Orioles,Toronto Blue Jays,10.0,Under,Nathan Lukes,Davis Schneider,Vladimir Guerrero Jr.,Bo Bichette,Addison Barger,Ernie Clement,Joey Loperfido,Will Wagner,Ali Sánchez,Jordan Westburg,Ramón Laureano,Gunnar Henderson,Tyler O'Neill,Ramón Urías,Cedric Mullins,Coby Mayo,Colton Cowser,Alex Jackson,Easton Lucas,Charlie Morton
 776951,Cleveland Guardians,Colorado Rockies,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776962,Baltimore Orioles,Toronto Blue Jays,10.0,Over,,,,,,,,,,,,,,,,,,,,
 776953,Detroit Tigers,Arizona Diamondbacks,8.5,Over,,,,,,,,,,,,,,,,,,,,
+778372,Baltimore Orioles,Toronto Blue Jays,10.0,Under,Nathan Lukes,Davis Schneider,Vladimir Guerrero Jr.,Bo Bichette,Addison Barger,Ernie Clement,Joey Loperfido,Will Wagner,Ali Sánchez,Jordan Westburg,Ramón Laureano,Gunnar Henderson,Tyler O'Neill,Ramón Urías,Cedric Mullins,Coby Mayo,Colton Cowser,Alex Jackson,Easton Lucas,Charlie Morton
 776949,New York Yankees,Tampa Bay Rays,8.5,Under,,,,,,,,,,,,,,,,,,,,
 776963,Cincinnati Reds,Los Angeles Dodgers,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776955,Kansas City Royals,Atlanta Braves,9.5,Under,,,,,,,,,,,,,,,,,,,,
 776952,Chicago White Sox,Philadelphia Phillies,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776955,Kansas City Royals,Atlanta Braves,9.5,Under,,,,,,,,,,,,,,,,,,,,
 776956,Milwaukee Brewers,Chicago Cubs,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776946,St. Louis Cardinals,Miami Marlins,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776950,Houston Astros,Washington Nationals,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776945,Los Angeles Angels,Texas Rangers,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776947,San Diego Padres,New York Mets,8.0,Under,,,,,,,,,,,,,,,,,,,,
-776944,Athletics,Seattle Mariners,10.5,Over,,,,,,,,,,,,,,,,,,,,
+776945,Los Angeles Angels,Texas Rangers,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776943,San Francisco Giants,Pittsburgh Pirates,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776944,Athletics,Seattle Mariners,10.5,Over,,,,,,,,,,,,,,,,,,,,
