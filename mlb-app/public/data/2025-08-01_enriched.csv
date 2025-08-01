@@ -1,12 +1,12 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 776921,09:40,Cincinnati Reds,Atlanta Braves,9.0,Over,0,1,0,0,Jurickson Profar,Matt Olson,Austin Riley,Drake Baldwin,Marcell Ozuna,Michael Harris II,Ozzie Albies,Eli White,Nick Allen,Gavin Lux,Matt McLain,Elly De La Cruz,Noelvi Marte,Spencer Steer,Jake Fraley,Jose Trevino,Will Benson,Ke'Bryan Hayes,Bryce Elder,Brady Singer
+776917,15:45,Washington Nationals,Milwaukee Brewers,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776913,15:45,Philadelphia Phillies,Detroit Tigers,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776915,11:20,Chicago Cubs,Baltimore Orioles,7.0,Under,0,0,0,0,Jackson Holliday,Jordan Westburg,Gunnar Henderson,Adley Rutschman,Tyler O'Neill,Colton Cowser,Coby Mayo,Dylan Carlson,Jeremiah Jackson,Nico Hoerner,Kyle Tucker,Seiya Suzuki,Carson Kelly,Pete Crow-Armstrong,Dansby Swanson,Ian Happ,Michael Busch,Matt Shaw,Trevor Rogers,Cade Horton
-776917,15:45,Washington Nationals,Milwaukee Brewers,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776926,16:10,New York Mets,San Francisco Giants,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776924,16:10,Cleveland Guardians,Minnesota Twins,7.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776922,16:10,Boston Red Sox,Houston Astros,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776925,16:10,Miami Marlins,New York Yankees,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776924,16:10,Cleveland Guardians,Minnesota Twins,7.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776918,16:35,Tampa Bay Rays,Los Angeles Dodgers,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776919,17:10,Colorado Rockies,Pittsburgh Pirates,11.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776906,18:40,San Diego Padres,St. Louis Cardinals,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
