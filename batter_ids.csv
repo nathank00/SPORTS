@@ -306,7 +306,7 @@ mlbID,Name,Position,key_bbref
 656413,Stuart Fairchild,RF,faircst01
 641561,Johneshwy Fargas,CF,fargajo01
 571657,Kyle Farmer,2B,farmeky01
-676439,Hunter Feduccia,1B,feduchu01
+676439,Hunter Feduccia,C,feduchu01
 666128,Mario Feliciano,C,felicma01
 666023,Freddy Fermin,C,fermifr01
 665877,José Fermín,2B,fermijo01
@@ -1128,4 +1128,5 @@ mlbID,Name,Position,key_bbref
 682653,Warming Bernabel,SS,
 666126,Carlos Cortes,LF,
 690976,Alex Freeland,SS,
+669236,Jeremiah Jackson,2B,
 687859,Troy Johnston,OF,
