@@ -1,13 +1,13 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 776921,Cincinnati Reds,Atlanta Braves,9.0,Over,Jurickson Profar,Matt Olson,Austin Riley,Drake Baldwin,Marcell Ozuna,Michael Harris II,Ozzie Albies,Eli White,Nick Allen,Gavin Lux,Matt McLain,Elly De La Cruz,Noelvi Marte,Spencer Steer,Jake Fraley,Jose Trevino,Will Benson,Ke'Bryan Hayes,Bryce Elder,Brady Singer
-776917,Washington Nationals,Milwaukee Brewers,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776913,Philadelphia Phillies,Detroit Tigers,7.5,Over,,,,,,,,,,Trea Turner,Kyle Schwarber,Bryce Harper,J.T. Realmuto,Nick Castellanos,Brandon Marsh,Max Kepler,Edmundo Sosa,Bryson Stott,,Ranger Suárez
 776915,Chicago Cubs,Baltimore Orioles,7.0,Under,Jackson Holliday,Jordan Westburg,Gunnar Henderson,Adley Rutschman,Tyler O'Neill,Colton Cowser,Coby Mayo,Dylan Carlson,Jeremiah Jackson,Nico Hoerner,Kyle Tucker,Seiya Suzuki,Carson Kelly,Pete Crow-Armstrong,Dansby Swanson,Ian Happ,Michael Busch,Matt Shaw,Trevor Rogers,Cade Horton
+776917,Washington Nationals,Milwaukee Brewers,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776913,Philadelphia Phillies,Detroit Tigers,7.5,Under,Jahmai Jones,Gleyber Torres,Andy Ibáñez,Spencer Torkelson,Riley Greene,Matt Vierling,Dillon Dingler,Wenceel Pérez,Javier Báez,Trea Turner,Kyle Schwarber,Bryce Harper,J.T. Realmuto,Nick Castellanos,Brandon Marsh,Max Kepler,Edmundo Sosa,Bryson Stott,Jack Flaherty,Ranger Suárez
 776922,Boston Red Sox,Houston Astros,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776924,Cleveland Guardians,Minnesota Twins,7.0,Over,,,,,,,,,,,,,,,,,,,,
 776926,New York Mets,San Francisco Giants,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776925,Miami Marlins,New York Yankees,7.5,Over,,,,,,,,,,,,,,,,,,,,
-776919,Colorado Rockies,Pittsburgh Pirates,11.5,Over,,,,,,,,,,,,,,,,,,,,
 776918,Tampa Bay Rays,Los Angeles Dodgers,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776919,Colorado Rockies,Pittsburgh Pirates,11.5,Over,,,,,,,,,,,,,,,,,,,,
 776906,San Diego Padres,St. Louis Cardinals,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776908,Seattle Mariners,Texas Rangers,7.5,Over,,,,,,,,,,,,,,,,,,,,
