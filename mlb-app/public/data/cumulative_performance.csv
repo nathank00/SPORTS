@@ -1329,8 +1329,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-07-30,776934,St. Louis Cardinals,Miami Marlins,8.5,2.0,0,0
 2025-07-30,776932,Los Angeles Angels,Texas Rangers,8.0,9.0,0,1
 2025-07-30,776930,Athletics,Seattle Mariners,9.5,9.0,0,0
-2025-08-01,776915,Chicago Cubs,Baltimore Orioles,7.0,1.0,0,0
 2025-08-01,776921,Cincinnati Reds,Atlanta Braves,9.0,5.0,1,0
+2025-08-01,776915,Chicago Cubs,Baltimore Orioles,7.0,1.0,0,0
 2025-04-08,778403,Detroit Tigers,New York Yankees,7.5,5.0,0,0
 2025-04-08,778402,Cleveland Guardians,Chicago White Sox,7.5,1.0,0,0
 2025-04-08,778408,Pittsburgh Pirates,St. Louis Cardinals,6.0,8.0,0,1
