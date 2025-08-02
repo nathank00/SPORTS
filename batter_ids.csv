@@ -312,7 +312,7 @@ mlbID,Name,Position,key_bbref
 665877,José Fermín,2B,fermijo01
 692585,Yanquiel Fernández,RF,fernaya01
 605233,Derek Fisher,LF,fishede01
-680837,Ryan Fitzgerald,2B,fitzgry01
+680837,Ryan Fitzgerald,3B,fitzgry01
 666149,Tyler Fitzgerald,2B,fitzgty01
 664058,David Fletcher,2B,fletcda02
 666150,Dominic Fletcher,RF,fletcdo01
@@ -1130,3 +1130,5 @@ mlbID,Name,Position,key_bbref
 690976,Alex Freeland,SS,
 669236,Jeremiah Jackson,2B,
 687859,Troy Johnston,OF,
+692216,C.J. Kayfus,1B,
+805300,Jakob Marsee,CF,
