@@ -246,15 +246,15 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-06,778025,Los Angeles Angels,Toronto Blue Jays,9.0,11.0,0,1
 2025-05-06,778024,Athletics,Seattle Mariners,10.5,8.0,0,0
 2025-08-02,776901,Tampa Bay Rays,Los Angeles Dodgers,8.0,4.0,0,0
-2025-08-02,776900,Toronto Blue Jays,Kansas City Royals,8.0,6.0,1,0
-2025-08-02,776912,Philadelphia Phillies,Detroit Tigers,6.5,12.0,1,1
 2025-08-02,776902,Chicago Cubs,Baltimore Orioles,7.5,7.0,0,0
+2025-08-02,776900,Toronto Blue Jays,Kansas City Royals,8.0,6.0,1,0
 2025-08-02,776904,Colorado Rockies,Pittsburgh Pirates,10.0,13.0,0,1
+2025-08-02,776909,Boston Red Sox,Houston Astros,9.5,10.0,1,1
+2025-08-02,776912,Philadelphia Phillies,Detroit Tigers,6.5,12.0,1,1
 2025-08-02,776903,Washington Nationals,Milwaukee Brewers,8.5,10.0,0,1
 2025-08-02,776911,New York Mets,San Francisco Giants,8.5,18.0,0,1
-2025-08-02,776909,Boston Red Sox,Houston Astros,9.5,10.0,1,1
-2025-08-02,776905,Cleveland Guardians,Minnesota Twins,7.0,9.0,0,1
 2025-08-02,776897,Seattle Mariners,Texas Rangers,7.5,10.0,0,1
+2025-08-02,776905,Cleveland Guardians,Minnesota Twins,7.0,9.0,0,1
 2025-08-02,776910,Miami Marlins,New York Yankees,7.5,2.0,0,0
 2025-05-30,777720,Baltimore Orioles,Chicago White Sox,9.0,3.0,1,0
 2025-05-30,777715,Philadelphia Phillies,Milwaukee Brewers,9.5,8.0,1,0
