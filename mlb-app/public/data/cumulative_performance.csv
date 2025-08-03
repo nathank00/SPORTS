@@ -131,16 +131,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-08-03,776895,Boston Red Sox,Houston Astros,8.0,7.0,0,0
 2025-08-03,776889,Tampa Bay Rays,Los Angeles Dodgers,8.5,3.0,0,0
 2025-08-03,776894,Washington Nationals,Milwaukee Brewers,8.5,17.0,1,1
-2025-08-03,776887,New York Mets,San Francisco Giants,9.0,16.0,1,1
 2025-08-03,776893,Toronto Blue Jays,Kansas City Royals,8.0,11.0,1,1
-2025-08-03,776891,Miami Marlins,New York Yankees,7.5,10.0,0,1
+2025-08-03,776887,New York Mets,San Francisco Giants,9.0,16.0,1,1
 2025-08-03,776892,Cleveland Guardians,Minnesota Twins,8.0,9.0,1,1
+2025-08-03,776891,Miami Marlins,New York Yankees,7.5,10.0,0,1
 2025-08-03,776888,Chicago Cubs,Baltimore Orioles,8.0,8.0,0,
-2025-08-03,776886,Colorado Rockies,Pittsburgh Pirates,11.0,14.0,0,1
 2025-08-03,776881,Athletics,Arizona Diamondbacks,10.0,10.0,0,
 2025-08-03,776885,Los Angeles Angels,Chicago White Sox,9.5,13.0,0,1
-2025-08-03,776883,Seattle Mariners,Texas Rangers,7.5,9.0,0,1
+2025-08-03,776886,Colorado Rockies,Pittsburgh Pirates,11.0,14.0,0,1
 2025-08-03,776884,San Diego Padres,St. Louis Cardinals,8.0,10.0,0,1
+2025-08-03,776883,Seattle Mariners,Texas Rangers,7.5,9.0,0,1
 2025-06-09,777580,Cleveland Guardians,Cincinnati Reds,9.0,11.0,0,1
 2025-06-09,777578,Philadelphia Phillies,Chicago Cubs,7.5,7.0,0,0
 2025-06-09,777574,Pittsburgh Pirates,Miami Marlins,8.0,13.0,0,1
