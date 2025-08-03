@@ -135,8 +135,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-08-03,776893,Toronto Blue Jays,Kansas City Royals,8.0,11.0,1,1
 2025-08-03,776892,Cleveland Guardians,Minnesota Twins,8.0,9.0,1,1
 2025-08-03,776891,Miami Marlins,New York Yankees,7.5,10.0,0,1
-2025-08-03,776886,Colorado Rockies,Pittsburgh Pirates,11.0,13.0,0,1
 2025-08-03,776888,Chicago Cubs,Baltimore Orioles,8.0,8.0,0,
+2025-08-03,776886,Colorado Rockies,Pittsburgh Pirates,11.0,14.0,0,1
+2025-08-03,776883,Seattle Mariners,Texas Rangers,7.5,8.0,0,1
 2025-03-28,778560,Tampa Bay Rays,Colorado Rockies,8.0,5.0,1,0
 2025-03-28,778549,Toronto Blue Jays,Baltimore Orioles,8.5,10.0,1,1
 2025-03-28,778548,Miami Marlins,Pittsburgh Pirates,8.0,7.0,0,0
