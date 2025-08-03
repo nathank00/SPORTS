@@ -293,11 +293,13 @@ mlbID,Name,Position,key_bbref
 456501,Johnny Cueto,P,cuetojo01
 675540,Xzavion Curry,P,curryxz01
 595928,John Curtiss,P,curtijo02
+681168,Luis Curvelo,P,curvelu01
 664202,Tyler Cyr,P,cyrty01
 702674,Caden Dana,P,danaca01
 669721,Davis Daniel,P,danieda01
 641501,Tyler Danish,P,danisty01
 668470,Hagen Danner,P,danneha01
+699911,Dugan Darnell,P,darnedu01
 690382,Michael Darrell-Hicks,P,darremi01
 506433,Yu Darvish,P,darviyu01
 656353,Tucker Davidson,P,davidtu01
@@ -446,6 +448,7 @@ mlbID,Name,Position,key_bbref
 607231,John Gant,P,gantjo01
 642520,Gerson Garabito,P,garabge01
 650530,Bryan Garcia,P,garcibr01
+805299,Brandyn Garcia,P,garcibr02
 665620,Deivi García,P,garcide01
 658305,Edgar García,P,garcied01
 606424,Jarlín García,P,garcija04
@@ -863,6 +866,7 @@ mlbID,Name,Position,key_bbref
 675848,Juan Mejia,P,mejiaju01
 453343,Mark Melancon,P,melanma01
 622492,Keury Mella,P,mellake01
+675512,Troy Melton,P,meltotr01
 691441,Cristian Mena,P,menacr01
 669214,Conner Menez,P,menezco01
 596043,Daniel Mengden,P,mengdda01
@@ -907,6 +911,7 @@ mlbID,Name,Position,key_bbref
 519043,Matt Moore,P,moorema02
 686842,McKinley Moore,P,mooremc01
 672839,Francisco Morales,P,moralfr02
+806960,Luis Morales,P,morallu01
 572383,Brian Moran,P,moranbr01
 663558,Jovani Moran,P,moranjo01
 670970,Adrian Morejon,P,morejad01
@@ -966,6 +971,7 @@ mlbID,Name,Position,key_bbref
 543606,Jake Odorizzi,P,odorija01
 642657,Cristofer Ogando,P,ogandcr01
 829272,Shinnosuke Ogasawara,P,ogasash01
+701487,Pierson Ohl,P,ohlpi01
 660271,Shohei Ohtani,TWP,ohtansh01
 595345,Steven Okert,P,okertst01
 670124,Adam Oller,P,ollerad01
@@ -1418,6 +1424,7 @@ mlbID,Name,Position,key_bbref
 666214,Joey Wentz,P,wentzjo01
 669713,Hayden Wesneski,P,wesneha01
 554430,Zack Wheeler,P,wheelza01
+687931,Carson Whisenhunt,P,whiseca01
 686839,Brendan White,P,whitebr01
 669952,Mitch White,P,whitemi03
 669391,Owen White,P,whiteow01
@@ -1489,11 +1496,5 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-681168,Luis Curvelo,P,
-699911,Dugan Darnell,P,
-805299,Brandyn Garcia,P,
-675512,Troy Melton,P,
-806960,Luis Morales,P,
-701487,Pierson Ohl,P,
+680701,John Rooney,P,
 674175,Houston Roth,P,
-687931,Carson Whisenhunt,P,

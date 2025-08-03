@@ -92,6 +92,7 @@ mlbID,Name,Position,key_bbref
 621532,Anthony Bemboom,C,bemboan01
 643217,Andrew Benintendi,LF,beninan01
 666181,Will Benson,LF,bensowi01
+682653,Warming Bernabel,SS,bernawa01
 592144,Wynton Bernard,CF,bernawy01
 672642,Steward Berroa,RF,berrost01
 542932,Jon Berti,3B,bertijo01
@@ -206,6 +207,7 @@ mlbID,Name,Position,key_bbref
 614173,Franchy Cordero,OF,cordefr02
 685744,Kenedy Corona,CF,coronke01
 621043,Carlos Correa,SS,correca01
+666126,Carlos Cortes,LF,corteca01
 681297,Colton Cowser,LF,cowseco01
 643269,Will Craig,3B,craigwi01
 543063,Brandon Crawford,SS,crawfbr01
@@ -331,6 +333,7 @@ mlbID,Name,Position,key_bbref
 624428,Adam Frazier,2B,fraziad01
 640449,Clint Frazier,RF,frazicl01
 453943,Todd Frazier,3B,frazito01
+690976,Alex Freeland,SS,freelal01
 683227,Cody Freeman,3B,freemco01
 518692,Freddie Freeman,1B,freemfr01
 502273,Mike Freeman,SS,freemmi01
@@ -475,6 +478,7 @@ mlbID,Name,Position,key_bbref
 664728,Kyle Isbel,CF,isbelky01
 656577,Alex Jackson,C,jacksal02
 623515,Drew Jackson,2B,jacksdr01
+669236,Jeremiah Jackson,2B,jacksje02
 608671,Travis Jankowski,RF,jankotr01
 643376,Danny Jansen,C,janseda01
 445055,Jon Jay,CF,jayjo02
@@ -484,6 +488,7 @@ mlbID,Name,Position,key_bbref
 656582,Connor Joe,RF,joeco01
 669369,Bryce Johnson,CF,johnsbr03
 669288,Daniel Johnson,CF,johnsda07
+687859,Troy Johnston,OF,johnstr02
 675659,Greg Jones,RF,jonesgr02
 592444,JaCoby Jones,CF,jonesja07
 663330,Jahmai Jones,RF,jonesja08
@@ -609,6 +614,7 @@ mlbID,Name,Position,key_bbref
 687799,Cade Marlowe,LF,marloca01
 592530,José Marmolejos,1B,marmojo01
 571918,Deven Marrero,3B,marrede01
+805300,Jakob Marsee,CF,marseja01
 669016,Brandon Marsh,CF,marshbr02
 606466,Ketel Marte,2B,marteke01
 606336,Luis Marté,SS,martelu02
@@ -1125,10 +1131,4 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-682653,Warming Bernabel,SS,
-666126,Carlos Cortes,LF,
-690976,Alex Freeland,SS,
-669236,Jeremiah Jackson,2B,
-687859,Troy Johnston,OF,
 692216,C.J. Kayfus,1B,
-805300,Jakob Marsee,CF,
