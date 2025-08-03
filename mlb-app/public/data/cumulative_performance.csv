@@ -128,6 +128,7 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-23,777802,Colorado Rockies,New York Yankees,11.5,5.0,0,0
 2025-05-23,777798,Los Angeles Angels,Miami Marlins,8.5,11.0,0,1
 2025-05-23,777804,Athletics,Philadelphia Phillies,9.5,7.0,1,0
+2025-08-03,776895,Boston Red Sox,Houston Astros,8.0,7.0,0,0
 2025-06-09,777580,Cleveland Guardians,Cincinnati Reds,9.0,11.0,0,1
 2025-06-09,777578,Philadelphia Phillies,Chicago Cubs,7.5,7.0,0,0
 2025-06-09,777574,Pittsburgh Pirates,Miami Marlins,8.0,13.0,0,1
