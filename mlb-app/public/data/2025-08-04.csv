@@ -1,14 +1,14 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 776879,Pittsburgh Pirates,San Francisco Giants,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776875,Miami Marlins,Houston Astros,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776874,Detroit Tigers,Minnesota Twins,8.5,Under,Austin Martin,Matt Wallner,Ryan Jeffers,Kody Clemens,Royce Lewis,Trevor Larnach,Alan Roden,Brooks Lee,Edouard Julien,,,,,,,,,,Travis Adams,
-776877,Philadelphia Phillies,Baltimore Orioles,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776882,Atlanta Braves,Milwaukee Brewers,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776876,New York Mets,Cleveland Guardians,8.0,Over,,,,,,,,,,Brandon Nimmo,Francisco Lindor,Juan Soto,Pete Alonso,Jeff McNeil,Mark Vientos,Cedric Mullins,Ronny Mauricio,Francisco Alvarez,,Sean Manaea
+776875,Miami Marlins,Houston Astros,8.5,Under,,,,,,,,,,Xavier Edwards,Kyle Stowers,Agustín Ramírez,Liam Hicks,Otto Lopez,Jakob Marsee,Troy Johnston,Dane Myers,Graham Pauley,,Sandy Alcantara
+776880,Boston Red Sox,Kansas City Royals,9.5,Over,Jonathan India,Bobby Witt Jr.,Vinnie Pasquantino,Maikel Garcia,Salvador Perez,Mike Yastrzemski,Adam Frazier,John Rave,Kyle Isbel,Romy Gonzalez,Alex Bregman,Roman Anthony,Rob Refsnyder,Trevor Story,Ceddanne Rafaela,Jarren Duran,Abraham Toro,Connor Wong,Bailey Falter,Brayan Bello
+776877,Philadelphia Phillies,Baltimore Orioles,9.0,Over,Jackson Holliday,Jordan Westburg,Gunnar Henderson,Adley Rutschman,Tyler O'Neill,Jeremiah Jackson,Colton Cowser,Coby Mayo,Dylan Carlson,Trea Turner,Kyle Schwarber,Bryce Harper,J.T. Realmuto,Nick Castellanos,Harrison Bader,Otto Kemp,Edmundo Sosa,Weston Wilson,Cade Povich,Jesús Luzardo
 776871,Texas Rangers,New York Yankees,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776878,Chicago Cubs,Cincinnati Reds,7.0,Over,,,,,,,,,,,,,,,,,,,,
-776880,Boston Red Sox,Kansas City Royals,9.5,Over,Jonathan India,Bobby Witt Jr.,Vinnie Pasquantino,Maikel Garcia,Salvador Perez,Mike Yastrzemski,Adam Frazier,John Rave,Kyle Isbel,Romy Gonzalez,Alex Bregman,Roman Anthony,Rob Refsnyder,Trevor Story,Ceddanne Rafaela,Jarren Duran,Abraham Toro,Connor Wong,Bailey Falter,Brayan Bello
+776876,New York Mets,Cleveland Guardians,8.0,Over,,,,,,,,,,Brandon Nimmo,Francisco Lindor,Juan Soto,Pete Alonso,Jeff McNeil,Mark Vientos,Cedric Mullins,Ronny Mauricio,Francisco Alvarez,,Sean Manaea
+776882,Atlanta Braves,Milwaukee Brewers,8.0,Over,,,,,,,,,,Jurickson Profar,Matt Olson,Drake Baldwin,Sean Murphy,Michael Harris II,Ozzie Albies,Eli White,Nacho Alvarez Jr.,Nick Allen,,Erick Fedde
 776872,Colorado Rockies,Toronto Blue Jays,12.0,Over,,,,,,,,,,Tyler Freeman,Ezequiel Tovar,Hunter Goodman,Jordan Beck,Warming Bernabel,Brenton Doyle,Thairo Estrada,Braxton Fulford,Kyle Farmer,,Tanner Gordon
-776873,Arizona Diamondbacks,San Diego Padres,9.0,Under,,,,,,,,,,,,,,,,,,,,
 776867,Los Angeles Angels,Tampa Bay Rays,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776870,Los Angeles Dodgers,St. Louis Cardinals,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776873,Arizona Diamondbacks,San Diego Padres,9.0,Under,,,,,,,,,,,,,,,,,,,,
