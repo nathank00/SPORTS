@@ -142,19 +142,19 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-08-03,776883,Seattle Mariners,Texas Rangers,7.5,9.0,0,1
 2025-08-03,776890,Philadelphia Phillies,Detroit Tigers,8.5,2.0,0,0
 2025-08-03,776884,San Diego Padres,St. Louis Cardinals,8.0,10.0,0,1
-2025-08-04,776879,Pittsburgh Pirates,San Francisco Giants,8.5,9.0,0,1
 2025-08-04,776874,Detroit Tigers,Minnesota Twins,8.5,9.0,0,1
+2025-08-04,776879,Pittsburgh Pirates,San Francisco Giants,8.5,9.0,0,1
 2025-08-04,776875,Miami Marlins,Houston Astros,8.0,10.0,0,1
 2025-08-04,776877,Philadelphia Phillies,Baltimore Orioles,9.0,16.0,1,1
 2025-08-04,776880,Boston Red Sox,Kansas City Royals,9.5,13.0,1,1
-2025-08-04,776876,New York Mets,Cleveland Guardians,8.0,13.0,0,1
 2025-08-04,776878,Chicago Cubs,Cincinnati Reds,7.0,5.0,1,0
 2025-08-04,776882,Atlanta Braves,Milwaukee Brewers,8.0,4.0,1,0
-2025-08-04,776872,Colorado Rockies,Toronto Blue Jays,12.0,16.0,0,1
-2025-08-04,776867,Los Angeles Angels,Tampa Bay Rays,8.5,6.0,0,0
+2025-08-04,776876,New York Mets,Cleveland Guardians,8.0,13.0,0,1
 2025-08-04,776871,Texas Rangers,New York Yankees,7.5,13.0,0,1
-2025-08-04,776870,Los Angeles Dodgers,St. Louis Cardinals,8.0,5.0,1,0
+2025-08-04,776867,Los Angeles Angels,Tampa Bay Rays,8.5,6.0,0,0
+2025-08-04,776872,Colorado Rockies,Toronto Blue Jays,12.0,16.0,0,1
 2025-08-04,776873,Arizona Diamondbacks,San Diego Padres,9.0,8.0,0,0
+2025-08-04,776870,Los Angeles Dodgers,St. Louis Cardinals,8.0,5.0,1,0
 2025-03-28,778560,Tampa Bay Rays,Colorado Rockies,8.0,5.0,1,0
 2025-03-28,778549,Toronto Blue Jays,Baltimore Orioles,8.5,10.0,1,1
 2025-03-28,778548,Miami Marlins,Pittsburgh Pirates,8.0,7.0,0,0
