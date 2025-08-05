@@ -143,8 +143,11 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-08-03,776890,Philadelphia Phillies,Detroit Tigers,8.5,2.0,0,0
 2025-08-03,776884,San Diego Padres,St. Louis Cardinals,8.0,10.0,0,1
 2025-08-04,776874,Detroit Tigers,Minnesota Twins,8.5,9.0,0,1
-2025-08-04,776877,Philadelphia Phillies,Baltimore Orioles,9.0,14.0,1,1
 2025-08-04,776875,Miami Marlins,Houston Astros,8.0,10.0,0,1
+2025-08-04,776877,Philadelphia Phillies,Baltimore Orioles,9.0,16.0,1,1
+2025-08-04,776876,New York Mets,Cleveland Guardians,8.0,10.0,0,1
+2025-08-04,776882,Atlanta Braves,Milwaukee Brewers,8.0,4.0,1,0
+2025-08-04,776871,Texas Rangers,New York Yankees,7.5,9.0,0,1
 2025-06-09,777580,Cleveland Guardians,Cincinnati Reds,9.0,11.0,0,1
 2025-06-09,777578,Philadelphia Phillies,Chicago Cubs,7.5,7.0,0,0
 2025-06-09,777574,Pittsburgh Pirates,Miami Marlins,8.0,13.0,0,1
