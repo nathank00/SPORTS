@@ -802,15 +802,6 @@ Away_bullpen_12_bbrefID
 Away_bullpen_13_ID
 Away_bullpen_13_Name
 Away_bullpen_13_bbrefID
-Away_bullpen_14_ID
-Away_bullpen_14_Name
-Away_bullpen_14_bbrefID
-Away_bullpen_15_ID
-Away_bullpen_15_Name
-Away_bullpen_15_bbrefID
-Away_bullpen_16_ID
-Away_bullpen_16_Name
-Away_bullpen_16_bbrefID
 Away_bullpen_1_ID
 Away_bullpen_1_Name
 Away_bullpen_1_bbrefID
