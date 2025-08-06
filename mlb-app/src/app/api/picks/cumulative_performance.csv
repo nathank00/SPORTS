@@ -274,15 +274,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-06,778024,Athletics,Seattle Mariners,10.5,8.0,0,0
 2025-08-05,776866,Pittsburgh Pirates,San Francisco Giants,7.5,9.0,1,1
 2025-08-05,776861,Detroit Tigers,Minnesota Twins,8.0,9.0,1,1
-2025-08-05,776868,Philadelphia Phillies,Baltimore Orioles,9.5,5.0,0,0
-2025-08-05,776865,Washington Nationals,Athletics,8.5,23.0,0,1
-2025-08-05,776864,Boston Red Sox,Kansas City Royals,7.5,8.0,1,1
 2025-08-05,776862,Miami Marlins,Houston Astros,8.5,10.0,0,1
 2025-08-05,776863,New York Mets,Cleveland Guardians,8.5,5.0,0,0
-2025-08-05,776860,Chicago Cubs,Cincinnati Reds,7.5,6.0,0,0
+2025-08-05,776868,Philadelphia Phillies,Baltimore Orioles,9.5,5.0,0,0
+2025-08-05,776865,Washington Nationals,Athletics,8.5,23.0,0,1
 2025-08-05,776869,Atlanta Braves,Milwaukee Brewers,7.5,9.0,0,1
+2025-08-05,776864,Boston Red Sox,Kansas City Royals,7.5,8.0,1,1
+2025-08-05,776860,Chicago Cubs,Cincinnati Reds,7.5,6.0,0,0
 2025-08-05,776855,Texas Rangers,New York Yankees,8.0,2.0,0,0
-2025-08-05,776848,Los Angeles Angels,Tampa Bay Rays,8.0,9.0,0,1
+2025-08-05,776854,Colorado Rockies,Toronto Blue Jays,11.5,12.0,1,1
+2025-08-05,776848,Los Angeles Angels,Tampa Bay Rays,8.0,10.0,0,1
 2025-08-02,776902,Chicago Cubs,Baltimore Orioles,7.5,7.0,0,0
 2025-08-02,776901,Tampa Bay Rays,Los Angeles Dodgers,8.0,4.0,0,0
 2025-08-02,776904,Colorado Rockies,Pittsburgh Pirates,10.0,13.0,0,1
