@@ -652,7 +652,7 @@ mlbID,Name,Position,key_bbref
 676801,Chas McCormick,LF,mccorch01
 669200,Mason McCoy,2B,mccoyma01
 687529,Grant McCray,CF,mccragr01
-676812,Carson McCusker,RF,mccusca01
+676812,Carson McCusker,LF,mccusca01
 457705,Andrew McCutchen,RF,mccutan01
 676782,Mickey McDonald,LF,mcdonmi01
 624512,Reese McGuire,C,mcguire01
@@ -1131,4 +1131,8 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
+681909,Justin Dean,CF,
+687551,Drew Gilbert,CF,
+691720,Kyle Karros,3B,
 692216,C.J. Kayfus,1B,
+671976,Tristan Peters,LF,
