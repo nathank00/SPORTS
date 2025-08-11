@@ -369,18 +369,18 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-07-26,776985,San Francisco Giants,New York Mets,7.5,3.0,1,0
 2025-07-26,776995,Los Angeles Angels,Seattle Mariners,8.5,9.0,0,1
 2025-08-10,776796,Minnesota Twins,Kansas City Royals,9.0,8.0,0,0
-2025-08-10,776803,Atlanta Braves,Miami Marlins,8.5,8.0,0,0
-2025-08-10,776801,Pittsburgh Pirates,Cincinnati Reds,8.0,22.0,1,1
 2025-08-10,776804,Baltimore Orioles,Athletics,9.0,5.0,0,0
-2025-08-10,776797,New York Yankees,Houston Astros,9.0,8.0,0,0
+2025-08-10,776801,Pittsburgh Pirates,Cincinnati Reds,8.0,22.0,1,1
 2025-08-10,776806,Detroit Tigers,Los Angeles Angels,9.5,14.0,0,1
-2025-08-10,776799,Milwaukee Brewers,New York Mets,8.0,13.0,0,1
+2025-08-10,776803,Atlanta Braves,Miami Marlins,8.5,8.0,0,0
+2025-08-10,776797,New York Yankees,Houston Astros,9.0,8.0,0,0
 2025-08-10,776798,Chicago White Sox,Cleveland Guardians,9.0,10.0,0,1
-2025-08-10,776794,Arizona Diamondbacks,Colorado Rockies,9.0,19.0,0,1
 2025-08-10,776800,Texas Rangers,Philadelphia Phillies,7.5,6.0,1,0
-2025-08-10,776791,Seattle Mariners,Tampa Bay Rays,7.5,9.0,0,1
+2025-08-10,776799,Milwaukee Brewers,New York Mets,8.0,13.0,0,1
 2025-08-10,776793,San Francisco Giants,Washington Nationals,8.0,8.0,1,
+2025-08-10,776794,Arizona Diamondbacks,Colorado Rockies,9.0,19.0,0,1
 2025-08-10,776789,San Diego Padres,Boston Red Sox,7.5,8.0,1,1
+2025-08-10,776791,Seattle Mariners,Tampa Bay Rays,7.5,9.0,0,1
 2025-08-10,776795,St. Louis Cardinals,Chicago Cubs,7.5,5.0,1,0
 2025-08-10,776788,Los Angeles Dodgers,Toronto Blue Jays,8.5,9.0,1,1
 2025-05-22,777817,Colorado Rockies,Philadelphia Phillies,11.5,2.0,1,0
