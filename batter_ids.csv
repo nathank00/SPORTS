@@ -237,6 +237,7 @@ mlbID,Name,Position,key_bbref
 669008,Ronnie Dawson,DH,dawsoro01
 602074,Yonathan Daza,CF,dazayo01
 621573,Austin Dean,LF,deanau01
+681909,Justin Dean,CF,deanju01
 621008,Alex De Goti,SS,degotal01
 656364,Greg Deichmann,OF,deichgr01
 657557,Paul DeJong,3B,dejonpa01
@@ -365,6 +366,7 @@ mlbID,Name,Position,key_bbref
 680869,Zack Gelof,2B,gelofza01
 694355,Tyler Gentry,RF,gentrty01
 623508,Trent Giambrone,2B,giambtr01
+687551,Drew Gilbert,CF,gilbedr01
 665926,Andrés Giménez,2B,gimenan01
 656467,Chris Gittens,1B,gittech01
 608422,José Godoy,C,godoyjo01
@@ -438,7 +440,7 @@ mlbID,Name,Position,key_bbref
 687231,Darell Hernaiz,3B,hernada04
 609274,Elier Hernandez,RF,hernael02
 571771,Enrique Hernández,1B,hernaen02
-681715,Heriberto Hernandez,LF,hernahe01
+681715,Heriberto Hernández,LF,hernahe01
 606192,Teoscar Hernández,RF,hernate01
 628450,Yadiel Hernandez,LF,hernaya01
 660634,Yonny Hernández,SS,hernayo02
@@ -502,8 +504,10 @@ mlbID,Name,Position,key_bbref
 690291,Jace Jung,3B,jungja01
 673962,Josh Jung,3B,jungjo01
 663731,Connor Kaiser,SS,kaiseco01
+691720,Kyle Karros,3B,karroky01
 641741,Gosuke Katoh,2B,katohgo01
 694359,Niko Kavadas,OF,kavadni01
+692216,C.J. Kayfus,1B,kayfucj01
 453527,Sean Kazmar Jr.,SS,kazmase01
 807712,Luke Keaschall,2B,keasclu01
 680577,DaShawn Keirsey Jr.,CF,keirsda01
@@ -793,6 +797,7 @@ mlbID,Name,Position,key_bbref
 672761,Wenceel Pérez,RF,perezwe01
 663368,Blake Perkins,CF,perkibl01
 607054,Jace Peterson,SS,peterja01
+671976,Tristan Peters,LF,petertr01
 502054,Tommy Pham,LF,phamth01
 607680,Kevin Pillar,LF,pillake01
 444489,Manny Piña,C,pinama01
@@ -1131,8 +1136,3 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-681909,Justin Dean,CF,
-687551,Drew Gilbert,CF,
-691720,Kyle Karros,3B,
-692216,C.J. Kayfus,1B,
-671976,Tristan Peters,LF,
