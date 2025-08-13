@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776759,11:10,Kansas City Royals,Washington Nationals,9.0,Under,0,0,0,0,,,,,,,,,,Mike Yastrzemski,Bobby Witt Jr.,Vinnie Pasquantino,Maikel Garcia,Salvador Perez,Adam Frazier,Jonathan India,John Rave,Kyle Isbel,,Seth Lugo
 776755,11:10,Milwaukee Brewers,Pittsburgh Pirates,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776759,11:10,Kansas City Royals,Washington Nationals,9.0,Under,0,0,0,0,,,,,,,,,,Mike Yastrzemski,Bobby Witt Jr.,Vinnie Pasquantino,Maikel Garcia,Salvador Perez,Adam Frazier,Jonathan India,John Rave,Kyle Isbel,,Seth Lugo
 776754,11:10,Chicago White Sox,Detroit Tigers,8.5,Under,0,0,0,0,Colt Keith,Gleyber Torres,Kerry Carpenter,Spencer Torkelson,Riley Greene,Wenceel Pérez,Javier Báez,Trey Sweeney,Jake Rogers,Mike Tauchman,Lenyn Sosa,Colson Montgomery,Luis Robert Jr.,Andrew Benintendi,Miguel Vargas,Kyle Teel,Edgar Quero,Curtis Mead,Troy Melton,Shane Smith
-776758,11:15,St. Louis Cardinals,Colorado Rockies,8.5,Under,0,0,0,0,Tyler Freeman,Mickey Moniak,Ezequiel Tovar,Jordan Beck,Warming Bernabel,Kyle Karros,Yanquiel Fernández,Braxton Fulford,Adael Amador,Brendan Donovan,Iván Herrera,Masyn Winn,Alec Burleson,Nolan Gorman,Jordan Walker,Lars Nootbaar,Thomas Saggese,Pedro Pagés,Austin Gomber,Michael McGreevy
-776749,12:45,San Francisco Giants,San Diego Padres,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776760,16:05,New York Yankees,Minnesota Twins,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 776746,11:35,Texas Rangers,Arizona Diamondbacks,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776758,11:15,St. Louis Cardinals,Colorado Rockies,8.5,Under,0,0,0,0,Tyler Freeman,Mickey Moniak,Ezequiel Tovar,Jordan Beck,Warming Bernabel,Kyle Karros,Yanquiel Fernández,Braxton Fulford,Adael Amador,Brendan Donovan,Iván Herrera,Masyn Winn,Alec Burleson,Nolan Gorman,Jordan Walker,Lars Nootbaar,Thomas Saggese,Pedro Pagés,Austin Gomber,Michael McGreevy
 776761,15:35,Baltimore Orioles,Seattle Mariners,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776766,15:40,Cleveland Guardians,Miami Marlins,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776749,12:45,San Francisco Giants,San Diego Padres,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776765,14:10,Cincinnati Reds,Philadelphia Phillies,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776766,15:40,Cleveland Guardians,Miami Marlins,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776757,16:07,Toronto Blue Jays,Chicago Cubs,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776760,16:05,New York Yankees,Minnesota Twins,8.5,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
 776753,16:10,Houston Astros,Boston Red Sox,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776756,16:10,New York Mets,Atlanta Braves,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776752,18:38,Los Angeles Angels,Los Angeles Dodgers,9.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776751,19:05,Athletics,Tampa Bay Rays,9.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776756,16:10,New York Mets,Atlanta Braves,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
