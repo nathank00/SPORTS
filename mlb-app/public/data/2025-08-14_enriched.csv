@@ -1,7 +1,7 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+776747,12:07,Toronto Blue Jays,Chicago Cubs,8.0,Over,0,1,0,0,,,,,,,,,,Davis Schneider,Ernie Clement,Vladimir Guerrero Jr.,Bo Bichette,Ty France,Addison Barger,Myles Straw,Tyler Heineman,Joey Loperfido,,Max Scherzer
 776750,10:05,Baltimore Orioles,Seattle Mariners,9.5,Under,0,0,0,0,Randy Arozarena,Josh Naylor,Julio Rodríguez,Jorge Polanco,Eugenio Suárez,Dominic Canzone,Mitch Garver,J.P. Crawford,Cole Young,Jackson Holliday,Jordan Westburg,Gunnar Henderson,Ryan Mountcastle,Coby Mayo,Daniel Johnson,Jeremiah Jackson,Dylan Carlson,Alex Jackson,Logan Evans,Tomoyuki Sugano
 776745,15:40,Cleveland Guardians,Miami Marlins,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776747,12:07,Toronto Blue Jays,Chicago Cubs,8.0,Over,0,1,0,0,,,,,,,,,,Davis Schneider,Ernie Clement,Vladimir Guerrero Jr.,Bo Bichette,Ty France,Addison Barger,Myles Straw,Tyler Heineman,Joey Loperfido,,Max Scherzer
 776743,15:45,Washington Nationals,Philadelphia Phillies,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776744,16:40,Minnesota Twins,Detroit Tigers,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776748,16:10,New York Mets,Atlanta Braves,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
