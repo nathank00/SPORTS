@@ -1,8 +1,8 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 776750,Baltimore Orioles,Seattle Mariners,9.5,Under,Randy Arozarena,Josh Naylor,Julio Rodríguez,Jorge Polanco,Eugenio Suárez,Dominic Canzone,Mitch Garver,J.P. Crawford,Cole Young,Jackson Holliday,Jordan Westburg,Gunnar Henderson,Ryan Mountcastle,Coby Mayo,Daniel Johnson,Jeremiah Jackson,Dylan Carlson,Alex Jackson,Logan Evans,Tomoyuki Sugano
-776747,Toronto Blue Jays,Chicago Cubs,8.0,Over,,,,,,,,,,Davis Schneider,Ernie Clement,Vladimir Guerrero Jr.,Bo Bichette,Ty France,Addison Barger,Myles Straw,Tyler Heineman,Joey Loperfido,,Max Scherzer
-776745,Cleveland Guardians,Miami Marlins,7.5,Over,,,,,,,,,,,,,,,,,,,,
-776748,New York Mets,Atlanta Braves,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776743,Washington Nationals,Philadelphia Phillies,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776747,Toronto Blue Jays,Chicago Cubs,7.5,Over,Michael Busch,Ian Happ,Kyle Tucker,Carson Kelly,Owen Caissie,Nico Hoerner,Willi Castro,Dansby Swanson,Matt Shaw,Davis Schneider,Ernie Clement,Vladimir Guerrero Jr.,Bo Bichette,Ty France,Addison Barger,Myles Straw,Tyler Heineman,Joey Loperfido,Matthew Boyd,Max Scherzer
+776748,New York Mets,Atlanta Braves,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776745,Cleveland Guardians,Miami Marlins,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776744,Minnesota Twins,Detroit Tigers,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776742,Colorado Rockies,Arizona Diamondbacks,12.5,Over,,,,,,,,,,,,,,,,,,,,
