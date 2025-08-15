@@ -1,14 +1,14 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776739,Washington Nationals,Philadelphia Phillies,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776737,Chicago Cubs,Pittsburgh Pirates,8.5,Under,Ronny Simon,Spencer Horwitz,Bryan Reynolds,Nick Gonzales,Andrew McCutchen,Jack Suwinski,Jared Triolo,Henry Davis,Isiah Kiner-Falefa,Michael Busch,Seiya Suzuki,Kyle Tucker,Ian Happ,Pete Crow-Armstrong,Nico Hoerner,Dansby Swanson,Matt Shaw,Reese McGuire,Braxton Ashcraft,Colin Rea
-776735,Toronto Blue Jays,Texas Rangers,7.5,Over,,,,,,,,,,,,,,,,,,,,
+776739,Washington Nationals,Philadelphia Phillies,8.0,Over,,,,,,,,,,James Wood,CJ Abrams,Josh Bell,Paul DeJong,Luis García Jr.,Daylen Lile,Dylan Crews,Riley Adams,Robert Hassell III,,MacKenzie Gore
 776738,Cleveland Guardians,Atlanta Braves,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776735,Toronto Blue Jays,Texas Rangers,7.5,Over,,,,,,,,,,Nathan Lukes,Bo Bichette,Vladimir Guerrero Jr.,Addison Barger,Daulton Varsho,Alejandro Kirk,Joey Loperfido,Ernie Clement,Andrés Giménez,,Chris Bassitt
 776736,New York Mets,Seattle Mariners,8.5,Over,,,,,,,,,,Francisco Lindor,Juan Soto,Brandon Nimmo,Pete Alonso,Jeff McNeil,Mark Vientos,Cedric Mullins,Francisco Alvarez,Ronny Mauricio,,Sean Manaea
-776732,Minnesota Twins,Detroit Tigers,9.5,Over,,,,,,,,,,,,,,,,,,,,
-776728,Kansas City Royals,Chicago White Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776741,Boston Red Sox,Miami Marlins,8.5,Over,,,,,,,,,,Roman Anthony,Alex Bregman,Jarren Duran,Trevor Story,Wilyer Abreu,Romy Gonzalez,Abraham Toro,Ceddanne Rafaela,Carlos Narváez,,Lucas Giolito
 776733,Houston Astros,Baltimore Orioles,7.5,Over,,,,,,,,,,,,,,,,,,,,
+776732,Minnesota Twins,Detroit Tigers,9.5,Over,,,,,,,,,,,,,,,,,,,,
+776728,Kansas City Royals,Chicago White Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776731,St. Louis Cardinals,New York Yankees,9.0,Over,,,,,,,,,,Brendan Donovan,Masyn Winn,Alec Burleson,Iván Herrera,Lars Nootbaar,Nolan Gorman,Jordan Walker,Pedro Pagés,Victor Scott II,,Andre Pallante
-776730,Colorado Rockies,Arizona Diamondbacks,12.0,Over,,,,,,,,,,,,,,,,,,,,
-776729,San Francisco Giants,Tampa Bay Rays,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776730,Colorado Rockies,Arizona Diamondbacks,12.0,Under,Geraldo Perdomo,Ketel Marte,Corbin Carroll,Lourdes Gurriel Jr.,Jake McCarthy,Tyler Locklear,Alek Thomas,James McCann,Blaze Alexander,,,,,,,,,,Brandon Pfaadt,
 776734,Athletics,Los Angeles Angels,10.0,Over,,,,,,,,,,,,,,,,,,,,
+776729,San Francisco Giants,Tampa Bay Rays,8.0,Over,,,,,,,,,,,,,,,,,,,,
