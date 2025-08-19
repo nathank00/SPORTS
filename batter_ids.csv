@@ -92,7 +92,7 @@ mlbID,Name,Position,key_bbref
 621532,Anthony Bemboom,C,bemboan01
 643217,Andrew Benintendi,LF,beninan01
 666181,Will Benson,LF,bensowi01
-682653,Warming Bernabel,SS,bernawa01
+682653,Warming Bernabel,3B,bernawa01
 592144,Wynton Bernard,CF,bernawy01
 672642,Steward Berroa,RF,berrost01
 542932,Jon Berti,3B,bertijo01
@@ -142,6 +142,7 @@ mlbID,Name,Position,key_bbref
 665828,Oswaldo Cabrera,3B,cabreos01
 695506,Jac Caglianone,RF,caglija01
 456715,Lorenzo Cain,CF,cainlo01
+683357,Owen Caissie,RF,caissow01
 594777,Kole Calhoun,RF,calhoko01
 641432,Willie Calhoun,1B,calhowi01
 669743,Alex Call,RF,callal02
@@ -932,6 +933,7 @@ mlbID,Name,Position,key_bbref
 669222,Nick Senzel,3B,senzeni01
 661531,Brian Serven,C,servebr01
 600474,Pedro Severino,C,severpe01
+676044,Bob Seymour,1B,seymobo01
 807713,Matt Shaw,3B,shawma01
 543768,Travis Shaw,3B,shawtr01
 657757,Gavin Sheets,LF,sheetga01
@@ -1136,4 +1138,7 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-683357,Owen Caissie,RF,
+691185,Maximo Acosta,SS,
+694212,Samuel Basallo,C,
+687637,Dylan Beavers,RF,
+701675,Nathan Church,LF,
