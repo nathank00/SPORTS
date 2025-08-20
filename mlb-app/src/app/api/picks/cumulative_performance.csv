@@ -884,7 +884,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-14,777512,Milwaukee Brewers,St. Louis Cardinals,8.0,11.0,1,1
 2025-08-19,776691,Chicago Cubs,Milwaukee Brewers,6.5,10.0,0,1
 2025-08-19,776691,Chicago Cubs,Milwaukee Brewers,7.0,10.0,0,1
-2025-08-19,776686,Miami Marlins,St. Louis Cardinals,8.0,10.0,1,1
+2025-08-19,776679,Pittsburgh Pirates,Toronto Blue Jays,7.5,9.0,1,1
+2025-08-19,776686,Miami Marlins,St. Louis Cardinals,8.0,11.0,1,1
+2025-08-19,776687,Atlanta Braves,Chicago White Sox,8.5,12.0,0,1
 2025-04-10,778378,Cleveland Guardians,Chicago White Sox,7.5,7.0,1,0
 2025-04-10,778382,Tampa Bay Rays,Los Angeles Angels,8.0,12.0,1,1
 2025-04-10,778371,Colorado Rockies,Milwaukee Brewers,10.5,9.0,1,0
