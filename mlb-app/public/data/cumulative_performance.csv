@@ -863,14 +863,14 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-08-19,776685,Detroit Tigers,Houston Astros,7.5,1.0,0,0
 2025-08-19,776679,Pittsburgh Pirates,Toronto Blue Jays,7.5,10.0,1,1
 2025-08-19,776686,Miami Marlins,St. Louis Cardinals,8.0,11.0,1,1
-2025-08-19,776680,Philadelphia Phillies,Seattle Mariners,8.0,10.0,1,1
 2025-08-19,776678,Washington Nationals,New York Mets,9.0,9.0,0,
+2025-08-19,776680,Philadelphia Phillies,Seattle Mariners,8.0,10.0,1,1
+2025-08-19,776677,Tampa Bay Rays,New York Yankees,8.0,14.0,0,1
 2025-08-19,776684,Boston Red Sox,Baltimore Orioles,9.0,7.0,1,0
 2025-08-19,776687,Atlanta Braves,Chicago White Sox,8.5,21.0,0,1
-2025-08-19,776677,Tampa Bay Rays,New York Yankees,8.0,12.0,0,1
-2025-08-19,776671,Colorado Rockies,Los Angeles Dodgers,12.0,14.0,0,1
-2025-08-19,776674,Minnesota Twins,Athletics,8.5,9.0,0,1
 2025-08-19,776675,Kansas City Royals,Texas Rangers,8.5,7.0,0,0
+2025-08-19,776674,Minnesota Twins,Athletics,8.5,9.0,0,1
+2025-08-19,776671,Colorado Rockies,Los Angeles Dodgers,12.0,15.0,0,1
 2025-04-10,778382,Tampa Bay Rays,Los Angeles Angels,8.0,12.0,0,1
 2025-04-10,778378,Cleveland Guardians,Chicago White Sox,7.5,7.0,0,0
 2025-07-28,776966,Baltimore Orioles,Toronto Blue Jays,9.5,15.0,1,1
