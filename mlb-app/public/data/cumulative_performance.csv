@@ -24,10 +24,12 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-07,778012,Kansas City Royals,Chicago White Sox,8.0,3.0,0,0
 2025-05-07,778009,Los Angeles Angels,Toronto Blue Jays,8.5,9.0,1,1
 2025-05-07,778013,Colorado Rockies,Detroit Tigers,10.0,14.0,0,1
-2025-08-20,776662,Philadelphia Phillies,Seattle Mariners,8.5,13.0,1,1
 2025-08-20,776661,Pittsburgh Pirates,Toronto Blue Jays,8.5,3.0,0,0
+2025-08-20,776662,Philadelphia Phillies,Seattle Mariners,8.5,13.0,1,1
+2025-08-20,776670,Miami Marlins,St. Louis Cardinals,8.5,8.0,0,0
 2025-08-20,776673,Detroit Tigers,Houston Astros,8.5,9.0,0,1
 2025-08-20,776658,Arizona Diamondbacks,Cleveland Guardians,9.0,5.0,0,0
+2025-08-20,776659,Washington Nationals,New York Mets,9.0,9.0,0,
 2025-08-20,776669,Atlanta Braves,Chicago White Sox,9.0,1.0,0,0
 2025-04-29,778129,Cleveland Guardians,Minnesota Twins,8.0,3.0,0,0
 2025-04-29,778133,Baltimore Orioles,New York Yankees,9.5,18.0,0,1
