@@ -213,6 +213,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-08-21,776653,Minnesota Twins,Athletics,9.5,11.0,0,1
 2025-08-21,776657,Kansas City Royals,Texas Rangers,9.0,10.0,0,1
 2025-08-21,776651,Chicago Cubs,Milwaukee Brewers,6.5,5.0,1,0
+2025-08-21,776644,Colorado Rockies,Los Angeles Dodgers,12.0,14.0,0,1
+2025-08-21,776642,San Diego Padres,San Francisco Giants,7.5,12.0,0,1
 2025-05-13,777944,Cleveland Guardians,Milwaukee Brewers,9.0,2.0,1,0
 2025-05-13,777940,Detroit Tigers,Boston Red Sox,8.5,19.0,0,1
 2025-05-13,777945,Cincinnati Reds,Chicago White Sox,9.0,6.0,0,0
