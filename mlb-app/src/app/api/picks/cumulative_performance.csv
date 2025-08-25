@@ -1252,20 +1252,20 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-08-23,776618,Los Angeles Angels,Chicago Cubs,9.5,13.0,1,1
 2025-08-23,776617,San Diego Padres,Los Angeles Dodgers,8.5,6.0,1,0
 2025-08-23,776620,Seattle Mariners,Athletics,8.0,3.0,0,0
-2025-08-24,776606,Tampa Bay Rays,St. Louis Cardinals,9.0,9.0,0,
 2025-08-24,776610,Pittsburgh Pirates,Colorado Rockies,7.5,4.0,0,0
 2025-08-24,776612,Baltimore Orioles,Houston Astros,9.0,5.0,0,0
+2025-08-24,776606,Tampa Bay Rays,St. Louis Cardinals,9.0,9.0,0,
 2025-08-24,776613,Philadelphia Phillies,Washington Nationals,9.5,5.0,1,0
 2025-08-24,776614,Miami Marlins,Toronto Blue Jays,7.5,8.0,1,1
 2025-08-24,776624,Atlanta Braves,New York Mets,9.5,7.0,1,0
-2025-08-24,776615,Detroit Tigers,Kansas City Royals,8.0,18.0,0,1
 2025-08-24,776607,Chicago White Sox,Minnesota Twins,9.0,8.0,0,0
+2025-08-24,776615,Detroit Tigers,Kansas City Royals,8.0,18.0,0,1
 2025-08-24,776608,Milwaukee Brewers,San Francisco Giants,8.0,7.0,1,0
 2025-08-24,776611,Texas Rangers,Cleveland Guardians,7.5,5.0,0,0
 2025-08-24,776605,Los Angeles Angels,Chicago Cubs,9.5,7.0,1,0
-2025-08-24,776609,Arizona Diamondbacks,Cincinnati Reds,9.0,7.0,0,0
 2025-08-24,776602,Seattle Mariners,Athletics,7.5,15.0,1,1
 2025-08-24,776616,New York Yankees,Boston Red Sox,8.5,9.0,1,1
+2025-08-24,776609,Arizona Diamondbacks,Cincinnati Reds,9.0,7.0,0,0
 2025-08-24,776603,San Diego Padres,Los Angeles Dodgers,8.0,10.0,0,1
 2025-05-04,778068,St. Louis Cardinals,New York Mets,8.5,9.0,0,1
 2025-05-04,778051,Pittsburgh Pirates,San Diego Padres,9.0,4.0,1,0
