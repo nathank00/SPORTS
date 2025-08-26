@@ -1460,14 +1460,14 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-28,777320,Houston Astros,Chicago Cubs,8.5,15.0,0,1
 2025-06-28,777315,Los Angeles Angels,Washington Nationals,9.0,10.0,0,1
 2025-06-28,777333,Atlanta Braves,Philadelphia Phillies,7.5,7.0,1,0
-2025-08-25,776604,Baltimore Orioles,Boston Red Sox,9.0,7.0,1,0
-2025-08-25,776601,Cleveland Guardians,Tampa Bay Rays,7.5,9.0,0,1
 2025-08-25,776600,Miami Marlins,Atlanta Braves,8.0,3.0,1,0
+2025-08-25,776601,Cleveland Guardians,Tampa Bay Rays,7.5,9.0,0,1
+2025-08-25,776604,Baltimore Orioles,Boston Red Sox,9.0,7.0,1,0
 2025-08-25,776597,New York Yankees,Washington Nationals,9.0,15.0,0,1
-2025-08-25,776599,Chicago White Sox,Kansas City Royals,8.5,7.0,0,0
-2025-08-25,776593,Milwaukee Brewers,Arizona Diamondbacks,8.0,11.0,0,1
-2025-08-25,776598,New York Mets,Philadelphia Phillies,7.5,13.0,0,1
 2025-08-25,776596,Toronto Blue Jays,Minnesota Twins,8.0,14.0,0,1
+2025-08-25,776599,Chicago White Sox,Kansas City Royals,8.5,7.0,0,0
+2025-08-25,776598,New York Mets,Philadelphia Phillies,7.5,16.0,0,1
+2025-08-25,776593,Milwaukee Brewers,Arizona Diamondbacks,8.0,12.0,0,1
 2025-08-25,776589,St. Louis Cardinals,Pittsburgh Pirates,7.5,11.0,0,1
 2025-08-22,776637,Pittsburgh Pirates,Colorado Rockies,8.5,9.0,0,1
 2025-08-22,776647,New York Yankees,Boston Red Sox,8.5,1.0,1,0
