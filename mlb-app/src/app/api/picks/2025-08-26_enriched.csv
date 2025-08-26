@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776591,15:35,Baltimore Orioles,Boston Red Sox,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776581,15:40,Miami Marlins,Atlanta Braves,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776591,15:35,Baltimore Orioles,Boston Red Sox,8.5,Over,0,1,0,0,Roman Anthony,Alex Bregman,Jarren Duran,Trevor Story,Nathaniel Lowe,Masataka Yoshida,Ceddanne Rafaela,David Hamilton,Carlos Narváez,,,,,,,,,,Lucas Giolito,
 776584,15:40,Cleveland Guardians,Tampa Bay Rays,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776588,16:05,New York Yankees,Washington Nationals,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776582,16:07,Toronto Blue Jays,Minnesota Twins,8.5,Under,0,0,0,0,Trevor Larnach,Brooks Lee,Luke Keaschall,Matt Wallner,Edouard Julien,James Outman,Royce Lewis,Mickey Gasper,Austin Martin,,,,,,,,,,Bailey Ober,
-776585,16:10,New York Mets,Philadelphia Phillies,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776583,16:40,Chicago White Sox,Kansas City Royals,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776581,15:40,Miami Marlins,Atlanta Braves,8.0,Under,0,0,0,0,,,,,,,,,,Xavier Edwards,Jakob Marsee,Agustín Ramírez,Otto Lopez,Liam Hicks,Heriberto Hernández,Troy Johnston,Derek Hill,Javier Sanoja,,Sandy Alcantara
+776588,16:05,New York Yankees,Washington Nationals,9.0,Over,0,1,0,0,James Wood,CJ Abrams,Luis García Jr.,Josh Bell,Riley Adams,Dylan Crews,Brady House,Robert Hassell III,Jacob Young,Paul Goldschmidt,Aaron Judge,Cody Bellinger,Giancarlo Stanton,Trent Grisham,Amed Rosario,Jazz Chisholm Jr.,Anthony Volpe,Austin Wells,MacKenzie Gore,Luis Gil
+776582,16:07,Toronto Blue Jays,Minnesota Twins,8.5,Under,0,0,0,0,Trevor Larnach,Brooks Lee,Luke Keaschall,Matt Wallner,Edouard Julien,James Outman,Royce Lewis,Mickey Gasper,Austin Martin,George Springer,Nathan Lukes,Vladimir Guerrero Jr.,Bo Bichette,Addison Barger,Alejandro Kirk,Ernie Clement,Ty France,Andrés Giménez,Bailey Ober,Chris Bassitt
+776583,16:40,Chicago White Sox,Kansas City Royals,8.5,Over,0,1,0,0,,,,,,,,,,Mike Tauchman,Miguel Vargas,Colson Montgomery,Lenyn Sosa,Kyle Teel,Luis Robert Jr.,Andrew Benintendi,Curtis Mead,Brooks Baldwin,,Martín Pérez
+776585,16:10,New York Mets,Philadelphia Phillies,8.5,Over,0,1,0,0,,,,,,,,,,Francisco Lindor,Juan Soto,Starling Marte,Pete Alonso,Mark Vientos,Brandon Nimmo,Tyrone Taylor,Jeff McNeil,Luis Torrens,,Sean Manaea
 776578,16:45,St. Louis Cardinals,Pittsburgh Pirates,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776575,17:05,Texas Rangers,Los Angeles Angels,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776586,16:40,Milwaukee Brewers,Arizona Diamondbacks,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776587,17:10,Houston Astros,Colorado Rockies,8.0,Under,0,0,0,0,Tyler Freeman,Mickey Moniak,Hunter Goodman,Jordan Beck,Brenton Doyle,Ezequiel Tovar,Warming Bernabel,Kyle Karros,Ryan Ritter,,,,,,,,,,Tanner Gordon,
-776573,19:05,Athletics,Detroit Tigers,11.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776586,16:40,Milwaukee Brewers,Arizona Diamondbacks,8.0,Under,0,0,0,0,Geraldo Perdomo,Ketel Marte,Corbin Carroll,Lourdes Gurriel Jr.,Pavin Smith,Gabriel Moreno,Jake McCarthy,Blaze Alexander,Alek Thomas,,,,,,,,,,Brandon Pfaadt,
 776577,18:40,Seattle Mariners,San Diego Padres,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776587,17:10,Houston Astros,Colorado Rockies,8.0,Under,0,0,0,0,Tyler Freeman,Mickey Moniak,Hunter Goodman,Jordan Beck,Brenton Doyle,Ezequiel Tovar,Warming Bernabel,Kyle Karros,Ryan Ritter,,,,,,,,,,Tanner Gordon,
 776576,18:45,San Francisco Giants,Chicago Cubs,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776574,19:10,Los Angeles Dodgers,Cincinnati Reds,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776573,19:05,Athletics,Detroit Tigers,11.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
