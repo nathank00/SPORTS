@@ -201,16 +201,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-31,777695,Seattle Mariners,Minnesota Twins,7.0,9.0,0,1
 2025-05-31,777698,Los Angeles Dodgers,New York Yankees,9.5,20.0,1,1
 2025-05-31,777696,Arizona Diamondbacks,Washington Nationals,9.5,18.0,0,1
-2025-08-26,776584,Cleveland Guardians,Tampa Bay Rays,7.5,3.0,0,0
 2025-08-26,776591,Baltimore Orioles,Boston Red Sox,8.5,5.0,1,0
-2025-08-26,776581,Miami Marlins,Atlanta Braves,8.0,13.0,0,1
+2025-08-26,776584,Cleveland Guardians,Tampa Bay Rays,7.5,3.0,0,0
 2025-08-26,776582,Toronto Blue Jays,Minnesota Twins,8.5,12.0,1,1
+2025-08-26,776581,Miami Marlins,Atlanta Braves,8.0,13.0,0,1
 2025-08-26,776588,New York Yankees,Washington Nationals,9.0,6.0,1,0
-2025-08-26,776585,New York Mets,Philadelphia Phillies,8.5,11.0,1,1
 2025-08-26,776583,Chicago White Sox,Kansas City Royals,8.5,9.0,0,1
 2025-08-26,776578,St. Louis Cardinals,Pittsburgh Pirates,8.0,11.0,1,1
 2025-08-26,776586,Milwaukee Brewers,Arizona Diamondbacks,8.0,16.0,0,1
+2025-08-26,776585,New York Mets,Philadelphia Phillies,8.5,11.0,1,1
 2025-08-26,776575,Texas Rangers,Los Angeles Angels,8.5,10.0,0,1
+2025-08-26,776587,Houston Astros,Colorado Rockies,8.0,7.0,0,0
 2025-08-21,776653,Minnesota Twins,Athletics,9.5,11.0,0,1
 2025-08-21,776657,Kansas City Royals,Texas Rangers,9.0,10.0,0,1
 2025-08-21,776651,Chicago Cubs,Milwaukee Brewers,6.5,5.0,1,0
