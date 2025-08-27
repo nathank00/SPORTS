@@ -239,6 +239,7 @@ mlbID,Name,Position,key_bbref
 570666,Luis Cessa,P,cessalu01
 468504,Jhoulys Chacín,P,chacijh01
 605177,Andrew Chafin,P,chafian01
+696149,Bubba Chandler,P,chandbu01
 547973,Aroldis Chapman,P,chapmar01
 608638,JT Chargois,P,chargjt01
 543022,Tyler Chatwood,P,chatwty01
@@ -599,6 +600,7 @@ mlbID,Name,Position,key_bbref
 663773,Bryan Hoeing,P,hoeinbr01
 694851,Andrew Hoffmann,P,hoffman01
 656546,Jeff Hoffman,P,hoffmje02
+676510,Nolan Hoffman,P,hoffmno01
 680684,Gunnar Hoglund,P,hoglugu01
 670059,Colin Holderman,P,holdeco01
 502706,Derek Holland,P,hollade01
@@ -851,6 +853,7 @@ mlbID,Name,Position,key_bbref
 543521,Collin McHugh,P,mchugco01
 641853,David McKay,P,mckayda02
 663474,Triston McKenzie,P,mckentr01
+690997,Nolan McLean,P,mcleano01
 669111,John McMillon,P,mcmiljo01
 656725,Alex McRae,P,mcraeal01
 607644,John Means,P,meansjo01
@@ -873,6 +876,7 @@ mlbID,Name,Position,key_bbref
 596043,Daniel Mengden,P,mengdda01
 675650,Michael Mercado,P,mercami01
 657240,Julian Merryweather,P,merryju01
+800048,Parker Messick,P,messipa01
 676974,Max Meyer,P,meyerma01
 682825,Luis Mey,P,meylu01
 641871,Keynan Middleton,P,middlke01
@@ -1014,6 +1018,7 @@ mlbID,Name,Position,key_bbref
 676840,Matt Peacock,P,peacoma01
 663878,Nate Pearson,P,pearsna01
 665625,Elvis Peguero,P,pegueel01
+666711,Joel Peguero,P,peguejo01
 570240,Félix Peña,P,penafe01
 679156,Walter Pennington,P,penniwa01
 683068,Zach Penrod,P,penroza01
@@ -1256,6 +1261,7 @@ mlbID,Name,Position,key_bbref
 676766,Nick Snyder,P,snydeni01
 676660,Jared Solomon,P,solomja01
 656981,Peter Solomon,P,solompe01
+805427,Drew Sommers,P,sommedr01
 666277,George Soriano,P,soriage01
 465657,Joakim Soria,P,soriajo01
 667755,José Soriano,P,soriajo02
@@ -1499,13 +1505,8 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
+686930,Mason Barnett,P,
 685326,McCade Brown,P,
-696149,Bubba Chandler,P,
-676510,Nolan Hoffman,P,
 687209,Zach Maxwell,P,
-690997,Nolan McLean,P,
-800048,Parker Messick,P,
-666711,Joel Peguero,P,
 680701,John Rooney,P,
-805427,Drew Sommers,P,
 687003,Brian Van Belle,P,

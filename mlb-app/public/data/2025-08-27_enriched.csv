@@ -1,0 +1,16 @@
+game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+776570,10:05,New York Yankees,Washington Nationals,8.5,Under,0,0,0,0,James Wood,CJ Abrams,Riley Adams,Luis García Jr.,Dylan Crews,Andrés Chaparro,Drew Millas,Brady House,Jacob Young,Trent Grisham,Ben Rice,Aaron Judge,Cody Bellinger,Jazz Chisholm Jr.,Jasson Domínguez,Anthony Volpe,Austin Wells,Ryan McMahon,Cade Cavalli,Max Fried
+776580,10:10,Cleveland Guardians,Tampa Bay Rays,7.0,Under,0,0,0,0,Chandler Simpson,Yandy Díaz,Brandon Lowe,Junior Caminero,Josh Lowe,Everson Pereira,Jake Mangum,Carson Williams,Hunter Feduccia,Steven Kwan,Brayan Rocchio,Kyle Manzardo,C.J. Kayfus,Gabriel Arias,Nolan Jones,Will Wilson,Angel Martínez,Austin Hedges,Drew Rasmussen,Slade Cecconi
+776561,13:10,Seattle Mariners,San Diego Padres,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776579,15:35,Baltimore Orioles,Boston Red Sox,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776565,10:10,Miami Marlins,Atlanta Braves,8.5,Over,0,1,0,0,Jurickson Profar,Matt Olson,Ronald Acuña Jr.,Drake Baldwin,Ozzie Albies,Michael Harris II,Nacho Alvarez Jr.,Jake Fraley,Vidal Bruján,Xavier Edwards,Otto Lopez,Jakob Marsee,Heriberto Hernández,Eric Wagaman,Dane Myers,Liam Hicks,Derek Hill,Maximo Acosta,Joey Wentz,Ryan Gusto
+776567,16:07,Toronto Blue Jays,Minnesota Twins,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776569,16:40,Chicago White Sox,Kansas City Royals,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776572,16:40,Milwaukee Brewers,Arizona Diamondbacks,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776566,16:10,New York Mets,Philadelphia Phillies,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776568,16:45,St. Louis Cardinals,Pittsburgh Pirates,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776563,17:05,Texas Rangers,Los Angeles Angels,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776571,17:10,Houston Astros,Colorado Rockies,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776562,17:40,Los Angeles Dodgers,Cincinnati Reds,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776559,19:05,Athletics,Detroit Tigers,10.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776557,18:45,San Francisco Giants,Chicago Cubs,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,

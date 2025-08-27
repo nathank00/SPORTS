@@ -2,6 +2,7 @@ mlbID,Name,Position,key_bbref
 682928,CJ Abrams,SS,abramcj01
 547989,José Abreu,1B,abreujo02
 677800,Wilyer Abreu,RF,abreuwi02
+691185,Maximo Acosta,SS,acostma02
 682668,Luisangel Acuña,2B,acunajo01
 660670,Ronald Acuña Jr.,RF,acunaro01
 642715,Willy Adames,SS,adamewi01
@@ -79,10 +80,12 @@ mlbID,Name,Position,key_bbref
 678489,Jorge Barrosa,LF,barrojo01
 663698,Joey Bart,C,bartjo01
 678545,Osleivis Basabe,SS,basabos01
+694212,Samuel Basallo,C,basalsa01
 676946,Matthew Batten,2B,battema01
 683146,Brett Baty,3B,batybr01
 641343,Jake Bauers,LF,bauerja01
 607461,Matt Beaty,DH,beatyma01
+687637,Dylan Beavers,RF,beavedy01
 542921,Tim Beckham,SS,beckhti01
 687597,Jordan Beck,LF,beckjo01
 666179,Seth Beer,1B,beerse01
@@ -190,6 +193,7 @@ mlbID,Name,Position,key_bbref
 665862,Jazz Chisholm Jr.,2B,chishja01
 596847,Ji Man Choi,1B,choiji01
 694192,Jackson Chourio,CF,chourja01
+701675,Nathan Church,LF,churcna01
 624419,Nick Ciuffo,C,ciuffni01
 672016,Denzel Clarke,CF,clarkde02
 682729,Jonatan Clase,LF,clasejo01
@@ -353,6 +357,7 @@ mlbID,Name,Position,key_bbref
 605244,Aramis Garcia,C,garciar01
 541645,Avisaíl García,RF,garciav01
 660650,Dérmis Garcia,1B,garcide02
+691373,Jhostynxon Garcia,CF,garcijh01
 676480,José Barrero,SS,garcijo02
 544725,Leury García,OF,garcile02
 671277,Luis García Jr.,2B,garcilu04
@@ -1101,6 +1106,7 @@ mlbID,Name,Position,key_bbref
 592859,Stevie Wilkerson,2B,wilkest01
 675961,Alika Williams,2B,willial04
 810938,Ben Williamson,3B,willibe03
+700246,Carson Williams,SS,willica02
 642211,Justin Williams,RF,williju02
 663897,Luke Williams,SS,willilu01
 592863,Mason Williams,CF,willima10
@@ -1138,10 +1144,4 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-691185,Maximo Acosta,SS,
 677943,Will Banfield,C,
-694212,Samuel Basallo,C,
-687637,Dylan Beavers,RF,
-701675,Nathan Church,LF,
-691373,Jhostynxon Garcia,CF,
-700246,Carson Williams,SS,
