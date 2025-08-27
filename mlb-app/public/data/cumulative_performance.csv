@@ -52,8 +52,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-29,778120,Colorado Rockies,Atlanta Braves,11.0,10.0,0,0
 2025-04-29,778123,Los Angeles Dodgers,Miami Marlins,8.5,10.0,0,1
 2025-04-29,778126,San Diego Padres,San Francisco Giants,7.0,11.0,0,1
-2025-08-27,776565,Miami Marlins,Atlanta Braves,8.5,13.0,1,1
 2025-08-27,776570,New York Yankees,Washington Nationals,8.5,13.0,0,1
+2025-08-27,776565,Miami Marlins,Atlanta Braves,8.5,13.0,1,1
 2025-08-27,776580,Cleveland Guardians,Tampa Bay Rays,7.0,7.0,0,
 2025-05-15,777909,Atlanta Braves,Washington Nationals,8.5,7.0,1,0
 2025-05-15,777912,Cincinnati Reds,Chicago White Sox,9.0,8.0,0,0
