@@ -1247,18 +1247,18 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-20,778234,Texas Rangers,Los Angeles Dodgers,8.5,1.0,0,0
 2025-04-20,778237,Houston Astros,San Diego Padres,7.5,5.0,0,0
 2025-08-29,776545,Washington Nationals,Tampa Bay Rays,9.0,5.0,0,0
-2025-08-29,776552,Philadelphia Phillies,Atlanta Braves,9.0,3.0,1,0
-2025-08-29,776546,Toronto Blue Jays,Milwaukee Brewers,8.0,9.0,1,1
 2025-08-29,776551,Cincinnati Reds,St. Louis Cardinals,9.0,12.0,0,1
-2025-08-29,776549,Boston Red Sox,Pittsburgh Pirates,8.0,6.0,1,0
+2025-08-29,776546,Toronto Blue Jays,Milwaukee Brewers,8.0,9.0,1,1
+2025-08-29,776552,Philadelphia Phillies,Atlanta Braves,9.0,3.0,1,0
 2025-08-29,776547,Cleveland Guardians,Seattle Mariners,8.0,9.0,1,1
+2025-08-29,776549,Boston Red Sox,Pittsburgh Pirates,8.0,6.0,1,0
 2025-08-29,776548,New York Mets,Miami Marlins,7.5,28.0,0,1
 2025-08-29,776544,Chicago White Sox,New York Yankees,8.5,12.0,0,1
-2025-08-29,776543,Houston Astros,Los Angeles Angels,9.0,2.0,0,0
-2025-08-29,776541,Minnesota Twins,San Diego Padres,8.5,11.0,1,1
-2025-08-29,776542,Colorado Rockies,Chicago Cubs,11.0,18.0,0,1
 2025-08-29,776540,Kansas City Royals,Detroit Tigers,9.0,8.0,0,0
-2025-08-29,776533,San Francisco Giants,Baltimore Orioles,7.5,15.0,0,1
+2025-08-29,776541,Minnesota Twins,San Diego Padres,8.5,11.0,1,1
+2025-08-29,776543,Houston Astros,Los Angeles Angels,9.0,2.0,0,0
+2025-08-29,776542,Colorado Rockies,Chicago Cubs,11.0,18.0,0,1
+2025-08-29,776533,San Francisco Giants,Baltimore Orioles,7.5,16.0,0,1
 2025-05-16,777900,Chicago Cubs,Chicago White Sox,11.5,16.0,0,1
 2025-05-16,777902,Cincinnati Reds,Cleveland Guardians,9.5,9.0,1,0
 2025-05-16,777905,Philadelphia Phillies,Pittsburgh Pirates,9.0,12.0,1,1
