@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 776525,Washington Nationals,Tampa Bay Rays,8.5,Under,,,,,,,,,,James Wood,CJ Abrams,Paul DeJong,Josh Bell,Riley Adams,Daylen Lile,Dylan Crews,Luis García Jr.,Robert Hassell III,,Jake Irvin
-776539,Boston Red Sox,Pittsburgh Pirates,9.0,Under,Jared Triolo,Spencer Horwitz,Bryan Reynolds,Tommy Pham,Andrew McCutchen,Nick Gonzales,Oneil Cruz,Joey Bart,Isiah Kiner-Falefa,,,,,,,,,,Johan Oviedo,
 776527,Toronto Blue Jays,Milwaukee Brewers,8.5,Under,Brice Turang,Jackson Chourio,Christian Yelich,William Contreras,Sal Frelick,Andrew Vaughn,Isaac Collins,Caleb Durbin,Andruw Monasterio,George Springer,Addison Barger,Vladimir Guerrero Jr.,Bo Bichette,Alejandro Kirk,Nathan Lukes,Ty France,Andrés Giménez,Myles Straw,Quinn Priester,Kevin Gausman
-776535,New York Mets,Miami Marlins,7.5,Over,,,,,,,,,,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jeff McNeil,Brett Baty,Luis Torrens,Cedric Mullins,,David Peterson
-776532,Philadelphia Phillies,Atlanta Braves,7.5,Over,,,,,,,,,,,,,,,,,,,,
+776539,Boston Red Sox,Pittsburgh Pirates,9.0,Over,Jared Triolo,Spencer Horwitz,Bryan Reynolds,Tommy Pham,Andrew McCutchen,Nick Gonzales,Oneil Cruz,Joey Bart,Isiah Kiner-Falefa,Roman Anthony,Alex Bregman,Jarren Duran,Trevor Story,Masataka Yoshida,Romy Gonzalez,Ceddanne Rafaela,David Hamilton,Carlos Narváez,Johan Oviedo,Dustin May
 776536,Cincinnati Reds,St. Louis Cardinals,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776529,Chicago White Sox,New York Yankees,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776532,Philadelphia Phillies,Atlanta Braves,7.5,Over,,,,,,,,,,,,,,,,,,,,
+776535,New York Mets,Miami Marlins,7.5,Under,Xavier Edwards,Otto Lopez,Agustín Ramírez,Heriberto Hernández,Eric Wagaman,Connor Norby,Dane Myers,Joey Wiemer,Derek Hill,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jeff McNeil,Brett Baty,Luis Torrens,Cedric Mullins,Edward Cabrera,David Peterson
 776530,Minnesota Twins,San Diego Padres,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776528,Kansas City Royals,Detroit Tigers,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776529,Chicago White Sox,New York Yankees,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776531,Houston Astros,Los Angeles Angels,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776528,Kansas City Royals,Detroit Tigers,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776537,Cleveland Guardians,Seattle Mariners,7.5,Over,,,,,,,,,,,,,,,,,,,,
-776526,Colorado Rockies,Chicago Cubs,11.0,Over,,,,,,,,,,,,,,,,,,,,
 776516,San Francisco Giants,Baltimore Orioles,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776524,Athletics,Texas Rangers,10.5,Under,,,,,,,,,,,,,,,,,,,,
+776526,Colorado Rockies,Chicago Cubs,11.0,Over,,,,,,,,,,,,,,,,,,,,
 776523,Los Angeles Dodgers,Arizona Diamondbacks,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776524,Athletics,Texas Rangers,10.5,Under,,,,,,,,,,,,,,,,,,,,
