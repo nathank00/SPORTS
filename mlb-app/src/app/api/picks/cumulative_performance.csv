@@ -1494,15 +1494,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-05,778042,Milwaukee Brewers,Houston Astros,8.5,6.0,1,0
 2025-05-05,778038,Athletics,Seattle Mariners,9.0,13.0,0,1
 2025-05-05,778039,Arizona Diamondbacks,New York Mets,10.0,9.0,0,0
-2025-08-30,776525,Washington Nationals,Tampa Bay Rays,8.5,5.0,0,0
-2025-08-30,776527,Toronto Blue Jays,Milwaukee Brewers,8.5,5.0,0,0
 2025-08-30,776539,Boston Red Sox,Pittsburgh Pirates,9.0,13.0,1,1
+2025-08-30,776527,Toronto Blue Jays,Milwaukee Brewers,8.5,5.0,0,0
+2025-08-30,776525,Washington Nationals,Tampa Bay Rays,8.5,5.0,0,0
 2025-08-30,776535,New York Mets,Miami Marlins,7.5,19.0,0,1
 2025-08-30,776532,Philadelphia Phillies,Atlanta Braves,7.5,5.0,1,0
 2025-08-30,776536,Cincinnati Reds,St. Louis Cardinals,8.0,6.0,0,0
-2025-08-30,776530,Minnesota Twins,San Diego Padres,8.5,15.0,0,1
 2025-08-30,776531,Houston Astros,Los Angeles Angels,9.0,5.0,1,0
+2025-08-30,776530,Minnesota Twins,San Diego Padres,8.5,15.0,0,1
 2025-08-30,776528,Kansas City Royals,Detroit Tigers,9.0,4.0,0,0
+2025-08-30,776529,Chicago White Sox,New York Yankees,8.5,8.0,0,0
 2025-08-30,776537,Cleveland Guardians,Seattle Mariners,7.5,7.0,1,0
 2025-08-30,776516,San Francisco Giants,Baltimore Orioles,8.0,12.0,0,1
 2025-05-10,777980,Washington Nationals,St. Louis Cardinals,9.0,6.0,1,0
