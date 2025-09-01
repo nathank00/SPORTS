@@ -1336,19 +1336,19 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-07-07,777199,San Francisco Giants,Philadelphia Phillies,7.5,4.0,1,0
 2025-08-31,776518,Cincinnati Reds,St. Louis Cardinals,8.0,11.0,1,1
 2025-08-31,776513,Minnesota Twins,San Diego Padres,8.5,9.0,0,1
-2025-08-31,776517,Boston Red Sox,Pittsburgh Pirates,8.5,7.0,0,0
 2025-08-31,776515,Toronto Blue Jays,Milwaukee Brewers,7.5,12.0,1,1
 2025-08-31,776520,Washington Nationals,Tampa Bay Rays,8.0,11.0,0,1
 2025-08-31,776521,Cleveland Guardians,Seattle Mariners,8.0,6.0,1,0
+2025-08-31,776517,Boston Red Sox,Pittsburgh Pirates,8.5,7.0,0,0
 2025-08-31,776519,New York Mets,Miami Marlins,8.0,6.0,0,0
-2025-08-31,776512,Kansas City Royals,Detroit Tigers,7.0,5.0,0,0
 2025-08-31,776510,Houston Astros,Los Angeles Angels,7.5,3.0,0,0
+2025-08-31,776512,Kansas City Royals,Detroit Tigers,7.0,5.0,0,0
 2025-08-31,776514,Chicago White Sox,New York Yankees,8.5,5.0,0,0
 2025-08-31,776511,Colorado Rockies,Chicago Cubs,10.5,11.0,0,1
 2025-08-31,776507,San Francisco Giants,Baltimore Orioles,8.5,15.0,0,1
+2025-08-31,776508,Athletics,Texas Rangers,9.0,15.0,0,1
 2025-08-31,776509,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.0,0,
 2025-08-31,776522,Philadelphia Phillies,Atlanta Braves,9.0,4.0,1,0
-2025-08-31,776508,Athletics,Texas Rangers,9.0,15.0,0,1
 2025-04-09,778389,Pittsburgh Pirates,St. Louis Cardinals,8.0,3.0,0,0
 2025-04-09,778390,New York Mets,Miami Marlins,7.0,5.0,0,0
 2025-04-09,778385,Chicago Cubs,Texas Rangers,7.5,8.0,0,1
