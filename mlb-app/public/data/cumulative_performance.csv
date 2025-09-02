@@ -1038,17 +1038,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-30,777296,Tampa Bay Rays,Athletics,8.0,10.0,0,1
 2025-06-30,777292,Texas Rangers,Baltimore Orioles,8.0,16.0,0,1
 2025-09-01,776498,Washington Nationals,Miami Marlins,9.0,2.0,0,0
-2025-09-01,776503,Cincinnati Reds,Toronto Blue Jays,8.0,9.0,0,1
 2025-09-01,776501,Detroit Tigers,New York Mets,8.5,18.0,0,1
+2025-09-01,776503,Cincinnati Reds,Toronto Blue Jays,8.0,9.0,0,1
+2025-09-01,776502,Minnesota Twins,Chicago White Sox,9.5,11.0,0,1
 2025-09-01,776499,Houston Astros,Los Angeles Angels,8.5,11.0,0,1
 2025-09-01,776505,Boston Red Sox,Cleveland Guardians,8.0,10.0,1,1
-2025-09-01,776497,St. Louis Cardinals,Athletics,7.5,14.0,1,1
-2025-09-01,776502,Minnesota Twins,Chicago White Sox,9.5,11.0,0,1
-2025-09-01,776506,Chicago Cubs,Atlanta Braves,7.5,13.0,1,1
 2025-09-01,776492,Colorado Rockies,San Francisco Giants,11.5,10.0,0,0
+2025-09-01,776497,St. Louis Cardinals,Athletics,7.5,14.0,1,1
+2025-09-01,776506,Chicago Cubs,Atlanta Braves,7.5,13.0,1,1
+2025-09-01,776500,Milwaukee Brewers,Philadelphia Phillies,8.5,18.0,1,1
 2025-09-01,776494,San Diego Padres,Baltimore Orioles,7.5,7.0,0,0
 2025-09-01,776504,Tampa Bay Rays,Seattle Mariners,8.5,12.0,0,1
-2025-09-01,776500,Milwaukee Brewers,Philadelphia Phillies,8.5,18.0,1,1
 2025-09-01,776495,Arizona Diamondbacks,Texas Rangers,9.0,12.0,0,1
 2025-05-08,778029,Colorado Rockies,Detroit Tigers,10.0,12.0,0,1
 2025-05-08,778007,Minnesota Twins,Baltimore Orioles,8.5,7.0,0,0
