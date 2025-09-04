@@ -1,7 +1,7 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776461,15:40,Pittsburgh Pirates,Los Angeles Dodgers,7.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776459,13:10,Milwaukee Brewers,Philadelphia Phillies,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776463,16:40,Kansas City Royals,Los Angeles Angels,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776458,16:35,Tampa Bay Rays,Cleveland Guardians,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776462,16:40,Minnesota Twins,Chicago White Sox,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776464,16:40,Houston Astros,New York Yankees,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776461,,Pittsburgh Pirates,Los Angeles Dodgers,7.0,Over,,,,,,,,,,,,,,,,,,,,,,,,
+776459,,Milwaukee Brewers,Philadelphia Phillies,7.5,Over,,,,,,,,,,,,,,,,,,,,,,,,
+776463,,Kansas City Royals,Los Angeles Angels,9.0,Over,,,,,,,,,,,,,,,,,,,,,,,,
+776458,,Tampa Bay Rays,Cleveland Guardians,8.5,Over,,,,,,,,,,,,,,,,,,,,,,,,
+776462,,Minnesota Twins,Chicago White Sox,8.5,Over,,,,,,,,,,,,,,,,,,,,,,,,
+776464,,Houston Astros,New York Yankees,9.0,Over,,,,,,,,,,,,,,,,,,,,,,,,
