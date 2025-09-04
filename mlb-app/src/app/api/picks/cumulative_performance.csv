@@ -886,17 +886,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-09-03,776477,Washington Nationals,Miami Marlins,9.0,15.0,0,1
 2025-09-03,776478,Detroit Tigers,New York Mets,9.0,8.0,0,0
 2025-09-03,776468,Arizona Diamondbacks,Texas Rangers,9.0,2.0,0,0
-2025-09-03,776465,San Diego Padres,Baltimore Orioles,8.5,12.0,0,1
 2025-09-03,776475,Cincinnati Reds,Toronto Blue Jays,9.0,22.0,1,1
 2025-09-03,776479,Pittsburgh Pirates,Los Angeles Dodgers,8.5,3.0,1,0
-2025-09-03,776474,Boston Red Sox,Cleveland Guardians,8.5,9.0,1,1
+2025-09-03,776465,San Diego Padres,Baltimore Orioles,8.5,12.0,0,1
 2025-09-03,776476,Tampa Bay Rays,Seattle Mariners,8.5,13.0,0,1
+2025-09-03,776474,Boston Red Sox,Cleveland Guardians,8.5,9.0,1,1
 2025-09-03,776466,Kansas City Royals,Los Angeles Angels,9.0,7.0,0,0
-2025-09-03,776471,Milwaukee Brewers,Philadelphia Phillies,9.0,9.0,0,
 2025-09-03,776473,Chicago Cubs,Atlanta Braves,8.0,6.0,1,0
 2025-09-03,776469,Minnesota Twins,Chicago White Sox,8.5,7.0,0,0
+2025-09-03,776471,Milwaukee Brewers,Philadelphia Phillies,9.0,9.0,0,
 2025-09-03,776470,St. Louis Cardinals,Athletics,8.5,6.0,0,0
-2025-09-03,776472,Houston Astros,New York Yankees,9.0,11.0,1,1
+2025-09-03,776472,Houston Astros,New York Yankees,9.0,15.0,1,1
 2025-09-03,776467,Colorado Rockies,San Francisco Giants,11.5,15.0,0,1
 2025-06-01,777678,Texas Rangers,St. Louis Cardinals,7.5,9.0,0,1
 2025-06-01,777692,Atlanta Braves,Boston Red Sox,8.0,4.0,1,0
