@@ -70,6 +70,7 @@ mlbID,Name,Position,key_bbref
 681460,Brooks Baldwin,LF,baldwbr01
 686948,Drake Baldwin,C,baldwdr01
 694208,Moisés Ballesteros,C,ballemo01
+677943,Will Banfield,C,banfiwi01
 676625,Rylan Bannon,3B,bannory01
 675915,David Bañuelos,C,banueda01
 680718,Addison Barger,3B,bargead01
@@ -221,6 +222,7 @@ mlbID,Name,Position,key_bbref
 688760,Blaine Crim,1B,crimbl01
 543068,C.J. Cron,1B,croncj01
 630105,Jake Cronenworth,2B,croneja01
+699625,Jimmy Crooks,C,crookji01
 643271,Narciso Crook,OF,crookna01
 680418,Tyler Cropley,C,croplty01
 691718,Pete Crow-Armstrong,CF,crowape01
@@ -414,7 +416,7 @@ mlbID,Name,Position,key_bbref
 606993,Jake Hager,2B,hagerja01
 664059,Sam Haggerty,CF,haggesa01
 669742,Darick Hall,1B,hallda02
-571740,Billy Hamilton,RF,hamilbi02
+571740,Billy Hamilton,CF,hamilbi02
 643348,Caleb Hamilton,C,hamilca01
 666152,David Hamilton,2B,hamilda03
 641658,Garrett Hampson,2B,hampsga01
@@ -821,6 +823,7 @@ mlbID,Name,Position,key_bbref
 457763,Buster Posey,C,poseybu01
 650968,Yohel Pozo,C,pozoyo01
 668472,Nick Pratto,1B,prattni01
+693409,César Prieto,2B,prietce01
 665154,Ford Proctor,2B,proctfo01
 595777,Jurickson Profar,LF,profaju01
 405395,Albert Pujols,1B,pujolal01
@@ -1145,12 +1148,9 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-677943,Will Banfield,C,
-699625,Jimmy Crooks,C,
 687478,Cam Devanney,SS,
 695670,Harry Ford,C,
 695600,Carter Jensen,C,
-693409,César Prieto,2B,
 701398,Sal Stewart,3B,
 667690,C.J. Stubbs,C,
 671655,George Valera,RF,

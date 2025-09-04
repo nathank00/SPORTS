@@ -177,6 +177,7 @@ mlbID,Name,Position,key_bbref
 571521,Rex Brothers,P,brothre01
 676962,Ben Brown,P,brownbe02
 686613,Hunter Brown,P,brownhu01
+685326,McCade Brown,P,brownmc01
 664141,JT Brubaker,P,brubajt01
 677865,Justin Bruihl,P,bruihju01
 694350,Zach Brzykcy,P,brzykza01
@@ -829,6 +830,7 @@ mlbID,Name,Position,key_bbref
 676755,Isaac Mattson,P,mattsis01
 554431,Tyler Matzek,P,matzety01
 571927,Steven Matz,P,matzst01
+687209,Zach Maxwell,P,maxweza01
 669160,Dustin May,P,maydu01
 594577,Mike Mayers,P,mayermi01
 543507,Trevor May,P,maytr01
@@ -1092,6 +1094,7 @@ mlbID,Name,Position,key_bbref
 573109,AJ Ramos,P,ramosaj01
 682010,Lane Ramsey,P,ramsela02
 660604,Alan Rangel,P,rangeal01
+688497,Taylor Rashi,P,rashita01
 656876,Drew Rasmussen,P,rasmudr01
 592662,Robbie Ray,P,rayro02
 607067,Colin Rea,P,reaco01
@@ -1147,6 +1150,7 @@ mlbID,Name,Position,key_bbref
 676720,Tommy Romero,P,romerto01
 489265,Sergio Romo,P,romose01
 667373,Angel Rondón,P,rondoan01
+680701,John Rooney,P,roonejo01
 670046,Kenny Rosenberg,P,rosenke01
 573127,Zac Rosscup,P,rosscza01
 605452,Joe Ross,P,rossjo01
@@ -1348,7 +1352,9 @@ mlbID,Name,Position,key_bbref
 676709,Ty Tice,P,ticety01
 694918,Blade Tidwell,P,tidwebl01
 622786,Jesus Tinoco,P,tinocje01
+801139,Payton Tolle,P,tollepa01
 458708,Josh Tomlin,P,tomlijo01
+804636,Jonah Tong,P,tongjo01
 543859,Michael Tonkin,P,tonkimi01
 623437,Justin Topa,P,topaju01
 657053,Touki Toussaint,P,toussto01
@@ -1371,6 +1377,7 @@ mlbID,Name,Position,key_bbref
 570488,Phillips Valdez,P,valdeph01
 681808,Chris Vallimont,P,vallich01
 676568,Ricky Vanasco,P,vanasri01
+687003,Brian Van Belle,P,vanbebr01
 701121,Logan VanWey,P,vanwelo01
 672841,Carlos Vargas,P,vargaca01
 681402,Gus Varland,P,varlagu01
@@ -1507,13 +1514,7 @@ mlbID,Name,Position,key_bbref
 670871,Guillo Zuñiga,P,zuniggu01
 674841,Andrew Alvarez,P,
 686930,Mason Barnett,P,
-685326,McCade Brown,P,
 815083,Mitch Farris,P,
 802686,Hayden Harris,P,
-687209,Zach Maxwell,P,
 691548,Rolddy Muñoz,P,
-688497,Taylor Rashi,P,
-680701,John Rooney,P,
-801139,Payton Tolle,P,
-804636,Jonah Tong,P,
-687003,Brian Van Belle,P,
+681151,Jayden Murray,P,
