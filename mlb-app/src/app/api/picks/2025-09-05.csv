@@ -1,15 +1,15 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776455,Chicago Cubs,Washington Nationals,10.5,Under,James Wood,CJ Abrams,Josh Bell,Daylen Lile,Luis García Jr.,Andrés Chaparro,Riley Adams,Robert Hassell III,Brady House,Michael Busch,Ian Happ,Seiya Suzuki,Pete Crow-Armstrong,Nico Hoerner,Willi Castro,Dansby Swanson,Matt Shaw,Reese McGuire,Jake Irvin,Javier Assad
-776452,Detroit Tigers,Chicago White Sox,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776450,Cincinnati Reds,New York Mets,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776453,Pittsburgh Pirates,Milwaukee Brewers,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776452,Detroit Tigers,Chicago White Sox,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776455,Chicago Cubs,Washington Nationals,10.5,Under,James Wood,CJ Abrams,Josh Bell,Daylen Lile,Luis García Jr.,Andrés Chaparro,Riley Adams,Robert Hassell III,Brady House,Michael Busch,Ian Happ,Seiya Suzuki,Pete Crow-Armstrong,Nico Hoerner,Willi Castro,Dansby Swanson,Matt Shaw,Reese McGuire,Jake Irvin,Javier Assad
 776454,Baltimore Orioles,Los Angeles Dodgers,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776457,New York Yankees,Toronto Blue Jays,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776453,Pittsburgh Pirates,Milwaukee Brewers,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776460,Atlanta Braves,Seattle Mariners,7.5,Under,,,,,,,,,,,,,,,,,,,,
-776451,Tampa Bay Rays,Cleveland Guardians,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776457,New York Yankees,Toronto Blue Jays,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776456,Miami Marlins,Philadelphia Phillies,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776451,Tampa Bay Rays,Cleveland Guardians,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776446,Kansas City Royals,Minnesota Twins,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776445,St. Louis Cardinals,San Francisco Giants,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776444,Los Angeles Angels,Athletics,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776442,Colorado Rockies,San Diego Padres,10.5,Over,,,,,,,,,,,,,,,,,,,,
 776448,Arizona Diamondbacks,Boston Red Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776442,Colorado Rockies,San Diego Padres,10.5,Over,,,,,,,,,,,,,,,,,,,,
+776444,Los Angeles Angels,Athletics,9.0,Over,,,,,,,,,,,,,,,,,,,,
