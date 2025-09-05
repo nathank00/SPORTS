@@ -900,8 +900,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-09-03,776467,Colorado Rockies,San Francisco Giants,11.5,18.0,0,1
 2025-09-04,776459,Milwaukee Brewers,Philadelphia Phillies,8.0,2.0,1,0
 2025-09-04,776461,Pittsburgh Pirates,Los Angeles Dodgers,7.0,8.0,0,1
-2025-09-04,776463,Kansas City Royals,Los Angeles Angels,9.0,7.0,0,0
 2025-09-04,776458,Tampa Bay Rays,Cleveland Guardians,8.5,6.0,0,0
+2025-09-04,776463,Kansas City Royals,Los Angeles Angels,9.0,7.0,0,0
 2025-09-04,776464,Houston Astros,New York Yankees,9.0,11.0,0,1
 2025-06-01,777678,Texas Rangers,St. Louis Cardinals,7.5,9.0,0,1
 2025-06-01,777692,Atlanta Braves,Boston Red Sox,8.0,4.0,1,0
