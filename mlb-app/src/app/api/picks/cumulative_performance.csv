@@ -641,7 +641,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-30,778106,Texas Rangers,Athletics,8.5,8.0,0,0
 2025-04-30,778111,Chicago White Sox,Milwaukee Brewers,7.5,10.0,0,1
 2025-09-05,776455,Chicago Cubs,Washington Nationals,10.5,16.0,0,1
-2025-09-05,776452,Detroit Tigers,Chicago White Sox,8.5,11.0,0,1
+2025-09-05,776452,Detroit Tigers,Chicago White Sox,8.5,12.0,0,1
+2025-09-05,776456,Miami Marlins,Philadelphia Phillies,8.0,10.0,0,1
 2025-09-02,776496,Pittsburgh Pirates,Los Angeles Dodgers,8.5,16.0,0,1
 2025-09-02,776490,Detroit Tigers,New York Mets,8.5,17.0,0,1
 2025-09-02,776491,Cincinnati Reds,Toronto Blue Jays,9.0,21.0,0,1
