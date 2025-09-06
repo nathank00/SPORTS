@@ -640,19 +640,20 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-30,778114,Toronto Blue Jays,Boston Red Sox,9.5,13.0,0,1
 2025-04-30,778106,Texas Rangers,Athletics,8.5,8.0,0,0
 2025-04-30,778111,Chicago White Sox,Milwaukee Brewers,7.5,10.0,0,1
-2025-09-05,776455,Chicago Cubs,Washington Nationals,10.5,16.0,0,1
 2025-09-05,776450,Cincinnati Reds,New York Mets,9.5,9.0,0,0
+2025-09-05,776455,Chicago Cubs,Washington Nationals,10.5,16.0,0,1
 2025-09-05,776452,Detroit Tigers,Chicago White Sox,8.5,12.0,0,1
 2025-09-05,776453,Pittsburgh Pirates,Milwaukee Brewers,8.5,7.0,0,0
-2025-09-05,776457,New York Yankees,Toronto Blue Jays,9.0,8.0,1,0
-2025-09-05,776454,Baltimore Orioles,Los Angeles Dodgers,9.0,3.0,0,0
-2025-09-05,776456,Miami Marlins,Philadelphia Phillies,8.0,12.0,0,1
 2025-09-05,776460,Atlanta Braves,Seattle Mariners,7.5,5.0,1,0
+2025-09-05,776457,New York Yankees,Toronto Blue Jays,9.0,8.0,1,0
+2025-09-05,776456,Miami Marlins,Philadelphia Phillies,8.0,12.0,0,1
+2025-09-05,776454,Baltimore Orioles,Los Angeles Dodgers,9.0,3.0,0,0
 2025-09-05,776451,Tampa Bay Rays,Cleveland Guardians,7.5,8.0,0,1
-2025-09-05,776442,Colorado Rockies,San Diego Padres,10.5,3.0,0,0
 2025-09-05,776446,Kansas City Royals,Minnesota Twins,8.0,3.0,0,0
-2025-09-05,776444,Los Angeles Angels,Athletics,9.0,13.0,1,1
 2025-09-05,776445,St. Louis Cardinals,San Francisco Giants,8.5,10.0,0,1
+2025-09-05,776449,Texas Rangers,Houston Astros,8.0,7.0,0,0
+2025-09-05,776444,Los Angeles Angels,Athletics,9.0,13.0,1,1
+2025-09-05,776442,Colorado Rockies,San Diego Padres,10.5,3.0,0,0
 2025-09-02,776496,Pittsburgh Pirates,Los Angeles Dodgers,8.5,16.0,0,1
 2025-09-02,776490,Detroit Tigers,New York Mets,8.5,17.0,0,1
 2025-09-02,776491,Cincinnati Reds,Toronto Blue Jays,9.0,21.0,0,1
