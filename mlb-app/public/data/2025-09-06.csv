@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 776436,New York Yankees,Toronto Blue Jays,10.0,Over,George Springer,Addison Barger,Vladimir Guerrero Jr.,Bo Bichette,Daulton Varsho,Nathan Lukes,Isiah Kiner-Falefa,Andrés Giménez,Tyler Heineman,Trent Grisham,Ben Rice,Aaron Judge,Cody Bellinger,Jazz Chisholm Jr.,Jasson Domínguez,Anthony Volpe,Austin Wells,Ryan McMahon,Chris Bassitt,Luis Gil
 776440,Chicago Cubs,Washington Nationals,8.5,Under,CJ Abrams,James Wood,Jorge Alfaro,Josh Bell,Daylen Lile,Dylan Crews,Nasim Nuñez,Brady House,Jacob Young,Michael Busch,Ian Happ,Seiya Suzuki,Pete Crow-Armstrong,Nico Hoerner,Carson Kelly,Willi Castro,Dansby Swanson,Matt Shaw,Brad Lord,Matthew Boyd
-776433,Miami Marlins,Philadelphia Phillies,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776433,Miami Marlins,Philadelphia Phillies,8.0,Over,Kyle Schwarber,Alec Bohm,Bryce Harper,J.T. Realmuto,Brandon Marsh,Harrison Bader,Max Kepler,Edmundo Sosa,Bryson Stott,,,,,,,,,,Jesús Luzardo,
 776435,Detroit Tigers,Chicago White Sox,7.5,Over,,,,,,,,,,,,,,,,,,,,
-776441,Pittsburgh Pirates,Milwaukee Brewers,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776439,Cincinnati Reds,New York Mets,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776443,Baltimore Orioles,Los Angeles Dodgers,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776437,St. Louis Cardinals,San Francisco Giants,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776443,Baltimore Orioles,Los Angeles Dodgers,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776438,Tampa Bay Rays,Cleveland Guardians,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776441,Pittsburgh Pirates,Milwaukee Brewers,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776432,Texas Rangers,Houston Astros,7.0,Over,,,,,,,,,,,,,,,,,,,,
+776437,St. Louis Cardinals,San Francisco Giants,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776447,Atlanta Braves,Seattle Mariners,9.0,Under,,,,,,,,,,,,,,,,,,,,
 776434,Kansas City Royals,Minnesota Twins,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776432,Texas Rangers,Houston Astros,7.0,Over,,,,,,,,,,,,,,,,,,,,
-776430,Los Angeles Angels,Athletics,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776431,Colorado Rockies,San Diego Padres,12.0,Over,,,,,,,,,,,,,,,,,,,,
 776424,Arizona Diamondbacks,Boston Red Sox,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776431,Colorado Rockies,San Diego Padres,12.0,Over,,,,,,,,,,,,,,,,,,,,
+776430,Los Angeles Angels,Athletics,9.0,Over,,,,,,,,,,,,,,,,,,,,
