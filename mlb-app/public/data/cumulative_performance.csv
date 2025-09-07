@@ -1080,8 +1080,9 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-07-19,777085,Los Angeles Dodgers,Milwaukee Brewers,8.0,15.0,1,1
 2025-07-19,777086,Seattle Mariners,Houston Astros,8.0,13.0,0,1
 2025-09-06,776436,New York Yankees,Toronto Blue Jays,10.0,4.0,1,0
-2025-09-06,776433,Miami Marlins,Philadelphia Phillies,8.0,6.0,0,0
 2025-09-06,776440,Chicago Cubs,Washington Nationals,8.5,3.0,0,0
+2025-09-06,776433,Miami Marlins,Philadelphia Phillies,8.0,6.0,0,0
+2025-09-06,776434,Kansas City Royals,Minnesota Twins,8.0,9.0,0,1
 2025-06-30,777306,Philadelphia Phillies,San Diego Padres,9.0,4.0,0,0
 2025-06-30,777299,Pittsburgh Pirates,St. Louis Cardinals,8.5,7.0,1,0
 2025-06-30,777300,Boston Red Sox,Cincinnati Reds,7.5,19.0,1,1
