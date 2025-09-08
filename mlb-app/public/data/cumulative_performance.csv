@@ -1238,20 +1238,20 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-09,777988,Arizona Diamondbacks,Los Angeles Dodgers,10.0,25.0,1,1
 2025-05-09,777984,Seattle Mariners,Toronto Blue Jays,7.0,9.0,0,1
 2025-09-07,776428,Atlanta Braves,Seattle Mariners,9.5,20.0,0,1
-2025-09-07,776421,Tampa Bay Rays,Cleveland Guardians,8.0,3.0,0,0
 2025-09-07,776427,Baltimore Orioles,Los Angeles Dodgers,8.5,7.0,1,0
 2025-09-07,776423,New York Yankees,Toronto Blue Jays,8.0,7.0,1,0
+2025-09-07,776421,Tampa Bay Rays,Cleveland Guardians,8.0,3.0,0,0
 2025-09-07,776419,Pittsburgh Pirates,Milwaukee Brewers,7.5,12.0,1,1
 2025-09-07,776429,Cincinnati Reds,New York Mets,8.5,5.0,0,0
-2025-09-07,776426,Miami Marlins,Philadelphia Phillies,9.0,9.0,0,
 2025-09-07,776425,Detroit Tigers,Chicago White Sox,9.0,10.0,0,1
-2025-09-07,776422,Kansas City Royals,Minnesota Twins,8.5,6.0,0,0
-2025-09-07,776416,St. Louis Cardinals,San Francisco Giants,8.0,7.0,1,0
+2025-09-07,776426,Miami Marlins,Philadelphia Phillies,9.0,9.0,0,
 2025-09-07,776420,Chicago Cubs,Washington Nationals,7.5,9.0,0,1
-2025-09-07,776417,Colorado Rockies,San Diego Padres,11.0,9.0,0,0
 2025-09-07,776418,Texas Rangers,Houston Astros,8.5,6.0,0,0
-2025-09-07,776414,Los Angeles Angels,Athletics,9.5,7.0,0,0
+2025-09-07,776416,St. Louis Cardinals,San Francisco Giants,8.0,7.0,1,0
+2025-09-07,776422,Kansas City Royals,Minnesota Twins,8.5,6.0,0,0
+2025-09-07,776417,Colorado Rockies,San Diego Padres,11.0,9.0,0,0
 2025-09-07,776415,Arizona Diamondbacks,Boston Red Sox,8.5,11.0,0,1
+2025-09-07,776414,Los Angeles Angels,Athletics,9.5,7.0,0,0
 2025-06-24,777380,Baltimore Orioles,Texas Rangers,9.0,11.0,0,1
 2025-06-24,777386,Detroit Tigers,Athletics,7.5,15.0,0,1
 2025-06-24,777387,New York Mets,Atlanta Braves,9.0,11.0,1,1
