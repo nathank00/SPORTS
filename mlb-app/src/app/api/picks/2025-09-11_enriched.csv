@@ -1,0 +1,10 @@
+game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+776372,10:05,Baltimore Orioles,Pittsburgh Pirates,8.0,Under,4,0,0,0,Jared Triolo,Tommy Pham,Bryan Reynolds,Nick Gonzales,Andrew McCutchen,Joey Bart,Nick Yorke,Alexander Canario,Liover Peguero,Jackson Holliday,Jeremiah Jackson,Gunnar Henderson,Emmanuel Rivera,Dylan Beavers,Colton Cowser,Samuel Basallo,Alex Jackson,Coby Mayo,Johan Oviedo,Cade Povich
+776367,15:40,Miami Marlins,Washington Nationals,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776368,16:05,New York Yankees,Detroit Tigers,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776364,11:10,Chicago White Sox,Tampa Bay Rays,7.5,Under,2,0,0,0,Chandler Simpson,Brandon Lowe,Junior Caminero,Josh Lowe,Jake Mangum,Bob Seymour,Tristan Gray,Carson Williams,Hunter Feduccia,Chase Meidroth,Curtis Mead,Edgar Quero,Colson Montgomery,Miguel Vargas,Michael A. Taylor,Brooks Baldwin,Korey Lee,Will Robertson,Ian Seymour,Shane Smith
+776370,16:15,Cleveland Guardians,Kansas City Royals,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776369,12:07,Toronto Blue Jays,Houston Astros,8.5,Under,0,0,0,0,Jeremy Peña,Yordan Alvarez,Carlos Correa,Jose Altuve,Jesús Sánchez,Yainer Diaz,Christian Walker,Taylor Trammell,Mauricio Dubón,George Springer,Nathan Lukes,Vladimir Guerrero Jr.,Addison Barger,Ernie Clement,Daulton Varsho,Davis Schneider,Tyler Heineman,Andrés Giménez,Cristian Javier,Kevin Gausman
+776371,16:15,Philadelphia Phillies,New York Mets,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776362,18:40,Seattle Mariners,Los Angeles Angels,8.0,Under,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+776365,18:40,San Diego Padres,Colorado Rockies,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
