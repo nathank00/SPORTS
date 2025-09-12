@@ -258,6 +258,7 @@ mlbID,Name,Position,key_bbref
 641512,Ben DeLuzio,CF,deluzbe01
 641513,Travis Demeritte,RF,demertr01
 592261,Delino DeShields,CF,deshide02
+687478,Cam Devanney,SS,devanca01
 672701,José Devers,SS,deverjo01
 646240,Rafael Devers,DH,deverra01
 701305,Zach Dezenzo,LF,dezenza01
@@ -328,6 +329,7 @@ mlbID,Name,Position,key_bbref
 666150,Dominic Fletcher,RF,fletcdo01
 527038,Wilmer Flores,1B,florewi01
 664314,Estevan Florial,LF,flories01
+695670,Harry Ford,C,fordha01
 645801,Mike Ford,1B,fordmi01
 663743,Nick Fortes,C,forteni01
 679822,Justin Foscue,1B,foscuju01
@@ -493,6 +495,7 @@ mlbID,Name,Position,key_bbref
 643376,Danny Jansen,C,janseda01
 445055,Jon Jay,CF,jayjo02
 680777,Ryan Jeffers,C,jeffery01
+695600,Carter Jensen,C,jenseca01
 650391,Eloy Jiménez,DH,jimenel02
 677870,Leo Jiménez,SS,jimenle01
 656582,Connor Joe,RF,joeco01
@@ -989,11 +992,13 @@ mlbID,Name,Position,key_bbref
 670276,Cal Stevenson,CF,steveca01
 677060,Chad Stevens,SS,stevech02
 621466,DJ Stewart,RF,stewadj01
+701398,Sal Stewart,3B,stewasa02
 657011,Troy Stokes Jr.,LF,stoketr01
 596115,Trevor Story,SS,storytr01
 681082,Bryson Stott,2B,stottbr01
 669065,Kyle Stowers,LF,stoweky01
 664702,Myles Straw,CF,strawmy01
+667690,C.J. Stubbs,C,stubbcj01
 596117,Garrett Stubbs,C,stubbga01
 553993,Eugenio Suárez,3B,suareeu01
 664954,Brett Sullivan,C,sullibr01
@@ -1056,6 +1061,7 @@ mlbID,Name,Position,key_bbref
 642162,Pat Valaika,SS,valaipa01
 665839,Enmanuel Valdez,1B,valdeen01
 591971,Breyvic Valera,LF,valerbr01
+671655,George Valera,RF,valerge01
 642165,Josh VanMeter,2B,vanmejo01
 545121,Ildemaro Vargas,2B,vargail01
 678246,Miguel Vargas,3B,vargami01
@@ -1148,9 +1154,3 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-687478,Cam Devanney,SS,
-695670,Harry Ford,C,
-695600,Carter Jensen,C,
-701398,Sal Stewart,3B,
-667690,C.J. Stubbs,C,
-671655,George Valera,RF,

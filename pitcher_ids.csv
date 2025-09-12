@@ -32,6 +32,7 @@ mlbID,Name,Position,key_bbref
 680430,Nick Allgeyer,P,allgeni01
 622075,Yency Almonte,P,almonye01
 656186,Dan Altavilla,P,altavda01
+674841,Andrew Alvarez,P,alvaran01
 665660,Elvis Alvarado,P,alvarel01
 501625,Jose Alvarez,P,alvarjo02
 621237,José Alvarado,P,alvarjo03
@@ -87,6 +88,7 @@ mlbID,Name,Position,key_bbref
 656212,Charlie Barnes,P,barnech01
 606930,Jacob Barnes,P,barneja01
 598264,Matt Barnes,P,barnema01
+686930,Mason Barnett,P,barnema02
 607457,Kyle Barraclough,P,barraky01
 518435,Manny Barreda,P,barrema03
 642545,Jaime Barria,P,barrija01
@@ -395,6 +397,7 @@ mlbID,Name,Position,key_bbref
 607188,Jake Faria,P,fariaja01
 571656,Buck Farmer,P,farmebu01
 608652,Luke Farrell,P,farrelu01
+815083,Mitch Farris,P,farrimi01
 676534,Calvin Faucher,P,fauchca01
 607200,Erick Fedde,P,feddeer01
 621399,Brady Feigl,P,feiglbr01
@@ -547,6 +550,7 @@ mlbID,Name,Position,key_bbref
 457918,J.A. Happ,P,happja01
 543278,Blaine Hardy,P,hardybl01
 607560,Ryne Harper,P,harpery01
+802686,Hayden Harris,P,harriha01
 665048,Hobie Harris,P,harriho02
 663687,Hogan Harris,P,harriho03
 690986,Kyle Harrison,P,harriky01
@@ -936,10 +940,12 @@ mlbID,Name,Position,key_bbref
 666205,Kyle Muller,P,mulleky01
 662253,Andrés Muñoz,P,munozan01
 682610,Roddery Muñoz,P,munozro01
+691548,Rolddy Muñoz,P,munozro02
 668716,Noah Murdock,P,murdono01
 682171,Penn Murfee,P,murfepe01
 669684,Chris Murphy,P,murphch01
 641907,Patrick Murphy,P,murphpa02
+681151,Jayden Murray,P,murraja01
 605397,Joe Musgrove,P,musgrjo01
 656786,Parker Mushinski,P,mushipa01
 668964,Tobias Myers,P,myersto01
@@ -1513,13 +1519,7 @@ mlbID,Name,Position,key_bbref
 676604,Tyler Zuber,P,zuberty01
 691172,Yosver Zulueta,P,zulueyo01
 670871,Guillo Zuñiga,P,zuniggu01
-674841,Andrew Alvarez,P,
-686930,Mason Barnett,P,
 813349,Connelly Early,P,
-815083,Mitch Farris,P,
-802686,Hayden Harris,P,
-691548,Rolddy Muñoz,P,
-681151,Jayden Murray,P,
 675919,Nick Raquet,P,
 685005,Christian Roa,P,
 687075,Brandon Sproat,P,
