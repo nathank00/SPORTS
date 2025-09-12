@@ -854,12 +854,12 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-23,778200,Houston Astros,Toronto Blue Jays,8.5,4.0,1,0
 2025-04-23,778201,Minnesota Twins,Chicago White Sox,8.5,9.0,1,1
 2025-04-23,778199,Arizona Diamondbacks,Tampa Bay Rays,9.0,10.0,0,1
-2025-09-11,776369,Toronto Blue Jays,Houston Astros,8.5,6.0,0,0
-2025-09-11,776372,Baltimore Orioles,Pittsburgh Pirates,8.0,5.0,0,0
 2025-09-11,776364,Chicago White Sox,Tampa Bay Rays,7.5,6.0,0,0
+2025-09-11,776372,Baltimore Orioles,Pittsburgh Pirates,8.0,5.0,0,0
+2025-09-11,776369,Toronto Blue Jays,Houston Astros,8.5,6.0,0,0
 2025-09-11,776367,Miami Marlins,Washington Nationals,7.5,5.0,0,0
-2025-09-11,776370,Cleveland Guardians,Kansas City Royals,7.5,5.0,0,0
 2025-09-11,776368,New York Yankees,Detroit Tigers,8.5,12.0,0,1
+2025-09-11,776370,Cleveland Guardians,Kansas City Royals,7.5,5.0,0,0
 2025-09-11,776371,Philadelphia Phillies,New York Mets,8.5,10.0,0,1
 2025-06-27,777341,Pittsburgh Pirates,New York Mets,8.0,10.0,0,1
 2025-06-27,777343,Baltimore Orioles,Tampa Bay Rays,8.5,30.0,0,1
