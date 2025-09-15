@@ -1054,20 +1054,20 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-22,777405,Philadelphia Phillies,New York Mets,9.0,8.0,0,0
 2025-06-22,777398,Los Angeles Dodgers,Washington Nationals,9.5,20.0,1,1
 2025-09-14,776320,Washington Nationals,Pittsburgh Pirates,8.5,7.0,0,0
-2025-09-14,776334,Philadelphia Phillies,Kansas City Royals,8.5,13.0,0,1
 2025-09-14,776329,Atlanta Braves,Houston Astros,8.5,11.0,0,1
-2025-09-14,776335,New York Mets,Texas Rangers,8.0,7.0,0,0
 2025-09-14,776322,Toronto Blue Jays,Baltimore Orioles,8.5,13.0,0,1
-2025-09-14,776331,Cleveland Guardians,Chicago White Sox,8.0,5.0,0,0
-2025-09-14,776332,Miami Marlins,Detroit Tigers,9.0,2.0,0,0
+2025-09-14,776334,Philadelphia Phillies,Kansas City Royals,8.5,13.0,0,1
+2025-09-14,776335,New York Mets,Texas Rangers,8.0,7.0,0,0
 2025-09-14,776324,Minnesota Twins,Arizona Diamondbacks,9.5,10.0,0,1
-2025-09-14,776326,Milwaukee Brewers,St. Louis Cardinals,8.5,5.0,0,0
+2025-09-14,776332,Miami Marlins,Detroit Tigers,9.0,2.0,0,0
 2025-09-14,776321,Chicago Cubs,Tampa Bay Rays,7.0,7.0,0,
-2025-09-14,776323,San Diego Padres,Colorado Rockies,8.0,15.0,0,1
+2025-09-14,776331,Cleveland Guardians,Chicago White Sox,8.0,5.0,0,0
+2025-09-14,776326,Milwaukee Brewers,St. Louis Cardinals,8.5,5.0,0,0
 2025-09-14,776327,Athletics,Cincinnati Reds,9.5,11.0,0,1
 2025-09-14,776325,San Francisco Giants,Los Angeles Dodgers,7.5,12.0,1,1
-2025-09-14,776317,Seattle Mariners,Los Angeles Angels,8.0,13.0,1,1
+2025-09-14,776323,San Diego Padres,Colorado Rockies,8.0,15.0,0,1
 2025-09-14,776330,Boston Red Sox,New York Yankees,8.0,10.0,1,1
+2025-09-14,776317,Seattle Mariners,Los Angeles Angels,8.0,13.0,1,1
 2025-06-25,777370,Chicago White Sox,Arizona Diamondbacks,8.0,10.0,1,1
 2025-06-25,777361,Milwaukee Brewers,Pittsburgh Pirates,6.5,6.0,1,0
 2025-06-25,777362,Los Angeles Angels,Boston Red Sox,8.5,7.0,0,0
