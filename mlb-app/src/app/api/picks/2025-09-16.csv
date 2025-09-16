@@ -1,17 +1,17 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
+776307,Washington Nationals,Atlanta Braves,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776303,Detroit Tigers,Cleveland Guardians,8.0,Over,,,,,,,,,,,,,,,,,,,,
-777825,Washington Nationals,Atlanta Braves,8.5,Over,Jurickson Profar,Matt Olson,Ronald Acuña Jr.,Drake Baldwin,Ozzie Albies,Ha-Seong Kim,Michael Harris II,Eli White,Vidal Bruján,CJ Abrams,James Wood,Andrés Chaparro,Daylen Lile,Jorge Alfaro,Luis García Jr.,Dylan Crews,Brady House,Jacob Young,José Suarez,Jake Irvin
+777825,Washington Nationals,Atlanta Braves,7.0,Over,Jurickson Profar,Matt Olson,Ronald Acuña Jr.,Drake Baldwin,Ozzie Albies,Ha-Seong Kim,Michael Harris II,Eli White,Vidal Bruján,CJ Abrams,James Wood,Andrés Chaparro,Daylen Lile,Jorge Alfaro,Luis García Jr.,Dylan Crews,Brady House,Jacob Young,José Suarez,Jake Irvin
 776308,Pittsburgh Pirates,Chicago Cubs,6.5,Over,,,,,,,,,,,,,,,,,,,,
-776310,Boston Red Sox,Athletics,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776307,Washington Nationals,Atlanta Braves,7.0,Over,,,,,,,,,,,,,,,,,,,,
 776304,New York Mets,San Diego Padres,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776295,Milwaukee Brewers,Los Angeles Angels,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776305,Tampa Bay Rays,Toronto Blue Jays,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776306,Chicago White Sox,Baltimore Orioles,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776310,Boston Red Sox,Athletics,8.5,Over,,,,,,,,,,Romy Gonzalez,Alex Bregman,Trevor Story,Rob Refsnyder,Carlos Narváez,Nate Eaton,Nick Sogard,Jarren Duran,Ceddanne Rafaela,,Connelly Early
 776302,Kansas City Royals,Seattle Mariners,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776306,Chicago White Sox,Baltimore Orioles,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776295,Milwaukee Brewers,Los Angeles Angels,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776298,Minnesota Twins,New York Yankees,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776301,Houston Astros,Texas Rangers,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776300,St. Louis Cardinals,Cincinnati Reds,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776293,Colorado Rockies,Miami Marlins,10.0,Over,,,,,,,,,,,,,,,,,,,,
 776294,Arizona Diamondbacks,San Francisco Giants,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776301,Houston Astros,Texas Rangers,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776293,Colorado Rockies,Miami Marlins,10.0,Over,,,,,,,,,,,,,,,,,,,,
 776297,Los Angeles Dodgers,Philadelphia Phillies,7.5,Over,,,,,,,,,,,,,,,,,,,,
