@@ -918,15 +918,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-18,777866,Los Angeles Dodgers,Los Angeles Angels,9.0,10.0,1,1
 2025-05-18,777878,New York Yankees,New York Mets,9.0,10.0,0,1
 2025-09-16,777825,Washington Nationals,Atlanta Braves,7.0,9.0,1,1
-2025-09-16,776303,Detroit Tigers,Cleveland Guardians,8.0,12.0,1,1
-2025-09-16,776310,Boston Red Sox,Athletics,8.5,3.0,0,0
 2025-09-16,776308,Pittsburgh Pirates,Chicago Cubs,6.5,5.0,0,0
-2025-09-16,776305,Tampa Bay Rays,Toronto Blue Jays,8.0,10.0,1,1
+2025-09-16,776310,Boston Red Sox,Athletics,8.5,3.0,0,0
+2025-09-16,776303,Detroit Tigers,Cleveland Guardians,8.0,12.0,1,1
 2025-09-16,776304,New York Mets,San Diego Padres,8.0,11.0,1,1
-2025-09-16,776306,Chicago White Sox,Baltimore Orioles,8.0,10.0,0,1
-2025-09-16,776302,Kansas City Royals,Seattle Mariners,8.5,13.0,0,1
-2025-09-16,776298,Minnesota Twins,New York Yankees,9.0,18.0,0,1
+2025-09-16,776305,Tampa Bay Rays,Toronto Blue Jays,8.0,11.0,1,1
+2025-09-16,776306,Chicago White Sox,Baltimore Orioles,8.0,15.0,0,1
+2025-09-16,776302,Kansas City Royals,Seattle Mariners,8.5,17.0,0,1
+2025-09-16,776295,Milwaukee Brewers,Los Angeles Angels,8.5,11.0,0,1
 2025-09-16,776300,St. Louis Cardinals,Cincinnati Reds,8.0,3.0,0,0
+2025-09-16,776298,Minnesota Twins,New York Yankees,9.0,18.0,0,1
 2025-06-20,777436,Chicago Cubs,Seattle Mariners,10.0,13.0,0,1
 2025-07-09,777172,Chicago White Sox,Toronto Blue Jays,8.0,3.0,0,0
 2025-07-09,777163,San Francisco Giants,Philadelphia Phillies,8.0,13.0,0,1
