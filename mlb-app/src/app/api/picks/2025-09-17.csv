@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776283,St. Louis Cardinals,Cincinnati Reds,8.5,Over,Gavin Lux,Noelvi Marte,Will Benson,Austin Hays,Sal Stewart,Elly De La Cruz,Spencer Steer,Jose Trevino,Matt McLain,Lars Nootbaar,Iván Herrera,Alec Burleson,Nolan Arenado,Nolan Gorman,Thomas Saggese,Jimmy Crooks,Jordan Walker,Victor Scott II,Brady Singer,Andre Pallante
 776287,Pittsburgh Pirates,Chicago Cubs,7.5,Under,Michael Busch,Nico Hoerner,Ian Happ,Moisés Ballesteros,Seiya Suzuki,Pete Crow-Armstrong,Dansby Swanson,Reese McGuire,Matt Shaw,Jared Triolo,Nick Gonzales,Tommy Pham,Andrew McCutchen,Joey Bart,Alexander Canario,Nick Yorke,Rafael Flores,Cam Devanney,Matthew Boyd,Johan Oviedo
-776286,Washington Nationals,Atlanta Braves,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776285,Chicago White Sox,Baltimore Orioles,8.5,Over,,,,,,,,,,,,,,,,,,,,
 776279,Arizona Diamondbacks,San Francisco Giants,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776286,Washington Nationals,Atlanta Braves,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776283,St. Louis Cardinals,Cincinnati Reds,8.5,Over,Gavin Lux,Noelvi Marte,Will Benson,Austin Hays,Sal Stewart,Elly De La Cruz,Spencer Steer,Jose Trevino,Matt McLain,Lars Nootbaar,Iván Herrera,Alec Burleson,Nolan Arenado,Nolan Gorman,Thomas Saggese,Jimmy Crooks,Jordan Walker,Victor Scott II,Brady Singer,Andre Pallante
+776285,Chicago White Sox,Baltimore Orioles,8.5,Under,Jackson Holliday,Jordan Westburg,Gunnar Henderson,Tyler O'Neill,Jeremiah Jackson,Coby Mayo,Dylan Beavers,Alex Jackson,Jorge Mateo,,,,,,,,,,Tyler Wells,
 776296,Detroit Tigers,Cleveland Guardians,8.0,Over,,,,,,,,,,,,,,,,,,,,
 776299,Boston Red Sox,Athletics,9.0,Over,,,,,,,,,,,,,,,,,,,,
-776288,New York Mets,San Diego Padres,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776290,Tampa Bay Rays,Toronto Blue Jays,7.5,Over,,,,,,,,,,,,,,,,,,,,
+776288,New York Mets,San Diego Padres,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776289,Kansas City Royals,Seattle Mariners,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776291,Milwaukee Brewers,Los Angeles Angels,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776284,Minnesota Twins,New York Yankees,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776292,Houston Astros,Texas Rangers,7.5,Over,,,,,,,,,,,,,,,,,,,,
-776277,Colorado Rockies,Miami Marlins,10.5,Over,,,,,,,,,,,,,,,,,,,,
+776291,Milwaukee Brewers,Los Angeles Angels,7.5,Over,,,,,,,,,,,,,,,,,,,,
 776280,Los Angeles Dodgers,Philadelphia Phillies,7.5,Over,,,,,,,,,,,,,,,,,,,,
+776277,Colorado Rockies,Miami Marlins,10.5,Over,,,,,,,,,,,,,,,,,,,,
