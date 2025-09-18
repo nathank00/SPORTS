@@ -1,11 +1,11 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776275,Detroit Tigers,Cleveland Guardians,7.0,Over,,,,,,,,,,Parker Meadows,Gleyber Torres,Kerry Carpenter,Riley Greene,Spencer Torkelson,Wenceel Pérez,Colt Keith,Dillon Dingler,Zach McKinstry,,Tarik Skubal
+776269,Tampa Bay Rays,Toronto Blue Jays,7.5,Under,George Springer,Nathan Lukes,Vladimir Guerrero Jr.,Addison Barger,Davis Schneider,Daulton Varsho,Ernie Clement,Andrés Giménez,Tyler Heineman,Chandler Simpson,Brandon Lowe,Yandy Díaz,Josh Lowe,Jake Mangum,Tristan Gray,Hunter Feduccia,Carson Williams,Bob Seymour,Chris Bassitt,Shane Baz
 776270,Colorado Rockies,Miami Marlins,10.0,Over,,,,,,,,,,,,,,,,,,,,
-776269,Tampa Bay Rays,Toronto Blue Jays,8.0,Under,George Springer,Nathan Lukes,Vladimir Guerrero Jr.,Addison Barger,Davis Schneider,Daulton Varsho,Ernie Clement,Andrés Giménez,Tyler Heineman,Chandler Simpson,Brandon Lowe,Yandy Díaz,Josh Lowe,Jake Mangum,Tristan Gray,Hunter Feduccia,Carson Williams,Bob Seymour,Chris Bassitt,Shane Baz
-776272,Kansas City Royals,Seattle Mariners,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776276,New York Mets,San Diego Padres,9.0,Over,Fernando Tatis Jr.,Luis Arraez,Manny Machado,Jackson Merrill,Ramón Laureano,Gavin Sheets,Ryan O'Hearn,Jake Cronenworth,Freddy Fermin,Francisco Lindor,Juan Soto,Pete Alonso,Brandon Nimmo,Mark Vientos,Jeff McNeil,Brett Baty,Luis Torrens,Cedric Mullins,Randy Vásquez,Jonah Tong
-776281,Boston Red Sox,Athletics,9.0,Over,,,,,,,,,,Jarren Duran,Trevor Story,Alex Bregman,Masataka Yoshida,Nathaniel Lowe,Connor Wong,David Hamilton,Nate Eaton,Ceddanne Rafaela,,Brayan Bello
+776275,Detroit Tigers,Cleveland Guardians,7.0,Under,Steven Kwan,Angel Martínez,José Ramírez,David Fry,Gabriel Arias,Jhonkensy Noel,Brayan Rocchio,Austin Hedges,Nolan Jones,Parker Meadows,Gleyber Torres,Kerry Carpenter,Riley Greene,Spencer Torkelson,Wenceel Pérez,Colt Keith,Dillon Dingler,Zach McKinstry,Tanner Bibee,Tarik Skubal
 776282,Cincinnati Reds,Chicago Cubs,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776278,Baltimore Orioles,New York Yankees,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776272,Kansas City Royals,Seattle Mariners,9.0,Under,Randy Arozarena,Cal Raleigh,Julio Rodríguez,Josh Naylor,Jorge Polanco,Eugenio Suárez,Dominic Canzone,Leo Rivas,J.P. Crawford,,,,,,,,,,Luis Castillo,
+776281,Boston Red Sox,Athletics,9.0,Over,Lawrence Butler,Brent Rooker,Nick Kurtz,Tyler Soderstrom,Jacob Wilson,JJ Bleday,Darell Hernaiz,Zack Gelof,Willie MacIver,Jarren Duran,Trevor Story,Alex Bregman,Masataka Yoshida,Nathaniel Lowe,Connor Wong,David Hamilton,Nate Eaton,Ceddanne Rafaela,J.T. Ginn,Brayan Bello
 776274,Milwaukee Brewers,Los Angeles Angels,8.0,Over,,,,,,,,,,,,,,,,,,,,
+776278,Baltimore Orioles,New York Yankees,9.0,Over,,,,,,,,,,,,,,,,,,,,
 776271,Los Angeles Dodgers,San Francisco Giants,7.5,Over,,,,,,,,,,,,,,,,,,,,
