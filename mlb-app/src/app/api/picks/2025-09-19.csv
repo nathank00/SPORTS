@@ -1,16 +1,16 @@
 game_id,home_team,away_team,runline,pick,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
-776266,Pittsburgh Pirates,Athletics,8.5,Under,Lawrence Butler,Brent Rooker,Nick Kurtz,Tyler Soderstrom,Shea Langeliers,Jacob Wilson,Carlos Cortes,Darell Hernaiz,Zack Gelof,,,,,,,,,,Luis Severino,
 776267,Cincinnati Reds,Chicago Cubs,8.5,Over,,,,,,,,,,TJ Friedl,Noelvi Marte,Miguel Andujar,Austin Hays,Spencer Steer,Elly De La Cruz,Ke'Bryan Hayes,Jose Trevino,Matt McLain,,Nick Lodolo
-776259,New York Mets,Washington Nationals,8.5,Over,,,,,,,,,,,,,,,,,,,,
-776268,Detroit Tigers,Atlanta Braves,9.0,Over,Jurickson Profar,Matt Olson,Ronald Acuña Jr.,Drake Baldwin,Ozzie Albies,Ha-Seong Kim,Marcell Ozuna,Michael Harris II,Nacho Alvarez Jr.,Parker Meadows,Gleyber Torres,Kerry Carpenter,Riley Greene,Spencer Torkelson,Wenceel Pérez,Javier Báez,Zach McKinstry,Jake Rogers,Bryce Elder,Charlie Morton
+776266,Pittsburgh Pirates,Athletics,8.5,Under,Lawrence Butler,Brent Rooker,Nick Kurtz,Tyler Soderstrom,Shea Langeliers,Jacob Wilson,Carlos Cortes,Darell Hernaiz,Zack Gelof,,,,,,,,,,Luis Severino,
+776259,New York Mets,Washington Nationals,8.5,Over,,,,,,,,,,Francisco Lindor,Juan Soto,Pete Alonso,Mark Vientos,Brandon Nimmo,Starling Marte,Francisco Alvarez,Brett Baty,Jose Siri,,Brandon Sproat
 776273,Baltimore Orioles,New York Yankees,9.0,Under,,,,,,,,,,Jackson Holliday,Jordan Westburg,Gunnar Henderson,Ryan Mountcastle,Dylan Beavers,Jeremiah Jackson,Samuel Basallo,Colton Cowser,Coby Mayo,,Trevor Rogers
-776261,Tampa Bay Rays,Boston Red Sox,6.5,Over,,,,,,,,,,,,,,,,,,,,
+776268,Detroit Tigers,Atlanta Braves,9.0,Over,Jurickson Profar,Matt Olson,Ronald Acuña Jr.,Drake Baldwin,Ozzie Albies,Ha-Seong Kim,Marcell Ozuna,Michael Harris II,Nacho Alvarez Jr.,Parker Meadows,Gleyber Torres,Kerry Carpenter,Riley Greene,Spencer Torkelson,Wenceel Pérez,Javier Báez,Zach McKinstry,Jake Rogers,Bryce Elder,Charlie Morton
+776261,Tampa Bay Rays,Boston Red Sox,6.5,Over,Jarren Duran,Trevor Story,Alex Bregman,Masataka Yoshida,Romy Gonzalez,Nate Eaton,Nathaniel Lowe,Carlos Narváez,Ceddanne Rafaela,,,,,,,,,,Garrett Crochet,
 776264,Chicago White Sox,San Diego Padres,8.0,Over,,,,,,,,,,Chase Meidroth,Kyle Teel,Colson Montgomery,Miguel Vargas,Mike Tauchman,Edgar Quero,Curtis Mead,Will Robertson,Michael A. Taylor,,Davis Martin
-776253,Colorado Rockies,Los Angeles Angels,12.0,Over,,,,,,,,,,,,,,,,,,,,
 776260,Kansas City Royals,Toronto Blue Jays,9.0,Over,,,,,,,,,,Carter Jensen,Bobby Witt Jr.,Vinnie Pasquantino,Maikel Garcia,Salvador Perez,Adam Frazier,Jac Caglianone,Michael Massey,John Rave,,Michael Lorenzen
 776251,Texas Rangers,Miami Marlins,8.0,Over,,,,,,,,,,,,,,,,,,,,
-776255,Arizona Diamondbacks,Philadelphia Phillies,9.0,Over,,,,,,,,,,,,,,,,,,,,
+776253,Colorado Rockies,Los Angeles Angels,12.0,Over,,,,,,,,,,,,,,,,,,,,
 776262,Houston Astros,Seattle Mariners,7.5,Over,,,,,,,,,,,,,,,,,,,,
-776263,Minnesota Twins,Cleveland Guardians,8.0,Over,,,,,,,,,,Byron Buxton,Austin Martin,Luke Keaschall,Brooks Lee,Royce Lewis,Kody Clemens,Carson McCusker,Jhonny Pereda,James Outman,,Pablo López
 776265,St. Louis Cardinals,Milwaukee Brewers,7.5,Over,,,,,,,,,,,,,,,,,,,,
+776263,Minnesota Twins,Cleveland Guardians,8.0,Over,,,,,,,,,,Byron Buxton,Austin Martin,Luke Keaschall,Brooks Lee,Royce Lewis,Kody Clemens,Carson McCusker,Jhonny Pereda,James Outman,,Pablo López
 776256,Los Angeles Dodgers,San Francisco Giants,8.5,Over,,,,,,,,,,,,,,,,,,,,
+776255,Arizona Diamondbacks,Philadelphia Phillies,9.0,Over,,,,,,,,,,,,,,,,,,,,
