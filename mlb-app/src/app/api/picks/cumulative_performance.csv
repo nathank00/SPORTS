@@ -1501,15 +1501,15 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-05-11,777954,Arizona Diamondbacks,Los Angeles Dodgers,9.5,9.0,0,0
 2025-05-11,777958,Seattle Mariners,Toronto Blue Jays,8.0,10.0,0,1
 2025-05-11,777971,Cleveland Guardians,Philadelphia Phillies,7.5,3.0,1,0
-2025-09-18,776269,Tampa Bay Rays,Toronto Blue Jays,7.5,4.0,0,0
-2025-09-18,776276,New York Mets,San Diego Padres,9.0,7.0,1,0
 2025-09-18,776275,Detroit Tigers,Cleveland Guardians,7.0,4.0,1,0
+2025-09-18,776276,New York Mets,San Diego Padres,9.0,7.0,1,0
+2025-09-18,776269,Tampa Bay Rays,Toronto Blue Jays,7.5,4.0,0,0
 2025-09-18,776281,Boston Red Sox,Athletics,9.0,8.0,1,0
 2025-09-18,776272,Kansas City Royals,Seattle Mariners,9.0,2.0,0,0
 2025-09-18,776282,Cincinnati Reds,Chicago Cubs,8.5,1.0,0,0
-2025-09-18,776274,Milwaukee Brewers,Los Angeles Angels,8.0,7.0,0,0
 2025-09-18,776270,Colorado Rockies,Miami Marlins,10.0,16.0,0,1
 2025-09-18,776278,Baltimore Orioles,New York Yankees,8.5,7.0,0,0
+2025-09-18,776274,Milwaukee Brewers,Los Angeles Angels,8.0,7.0,0,0
 2025-09-18,776271,Los Angeles Dodgers,San Francisco Giants,7.5,3.0,1,0
 2025-08-23,776627,New York Yankees,Boston Red Sox,8.0,13.0,1,1
 2025-08-23,776628,Philadelphia Phillies,Washington Nationals,10.5,10.0,1,0
