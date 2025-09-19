@@ -1,16 +1,16 @@
 game_id,start_time,home_team,away_team,runline,pick,runs_total,prediction,outcome,completed,Away_Batter1_Name,Away_Batter2_Name,Away_Batter3_Name,Away_Batter4_Name,Away_Batter5_Name,Away_Batter6_Name,Away_Batter7_Name,Away_Batter8_Name,Away_Batter9_Name,Home_Batter1_Name,Home_Batter2_Name,Home_Batter3_Name,Home_Batter4_Name,Home_Batter5_Name,Home_Batter6_Name,Home_Batter7_Name,Home_Batter8_Name,Home_Batter9_Name,Away_SP_Name,Home_SP_Name
 776267,15:40,Cincinnati Reds,Chicago Cubs,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776273,16:05,Baltimore Orioles,New York Yankees,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776266,15:40,Pittsburgh Pirates,Athletics,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776268,15:40,Detroit Tigers,Atlanta Braves,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776268,15:40,Detroit Tigers,Atlanta Braves,9.0,Over,0,1,0,0,,,,,,,,,,Parker Meadows,Gleyber Torres,Kerry Carpenter,Riley Greene,Spencer Torkelson,Wenceel Pérez,Javier Báez,Zach McKinstry,Jake Rogers,,Charlie Morton
 776259,16:10,New York Mets,Washington Nationals,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776261,16:35,Tampa Bay Rays,Boston Red Sox,7.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776251,17:05,Texas Rangers,Miami Marlins,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776261,16:35,Tampa Bay Rays,Boston Red Sox,6.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776273,16:05,Baltimore Orioles,New York Yankees,9.0,Under,0,0,0,0,,,,,,,,,,Jackson Holliday,Jordan Westburg,Gunnar Henderson,Ryan Mountcastle,Dylan Beavers,Jeremiah Jackson,Samuel Basallo,Colton Cowser,Coby Mayo,,Trevor Rogers
 776260,16:40,Kansas City Royals,Toronto Blue Jays,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776251,17:05,Texas Rangers,Miami Marlins,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776264,16:40,Chicago White Sox,San Diego Padres,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776253,17:10,Colorado Rockies,Los Angeles Angels,12.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776262,17:10,Houston Astros,Seattle Mariners,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-776263,17:10,Minnesota Twins,Cleveland Guardians,8.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776265,17:15,St. Louis Cardinals,Milwaukee Brewers,7.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 776255,18:40,Arizona Diamondbacks,Philadelphia Phillies,9.0,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
+776263,17:10,Minnesota Twins,Cleveland Guardians,8.0,Over,0,1,0,0,,,,,,,,,,Byron Buxton,Austin Martin,Luke Keaschall,Brooks Lee,Royce Lewis,Kody Clemens,Carson McCusker,Jhonny Pereda,James Outman,,Pablo López
 776256,19:10,Los Angeles Dodgers,San Francisco Giants,8.5,Over,0,1,0,0,,,,,,,,,,,,,,,,,,,,
