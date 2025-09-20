@@ -201,6 +201,7 @@ mlbID,Name,Position,key_bbref
 676391,Ernie Clement,3B,clemeer01
 665019,Kody Clemens,2B,clemeko01
 693049,Oscar Colás,RF,colasos01
+805904,Zach Cole,CF,coleza01
 686555,Isaac Collins,LF,colliis01
 641470,Zack Collins,C,colliza01
 624424,Michael Conforto,LF,confomi01
@@ -458,7 +459,7 @@ mlbID,Name,Position,key_bbref
 645444,Jose Herrera,C,herrejo04
 546318,Odúbel Herrera,CF,herreod01
 518792,Jason Heyward,LF,heywaja01
-676551,Brewer Hicklen,CF,hicklbr01
+676551,Brewer Hicklen,OF,hicklbr01
 543305,Aaron Hicks,CF,hicksaa01
 543308,John Hicks,C,hicksjo02
 689414,Liam Hicks,C,hicksli01
@@ -1154,8 +1155,6 @@ mlbID,Name,Position,key_bbref
 605548,Bradley Zimmer,CF,zimmebr01
 475582,Ryan Zimmerman,3B,zimmery01
 572287,Mike Zunino,C,zuninmi01
-805904,Zach Cole,CF,
 805811,Bryce Eldridge,1B,
 804668,Rafael Flores,C,
 694203,Denzer Guzman,SS,
-672463,Rafael Lantigua,2B,
