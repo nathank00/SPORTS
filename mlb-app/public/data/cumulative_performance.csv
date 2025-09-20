@@ -1723,10 +1723,11 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-09-19,776268,Detroit Tigers,Atlanta Braves,9.0,11.0,1,1
 2025-09-19,776273,Baltimore Orioles,New York Yankees,9.0,6.0,0,0
 2025-09-19,776259,New York Mets,Washington Nationals,8.5,18.0,0,1
-2025-09-19,776261,Tampa Bay Rays,Boston Red Sox,6.5,14.0,1,1
-2025-09-19,776260,Kansas City Royals,Toronto Blue Jays,9.0,18.0,0,1
+2025-09-19,776261,Tampa Bay Rays,Boston Red Sox,6.5,18.0,1,1
+2025-09-19,776260,Kansas City Royals,Toronto Blue Jays,9.0,21.0,0,1
 2025-09-19,776264,Chicago White Sox,San Diego Padres,8.0,7.0,0,0
 2025-09-19,776253,Colorado Rockies,Los Angeles Angels,12.0,13.0,0,1
+2025-09-19,776263,Minnesota Twins,Cleveland Guardians,8.0,8.0,0,
 2025-09-19,776265,St. Louis Cardinals,Milwaukee Brewers,7.5,8.0,1,1
 2025-05-10,777980,Washington Nationals,St. Louis Cardinals,9.0,6.0,1,0
 2025-05-10,777985,Pittsburgh Pirates,Atlanta Braves,9.0,5.0,1,0
