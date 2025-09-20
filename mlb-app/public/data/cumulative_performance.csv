@@ -825,8 +825,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-12,778352,San Diego Padres,Colorado Rockies,8.0,2.0,0,0
 2025-04-12,778341,Seattle Mariners,Texas Rangers,7.0,10.0,1,1
 2025-04-12,778345,Los Angeles Dodgers,Chicago Cubs,9.0,16.0,1,1
+2025-09-20,777839,Minnesota Twins,Cleveland Guardians,8.0,6.0,0,0
 2025-09-20,776258,Detroit Tigers,Atlanta Braves,9.0,11.0,0,1
-2025-09-20,777839,Minnesota Twins,Cleveland Guardians,8.5,6.0,0,0
 2025-05-29,777735,Philadelphia Phillies,Atlanta Braves,7.5,9.0,1,1
 2025-05-29,777735,Philadelphia Phillies,Atlanta Braves,8.0,9.0,1,1
 2025-05-29,777727,Toronto Blue Jays,Athletics,9.0,12.0,1,1
