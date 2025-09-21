@@ -849,21 +849,22 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-04-12,778352,San Diego Padres,Colorado Rockies,8.0,2.0,0,0
 2025-04-12,778341,Seattle Mariners,Texas Rangers,7.0,10.0,1,1
 2025-04-12,778345,Los Angeles Dodgers,Chicago Cubs,9.0,16.0,1,1
+2025-09-20,777839,Minnesota Twins,Cleveland Guardians,8.0,6.0,0,0
+2025-09-20,776243,Minnesota Twins,Cleveland Guardians,8.5,8.0,0,0
 2025-09-20,776258,Detroit Tigers,Atlanta Braves,9.0,11.0,0,1
-2025-09-20,776243,Minnesota Twins,Cleveland Guardians,8.0,8.0,0,
-2025-09-20,777839,Minnesota Twins,Cleveland Guardians,8.5,6.0,0,0
-2025-09-20,776254,Cincinnati Reds,Chicago Cubs,9.0,9.0,0,
 2025-09-20,776252,New York Mets,Washington Nationals,8.5,8.0,1,0
+2025-09-20,776254,Cincinnati Reds,Chicago Cubs,9.0,9.0,0,
 2025-09-20,776249,Pittsburgh Pirates,Athletics,8.0,2.0,0,0
 2025-09-20,776247,Tampa Bay Rays,Boston Red Sox,8.0,9.0,0,1
 2025-09-20,776242,Texas Rangers,Miami Marlins,8.5,7.0,1,0
 2025-09-20,776257,Baltimore Orioles,New York Yankees,9.0,7.0,1,0
-2025-09-20,776245,Kansas City Royals,Toronto Blue Jays,8.0,3.0,1,0
 2025-09-20,776248,Houston Astros,Seattle Mariners,7.5,10.0,0,1
+2025-09-20,776245,Kansas City Royals,Toronto Blue Jays,8.0,3.0,1,0
 2025-09-20,776250,Chicago White Sox,San Diego Padres,8.0,10.0,0,1
+2025-09-20,776241,Colorado Rockies,Los Angeles Angels,11.5,3.0,1,0
 2025-09-20,776244,St. Louis Cardinals,Milwaukee Brewers,8.5,5.0,1,0
 2025-09-20,776246,Arizona Diamondbacks,Philadelphia Phillies,9.0,7.0,0,0
-2025-09-20,776241,Colorado Rockies,Los Angeles Angels,11.5,3.0,1,0
+2025-09-20,776233,Los Angeles Dodgers,San Francisco Giants,8.5,11.0,1,1
 2025-05-29,777735,Philadelphia Phillies,Atlanta Braves,7.5,9.0,1,1
 2025-05-29,777735,Philadelphia Phillies,Atlanta Braves,8.0,9.0,1,1
 2025-05-29,777727,Toronto Blue Jays,Athletics,9.0,12.0,1,1
