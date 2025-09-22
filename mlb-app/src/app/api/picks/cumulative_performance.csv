@@ -576,16 +576,16 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-09-21,776239,Cincinnati Reds,Chicago Cubs,9.0,1.0,0,0
 2025-09-21,776240,Baltimore Orioles,New York Yankees,8.5,8.0,0,0
 2025-09-21,776237,New York Mets,Washington Nationals,8.5,5.0,1,0
-2025-09-21,776229,Kansas City Royals,Toronto Blue Jays,8.5,13.0,0,1
 2025-09-21,776238,Detroit Tigers,Atlanta Braves,8.5,8.0,1,0
-2025-09-21,776231,St. Louis Cardinals,Milwaukee Brewers,8.5,6.0,0,0
+2025-09-21,776229,Kansas City Royals,Toronto Blue Jays,8.5,13.0,0,1
 2025-09-21,776235,Chicago White Sox,San Diego Padres,8.0,5.0,0,0
 2025-09-21,776225,Minnesota Twins,Cleveland Guardians,8.5,8.0,0,0
-2025-09-21,776226,Texas Rangers,Miami Marlins,7.5,6.0,0,0
-2025-09-21,776227,Los Angeles Dodgers,San Francisco Giants,9.0,4.0,1,0
+2025-09-21,776231,St. Louis Cardinals,Milwaukee Brewers,8.5,6.0,0,0
 2025-09-21,776232,Colorado Rockies,Los Angeles Angels,11.5,4.0,0,0
-2025-09-21,776230,Arizona Diamondbacks,Philadelphia Phillies,8.5,11.0,1,1
+2025-09-21,776227,Los Angeles Dodgers,San Francisco Giants,9.0,4.0,1,0
+2025-09-21,776226,Texas Rangers,Miami Marlins,7.5,6.0,0,0
 2025-09-21,776228,Houston Astros,Seattle Mariners,8.5,10.0,0,1
+2025-09-21,776230,Arizona Diamondbacks,Philadelphia Phillies,8.5,11.0,1,1
 2025-09-21,776236,Tampa Bay Rays,Boston Red Sox,7.5,10.0,1,1
 2025-04-01,778498,Cincinnati Reds,Texas Rangers,8.5,1.0,0,0
 2025-04-01,778497,Miami Marlins,New York Mets,7.5,6.0,0,0
