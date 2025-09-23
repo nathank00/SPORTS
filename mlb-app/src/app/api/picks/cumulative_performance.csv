@@ -1082,8 +1082,8 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-14,777518,New York Mets,Tampa Bay Rays,7.0,8.0,0,1
 2025-06-14,777512,Milwaukee Brewers,St. Louis Cardinals,8.0,11.0,1,1
 2025-09-22,776221,Atlanta Braves,Washington Nationals,7.0,16.0,0,1
-2025-09-22,776222,San Diego Padres,Milwaukee Brewers,7.0,8.0,1,1
 2025-09-22,776220,San Francisco Giants,St. Louis Cardinals,7.5,11.0,0,1
+2025-09-22,776222,San Diego Padres,Milwaukee Brewers,7.0,9.0,1,1
 2025-08-19,776691,Chicago Cubs,Milwaukee Brewers,6.5,10.0,0,1
 2025-08-19,776676,Chicago Cubs,Milwaukee Brewers,7.0,5.0,0,0
 2025-08-19,776679,Pittsburgh Pirates,Toronto Blue Jays,7.5,10.0,1,1
