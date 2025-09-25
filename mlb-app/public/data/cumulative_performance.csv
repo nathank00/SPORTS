@@ -1268,15 +1268,17 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-15,777493,Texas Rangers,Chicago White Sox,8.0,3.0,0,0
 2025-06-15,777495,Seattle Mariners,Cleveland Guardians,8.0,6.0,0,0
 2025-06-15,777498,Los Angeles Dodgers,San Francisco Giants,9.0,9.0,0,
-2025-09-24,776200,Atlanta Braves,Washington Nationals,9.0,7.0,1,0
 2025-09-24,776198,San Diego Padres,Milwaukee Brewers,7.5,4.0,0,0
+2025-09-24,776200,Atlanta Braves,Washington Nationals,9.0,7.0,1,0
 2025-09-24,776203,Baltimore Orioles,Tampa Bay Rays,8.0,8.0,0,
 2025-09-24,776204,Cleveland Guardians,Detroit Tigers,7.5,6.0,1,0
 2025-09-24,776201,Philadelphia Phillies,Miami Marlins,7.5,12.0,1,1
 2025-09-24,776202,Cincinnati Reds,Pittsburgh Pirates,7.0,7.0,0,
 2025-09-24,776206,Toronto Blue Jays,Boston Red Sox,7.5,8.0,1,1
 2025-09-24,776199,New York Yankees,Chicago White Sox,8.0,9.0,0,1
-2025-09-24,776205,Chicago Cubs,New York Mets,7.0,12.0,1,1
+2025-09-24,776205,Chicago Cubs,New York Mets,7.0,13.0,1,1
+2025-09-24,776192,Texas Rangers,Minnesota Twins,7.0,6.0,0,0
+2025-09-24,776194,Seattle Mariners,Colorado Rockies,7.5,8.0,0,1
 2025-06-12,777544,New York Mets,Washington Nationals,8.5,7.0,0,0
 2025-06-12,777533,Minnesota Twins,Texas Rangers,8.0,19.0,0,1
 2025-06-12,777540,Baltimore Orioles,Detroit Tigers,7.5,5.0,1,0
