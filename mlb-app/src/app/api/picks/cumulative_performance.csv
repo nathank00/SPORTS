@@ -1077,10 +1077,10 @@ date,game_id,home_team,away_team,runline,runs_total,prediction,outcome
 2025-06-13,777526,Chicago Cubs,Pittsburgh Pirates,7.0,3.0,1,0
 2025-09-25,776190,Cincinnati Reds,Pittsburgh Pirates,7.5,3.0,0,0
 2025-09-25,776191,Baltimore Orioles,Tampa Bay Rays,8.5,11.0,0,1
-2025-09-25,776182,Athletics,Houston Astros,9.5,16.0,0,1
-2025-09-25,776183,Texas Rangers,Minnesota Twins,8.0,4.0,0,0
 2025-09-25,776185,Arizona Diamondbacks,Los Angeles Dodgers,8.5,8.0,0,0
+2025-09-25,776183,Texas Rangers,Minnesota Twins,8.0,4.0,0,0
 2025-09-25,776188,Philadelphia Phillies,Miami Marlins,9.5,1.0,1,0
+2025-09-25,776182,Athletics,Houston Astros,9.5,16.0,0,1
 2025-09-25,776184,New York Yankees,Chicago White Sox,8.5,8.0,0,0
 2025-09-25,776189,Cleveland Guardians,Detroit Tigers,7.5,6.0,1,0
 2025-09-25,776186,Toronto Blue Jays,Boston Red Sox,8.0,7.0,1,0
