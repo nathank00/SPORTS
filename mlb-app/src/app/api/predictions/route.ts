@@ -1,7 +1,4 @@
-// app/api/predictions/route.ts
 import { NextResponse } from "next/server";
-import { promises as fs } from "fs";
-import path from "path";
 import { parse } from "csv-parse/sync";
 
 type Prediction = {
@@ -16,9 +13,10 @@ export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
     const date = searchParams.get("date") || "2025-10-25";
-    const filePath = path.join(process.cwd(), "data/predictions.csv");
-    console.log(`Reading predictions.csv from: ${filePath} for date: ${date}`);
-    const fileContent = await fs.readFile(filePath, "utf-8");
+    const baseUrl = process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'http://localhost:3000';
+    const response = await fetch(`${baseUrl}/data/predictions.csv`);
+    if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
+    const fileContent = await response.text();
     const records = parse(fileContent, { columns: true, skip_empty_lines: true }) as Prediction[];
     const filteredPreds = records
       .filter((p: Prediction) => p.TIMESTAMP.startsWith(date))
