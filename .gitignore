@@ -17,3 +17,4 @@ NBA/*.parquet
 NBA/*.csv
 NBA/*.log
 NBA/.venv
+NBA/nba_task_scheduler.log
