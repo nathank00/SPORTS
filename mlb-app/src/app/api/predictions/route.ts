@@ -16,7 +16,7 @@ export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
     const date = searchParams.get("date") || "2025-10-25";
-    const filePath = path.join(process.cwd(), "..", "NBA", "model", "predictions.csv"); // Assumes predictions.csv is in /data
+    const filePath = path.join(process.cwd(), "data/predictions.csv");
     console.log(`Reading predictions.csv from: ${filePath} for date: ${date}`);
     const fileContent = await fs.readFile(filePath, "utf-8");
     const records = parse(fileContent, { columns: true, skip_empty_lines: true }) as Prediction[];

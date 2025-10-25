@@ -18,7 +18,8 @@ NBA_SCRIPTS = [
     "3-1-playergamelogs.py",
     "4-custom_playerstats.py",
     "5-customgamelogs.py",
-    "8-daily.py"
+    "8-daily.py",
+    "9-write-predictions.py"
 ]
 
 def get_local_time():
@@ -50,9 +51,9 @@ def git_commit_and_push():
         subprocess.run(["git", "rebase", "--autostash", "origin/main"], check=True)
         subprocess.run(["git", "add", "."], check=True)
         subprocess.run(["git", "commit", "-m", f"NBA pipeline update {get_local_time()}"], check=True)
-        subprocess.run(["git", "push", "origin", "nba-pipeline", "--force"], check=True)
+        subprocess.run(["git", "push", "origin", "data-feed", "--force"], check=True)
         subprocess.run(["git", "checkout", "main"], check=True)
-        subprocess.run(["git", "merge", "nba-pipeline"], check=True)
+        subprocess.run(["git", "merge", "data-feed"], check=True)
         subprocess.run(["git", "push", "origin", "main"], check=True)
         print(f"[{get_local_time()}] Git operations completed successfully.")
         log_message("[INFO] Git operations completed successfully.")
