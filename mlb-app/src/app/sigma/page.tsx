@@ -85,6 +85,22 @@ export default function SigmaPage() {
   // Placeholder daily record (replace with actual data if available)
   const dailyRecord = { wins: 0, losses: 0 };
 
+  if (loading) {
+    return (
+      <div className="flex justify-center items-center h-screen bg-gradient-to-b from-gray-900 to-black text-orange-400">
+        <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-orange-400"></div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="flex justify-center items-center h-screen bg-gradient-to-b from-gray-900 to-black text-red-400">
+        <p>{error}</p>
+      </div>
+    );
+  }
+
   return (
     <div className="flex min-h-screen bg-gradient-to-b from-gray-900 to-black text-white">
       {/* Sidebar */}
