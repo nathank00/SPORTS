@@ -9,3 +9,11 @@ node_modules/
 cron_log.log
 cron_log
 task_scheduler.log
+NBA/players/*
+NBA/teams/*
+NBA/logs/*
+NBA/model/*
+NBA/*.parquet
+NBA/*.csv
+NBA/*.log
+NBA/.venv
