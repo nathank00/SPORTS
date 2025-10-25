@@ -76,7 +76,7 @@ export default function Home() {
     const month = String(pacificNow.getMonth() + 1).padStart(2, "0")
     const day = String(pacificNow.getDate()).padStart(2, "0")
     return `${year}-${month}-${day}`
-  })  
+  })
   const [lastUpdated, setLastUpdated] = useState<string>("Loading...")
   const [isLoading, setIsLoading] = useState(true)
   const [accuracy, setAccuracy] = useState<{ wins: number; losses: number; percent: string; total: number }>({
@@ -219,8 +219,8 @@ export default function Home() {
     if (selectedDate) {
       fetchPicks(selectedDate)
     }
-  }, [selectedDate])  
-  
+  }, [selectedDate])
+
   // Check if a game has complete lineup data
   const isGameBetReady = (game: GamePick): boolean => {
     // Check if both starting pitchers are available
@@ -247,11 +247,11 @@ export default function Home() {
     if (!enrichedGame) {
       return { status: "Pending", className: "bg-teal-900/40 text-teal-300", shortStatus: "TBD" }
     }
-  
+
     const prediction = enrichedGame.prediction
     const outcome = enrichedGame.outcome
     const completed = enrichedGame.completed === "1" || enrichedGame.completed === 1
-  
+
     if (completed) {
       if (outcome === "push") {
         return { status: "Push", className: "bg-gray-700 text-gray-300", shortStatus: "PUSH" }
@@ -274,13 +274,13 @@ export default function Home() {
       return { status: "Pending", className: "bg-gray-800/30 text-gray-300", shortStatus: "TBD" }
     }
   }
-  
+
 
   // Calculate daily record
   const dailyRecord = useMemo(() => {
     let wins = 0
     let losses = 0
-  
+
     games.forEach((game) => {
       const status = getGameStatus(game)
       if (status.shortStatus === "W") {
@@ -290,10 +290,10 @@ export default function Home() {
       }
       // Pushes (P) and TBD are ignored
     })
-  
+
     return { wins, losses }
   }, [games, enrichedGames])
-  
+
 
   // Format date for display - Fixed to handle timezone issues
   const formatDate = (dateString: string): string => {
@@ -347,7 +347,7 @@ export default function Home() {
 
         <div className="mb-8"></div>
         <div className="mb-8 flex justify-center w-full">
-          <h1 
+          <h1
             className="text-2xl font-mono text-white mb-2 font-light tracking-wide cursor-pointer hover:text-teal-300 transition-colors whitespace-nowrap text-center"
             onClick={() => setSidebarVisible(false)}
           >

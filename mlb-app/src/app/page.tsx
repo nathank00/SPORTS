@@ -1,42 +1,43 @@
-"use client"
-import { useRouter } from "next/navigation"
-import { useRef, useState } from "react"
+// app/page.tsx (updated homepage)
+"use client";
+import { useRouter } from "next/navigation";
+import { useRef, useState } from "react";
 
 export default function Home() {
-  const router = useRouter()
-  const audioRef = useRef<HTMLAudioElement | null>(null)
-  const videoRef = useRef<HTMLVideoElement | null>(null)
-  const [isPlaying, setIsPlaying] = useState(false)
-  const [hasTriggeredMedia, setHasTriggeredMedia] = useState(false)
+  const router = useRouter();
+  const audioRoulette = useRef<HTMLAudioElement | null>(null);
+  const videoRef = useRef<HTMLVideoElement | null>(null);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [hasTriggeredMedia, setHasTriggeredMedia] = useState(false);
 
   const handleTitleClick = () => {
-    const audio = audioRef.current
-    const video = videoRef.current
-    if (!audio || !video) return
+    const audio = audioRoulette.current;
+    const video = videoRef.current;
+    if (!audio || !video) return;
 
     if (!hasTriggeredMedia) {
-      setHasTriggeredMedia(true)
-      video.play().catch((err) => console.error("Video play error:", err))
-      audio.play().catch((err) => console.error("Audio play error:", err))
-      setIsPlaying(true)
+      setHasTriggeredMedia(true);
+      video.play().catch((err) => console.error("Video play error:", err));
+      audio.play().catch((err) => console.error("Audio play error:", err));
+      setIsPlaying(true);
     } else {
       if (!isPlaying) {
-        audio.currentTime = 0
-        audio.play()
-        setIsPlaying(true)
+        audio.currentTime = 0;
+        audio.play();
+        setIsPlaying(true);
       } else {
-        audio.pause()
-        setIsPlaying(false)
+        audio.pause();
+        setIsPlaying(false);
       }
     }
-  }
+  };
 
   return (
     <div className="relative min-h-screen flex flex-col items-center pt-32 bg-black text-white overflow-hidden">
-      {/* 🔊 Audio */}
-      <audio ref={audioRef} src="/music/ye.mp3" preload="auto" />
+      {/* Audio */}
+      <audio ref={audioRoulette} src="/music/ye.mp3" preload="auto" />
 
-      {/* 🎥 Video Background */}
+      {/* Video Background */}
       <video
         ref={videoRef}
         src="/video/vegas1.mp4"
@@ -81,13 +82,23 @@ export default function Home() {
             </div>
             <span className="mt-4 text-2xl font-normal text-purple-300">[ OMEGA ]</span>
           </div>
-        </div>
 
+          {/* SIGMA */}
+          <div
+            className="flex flex-col items-center cursor-pointer transition-transform hover:scale-105"
+            onClick={() => router.push("/sigma")}
+          >
+            <div className="bg-orange-900/50 p-6 rounded-xl border border-orange-800/50 hover:border-orange-600/70 transition-colors">
+              <img src="/team-logos/monkeyking.png" alt="Sigma Model" className="w-48 h-auto" />
+            </div>
+            <span className="mt-4 text-2xl font-normal text-orange-300">[ SIGMA ]</span>
+          </div>
+        </div>
 
         <div className="mt-auto mb-8 text-center text-gray-400 text-sm">
           <p>© 1 OF 1 INTELLIGENCE LLC</p>
         </div>
       </div>
     </div>
-  )
+  );
 }
