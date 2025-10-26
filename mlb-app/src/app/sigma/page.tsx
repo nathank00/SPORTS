@@ -2,7 +2,6 @@
 "use client";
 
 import { useEffect, useState, useRef } from "react";
-import { format } from "date-fns";
 import { Calendar, Info, RefreshCw } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
@@ -48,7 +47,16 @@ export default function SigmaPage() {
       const data = await res.json();
       if (data.error) throw new Error(data.error);
       setPredictions(data);
-      setLastUpdated(format(new Date(), "MMM d, h:mm a"));
+      setLastUpdated(
+        new Date().toLocaleString("en-US", {
+          timeZone: "America/Los_Angeles",
+          month: "short",
+          day: "numeric",
+          hour: "numeric",
+          minute: "numeric",
+          hour12: true,
+        })
+      );
     } catch (err) {
       setError(err instanceof Error ? err.message : "Failed to load predictions");
     } finally {
@@ -72,7 +80,8 @@ export default function SigmaPage() {
 
   const formatDate = (dateString: string): string => {
     const [year, month, day] = dateString.split("-").map((num) => Number.parseInt(num, 10));
-    const date = new Date(year, month - 1, day);
+    // Parse dateString as PDT by converting to UTC with PDT offset (+7 hours for PDT)
+    const date = new Date(Date.UTC(year, month - 1, day, 7)); // PDT is UTC-7
     return date.toLocaleDateString("en-US", {
       weekday: "long",
       year: "numeric",
@@ -82,7 +91,7 @@ export default function SigmaPage() {
     });
   };
 
-  // Placeholder daily record (replace with actual data if available)
+  // Placeholder daily record
   const dailyRecord = { wins: 0, losses: 0 };
 
   if (loading) {
@@ -143,7 +152,7 @@ export default function SigmaPage() {
         </div>
       </aside>
 
-      {/* Toggle Button (Visible when Sidebar is Collapsed) */}
+      {/* Toggle Button */}
       {!sidebarVisible && (
         <button
           onClick={() => setSidebarVisible(true)}

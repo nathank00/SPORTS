@@ -24,10 +24,11 @@ export async function GET(request: Request) {
     try {
       const response = await fetch(`${baseUrl}/data/predictions.csv`);
       if (!response.ok) {
-        console.error(`Fetch failed with status: ${response.status}`);
+        console.error(`Fetch failed with status: ${response.status}, ${response.statusText}`);
         throw new Error(`Fetch failed: ${response.status}`);
       }
       fileContent = await response.text();
+      console.log("Successfully fetched predictions.csv via HTTP");
     } catch (fetchError) {
       console.warn("Fetch failed, attempting to read from filesystem:", fetchError);
       try {
@@ -51,7 +52,7 @@ export async function GET(request: Request) {
         ...p,
         PREDICTION: parseInt(p.PREDICTION, 10),
       }));
-    console.log("Filtered predictions:", filteredPreds);
+    console.log(`Filtered predictions for date ${date}:`, filteredPreds);
     return NextResponse.json(filteredPreds);
   } catch (error) {
     console.error("API Error:", error);
