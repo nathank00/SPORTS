@@ -1,3 +1,4 @@
+// app/api/predictions/route.ts
 import { NextResponse } from "next/server";
 import { parse } from "csv-parse/sync";
 import fs from "fs/promises";
@@ -14,28 +15,34 @@ type Prediction = {
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    const date = searchParams.get("date") || "2025-10-25";
+    const date = searchParams.get("date") || new Date().toISOString().split("T")[0];
     const baseUrl = process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:3000";
-    // Adjust path based on where predictions.csv is located
     const filePath = path.join(process.cwd(), "public/data/predictions.csv");
     let fileContent: string;
 
-    // Try fetching from public/data/predictions.csv
+    console.log(`Attempting to fetch predictions.csv from ${baseUrl}/data/predictions.csv`);
     try {
       const response = await fetch(`${baseUrl}/data/predictions.csv`);
-      if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
+      if (!response.ok) {
+        console.error(`Fetch failed with status: ${response.status}`);
+        throw new Error(`Fetch failed: ${response.status}`);
+      }
       fileContent = await response.text();
     } catch (fetchError) {
-      // Fallback to reading directly from filesystem (useful locally or if fetch fails)
       console.warn("Fetch failed, attempting to read from filesystem:", fetchError);
       try {
         fileContent = await fs.readFile(filePath, "utf-8");
+        console.log(`Successfully read predictions.csv from ${filePath}`);
       } catch (fsError) {
+        console.error(`Filesystem read failed for ${filePath}:`, fsError);
         throw new Error(`Failed to read predictions.csv from ${filePath}: ${fsError}`);
       }
     }
 
-    if (!fileContent.trim()) throw new Error("predictions.csv is empty");
+    if (!fileContent.trim()) {
+      console.warn("predictions.csv is empty");
+      return NextResponse.json([]);
+    }
 
     const records = parse(fileContent, { columns: true, skip_empty_lines: true }) as Prediction[];
     const filteredPreds = records
