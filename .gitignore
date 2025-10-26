@@ -1,3 +1,4 @@
+# /Users/njk/Development/SPORTS/.gitignore
 *.env
 /mlb/
 /v4_and_v5/
@@ -8,14 +9,26 @@ node_modules/
 .xata
 cron_log.log
 cron_log
-task_scheduler.log
 NBA/players/*
 NBA/teams/*
 NBA/logs/*
 NBA/model/*
-NBA/*.parquet
-NBA/*.csv
+NBA/gamelogs.parquet
+NBA/games.parquet
+NBA/players.parquet
+NBA/customgamelogs.parquet
 NBA/*.log
 NBA/.venv
 venvs
 env-sports
+
+# Allow NBA scripts
+!NBA/*.py
+!NBA/task_scheduler_nba.py
+!NBA/1-games_players_ids.py
+!NBA/2-gamelogs.py
+!NBA/3-1-playergamelogs_delta.py
+!NBA/4-custom_playerstats.py
+!NBA/5-customgamelogs.py
+!NBA/8-daily.py
+!NBA/9-write-predictions.py
