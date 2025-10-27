@@ -68,7 +68,7 @@ def process_player_gamelog(args):
     except Exception as e:
         return {'type': 'error', 'data': {'player_id': player_id, 'player_name': player_name, 'season': season, 'error': str(e)}}
 
-def collect_player_gamelogs(players_file, players_folder, error_file='logs/player_gamelog_errors.parquet'):
+def collect_player_gamelogs(players_file, players_folder, error_file='logs/player_gamelog_errors.log'):
     """Collects game logs for all unique players for seasons 2020-21 to current."""
     print(f"Loading player data from {players_file}...")
     players_df = pd.read_parquet(players_file)

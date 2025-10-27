@@ -136,7 +136,7 @@ def process_game(args):
         logger.error(f"Error processing game {game_id} in season {SEASON_ID}: {str(e)}")
         return {'type': 'error', 'data': {'game_id': game_id, 'SEASON_ID': SEASON_ID, 'error': str(e)}}
 
-def process_all_games(games_file, output_file, error_file='logs/gamelog_errors.parquet', all=True, num_games=10, batch_size=500, num_processes=8):
+def process_all_games(games_file, output_file, error_file='logs/gamelog_errors.log', all=True, num_games=10, batch_size=500, num_processes=8):
     """
     Processes games in the input file in parallel batches, saving game logs to a Parquet file.
     When all=False, appends new games and updates existing ones in output_file.

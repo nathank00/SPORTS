@@ -180,15 +180,15 @@ def process_data(start_season, end_season, players_file, games_file):
 
         # Log errors
         if errors:
-            pd.DataFrame(errors).to_parquet('fetch_errors.parquet', index=False, engine=engine)
-            logger.error(f"Saved {len(errors)} errors to fetch_errors.parquet")
+            pd.DataFrame(errors).to_parquet('logs/fetch_errors.log', index=False, engine=engine)
+            logger.error(f"Saved {len(errors)} errors to fetch_errors.log")
 
         # Summary
         logger.info("Data fetch completed.")
         logger.info(f"Total players: {len(combined_players)}")
         logger.info(f"Total games: {len(combined_games)}")
         if errors:
-            logger.info(f"Errors encountered: {len(errors)} (see fetch_errors.parquet)")
+            logger.info(f"Errors encountered: {len(errors)} (see fetch_errors.log)")
 
         return combined_players, combined_games
     finally:

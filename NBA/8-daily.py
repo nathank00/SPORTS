@@ -14,9 +14,9 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 PLAYERS_FOLDER = "players"
 PLAYERS_FILE = "players.parquet"
 PREDICTIONS_FILE = "../mlb-app/public/data/predictions.csv"
-MODEL_PATH = "xgboost_nba_winner_model.json"
-SCALER_PATH = "scaler.pkl"
-SELECTOR_PATH = "feature_selector.pkl"
+MODEL_PATH = "model/xgboost_nba_winner_model.json"
+SCALER_PATH = "model/scaler.pkl"
+SELECTOR_PATH = "model/feature_selector.pkl"
 LOG_DIR = "logs"
 LOG_FILE = os.path.join(LOG_DIR, "daily.log")
 LOCAL_TZ = pytz.timezone("America/Los_Angeles")
