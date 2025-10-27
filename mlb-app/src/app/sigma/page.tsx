@@ -18,6 +18,7 @@ type Prediction = {
   AWAY_NAME: string;
   HOME_NAME: string;
   PREDICTION: number;
+  CONFIDENCE: number;
   TIMESTAMP: string;
 };
 
@@ -89,6 +90,14 @@ export default function SigmaPage() {
       day: "numeric",
       timeZone: "America/Los_Angeles",
     });
+  };
+
+  // Determine confidence color based on thresholds
+  const getConfidenceColor = (confidence: number): string => {
+    const percentage = confidence * 100;
+    if (percentage <= 44.9) return "text-red-400";
+    if (percentage <= 54.9) return "text-orange-300";
+    return "text-green-400";
   };
 
   // Placeholder daily record
@@ -240,6 +249,15 @@ export default function SigmaPage() {
                     </p>
                   </div>
 
+                  <div className="text-center mb-4">
+                    <p className="text-sm text-gray-400">Confidence</p>
+                    <p
+                      className={`text-lg font-semibold ${getConfidenceColor(p.CONFIDENCE)}`}
+                    >
+                      {(p.CONFIDENCE * 100).toFixed(1)}%
+                    </p>
+                  </div>
+
                   <Dialog>
                     <DialogTrigger asChild>
                       <Button className="w-full mt-2 bg-orange-900/40 text-orange-300 border-orange-800 hover:bg-orange-800/70">
@@ -258,6 +276,10 @@ export default function SigmaPage() {
                         <p>
                           <span className="text-gray-400">Predicted:</span>{" "}
                           {p.PREDICTION === 1 ? `${p.HOME_NAME} Win` : `${p.AWAY_NAME} Win`}
+                        </p>
+                        <p>
+                          <span className="text-gray-400">Confidence:</span>{" "}
+                          {(p.CONFIDENCE * 100).toFixed(1)}%
                         </p>
                         <p>
                           <span className="text-gray-400">Timestamp:</span> {p.TIMESTAMP}
