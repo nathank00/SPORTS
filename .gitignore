@@ -12,7 +12,6 @@ cron_log
 NBA/players/*
 NBA/teams/*
 NBA/logs/*
-NBA/model/*
 NBA/gamelogs.parquet
 NBA/games.parquet
 NBA/players.parquet
